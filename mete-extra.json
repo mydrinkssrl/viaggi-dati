@@ -1,0 +1,149 @@
+{
+  "$schema": "vedi data/METE-EXTRA.md",
+  "mete": [
+    {
+      "id": "parma-1g",
+      "nome": "Parma",
+      "sottotitolo": "Emilia-Romagna, capitale della Food Valley e del Correggio",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. con cambio a Bologna (2 corse dirette al giorno)",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "1h44 – 1h53 in treno, quasi sempre con cambio a Bologna",
+      "durataViaggioMinuti": 104,
+      "periodoMiglioreTesto": "Marzo–giugno e settembre–novembre",
+      "mesi": [3, 4, 5, 6, 9, 10, 11],
+      "mesiDaEvitare": [7, 8],
+      "costoMin": 55,
+      "costoMax": 110,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il centro storico è compatto e pianeggiante: Duomo, Battistero e Complesso della Pilotta stanno in un raggio di dieci minuti a piedi dalla stazione. Una giornata piena copre il nucleo monumentale e lascia il tempo per una sosta gastronomica, che a Parma è metà del viaggio.",
+      "cosaVedere": [
+        "Complesso monumentale della Pilotta: Teatro Farnese in legno, Galleria Nazionale con il Correggio, Museo Archeologico.",
+        "Duomo di Parma con la cupola del Correggio (ingresso gratuito) e Battistero in marmo rosa di Verona.",
+        "Camera di San Paolo, Teatro Regio (visite guidate), strada gastronomica di via Farini e dintorni."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        { "voce": "Treno A/R", "testo": "26–70 € secondo la categoria (Regionale via Bologna da circa 13 € a tratta; alta velocità più cara ma sotto le 2 ore).", "min": 26, "max": 70, "tipo": "persona" },
+        { "voce": "Complesso della Pilotta", "testo": "18 € intero; 10 € dalle 17 in poi; gratuito la prima domenica del mese.", "min": 10, "max": 18, "tipo": "persona" },
+        { "voce": "Battistero e Museo diocesano", "testo": "circa 10–18 € secondo la fascia; Cattedrale gratuita. Verificare su piazzaduomoparma.com.", "min": 10, "max": 18, "tipo": "persona" },
+        { "voce": "Pranzo", "testo": "12–15 € in gastronomia, 25–35 € in trattoria tipica.", "min": 12, "max": 35, "tipo": "persona" }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        { "categoria": "accessi", "testo": "Il centro storico è in ZTL con varchi attivi: lasciare l'auto nei parcheggi esterni. In treno il problema non esiste: la stazione è a 15 minuti a piedi dal Duomo." },
+        { "categoria": "chiusure", "testo": "La Pilotta chiude il lunedì; il Battistero ha ultimo ingresso alle 18. Fino al 31 marzo 2026 la Pilotta richiedeva fasce orarie: dal 1° aprile 2026 l'ingresso è libero." },
+        { "categoria": "prenotazioni", "testo": "Nessuna prenotazione obbligatoria emersa; il Teatro Regio si visita solo con visita guidata a orari fissi: controllare il calendario." }
+      ],
+      "note": "Sulla linea Bologna–Parma sono segnalati lavori con variazioni di orario fra aprile e giugno 2026: verificare gli orari su Trenitalia prima di partire. Luglio e agosto sono afosi come nel resto della Pianura Padana.",
+      "fonti": [
+        "https://www.virail.com/train-florence-parma",
+        "https://complessopilotta.it/en/tickets-fares/",
+        "https://parmawelcome.it/scheda/complesso-monumentale-della-pilotta/",
+        "https://www.rfi.it/it/news-e-media/infomobilita/avvisi/2026/4/1/linea-bologna-parma.html"
+      ],
+      "aggiuntaIl": "2026-08-21"
+    },
+    {
+      "id": "bergamo-2g",
+      "nome": "Bergamo",
+      "sottotitolo": "Lombardia, Città Alta e mura venete UNESCO",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno alta velocità per Milano + regionale per Bergamo (nessun collegamento diretto)",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "3h15 – 4h in treno via Milano Centrale",
+      "durataViaggioMinuti": 195,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre",
+      "mesi": [4, 5, 6, 9, 10],
+      "mesiDaEvitare": [],
+      "costoMin": 170,
+      "costoMax": 310,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Città Alta si gira in una giornata piena — Piazza Vecchia, la Cappella Colleoni, il giro delle mura venete — ma il viaggio di oltre tre ore a tratta consuma mezza giornata: con la notte in città si aggiungono l'Accademia Carrara e Città Bassa senza correre.",
+      "cosaVedere": null,
+      "itinerario": [
+        { "giorno": 1, "testo": "Giorno 1: arrivo, funicolare per Città Alta, Piazza Vecchia con il Campanone, Basilica di Santa Maria Maggiore e Cappella Colleoni (gratuita), passeggiata sulle mura venete al tramonto." },
+        { "giorno": 2, "testo": "Giorno 2: Accademia Carrara (Mantegna, Bellini, Raffaello, Lotto), funicolare di San Vigilio per il castello e il panorama, Città Bassa e il Sentierone, rientro." }
+      ],
+      "alloggio": "B&B e alberghi in Città Bassa 70–120 € a notte per una doppia; in Città Alta le strutture sono poche e più care: prenotare in anticipo nei fine settimana.",
+      "costiDettaglio": [
+        { "voce": "Treno A/R", "testo": "50–110 € secondo l'anticipo (alta velocità Firenze–Milano da 24–28 € a tratta prenotando presto, più regolare regionale Milano–Bergamo circa 6 € a tratta).", "min": 50, "max": 110, "tipo": "persona" },
+        { "voce": "Pernottamento 1 notte", "testo": "70–120 € in doppia (35–60 € a persona).", "min": 35, "max": 60, "tipo": "persona" },
+        { "voce": "Funicolari", "testo": "circa 1,50 € a corsa (Città Alta e San Vigilio), circa 6 € il giro completo in due.", "min": 3, "max": 6, "tipo": "persona" },
+        { "voce": "Accademia Carrara", "testo": "10 € intero, 8 € ridotto.", "min": 8, "max": 10, "tipo": "persona" },
+        { "voce": "Campanone e musei civici", "testo": "circa 5–10 € secondo il cumulativo scelto; Cappella Colleoni gratuita.", "min": 5, "max": 10, "tipo": "persona" },
+        { "voce": "Pasti due giorni", "testo": "40–90 € (casoncelli e polenta: la cucina è metà della gita).", "min": 40, "max": 90, "tipo": "persona" }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        { "categoria": "accessi", "testo": "Città Alta è ZTL quasi totale e nei fine settimana l'accesso in auto è chiuso anche ai varchi orari: arrivare in treno e salire in funicolare è la soluzione naturale." },
+        { "categoria": "chiusure", "testo": "L'Accademia Carrara chiude il lunedì. La Cappella Colleoni chiude a metà giornata (12:30–14:00)." },
+        { "categoria": "prenotazioni", "testo": "Nessuna prenotazione obbligatoria emersa; per le mostre temporanee della Carrara conviene il biglietto online." }
+      ],
+      "note": "Non esiste treno diretto Firenze–Bergamo: il cambio a Milano Centrale è rapido ma va calcolato. Prenotando l'alta velocità con 2–4 settimane di anticipo il costo del viaggio si dimezza (regola del capitolo 13.2 del documento).",
+      "fonti": [
+        "https://www.italotreno.com/en/destinations-timetable/florence-bergamo-tickets",
+        "https://www.thetrainline.com/en-us/train-times/florence-to-bergamo",
+        "https://lacarrara.it/en/",
+        "https://www.bergamoperte.com/info-pratiche.html"
+      ],
+      "aggiuntaIl": "2026-08-21"
+    },
+    {
+      "id": "lisbona-3g",
+      "nome": "Lisbona",
+      "sottotitolo": "Portogallo, la capitale sull'estuario del Tago, volo diretto da Pisa",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair da Pisa (2 frequenze a settimana)",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "3h15 di volo",
+      "durataViaggioMinuti": 195,
+      "periodoMiglioreTesto": "Marzo–giugno e settembre–novembre",
+      "mesi": [3, 4, 5, 6, 9, 10, 11],
+      "mesiDaEvitare": [7, 8],
+      "costoMin": 320,
+      "costoMax": 580,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il documento copre Lisbona solo dentro il Portogallo da 7 giorni; da sola, la città si chiude in tre: un giorno per Baixa, Chiado e Alfama, uno per Belém, uno per Sintra o per i musei. In due giorni resterebbe fuori Belém o Sintra, con sette si torna al giro completo del capitolo 8.5.",
+      "cosaVedere": null,
+      "itinerario": [
+        { "giorno": 1, "testo": "Giorno 1: Baixa e l'Elevador de Santa Justa, Chiado, tram 28 fino all'Alfama, Castello di São Jorge, miradouros al tramonto e fado." },
+        { "giorno": 2, "testo": "Giorno 2: Belém — Monastero dos Jerónimos, Torre di Belém, Padrão dos Descobrimentos, pastéis de Belém; pomeriggio al MAAT o al Museo delle Carrozze." },
+        { "giorno": 3, "testo": "Giorno 3: treno per Sintra (40 minuti) e Palácio da Pena, oppure Museo Gulbenkian e quartiere di Príncipe Real; rientro in serata." }
+      ],
+      "alloggio": "Guesthouse e B&B 60–100 € a notte in doppia nei quartieri centrali, hotel 3 stelle 90–150 €. Nel periodo consigliato (primavera e autunno) le tariffe restano sotto i picchi estivi.",
+      "costiDettaglio": [
+        { "voce": "Volo A/R", "testo": "53–150 € prenotando in anticipo (Ryanair, unica compagnia diretta da Pisa; 3h15 di volo).", "min": 53, "max": 150, "tipo": "persona" },
+        { "voce": "Accesso all'aeroporto di Pisa", "testo": "in auto circa 22 € di benzina A/R più 12–18 € di parcheggio per 3 giorni (totale per la vettura); in treno più Pisa Mover 30,40 € a persona A/R (parametri del capitolo 3.4 del documento).", "min": 30, "max": 41, "tipo": "persona" },
+        { "voce": "Pernottamento 2 notti", "testo": "120–300 € in doppia (60–150 € a persona).", "min": 60, "max": 150, "tipo": "persona" },
+        { "voce": "Monastero dos Jerónimos", "testo": "18 € (gratuito fino a 12 anni).", "min": 18, "max": 18, "tipo": "persona" },
+        { "voce": "Torre di Belém", "testo": "8 €.", "min": 8, "max": 8, "tipo": "persona" },
+        { "voce": "Castello di São Jorge e miradouros", "testo": "circa 15 € il castello; i punti panoramici sono gratuiti.", "min": 15, "max": 15, "tipo": "persona" },
+        { "voce": "Trasporti urbani e tram 28", "testo": "carta Viva Viagem con corse a circa 1,80–2 €; metro dall'aeroporto al centro circa 2 €. La Lisboa Card conviene solo con tre o più musei al giorno.", "min": 15, "max": 25, "tipo": "persona" },
+        { "voce": "Treno per Sintra e Palácio da Pena", "testo": "treno circa 5 € A/R; Pena circa 20 € con giardini (facoltativo, giorno 3).", "min": 0, "max": 25, "tipo": "persona" },
+        { "voce": "Pasti tre giorni", "testo": "60–120 € (tascas e pastelarias tengono bassa la versione economica).", "min": 60, "max": 120, "tipo": "persona" }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        { "categoria": "accessi", "testo": "Nessun problema di ZTL o parcheggio: la meta si raggiunge e si gira senza auto. Le salite dell'Alfama e di São Jorge sono ripide: scarpe comode." },
+        { "categoria": "chiusure", "testo": "Jerónimos e Torre di Belém chiudono il lunedì; molti musei statali sono gratuiti ma affollati la prima domenica del mese." },
+        { "categoria": "prenotazioni", "testo": "Il volo da Pisa ha solo 2 frequenze a settimana: le date del viaggio le decide l'operativo Ryanair, prenotare il volo prima dell'alloggio. Jerónimos e Palácio da Pena vendono biglietti a fascia oraria online: comprarli prima evita le code lunghe." }
+      ],
+      "note": "La bassa frequenza della rotta (2 voli a settimana) è il vero vincolo: costruire il viaggio sulle date dei voli, non il contrario. In alternativa esistono voli da Bologna con più frequenze, ma l'accesso all'aeroporto costa di più (capitolo 3.4 del documento).",
+      "fonti": [
+        "https://www.ryanair.com/flights/it/it/voli-da-pisa-a-lisbona",
+        "https://www.omio.it/voli/pisa/lisbona",
+        "https://www.lisbona.it/torre-belem",
+        "https://vadoalisbona.com/monastero-dos-jeronimos/"
+      ],
+      "aggiuntaIl": "2026-08-21"
+    }
+  ]
+}
