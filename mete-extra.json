@@ -11,8 +11,19 @@
       "durataViaggioTesto": "1h44 – 1h53 in treno, quasi sempre con cambio a Bologna",
       "durataViaggioMinuti": 104,
       "periodoMiglioreTesto": "Marzo–giugno e settembre–novembre",
-      "mesi": [3, 4, 5, 6, 9, 10, 11],
-      "mesiDaEvitare": [7, 8],
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
       "costoMin": 55,
       "costoMax": 110,
       "costoNota": null,
@@ -27,16 +38,49 @@
       "itinerario": null,
       "alloggio": null,
       "costiDettaglio": [
-        { "voce": "Treno A/R", "testo": "26–70 € secondo la categoria (Regionale via Bologna da circa 13 € a tratta; alta velocità più cara ma sotto le 2 ore).", "min": 26, "max": 70, "tipo": "persona" },
-        { "voce": "Complesso della Pilotta", "testo": "18 € intero; 10 € dalle 17 in poi; gratuito la prima domenica del mese.", "min": 10, "max": 18, "tipo": "persona" },
-        { "voce": "Battistero e Museo diocesano", "testo": "circa 10–18 € secondo la fascia; Cattedrale gratuita. Verificare su piazzaduomoparma.com.", "min": 10, "max": 18, "tipo": "persona" },
-        { "voce": "Pranzo", "testo": "12–15 € in gastronomia, 25–35 € in trattoria tipica.", "min": 12, "max": 35, "tipo": "persona" }
+        {
+          "voce": "Treno A/R",
+          "testo": "26–70 € secondo la categoria (Regionale via Bologna da circa 13 € a tratta; alta velocità più cara ma sotto le 2 ore).",
+          "min": 26,
+          "max": 70,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Complesso della Pilotta",
+          "testo": "18 € intero; 10 € dalle 17 in poi; gratuito la prima domenica del mese.",
+          "min": 10,
+          "max": 18,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Battistero e Museo diocesano",
+          "testo": "circa 10–18 € secondo la fascia; Cattedrale gratuita. Verificare su piazzaduomoparma.com.",
+          "min": 10,
+          "max": 18,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "12–15 € in gastronomia, 25–35 € in trattoria tipica.",
+          "min": 12,
+          "max": 35,
+          "tipo": "persona"
+        }
       ],
       "ripartizione": null,
       "vincoli": [
-        { "categoria": "accessi", "testo": "Il centro storico è in ZTL con varchi attivi: lasciare l'auto nei parcheggi esterni. In treno il problema non esiste: la stazione è a 15 minuti a piedi dal Duomo." },
-        { "categoria": "chiusure", "testo": "La Pilotta chiude il lunedì; il Battistero ha ultimo ingresso alle 18. Fino al 31 marzo 2026 la Pilotta richiedeva fasce orarie: dal 1° aprile 2026 l'ingresso è libero." },
-        { "categoria": "prenotazioni", "testo": "Nessuna prenotazione obbligatoria emersa; il Teatro Regio si visita solo con visita guidata a orari fissi: controllare il calendario." }
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico è in ZTL con varchi attivi: lasciare l'auto nei parcheggi esterni. In treno il problema non esiste: la stazione è a 15 minuti a piedi dal Duomo."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Pilotta chiude il lunedì; il Battistero ha ultimo ingresso alle 18. Fino al 31 marzo 2026 la Pilotta richiedeva fasce orarie: dal 1° aprile 2026 l'ingresso è libero."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria emersa; il Teatro Regio si visita solo con visita guidata a orari fissi: controllare il calendario."
+        }
       ],
       "note": "Sulla linea Bologna–Parma sono segnalati lavori con variazioni di orario fra aprile e giugno 2026: verificare gli orari su Trenitalia prima di partire. Luglio e agosto sono afosi come nel resto della Pianura Padana.",
       "fonti": [
@@ -57,7 +101,13 @@
       "durataViaggioTesto": "3h15 – 4h in treno via Milano Centrale",
       "durataViaggioMinuti": 195,
       "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre",
-      "mesi": [4, 5, 6, 9, 10],
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
       "mesiDaEvitare": [],
       "costoMin": 170,
       "costoMax": 310,
@@ -67,23 +117,74 @@
       "percheDurata": "Città Alta si gira in una giornata piena — Piazza Vecchia, la Cappella Colleoni, il giro delle mura venete — ma il viaggio di oltre tre ore a tratta consuma mezza giornata: con la notte in città si aggiungono l'Accademia Carrara e Città Bassa senza correre.",
       "cosaVedere": null,
       "itinerario": [
-        { "giorno": 1, "testo": "Giorno 1: arrivo, funicolare per Città Alta, Piazza Vecchia con il Campanone, Basilica di Santa Maria Maggiore e Cappella Colleoni (gratuita), passeggiata sulle mura venete al tramonto." },
-        { "giorno": 2, "testo": "Giorno 2: Accademia Carrara (Mantegna, Bellini, Raffaello, Lotto), funicolare di San Vigilio per il castello e il panorama, Città Bassa e il Sentierone, rientro." }
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: arrivo, funicolare per Città Alta, Piazza Vecchia con il Campanone, Basilica di Santa Maria Maggiore e Cappella Colleoni (gratuita), passeggiata sulle mura venete al tramonto."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Accademia Carrara (Mantegna, Bellini, Raffaello, Lotto), funicolare di San Vigilio per il castello e il panorama, Città Bassa e il Sentierone, rientro."
+        }
       ],
       "alloggio": "B&B e alberghi in Città Bassa 70–120 € a notte per una doppia; in Città Alta le strutture sono poche e più care: prenotare in anticipo nei fine settimana.",
       "costiDettaglio": [
-        { "voce": "Treno A/R", "testo": "50–110 € secondo l'anticipo (alta velocità Firenze–Milano da 24–28 € a tratta prenotando presto, più regolare regionale Milano–Bergamo circa 6 € a tratta).", "min": 50, "max": 110, "tipo": "persona" },
-        { "voce": "Pernottamento 1 notte", "testo": "70–120 € in doppia (35–60 € a persona).", "min": 35, "max": 60, "tipo": "persona" },
-        { "voce": "Funicolari", "testo": "circa 1,50 € a corsa (Città Alta e San Vigilio), circa 6 € il giro completo in due.", "min": 3, "max": 6, "tipo": "persona" },
-        { "voce": "Accademia Carrara", "testo": "10 € intero, 8 € ridotto.", "min": 8, "max": 10, "tipo": "persona" },
-        { "voce": "Campanone e musei civici", "testo": "circa 5–10 € secondo il cumulativo scelto; Cappella Colleoni gratuita.", "min": 5, "max": 10, "tipo": "persona" },
-        { "voce": "Pasti due giorni", "testo": "40–90 € (casoncelli e polenta: la cucina è metà della gita).", "min": 40, "max": 90, "tipo": "persona" }
+        {
+          "voce": "Treno A/R",
+          "testo": "50–110 € secondo l'anticipo (alta velocità Firenze–Milano da 24–28 € a tratta prenotando presto, più regolare regionale Milano–Bergamo circa 6 € a tratta).",
+          "min": 50,
+          "max": 110,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 1 notte",
+          "testo": "70–120 € in doppia (35–60 € a persona).",
+          "min": 35,
+          "max": 60,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Funicolari",
+          "testo": "circa 1,50 € a corsa (Città Alta e San Vigilio), circa 6 € il giro completo in due.",
+          "min": 3,
+          "max": 6,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Accademia Carrara",
+          "testo": "10 € intero, 8 € ridotto.",
+          "min": 8,
+          "max": 10,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Campanone e musei civici",
+          "testo": "circa 5–10 € secondo il cumulativo scelto; Cappella Colleoni gratuita.",
+          "min": 5,
+          "max": 10,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti due giorni",
+          "testo": "40–90 € (casoncelli e polenta: la cucina è metà della gita).",
+          "min": 40,
+          "max": 90,
+          "tipo": "persona"
+        }
       ],
       "ripartizione": null,
       "vincoli": [
-        { "categoria": "accessi", "testo": "Città Alta è ZTL quasi totale e nei fine settimana l'accesso in auto è chiuso anche ai varchi orari: arrivare in treno e salire in funicolare è la soluzione naturale." },
-        { "categoria": "chiusure", "testo": "L'Accademia Carrara chiude il lunedì. La Cappella Colleoni chiude a metà giornata (12:30–14:00)." },
-        { "categoria": "prenotazioni", "testo": "Nessuna prenotazione obbligatoria emersa; per le mostre temporanee della Carrara conviene il biglietto online." }
+        {
+          "categoria": "accessi",
+          "testo": "Città Alta è ZTL quasi totale e nei fine settimana l'accesso in auto è chiuso anche ai varchi orari: arrivare in treno e salire in funicolare è la soluzione naturale."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "L'Accademia Carrara chiude il lunedì. La Cappella Colleoni chiude a metà giornata (12:30–14:00)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria emersa; per le mostre temporanee della Carrara conviene il biglietto online."
+        }
       ],
       "note": "Non esiste treno diretto Firenze–Bergamo: il cambio a Milano Centrale è rapido ma va calcolato. Prenotando l'alta velocità con 2–4 settimane di anticipo il costo del viaggio si dimezza (regola del capitolo 13.2 del documento).",
       "fonti": [
@@ -104,8 +205,19 @@
       "durataViaggioTesto": "3h15 di volo",
       "durataViaggioMinuti": 195,
       "periodoMiglioreTesto": "Marzo–giugno e settembre–novembre",
-      "mesi": [3, 4, 5, 6, 9, 10, 11],
-      "mesiDaEvitare": [7, 8],
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
       "costoMin": 320,
       "costoMax": 580,
       "costoNota": null,
@@ -114,27 +226,99 @@
       "percheDurata": "Il documento copre Lisbona solo dentro il Portogallo da 7 giorni; da sola, la città si chiude in tre: un giorno per Baixa, Chiado e Alfama, uno per Belém, uno per Sintra o per i musei. In due giorni resterebbe fuori Belém o Sintra, con sette si torna al giro completo del capitolo 8.5.",
       "cosaVedere": null,
       "itinerario": [
-        { "giorno": 1, "testo": "Giorno 1: Baixa e l'Elevador de Santa Justa, Chiado, tram 28 fino all'Alfama, Castello di São Jorge, miradouros al tramonto e fado." },
-        { "giorno": 2, "testo": "Giorno 2: Belém — Monastero dos Jerónimos, Torre di Belém, Padrão dos Descobrimentos, pastéis de Belém; pomeriggio al MAAT o al Museo delle Carrozze." },
-        { "giorno": 3, "testo": "Giorno 3: treno per Sintra (40 minuti) e Palácio da Pena, oppure Museo Gulbenkian e quartiere di Príncipe Real; rientro in serata." }
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Baixa e l'Elevador de Santa Justa, Chiado, tram 28 fino all'Alfama, Castello di São Jorge, miradouros al tramonto e fado."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Belém — Monastero dos Jerónimos, Torre di Belém, Padrão dos Descobrimentos, pastéis de Belém; pomeriggio al MAAT o al Museo delle Carrozze."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: treno per Sintra (40 minuti) e Palácio da Pena, oppure Museo Gulbenkian e quartiere di Príncipe Real; rientro in serata."
+        }
       ],
       "alloggio": "Guesthouse e B&B 60–100 € a notte in doppia nei quartieri centrali, hotel 3 stelle 90–150 €. Nel periodo consigliato (primavera e autunno) le tariffe restano sotto i picchi estivi.",
       "costiDettaglio": [
-        { "voce": "Volo A/R", "testo": "53–150 € prenotando in anticipo (Ryanair, unica compagnia diretta da Pisa; 3h15 di volo).", "min": 53, "max": 150, "tipo": "persona" },
-        { "voce": "Accesso all'aeroporto di Pisa", "testo": "in auto circa 22 € di benzina A/R più 12–18 € di parcheggio per 3 giorni (totale per la vettura); in treno più Pisa Mover 30,40 € a persona A/R (parametri del capitolo 3.4 del documento).", "min": 30, "max": 41, "tipo": "persona" },
-        { "voce": "Pernottamento 2 notti", "testo": "120–300 € in doppia (60–150 € a persona).", "min": 60, "max": 150, "tipo": "persona" },
-        { "voce": "Monastero dos Jerónimos", "testo": "18 € (gratuito fino a 12 anni).", "min": 18, "max": 18, "tipo": "persona" },
-        { "voce": "Torre di Belém", "testo": "8 €.", "min": 8, "max": 8, "tipo": "persona" },
-        { "voce": "Castello di São Jorge e miradouros", "testo": "circa 15 € il castello; i punti panoramici sono gratuiti.", "min": 15, "max": 15, "tipo": "persona" },
-        { "voce": "Trasporti urbani e tram 28", "testo": "carta Viva Viagem con corse a circa 1,80–2 €; metro dall'aeroporto al centro circa 2 €. La Lisboa Card conviene solo con tre o più musei al giorno.", "min": 15, "max": 25, "tipo": "persona" },
-        { "voce": "Treno per Sintra e Palácio da Pena", "testo": "treno circa 5 € A/R; Pena circa 20 € con giardini (facoltativo, giorno 3).", "min": 0, "max": 25, "tipo": "persona" },
-        { "voce": "Pasti tre giorni", "testo": "60–120 € (tascas e pastelarias tengono bassa la versione economica).", "min": 60, "max": 120, "tipo": "persona" }
+        {
+          "voce": "Volo A/R",
+          "testo": "53–150 € prenotando in anticipo (Ryanair, unica compagnia diretta da Pisa; 3h15 di volo).",
+          "min": 53,
+          "max": 150,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Accesso all'aeroporto di Pisa",
+          "testo": "in auto circa 22 € di benzina A/R più 12–18 € di parcheggio per 3 giorni (totale per la vettura); in treno più Pisa Mover 30,40 € a persona A/R (parametri del capitolo 3.4 del documento).",
+          "min": 30,
+          "max": 41,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 2 notti",
+          "testo": "120–300 € in doppia (60–150 € a persona).",
+          "min": 60,
+          "max": 150,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Monastero dos Jerónimos",
+          "testo": "18 € (gratuito fino a 12 anni).",
+          "min": 18,
+          "max": 18,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Torre di Belém",
+          "testo": "8 €.",
+          "min": 8,
+          "max": 8,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Castello di São Jorge e miradouros",
+          "testo": "circa 15 € il castello; i punti panoramici sono gratuiti.",
+          "min": 15,
+          "max": 15,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Trasporti urbani e tram 28",
+          "testo": "carta Viva Viagem con corse a circa 1,80–2 €; metro dall'aeroporto al centro circa 2 €. La Lisboa Card conviene solo con tre o più musei al giorno.",
+          "min": 15,
+          "max": 25,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Treno per Sintra e Palácio da Pena",
+          "testo": "treno circa 5 € A/R; Pena circa 20 € con giardini (facoltativo, giorno 3).",
+          "min": 0,
+          "max": 25,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti tre giorni",
+          "testo": "60–120 € (tascas e pastelarias tengono bassa la versione economica).",
+          "min": 60,
+          "max": 120,
+          "tipo": "persona"
+        }
       ],
       "ripartizione": null,
       "vincoli": [
-        { "categoria": "accessi", "testo": "Nessun problema di ZTL o parcheggio: la meta si raggiunge e si gira senza auto. Le salite dell'Alfama e di São Jorge sono ripide: scarpe comode." },
-        { "categoria": "chiusure", "testo": "Jerónimos e Torre di Belém chiudono il lunedì; molti musei statali sono gratuiti ma affollati la prima domenica del mese." },
-        { "categoria": "prenotazioni", "testo": "Il volo da Pisa ha solo 2 frequenze a settimana: le date del viaggio le decide l'operativo Ryanair, prenotare il volo prima dell'alloggio. Jerónimos e Palácio da Pena vendono biglietti a fascia oraria online: comprarli prima evita le code lunghe." }
+        {
+          "categoria": "accessi",
+          "testo": "Nessun problema di ZTL o parcheggio: la meta si raggiunge e si gira senza auto. Le salite dell'Alfama e di São Jorge sono ripide: scarpe comode."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Jerónimos e Torre di Belém chiudono il lunedì; molti musei statali sono gratuiti ma affollati la prima domenica del mese."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il volo da Pisa ha solo 2 frequenze a settimana: le date del viaggio le decide l'operativo Ryanair, prenotare il volo prima dell'alloggio. Jerónimos e Palácio da Pena vendono biglietti a fascia oraria online: comprarli prima evita le code lunghe."
+        }
       ],
       "note": "La bassa frequenza della rotta (2 voli a settimana) è il vero vincolo: costruire il viaggio sulle date dei voli, non il contrario. In alternativa esistono voli da Bologna con più frequenze, ma l'accesso all'aeroporto costa di più (capitolo 3.4 del documento).",
       "fonti": [
@@ -144,6 +328,305 @@
         "https://vadoalisbona.com/monastero-dos-jeronimos/"
       ],
       "aggiuntaIl": "2026-08-21"
+    },
+    {
+      "id": "bosnia-erzegovina-7g",
+      "nome": "Bosnia ed Erzegovina",
+      "sottotitolo": "Sarajevo e Mostar: minareti, il ponte ottomano sulla Neretva e le cascate dell'Erzegovina",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Frecciarossa Firenze–Roma + volo Wizz Air diretto Roma Fiumicino–Sarajevo (3 frequenze a settimana), oppure Ryanair da Milano Bergamo",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "circa 4h30–5h porta a porta (1h55 in treno per Roma + volo diretto di 1h10, più i tempi di scalo aeroportuale)",
+      "durataViaggioMinuti": 270,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 371,
+      "costoMax": 930,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Sarajevo da sola chiede almeno tre giorni pieni fra centro ottomano, asburgico e i luoghi dell'assedio; Mostar e l'Erzegovina (Blagaj, Kravice, Počitelj) sono un mondo a parte raggiungibile in treno in due ore. Sette giorni permettono entrambe senza corse: quattro a Sarajevo, tre fra Mostar e dintorni, col cuscinetto per i trasferimenti su rotaia.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: arrivo a Sarajevo, passeggiata in Baščaršija (il bazaar ottomano), Sebilj e Gazi Husrev-beg Mosque, cena a base di ćevapi in una ćevabdžinica storica."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Vijećnica (il municipio-biblioteca neo-moresco), Ponte Latino e Museo del 28 giugno 1914, Tunnel of Hope (museo del tunnel dell'assedio), War Childhood Museum."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: funivia per il monte Trebević (partenza da Bistrik), pista olimpica di bob abbandonata, rientro e passeggiata serale alla Fortezza Gialla per il tramonto sulla città."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: treno per Mostar (circa 2h), sistemazione, Stari Most (ponte vecchio ottomano) e Old Town, moschea di Koski Mehmed Pascià con vista sul ponte."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: gita di un giorno nell'Erzegovina — Blagaj Tekija (il convento dervisci sulla sorgente della Buna) al mattino, cascate di Kravice nel pomeriggio."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: mattina libera a Mostar (eventuale tappa a Počitelj, borgo fortificato ottomano sulla Neretva), treno di rientro a Sarajevo nel pomeriggio."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: mattina libera in Baščaršija per gli ultimi acquisti (rame lavorato, caffè bosniaco), trasferimento in aeroporto e volo di rientro."
+        }
+      ],
+      "alloggio": "Guesthouse e piccoli hotel 20–55 € a notte in doppia sia a Sarajevo sia a Mostar, con gli ostelli più economici sotto i 20 €; a Sarajevo i prezzi nel centro di Baščaršija sono leggermente più alti che in periferia.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Roma–Sarajevo",
+          "testo": "Wizz Air diretto da Roma Fiumicino, 3 frequenze a settimana; tariffe da circa 19–46 € a tratta prenotando presto, fino a 100–200 € nei periodi di punta. In alternativa Ryanair da Milano Bergamo.",
+          "min": 70,
+          "max": 220,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Frecciarossa Firenze–Roma A/R",
+          "testo": "da 9,90 € a tratta con la tariffa Super Economy prenotando con largo anticipo, fino a 60–80 € a tratta a ridosso della partenza.",
+          "min": 20,
+          "max": 60,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 6 notti",
+          "testo": "20–55 € a notte in doppia (10–28 € a persona) fra Sarajevo e Mostar, guesthouse e piccoli hotel 3 stelle.",
+          "min": 120,
+          "max": 330,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Treno Sarajevo–Mostar A/R",
+          "testo": "8–10 € a tratta, circa 2h di viaggio, 5 corse al giorno.",
+          "min": 16,
+          "max": 20,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Ingressi principali",
+          "testo": "Tunnel of Hope circa 10,50 €, Vijećnica circa 5 €, funivia Trebević A/R circa 15 €, Blagaj Tekija circa 5 €, cascate di Kravice circa 10 €.",
+          "min": 40,
+          "max": 55,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti 7 giorni",
+          "testo": "pasto in locale economico circa 6,80 €, cevapi circa 5–6 € a porzione, cena in ristorante di fascia media 15–18 € a persona.",
+          "min": 105,
+          "max": 245,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nessuna ZTL rilevante: i centri storici di Sarajevo e Mostar si girano a piedi. Non esiste collegamento diretto Firenze/Pisa/Bologna–Sarajevo: si passa da Roma Fiumicino (Wizz Air, diretto) o Milano Bergamo (Ryanair)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Tunnel of Hope Museum accetta solo pagamenti in contanti (marco convertibile, KM); in stagione apre 8:30–17:30 (ultimo ingresso 17:00), in inverno (novembre–marzo) 9:00–16:00."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il volo Wizz Air Roma–Sarajevo ha solo 3 frequenze a settimana: conviene fissare le date del viaggio sull'operativo del volo prima di prenotare alloggio e treni."
+        }
+      ],
+      "note": "Il centro di Sarajevo unisce impronta ottomana, austro-ungarica e i segni ancora visibili dell'assedio 1992–96 (le \"rose di Sarajevo\" sui marciapiedi); è utile arrivare con un minimo di consapevolezza storica prima della visita al Tunnel of Hope. In Erzegovina l'estate è molto calda e affollata nei fine settimana; la cucina locale (cevapi, burek, caffè alla turca) è economica e abbondante ovunque.",
+      "fonti": [
+        "https://www.omio.it/voli/bologna/sarajevo",
+        "https://www.wizzair.com/it-it/voli-economici-da-roma-a-sarajevo",
+        "https://www.exyuaviation.com/2026/07/ryanair-eyes-sarajevo-expansion.html",
+        "https://www.rome2rio.com/it/s/Mostar/Sarajevo",
+        "https://rail.cc/it/treni/sarajevo-a-mostar",
+        "https://sarajevo.travel/en/things-to-do/tunnel-of-hope/180",
+        "https://sarajevo.travel/en/text/admission-charged-to-enter-vijecnica/105",
+        "https://go-bosnia.com/en/entity/trebevic-cable-car/",
+        "https://www.tripadvisor.com/Attraction_Review-g1759888-d4242328-Reviews-Blagaj_tekija-Blagaj_Herzegovina_Neretva_Canton_Federation_of_Bosnia_and_Herzego.html",
+        "https://www.tripadvisor.com/Attraction_Review-g14077140-d550700-Reviews-Kravice_Falls-Studenci_West_Herzegovina_Canton_Federation_of_Bosnia_and_Her.html",
+        "https://prezzi-mondiali.it/bosnia-ed-erzegovina/prezzi/sarajevo",
+        "https://www.booking.com/city/ba/sarajevo.it.html",
+        "https://www.omio.it/treni/firenze/roma-termini"
+      ],
+      "aggiuntaIl": "2026-09-03"
+    },
+    {
+      "id": "taiwan-14g",
+      "nome": "Taiwan",
+      "sottotitolo": "L'isola di Formosa: Taipei, la costa orientale del Taroko, i laghi del centro e le spiagge del sud",
+      "durataGiorni": 14,
+      "mezzoConsigliato": "Volo diretto China Airlines da Roma Fiumicino (2 frequenze a settimana), da raggiungere in treno da Firenze",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "circa 12h10–14h40 di volo diretto Roma–Taipei, secondo la tratta",
+      "durataViaggioMinuti": 830,
+      "periodoMiglioreTesto": "Ottobre–dicembre, stagione secca e fresca fuori dai tifoni",
+      "mesi": [
+        10,
+        11,
+        12
+      ],
+      "mesiDaEvitare": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "costoMin": 1180,
+      "costoMax": 2280,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Taiwan in 14 giorni è il giro completo dell'isola coi mezzi pubblici: Taipei e i suoi dintorni (4 giorni), la costa orientale del Taroko (2), il centro fra laghi e montagne — Sun Moon Lake e Alishan (3) — e il sud fra Tainan, Kaohsiung e le spiagge di Kenting (4), con 1 giorno di cuscinetto per i lunghi trasferimenti in treno da nord a sud. Sotto le due settimane si deve rinunciare o alla costa orientale o al sud.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: volo diretto Roma–Taipei, arrivo in serata, trasferimento in hotel."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Taipei — Tempio di Longshan, Bopiliao Old Street, Ximending, salita al Taipei 101 Observatory al tramonto."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Taipei — National Palace Museum, quartiere di Shilin, sorgenti termali di Beitou (Thermal Valley), tramonto a Danshui."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: gita di un giorno a Jiufen (il villaggio di montagna reso famoso da La città incantata) e Shifen (lanterne e cascata), rientro a Taipei in serata."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: treno espresso per Hualien (circa 2h), pomeriggio libero sulla spiaggia di Qixingtan."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: giornata intera nel Parco Nazionale di Taroko — Visitor Center, Buluowan, Tianxiang, area di Qingshui (Dacingshui); Shakadang e Yanzikou (Swallow Grotto) restano chiuse per i danni del terremoto del 2024."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: treno per Taichung, bus per il Sun Moon Lake, pomeriggio in funivia verso il Formosan Aboriginal Culture Village."
+        },
+        {
+          "giorno": 8,
+          "testo": "Giorno 8: giornata intera al Sun Moon Lake — giro in battello, noleggio bici sul lungolago, Tempio di Wenwu."
+        },
+        {
+          "giorno": 9,
+          "testo": "Giorno 9: trasferimento a Chiayi e poi al villaggio di Alishan con il treno forestale, pernottamento in quota per l'alba del giorno dopo."
+        },
+        {
+          "giorno": 10,
+          "testo": "Giorno 10: alba sulle nuvole ad Alishan e passeggiata nella foresta di cipressi millenari, rientro a Chiayi, treno per Tainan."
+        },
+        {
+          "giorno": 11,
+          "testo": "Giorno 11: Tainan — Fortezza di Anping, Torre Chihkan, Tempio di Confucio, giro fra le bancarelle di street food."
+        },
+        {
+          "giorno": 12,
+          "testo": "Giorno 12: treno per Kaohsiung, Lotus Pond, Pier-2 Art District, mercato notturno di Liuhe."
+        },
+        {
+          "giorno": 13,
+          "testo": "Giorno 13: bus per Kenting, pomeriggio in spiaggia e al Parco Nazionale di Kenting, faro di Eluanbi."
+        },
+        {
+          "giorno": 14,
+          "testo": "Giorno 14: mattina libera a Kenting, bus di ritorno a Kaohsiung, treno alta velocità per Taipei, volo di rientro in serata."
+        }
+      ],
+      "alloggio": "Guesthouse e hotel 3 stelle 35–55 € a notte a persona a Taipei, 25–45 € nelle altre città; il pernottamento in quota ad Alishan (per l'alba) è più caro e va prenotato con largo anticipo.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Roma–Taipei",
+          "testo": "China Airlines diretto, 2 frequenze a settimana; tariffe da 400–750 € nella bassa stagione di novembre, fino a 900–950 € nei periodi di punta.",
+          "min": 450,
+          "max": 950,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Treni e bus interni",
+          "testo": "TRA Taipei–Hualien (445–583 NT$), TRA Hualien–Taichung (815 NT$), bus Taichung–Sun Moon Lake (195–465 NT$), THSR Taichung–Chiayi (circa 260 NT$), treno forestale + ingresso Alishan (750 NT$), THSR Chiayi–Tainan (620 NT$), THSR Tainan–Kaohsiung (410 NT$), bus Kaohsiung–Kenting A/R (700–800 NT$), THSR Kaohsiung–Taipei (1490 NT$).",
+          "min": 140,
+          "max": 200,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 13 notti",
+          "testo": "35–55 € a notte a Taipei (4 notti), 25–45 € nelle altre tappe (9 notti), guesthouse e hotel 3 stelle.",
+          "min": 320,
+          "max": 620,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Ingressi principali",
+          "testo": "Taipei 101 + National Palace Museum combo 820 NT$, treno e ingresso Alishan 750 NT$ (incluso sopra nei trasporti), funivia Sun Moon Lake A/R 380 NT$, pass 2 giorni shuttle Taroko 400 NT$.",
+          "min": 60,
+          "max": 90,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti 14 giorni",
+          "testo": "street food e mercati notturni da 5–10 € a pasto, ristoranti locali 15–20 €, qualche cena più curata fino a 30–35 €.",
+          "min": 210,
+          "max": 420,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nessun visto richiesto per cittadini italiani fino a 90 giorni (passaporto valido almeno 6 mesi, 2 pagine libere). La Provincial Highway 8 nel Parco di Taroko è soggetta a controlli di traffico dopo il terremoto del 2024."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Nel Parco Nazionale di Taroko lo Shakadang Trail e lo Yanzikou (Swallow Grotto) restano chiusi almeno fino al 2031 per i danni del sisma di magnitudo 7.2 del 3 aprile 2024; Mt. Qingshui e la Zhuilu Old Road sono chiuse senza data di riapertura annunciata. Sono invece aperti Visitor Center, Buluowan, Tianxiang e l'area di Qingshui (Dacingshui)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il volo diretto China Airlines Roma–Taipei ha solo 2 frequenze a settimana: conviene costruire l'itinerario sulle date del volo. Dal 2 marzo 2026 i biglietti del treno forestale di Alishan vanno pagati per intero al momento della prenotazione, senza periodo di grazia."
+        }
+      ],
+      "note": "La stagione dei tifoni va da maggio a ottobre, con il picco fra agosto e settembre: ottobre–dicembre resta la finestra più sicura e stabile, aprile è un'alternativa valida ma con rischio di piogge (stagione dei \"plum rains\"). Il Taroko Gorge è ancora in fase di restauro dopo il terremoto del 2024: alcuni sentieri iconici (Yanzikou/Swallow Grotto, Shakadang) sono chiusi a tempo indeterminato e vanno sostituiti nell'itinerario con le aree già riaperte.",
+      "fonti": [
+        "https://www.momondo.it/volo/roma/taipei",
+        "https://flights.china-airlines.com/en-it/flights-from-rome-to-taipei",
+        "https://it.trip.com/guide/info/requisiti-ingresso-taiwan.html",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/03/06/2003853379",
+        "https://www.taiwanobsessed.com/is-taroko-gorge-open/",
+        "https://www.nickkembel.com/best-time-to-visit-taiwan/",
+        "https://www.rtaiwanr.com/blog/taiwan-typhoon",
+        "https://taiwanrail.vercel.app/en/routes/train/taipei-to-hualien/",
+        "https://www.taiwanese-secrets.com/travel-from-taichung-to-hualien/",
+        "https://www.thepoortraveler.net/2018/09/taroko-gorge-bus-passes-tours-things-to-do/",
+        "https://www.nickkembel.com/how-to-get-to-alishan/",
+        "https://alishan.welcometw.com/product/info/BNn7",
+        "https://en.thsrc.com.tw/ArticleContent/4c3efc1d-e6df-4bfd-97b4-52e89f79ee5c",
+        "https://taiwanderers.com/kaohsiung-to-kenting-bus-9189-timetable/",
+        "https://www.tripadvisor.com/Attraction_Review-g13808635-d6892420-Reviews-Sun_Moon_Lake_Ropeway-Yuchi_Nantou.html",
+        "https://www.hotels.com/de1366745/hotels-taipei-taiwan/",
+        "https://www.tripadvisor.com/AttractionProductReview-g13808515-d19011362-Taipei_101_Observatory_Admission_Ticket_SPECIAL_DEAL-Xinyi_District_Taipei.html",
+        "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      ],
+      "aggiuntaIl": "2026-09-03"
     }
   ]
 }
