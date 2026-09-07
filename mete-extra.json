@@ -627,6 +627,368 @@
         "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
       ],
       "aggiuntaIl": "2026-09-03"
+    },
+    {
+      "id": "piacenza-1g",
+      "nome": "Piacenza",
+      "sottotitolo": "Emilia-Romagna, il Duomo, Palazzo Farnese e la pittura di Ricci Oddi",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. con cambio a Bologna, sulla linea alta velocità Bologna–Milano",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "da circa 2h a 2h50 secondo il collegamento, quasi sempre con cambio a Bologna",
+      "durataViaggioMinuti": 134,
+      "periodoMiglioreTesto": "Metà aprile – metà giugno e settembre",
+      "mesi": [
+        4,
+        5,
+        6,
+        9
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 54,
+      "costoMax": 127,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro storico è compatto e pianeggiante: Duomo, Palazzo Farnese, Basilica di Sant'Antonino e Palazzo Gotico stanno tutti entro dieci minuti a piedi dalla stazione. Una giornata piena copre il nucleo monumentale con calma, lasciando spazio a una sosta gastronomica e, per chi vuole, alla Galleria Ricci Oddi.",
+      "cosaVedere": [
+        "Duomo di Piacenza: ingresso gratuito, aperto 8:30–12:30 e 15:30–19:30; salita alla cupola solo su prenotazione (obbligatoria nei giorni feriali entro le 12, consigliata nel weekend).",
+        "Palazzo Farnese – Musei Civici (Pinacoteca, Museo Civico, sezione archeologica): 10 € intero, 7 € ridotto; 1 € la prima domenica del mese; chiuso il lunedì.",
+        "Basilica di Sant'Antonino: ingresso libero, una delle più antiche basiliche paleocristiane della Lombardia storica.",
+        "Palazzo Gotico (Palazzo Comunale): dal giugno 2026 il Salone Monumentale è visitabile, biglietto 2 €.",
+        "Galleria Ricci Oddi (arte moderna, facoltativa): 5 € il ridotto (il prezzo intero non è stato reperito su fonte verificabile); chiusa 1 gennaio, 1 maggio, 15 agosto, 25 dicembre."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "20–35 € con la combinazione Regionale via Bologna prenotando presto, 40–85 € con Frecciarossa/Italo; le fonti divergono sui tempi (da 2h a 2h50) e sulle tariffe, verificare su Trenitalia prima di partire.",
+          "min": 20,
+          "max": 85,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Palazzo Farnese – Musei Civici",
+          "testo": "10 € intero, 7 € ridotto (6–18 anni, studenti); 1 € la prima domenica del mese.",
+          "min": 7,
+          "max": 10,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Palazzo Gotico – Salone Monumentale",
+          "testo": "2 € (apertura al pubblico da giugno 2026, informazione recente da verificare vicino alla partenza).",
+          "min": 2,
+          "max": 2,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Galleria Ricci Oddi (facoltativa)",
+          "testo": "5 € il biglietto ridotto; il prezzo intero non è stato trovato su una fonte verificabile e resta escluso dal totale.",
+          "min": null,
+          "max": null,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "25–30 € in una trattoria tipica (lardo piacentino, tortelli di magro, pisarei e fasö); un pranzo veloce costa meno ma non è stato trovato un prezzo verificabile.",
+          "min": 25,
+          "max": 30,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico è in ZTL attiva tutti i giorni 8:00–19:00 (con una zona pedonale interna sempre chiusa alle auto): irrilevante per chi arriva in treno, la stazione è raggiungibile a piedi dal centro."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Palazzo Farnese chiude il lunedì. La Galleria Ricci Oddi ha orario ridotto martedì-giovedì mattina (9:30–13:00) e apre tutto il giorno venerdì-domenica (9:30–18:00)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La salita alla cupola del Duomo richiede prenotazione obbligatoria nei giorni feriali (entro le 12 dello stesso giorno) e consigliata nel weekend. La visita guidata gratuita di Palazzo Farnese nel weekend richiede prenotazione."
+        }
+      ],
+      "note": "Le fonti consultate divergono sui tempi di percorrenza (da 2h a 2h50) e sulle tariffe ferroviarie: conviene controllare l'app Trenitalia vicino alla data di partenza. L'estate in Pianura Padana è calda e afosa: preferire la finestra aprile-giugno o settembre.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/piacenza",
+        "https://it.trip.com/treni/italia/viaggio/firenze-piacenza/",
+        "https://www.thetrainline.com/en/train-times/piacenza-to-florence",
+        "https://cattedralepiacenza.it/la-struttura/orari-e-biglietti/",
+        "https://www.palazzofarnese.piacenza.it/en/page/84133",
+        "https://collipiacentini.it/piacenza-cosa-vedere/palazzo-farnese-piacenza/",
+        "https://www.comune.piacenza.it/it/vivere/palazzo-gotico",
+        "https://riccioddi.it/visita.php",
+        "https://www.agriturismolabroncarda.it/costo-trattoria-ristorante-con-piatti-tipici-parma-piacenza/",
+        "https://www.comune.piacenza.it/it/topics/ztl",
+        "https://www.climieviaggi.it/clima/italia/piacenza"
+      ],
+      "aggiuntaIl": "2026-09-07"
+    },
+    {
+      "id": "trento-2g",
+      "nome": "Trento",
+      "sottotitolo": "Trentino, il Concilio, il Castello del Buonconsiglio e il MUSE sull'Adige",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Frecciarossa diretto da Firenze S.M.N. via Bologna e Verona, senza cambio",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "2h41 in Frecciarossa diretto, circa 10 collegamenti al giorno fra alta velocità e regionali",
+      "durataViaggioMinuti": 161,
+      "periodoMiglioreTesto": "Metà aprile – metà giugno e settembre; i mercatini di Natale aprono a fine novembre",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        12
+      ],
+      "mesiDaEvitare": [
+        1
+      ],
+      "costoMin": 135,
+      "costoMax": 300,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il Castello del Buonconsiglio e il Duomo riempiono una prima giornata; il MUSE e una mezza giornata a Rovereto (MART o la Campana dei Caduti, 15-29 minuti di treno) completano la visita senza correre: sotto i due giorni si deve rinunciare al MUSE o a Rovereto.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: arrivo, Piazza Duomo e Cattedrale di San Vigilio (gratuita), Basilica Paleocristiana e Museo Diocesano/Palazzo Pretorio, pomeriggio al Castello del Buonconsiglio (prenotazione consigliata, obbligatoria per la Torre Aquila)."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina al MUSE - Museo delle Scienze (biglietto online consigliato), pomeriggio mezza giornata a Rovereto in treno (facoltativo: MART o Campana dei Caduti Maria Dolens), rientro in serata."
+        }
+      ],
+      "alloggio": "B&B e hotel 3 stelle in centro 80–180 € a notte per una doppia secondo la stagione (40–90 € a persona), aggregato Booking.com; tariffe più basse a gennaio-febbraio, più alte in estate e durante i mercatini di Natale.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "da circa 25 € prenotando con anticipo (due tratte Frecciarossa Firenze-Trento), fino a 69-89 € per tratta con la tariffa ufficiale Trenitalia 'Andata e Ritorno in giornata' Standard/Business, presa come riferimento del tetto tariffario.",
+          "min": 25,
+          "max": 90,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 1 notte",
+          "testo": "80–180 € in doppia (40–90 € a persona), aggregato Booking.com; punte più basse fuori stagione.",
+          "min": 40,
+          "max": 90,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Castello del Buonconsiglio",
+          "testo": "10 € intero, 8 € ridotto (under 26/over 65); +2,50 € per la Torre Aquila.",
+          "min": 8,
+          "max": 13,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Basilica Paleocristiana e Museo Diocesano/Palazzo Pretorio",
+          "testo": "5 € ridotto, 7 € intero (10 € l'ingresso serale); la Cattedrale di San Vigilio è gratuita.",
+          "min": 5,
+          "max": 10,
+          "tipo": "persona"
+        },
+        {
+          "voce": "MUSE - Museo delle Scienze",
+          "testo": "11 € intero, 9 € ridotto.",
+          "min": 9,
+          "max": 11,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti due giorni",
+          "testo": "25-45 € a pasto in trattoria tipica trentina (canederli, polenta, strudel); un pranzo veloce costa meno.",
+          "min": 50,
+          "max": 90,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Rovereto (facoltativa, mezza giornata)",
+          "testo": "treno Trento-Rovereto 15-29 minuti, frequente; MART 15 € intero/10 € ridotto oppure Campana dei Caduti Maria Dolens 3 €.",
+          "min": 5,
+          "max": 18,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico ha una ZTL su due zone (pedonale e centro storico) con controllo tramite telecamere: riguarda solo chi arriva in auto, non chi arriva in treno."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Castello del Buonconsiglio chiude i lunedì non festivi e il 25 dicembre. Il MUSE chiude il lunedì e il 25 dicembre. Il Museo Diocesano chiude il martedì."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il Castello del Buonconsiglio richiede di fatto la prenotazione (online o telefonica); la Torre Aquila ha ingressi a orario fisso ogni 45 minuti, da prenotare con almeno 45 minuti di anticipo. Il biglietto online del MUSE è consigliato, non obbligatorio."
+        }
+      ],
+      "note": "Le fonti divergono sulla durata media del viaggio (il Frecciarossa diretto impiega 2h41, ma alcune medie aggregate includono anche itinerari più lenti con cambi): verificare l'orario esatto su Trenitalia. I mercatini di Natale di Trento si tengono dal 20 novembre 2026 al 6 gennaio 2027 in Piazza Fiera e Piazza Mostra.",
+      "fonti": [
+        "https://www.omio.it/treni/trento/firenze-pwb1k",
+        "https://www.omio.it/treni/trento/firenze-dne1r",
+        "https://www.trenitalia.com/it/offerte_e_servizi/andata_e_ritornoingiornata.html",
+        "https://www.buonconsiglio.it/en/buy/",
+        "https://www.buonconsiglio.it/en/castello-del-buonconsiglio/plan-your-visit-to-buonconsiglio-castle/",
+        "https://www.buonconsiglio.it/en/visit/",
+        "https://www.muse.it/en/home/plan-your-visit/",
+        "https://www.muse.it/vuoi-visitare-il-muse-e-le-sue-sedi-territoriali-acquista-il-biglietto-online/",
+        "https://www.cattedralesanvigilio.it/visita/",
+        "https://www.museodiocesanotridentino.it/pagine/orari-e-contatti-sede-di-trento",
+        "https://www.museodiocesanotridentino.it/pagine/orari-e-biglietti-basilica-paleocristiana",
+        "https://www.mart.tn.it/biglietti",
+        "https://www.mart.tn.it/orari",
+        "https://www.fondazioneoperacampana.it/it/informazioni-orari-e-prezzi.html",
+        "https://www.booking.com/city/it/trento.it.html",
+        "https://ritaglidiviaggio.it/2024/01/22/dove-mangiare-a-trento-spendendo-poco/",
+        "https://www.travel365.it/trento-quando-andare.htm",
+        "https://www.climieviaggi.it/clima/italia/trento",
+        "https://natale.visittrento.it/en/christmas-market",
+        "https://www.comune.trento.it/Vivere-il-Comune/Guide/Guida-alla-Ztl",
+        "https://www.e656.net/orario/collegamenti/trento/rovereto.html"
+      ],
+      "aggiuntaIl": "2026-09-07"
+    },
+    {
+      "id": "sofia-plovdiv-3g",
+      "nome": "Sofia e Plovdiv",
+      "sottotitolo": "Bulgaria: la cripta di Alessandro Nevskij e la città vecchia romana di Plovdiv",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair da Pisa o Bologna (nessun collegamento diretto da Firenze)",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "1h50 da Bologna, 2h10 da Pisa; nessun volo diretto da Firenze",
+      "durataViaggioMinuti": 110,
+      "periodoMiglioreTesto": "Maggio, oppure settembre-ottobre",
+      "mesi": [
+        5,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        7,
+        8
+      ],
+      "costoMin": 200,
+      "costoMax": 500,
+      "costoNota": "L'adozione dell'euro in Bulgaria nel 2026 ha fatto salire diversi prezzi al consumo: verificare i costi vicino alla partenza.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Sofia si visita comodamente in un giorno e mezzo (Nevskij, Boyana, Museo di Storia), Plovdiv con il teatro romano e il quartiere Kapana ne riempie un altro: tre giorni bastano per entrambe le città senza la fretta imposta dalle poche frequenze del volo diretto.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: volo diretto da Bologna o Pisa a Sofia, arrivo, passeggiata su Vitosha Boulevard, Cattedrale di Alessandro Nevskij e visita alla cripta/museo di arte cristiana."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina al Museo Nazionale di Storia e alla Chiesa di Boyana (UNESCO, visita di soli 10 minuti all'interno), primo pomeriggio in treno per Plovdiv (2h30-3h30), sera nella città vecchia e nel quartiere Kapana."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Teatro Romano e Stadio Romano di Plovdiv, Museo Etnografico Regionale, treno di ritorno a Sofia e volo di rientro in serata."
+        }
+      ],
+      "alloggio": "Hotel 2-3 stelle 40-150 € a notte per una doppia sia a Sofia sia a Plovdiv secondo categoria e stagione (aggregati Kayak/Booking/Tripadvisor, cifre in USD convertite); punte più basse ad aprile, più alte a giugno.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R da Bologna o Pisa",
+          "testo": "50-150 € prenotando con anticipo (Ryanair, unica compagnia con voli diretti, 2-4 frequenze settimanali secondo la tratta); tariffe last-minute possono salire molto oltre, anche 250-350 €.",
+          "min": 50,
+          "max": 150,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Treno o bus Sofia-Plovdiv A/R",
+          "testo": "treno BDZ da 6 € a tratta (12-15 corse al giorno, 2h30-3h30), bus da 10-20 € a tratta (Flixbus e altri, 1h40-2h).",
+          "min": 12,
+          "max": 20,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 2 notti",
+          "testo": "40-150 € a notte in doppia secondo città e stagione (20-75 € a persona), aggregati Kayak/Booking/Tripadvisor in USD convertiti.",
+          "min": 40,
+          "max": 140,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Ingressi principali di Sofia",
+          "testo": "cripta/museo di Alessandro Nevskij 8 BGN intero/4 BGN ridotto (circa 4/2 €); Chiesa di Boyana 12 BGN/2 BGN ridotto (circa 6/1 €); Museo Nazionale di Storia 5 BGN (circa 2,50 €).",
+          "min": 5,
+          "max": 13,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Ingressi principali di Plovdiv",
+          "testo": "Teatro Romano 7-8 BGN intero/2-3 BGN ridotto (circa 4/1,50 €); Museo Etnografico Regionale circa 6 BGN (circa 3 €); Stadio Romano gratuito nella parte esterna.",
+          "min": 3,
+          "max": 7,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti tre giorni",
+          "testo": "pasto economico 10-11 €, cena in ristorante di fascia media 20 € a persona; media di spesa giornaliera per il cibo a Sofia stimata in circa 58 €/giorno da fonti aggregate sui viaggiatori, ma i prezzi sono saliti dopo l'adozione dell'euro nel 2026.",
+          "min": 90,
+          "max": 174,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nessun volo diretto da Firenze: solo Bologna e Pisa hanno collegamento diretto Ryanair, con poche frequenze settimanali. Ingresso con carta d'identità o passaporto validi (la Bulgaria è entrata nell'area Schengen via aria/mare dal marzo 2024 e via terra dal gennaio 2025); alcune fonti segnalano rifiuti di ingresso con carte d'identità italiane danneggiate o rinnovate con adesivo, meglio portare anche il passaporto."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La cripta della Cattedrale di Alessandro Nevskij chiude il lunedì. La Chiesa di Boyana ha orario stagionale: aprile-ottobre 9:30-18:00, novembre-marzo 9:00-17:30."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per singoli visitatori alla Chiesa di Boyana (solo per gruppi organizzati, via email); conviene però costruire le date del viaggio sulle poche frequenze settimanali del volo diretto prima di prenotare alloggio e treni."
+        }
+      ],
+      "note": "Diverse fonti sui prezzi bulgari sono precedenti o immediatamente successive all'adozione dell'euro nel 2026 e mostrano rincari significativi rispetto agli aggregatori più vecchi: trattare i costi come indicativi e verificarli vicino alla partenza. Verificare anche la scheda paese del Ministero degli Esteri (Viaggiare Sicuri) per gli aggiornamenti sull'ingresso.",
+      "fonti": [
+        "https://www.ryanair.com/flights/ie/en/flights-from-bologna-to-sofia",
+        "https://www.flightconnections.com/flights-from-blq-to-sof",
+        "https://corporate.ryanair.com/news/ryanairs-new-summer-2025-sofia-pisa-route-takes-off/",
+        "https://www.flightsfrom.com/PSA-SOF",
+        "https://www.kiwi.com/en/cheap-flights/sofia-bulgaria/pisa-italy/",
+        "https://www.omio.com/trains/sofia/plovdiv-w95ea",
+        "https://www.omio.com/buses/sofia/plovdiv",
+        "https://us.trip.com/travel-guide/attraction/sofia/alexander-nevsky-crypt-museum-62003381/",
+        "https://boyanachurch.info/en/visitors-information-en/",
+        "https://en.historymuseum.org/prices-and-working-time/",
+        "https://freesofiatour.com/blog/vitosha-boulevard-sofias-main-shopping-street/",
+        "https://oldplovdiv.bg/en/tickets",
+        "https://whichmuseum.com/museum/plovdiv-roman-theatre-7930/tickets-prices",
+        "https://visitkapana.bg/en/",
+        "https://whichmuseum.com/museum/regional-ethnographic-museum-of-plovdiv-7705/tickets-prices",
+        "https://www.kayak.com/Sofia-Hotels.6035.hotel.ksp",
+        "https://www.booking.com/city/bg/plovdiv.en-gb.html",
+        "https://wise.com/gb/cost-of-living/bulgaria",
+        "https://www.budgetyourtrip.com/bulgaria/sofia",
+        "https://bulgarianadventure.com/best-time-to-visit-sofia-month-by-month/",
+        "https://thingstodoinplovdiv.com/when-to-visit/",
+        "https://toursbulgaria.com/bulgaria-visa-entry-requirements",
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/BGR.pdf"
+      ],
+      "aggiuntaIl": "2026-09-07"
     }
   ]
 }
