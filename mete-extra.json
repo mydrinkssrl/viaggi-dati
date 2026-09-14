@@ -989,6 +989,284 @@
         "https://www.viaggiaresicuri.it/schede_paese/pdf/BGR.pdf"
       ],
       "aggiuntaIl": "2026-09-07"
+    },
+    {
+      "id": "lago-maggiore-2g",
+      "nome": "Lago Maggiore e Isole Borromee",
+      "sottotitolo": "Stresa, Isola Bella e Isola Madre: ville e giardini barocchi affacciati sull'acqua",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno alta velocità Firenze–Milano con cambio, poi Milano–Stresa (nessun collegamento diretto)",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "4h07–4h24 in treno con cambio a Milano Centrale (13 collegamenti al giorno fra Frecciarossa, Italo e Intercity)",
+      "durataViaggioMinuti": 247,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre, quando le isole sono aperte ma meno affollate e calde di luglio–agosto",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 192,
+      "costoMax": 390,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Stresa e le due isole principali (Bella e Madre) si visitano con calma in una giornata e mezza: il viaggio di oltre quattro ore a tratta assorbe mezza giornata, quindi conviene dormire una notte per non ridurre tutto a una corsa. Isola dei Pescatori si aggiunge gratis fra un imbarco e l'altro.",
+      "cosaVedere": [
+        "Isola Bella: Palazzo Borromeo (sale barocche, grotte decorate a conchiglie) e i dieci terrazzamenti del giardino all'italiana con i pavoni bianchi.",
+        "Isola Madre: giardino botanico all'inglese, il più grande delle isole, con collezione di camelie, rododendri e un ciclamino centenario; villa con teatrino di marionette.",
+        "Isola dei Pescatori: borgo di pescatori con case colorate, gratuito, si gira a piedi in mezz'ora fra ristoranti di pesce di lago.",
+        "Lungolago di Stresa e Villa Ducale (esterno); in giornata di sole, funivia per il Mottarone se il tempo lo permette."
+      ],
+      "itinerario": null,
+      "alloggio": "Hotel e B&B a Stresa 72–180 € a notte in doppia, dal semplice in periferia alle strutture con vista lago in centro; prenotare con anticipo nei weekend estivi.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R Firenze–Stresa",
+          "testo": "44–146 € A/R secondo anticipo e tariffa (Frecciarossa/Italo con cambio a Milano; da 22 € a tratta in Super Economy fino a 73 € in tariffa flessibile).",
+          "min": 44,
+          "max": 146,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Battello libera circolazione isole",
+          "testo": "15 € a persona per salire e scendere tutto il giorno fra Stresa, Isola Bella, Isola Madre e Isola dei Pescatori (9:30–18:00), più 0,50 € a isola di tassa di sbarco comunale per chi ne visita più di una.",
+          "min": 15,
+          "max": 17,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Biglietto cumulativo Isola Bella + Isola Madre",
+          "testo": "36,50 € a persona per palazzo e giardini di entrambe le isole (contro 26 + 22 € separati); Isola dei Pescatori è gratuita.",
+          "min": 37,
+          "max": 37,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 1 notte in doppia",
+          "testo": "72–180 € la camera doppia a notte (36–90 € a persona), da hotel semplice in periferia a struttura vista lago in centro Stresa.",
+          "min": 36,
+          "max": 90,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti due giorni",
+          "testo": "pranzo semplice 15–25 € (panini, pizzeria, tavola calda); cena con specialità di lago (persico, risotto) 32–48 €; su due pranzi e una cena si spendono indicativamente 60–100 € a persona.",
+          "min": 60,
+          "max": 100,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Stresa non ha ZTL rilevante per il turista: centro e imbarcadero sono pedonali e a pochi minuti dalla stazione. Le isole si raggiungono solo in battello, non ci sono ponti né traghetti auto."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Palazzi e giardini delle isole sono aperti dal 12 marzo all'8 novembre 2026 (chiusi il resto dell'anno): orario 10–17 (ultimo ingresso) fino al 25 ottobre, poi 10–16 fino all'8 novembre."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per battelli e giardini; nei weekend di alta stagione (giugno–settembre) i battelli per Isola Bella possono avere code, meglio partire presto la mattina."
+        }
+      ],
+      "note": "Il biglietto cumulativo Isola Bella + Isola Madre conviene rispetto ai singoli (26 € e 22 € separati): fa risparmiare oltre 11 €. Non esiste treno diretto da Firenze: il cambio a Milano va messo in conto nella pianificazione degli orari.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/stresa-o8wyf",
+        "https://www.thetrainline.com/en-us/train-times/florence-to-bologna-centrale",
+        "https://www.italotreno.com/en/destinations-timetable/lago-maggiore-trains",
+        "https://www.gruppisoleborromee.it/en/entrance-fees-and-tickets-to-museums-and-gardens/",
+        "https://terreborromeo.it/isola-bella/orari-tariffe",
+        "https://www.goldenmoments.it/biglietti_per_isola_bella-_isola_madre_e_rocca_di_angera-_tariffe_per_gruppi.html",
+        "https://www.skyscanner.it/hotel/italia/stresa-hotel/ci-30373142",
+        "https://www.conoscounposto.com/weekend-lago-maggiore-cosa-vedere-dove-mangiare-stresa-e-dintorni/"
+      ],
+      "aggiuntaIl": "2026-09-14"
+    },
+    {
+      "id": "macedonia-del-nord-7g",
+      "nome": "Macedonia del Nord: Skopje e il Lago di Ohrid",
+      "sottotitolo": "Bazar ottomano, il canyon di Matka e le chiese bizantine sul lago patrimonio UNESCO",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Treno Firenze–Bologna + volo diretto Wizz Air Bologna–Skopje (nessun volo diretto da Firenze o Pisa)",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "circa 3h30–4h porta a porta (treno alta velocità Firenze–Bologna 37min–1h15 + volo diretto Wizz Air di 1h40, più i tempi aeroportuali)",
+      "durataViaggioMinuti": 225,
+      "periodoMiglioreTesto": "Maggio, giugno e settembre: clima continentale, torrido a luglio e agosto",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 366,
+      "costoMax": 1043,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Skopje chiede due giorni pieni fra centro ottomano, fortezza di Kale e la gita di mezza giornata al canyon di Matka; Ohrid, patrimonio UNESCO fra chiese bizantine e lago, ne chiede almeno tre fra città vecchia e la barca a Sveti Naum. Sette giorni bastano per entrambe collegate in bus, senza correre.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: volo e arrivo a Skopje, passeggiata serale nello Stara Čaršija (il Vecchio Bazar, il più grande dei Balcani dopo Istanbul) e cena a base di ćevapi."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: fortezza di Kale, Ponte di Pietra sul Vardar, Chiesa del Santo Salvatore (iconostasi lignea intagliata), Piazza Macedonia con le grandi statue del progetto Skopje 2014."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: gita al canyon di Matka (20 km da Skopje), giro in barca fino alla grotta di Vrelo, breve escursione lungo il lago artificiale, rientro in serata a Skopje."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: bus per Ohrid (circa 3h20), sistemazione e passeggiata serale sul lungolago verso il porticciolo vecchio."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: città vecchia di Ohrid, Chiesa di San Giovanni a Kaneo sullo sperone roccioso, Fortezza dello zar Samuele, Teatro antico e Galleria delle Icone."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: gita in barca al Monastero di Sveti Naum sulle sorgenti del Nero Drin, al confine con l'Albania, con eventuale tappa alla Bay of Bones (palafitte ricostruite)."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: mattina libera a Ohrid, bus di rientro a Skopje e volo per Bologna."
+        }
+      ],
+      "alloggio": "A Skopje hotel e B&B centrali 35–110 € a notte in doppia; a Ohrid guesthouse a conduzione familiare più economiche, 20–70 € a notte in doppia secondo stagione e vicinanza al lago.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Bologna–Skopje",
+          "testo": "Wizz Air diretto (unico collegamento diretto dall'Italia, circa 1h40); tariffe da circa 33 € a tratta prenotando presto, fino a 150–180 € nei periodi di punta.",
+          "min": 66,
+          "max": 360,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Treno A/R Firenze–Bologna",
+          "testo": "10–28 € a tratta secondo anticipo e treno (Regionale Veloce o Frecciarossa, 37min–1h15).",
+          "min": 20,
+          "max": 56,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Navetta aeroporto Skopje A/R",
+          "testo": "3,30 € a tratta (WTransporter, 3 fermate in città, circa 1h); alternativa taxi 25 € a tratta.",
+          "min": 7,
+          "max": 7,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Bus A/R Skopje–Ohrid",
+          "testo": "9–22 € a tratta secondo anticipo e orario (FlixBus e compagnie locali, circa 3h20, 2 corse dirette al giorno).",
+          "min": 18,
+          "max": 44,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 3 notti a Skopje",
+          "testo": "35–110 € a notte in doppia (18–55 € a persona), hotel 3 stelle o B&B centrali.",
+          "min": 54,
+          "max": 165,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 3 notti a Ohrid",
+          "testo": "20–70 € a notte in doppia (10–35 € a persona), guesthouse familiari vicino al lago.",
+          "min": 30,
+          "max": 105,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti sette giorni",
+          "testo": "pranzo economico 5–8 € (ćevapi, burek); cena in ristorante di livello medio 15–24 €; la cucina macedone è fra le più economiche d'Europa.",
+          "min": 140,
+          "max": 260,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Matka Canyon: barca e grotta di Vrelo",
+          "testo": "400–500 denari (circa 7–8 €) per il giro in barca fino alla grotta.",
+          "min": 7,
+          "max": 8,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Ingressi Skopje",
+          "testo": "Chiesa del Santo Salvatore circa 2 €; Kale, Ponte di Pietra e Vecchio Bazar sono gratuiti.",
+          "min": 2,
+          "max": 5,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Gita a Sveti Naum",
+          "testo": "battello A/R da Ohrid, ingresso al monastero e al museo, barca a remi sulle sorgenti: giornata completa indicativamente 20–30 €.",
+          "min": 20,
+          "max": 30,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Fortezza dello zar Samuele",
+          "testo": "circa 2,50–3 € per i visitatori stranieri (120–150 denari).",
+          "min": 2,
+          "max": 3,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nessuna ZTL: i centri storici di Skopje e Ohrid si girano a piedi. Non esistono voli diretti da Firenze o Pisa: il collegamento più rapido è il diretto Wizz Air da Bologna; le alternative comportano uno scalo (Vienna, Roma, Milano)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Galleria delle Icone e il Museo Nazionale di Ohrid chiudono generalmente il lunedì; verificare gli orari stagionali in loco, spesso ridotti fuori dall'estate."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria; il volo Wizz Air Bologna–Skopje ha poche frequenze settimanali, conviene fissare le date del viaggio sull'operativo del volo prima di prenotare bus e alloggi."
+        }
+      ],
+      "note": "Skopje è nota anche per l'architettura monumentale del progetto \"Skopje 2014\" (statue e palazzi neoclassici intorno al Ponte di Pietra), controversa ma ormai parte del panorama urbano. La moneta locale è il denaro macedone (MKD): gli euro non sono sempre accettati fuori dai grandi hotel, meglio prelevare o cambiare in loco. Luglio e agosto sono roventi nella valle del Vardar a Skopje.",
+      "fonti": [
+        "https://www.omio.it/voli/skopje/bologna-cla5x",
+        "https://www.wizzair.com/it-it/voli-economici-da-bologna-a-skopje",
+        "https://www.bologna-airport.it/en/flights/departing-from-bologna/destinations/direct-flights-from-bologna/skopje/",
+        "https://www.thetrainline.com/en-us/train-times/florence-to-bologna-centrale",
+        "https://www.welcomepickups.com/skopje/airport-to-city/",
+        "https://www.flixbus.com/bus-routes/bus-skopje-ohrid",
+        "https://macedoniatop.com/matka-canyon-day-trip-from-skopje/",
+        "https://www.thetripverdict.com/matka-canyon-skopje",
+        "https://travel.thewom.it/macedonia/cosa-vedere-a-skopje.html",
+        "https://macedoniaguidebook.com/attractions/ohrid-boat-trip-sveti-naum/",
+        "https://www.tripadvisor.ca/Attraction_Review-g303864-d318827-Reviews-Tsar_Samuel_s_Fortress-Ohrid_Southwestern_Region.html",
+        "https://prezzi-mondiali.it/macedonia/prezzi-ristoranti",
+        "https://hikersbay.com/prices/macedonia?lang=it",
+        "https://www.budgetyourtrip.com/hotels/macedonia/skopje-785842",
+        "https://www.a-hotel.com/it/macedonia-del-nord/146729-ohrid/",
+        "https://www.columbusassicurazioni.it/guide-di-viaggio/europa/macedonia/skopje/quando-andare-a-skopje/"
+      ],
+      "aggiuntaIl": "2026-09-14"
     }
   ]
 }
