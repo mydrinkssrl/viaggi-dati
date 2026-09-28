@@ -1267,6 +1267,343 @@
         "https://www.columbusassicurazioni.it/guide-di-viaggio/europa/macedonia/skopje/quando-andare-a-skopje/"
       ],
       "aggiuntaIl": "2026-09-14"
+    },
+    {
+      "id": "faenza-1g",
+      "nome": "Faenza",
+      "sottotitolo": "Emilia-Romagna, la città della maiolica lungo la storica linea Faentina",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno regionale diretto da Firenze S.M.N./Campo di Marte sulla storica linea Faentina (Firenze–Borgo San Lorenzo–Faenza), poche corse dirette al giorno; in alternativa Frecciarossa/Italo fino a Bologna Centrale e cambio per Faenza.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 1h56 in treno diretto sulla Faentina; con cambio a Bologna il tempo totale scende a circa 1h30-1h45.",
+      "durataViaggioMinuti": 116,
+      "periodoMiglioreTesto": "Marzo-giugno e settembre-novembre; l'estate è calda e afosa come nel resto della Pianura Padana.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 41,
+      "costoMax": 84,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro storico è compatto e pianeggiante, a dieci minuti a piedi dalla stazione: Piazza del Popolo, la Cattedrale e il MIC coprono una giornata piena, con tempo per la Pinacoteca o una sosta in una delle trattorie del centro. Non richiede un pernottamento.",
+      "cosaVedere": [
+        "MIC - Museo Internazionale delle Ceramiche: la più importante collezione al mondo di ceramica antica, moderna e contemporanea.",
+        "Piazza del Popolo con il Palazzo del Podestà (XII secolo, oggi sede municipale) e i portici storici.",
+        "Cattedrale di San Pietro (1474-1520), facciata rinascimentale su modello fiorentino, e la vicina Pinacoteca Comunale."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "22-27 € in Regionale (da circa 11-13,50 € a tratta); più caro con Frecciarossa/Italo via Bologna.",
+          "min": 22,
+          "max": 27,
+          "tipo": "persona"
+        },
+        {
+          "voce": "MIC - biglietto d'ingresso",
+          "testo": "12 € intero, 9 € ridotto; +2 € durante le mostre temporanee. Gratuito fino a 14 anni.",
+          "min": 9,
+          "max": 14,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pinacoteca Comunale",
+          "testo": "3 € per entrambe le sezioni (Antica e Galleria d'Arte Moderna); gratuita la prima domenica del mese.",
+          "min": 0,
+          "max": 3,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "10-17 € in piadineria o pizzeria, 31-40 € in trattoria con cucina romagnola tipica.",
+          "min": 10,
+          "max": 40,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nessuna ZTL rilevante per chi arriva in treno: dalla stazione il centro è a 10 minuti a piedi in piano."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il MIC chiude il lunedì non festivo; da novembre a marzo l'ingresso nei feriali è solo 10-14 (nel weekend 10-18). Da aprile a ottobre orario 10-19 tutti i giorni tranne il lunedì."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per MIC o Pinacoteca; nei giorni di Argillà Italia (inizio settembre) il MIC osserva orari estesi e maggiore afflusso."
+        }
+      ],
+      "note": "Sulla stessa linea Faentina si può abbinare in giornata anche Brisighella (già in documento con Dozza a 1 giorno), ma i tempi si allungano: valutare se restare solo a Faenza. La linea ha poche corse dirette al giorno: verificare gli orari aggiornati su Trenitalia prima di partire.",
+      "fonti": [
+        "https://www.thetrainline.com/en/train-times/firenze-santa-maria-novella-to-faenza",
+        "https://www.omio.it/treni/firenze/faenza",
+        "https://www.micfaenza.org/organizza-la-tua-visita/",
+        "https://www.pinacotecafaenza.it/",
+        "https://www.paesionline.it/italia/cosa-vedere-faenza",
+        "https://www.tripadvisor.com/Restaurants-g194758-zfp30-Faenza_Province_of_Ravenna_Emilia_Romagna.html"
+      ],
+      "aggiuntaIl": "2026-09-28"
+    },
+    {
+      "id": "zagabria-3g",
+      "nome": "Zagabria",
+      "sottotitolo": "Croazia, fra la Città Alta asburgica e la Città Bassa ottocentesca",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair da Pisa (circa 1h20); nessun volo diretto da Firenze o Bologna verso Zagabria.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 1h20 di volo diretto da Pisa; con voli indiretti da Bologna il tempo sale a 3-5h.",
+      "durataViaggioMinuti": 80,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre, con l'estate (luglio-agosto) gradevole ma più calda; evitare l'inverno da novembre a febbraio (freddo e nebbia), salvo per i mercatini di Natale.",
+      "mesi": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "mesiDaEvitare": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "costoMin": 175,
+      "costoMax": 354,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "La Città Alta e la Città Bassa si visitano a piedi in due giornate piene; il terzo giorno permette un'escursione a Samobor, la cittadina delle kremšnite a mezz'ora di bus, senza dover allungare il soggiorno.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Piazza Ban Jelačić, mercato di Dolac, Cattedrale dell'Assunzione (ingresso libero), funicolare fino alla Città Alta, Torre Lotrščak, Piazza San Marco e la Chiesa di San Marco dal tetto piastrellato."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Museo delle Relazioni Interrotte, Museo Croato d'Arte Naïf, Teatro Nazionale Croato, Monastero di San Francesco, e nel pomeriggio il Cimitero monumentale di Mirogoj."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: gita di mezza giornata a Samobor (bus da Autobusni Kolodvor, circa 30-40 minuti), passeggiata al castello medievale e assaggio della kremšnita in piazza; rientro in giornata e volo di ritorno."
+        }
+      ],
+      "alloggio": "Hotel 3 stelle o B&B in Città Bassa, vicino alla stazione o a Piazza Ban Jelačić: comodi a piedi per entrambe le zone storiche.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Pisa-Zagabria (Ryanair)",
+          "testo": "Da circa 37 € nelle offerte migliori a 90 € in bassa stagione con bagaglio a mano incluso; diretto, circa 1h20.",
+          "min": 37,
+          "max": 90,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento, 2 notti",
+          "testo": "40-80 € a notte in hotel 3 stelle o B&B centrale (da 21 € in ostello); per 2 notti 80-160 €.",
+          "min": 80,
+          "max": 160,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Ingressi (Museo Relazioni Interrotte, Torre Lotrščak, Museo Naïf, funicolare)",
+          "testo": "Relazioni Interrotte circa 7 €, Torre Lotrščak da 3 €, Museo Naïf 5,50 € (gratis il venerdì), funicolare 0,66 € a corsa; Cattedrale gratuita.",
+          "min": 16,
+          "max": 16,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Gita a Samobor",
+          "testo": "Bus A/R da Zagabria circa 6-10 €; nessun costo d'ingresso al borgo, solo il conto in pasticceria per la kremšnita.",
+          "min": 6,
+          "max": 10,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti",
+          "testo": "12-26 € a pasto in konoba o trattoria tipica; menù fast food circa 7 €. Stima per 3 giorni.",
+          "min": 36,
+          "max": 78,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Città Alta collegata alla Città Bassa dalla funicolare (66 metri, fra le più corte al mondo) o da una breve salita a piedi; nessuna auto necessaria in centro."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Musei generalmente aperti tutti i giorni con orari ridotti la domenica; verificare gli orari del Museo Naïf e delle Relazioni Interrotte in bassa stagione."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Consigliato acquistare online il biglietto del Museo delle Relazioni Interrotte per saltare la fila nei weekend estivi; i voli Ryanair convengono prenotati con largo anticipo."
+        }
+      ],
+      "note": "Il volo Pisa-Zagabria è una rotta Ryanair soggetta a variazioni stagionali: verificare la disponibilità sulle date scelte, specie fuori stagione estiva. Dicembre è un'eccezione al clima invernale sfavorevole per i celebri mercatini di Natale, ma con prezzi più alti e giornate corte.",
+      "fonti": [
+        "https://www.ryanair.com/flights/it/it/voli-da-pisa-a-zagreb",
+        "https://www.momondo.it/volo/pisa/zagabria",
+        "https://www.kayak.it/voli/Pisa-San-Giusto-PSA/Zagabria-Franjo-Tuman-ZAG",
+        "https://hikersbay.com/prices/croatia/zagreb?lang=it",
+        "https://www.travel365.it/zagabria-itinerario-3-giorni.htm",
+        "https://www.travel365.it/zagabria-cosa-vedere.htm",
+        "https://www.getyourguide.com/zagreb-l803/zagreb-museum-of-broken-relationships-skip-the-line-ticket-t390064/",
+        "https://www.travel365.it/escursioni-dintorni-zagabria.htm",
+        "https://www.travel365.it/zagabria-quando-andare.htm",
+        "https://www.infozagreb.hr/en/travel-plan/traveling-in-town/public-transport-and-parking/funicular-en",
+        "https://www.ilturista.info/ugc/info/da_visitare/1214-Il_Museo_Croato_di_Arte_Naif_a_Zagabria_il_primo_museo_d_opere_naif_al_mondo/"
+      ],
+      "aggiuntaIl": "2026-09-28"
+    },
+    {
+      "id": "kenya-14g",
+      "nome": "Kenya",
+      "sottotitolo": "Africa orientale: la savana del Masai Mara e le spiagge dell'Oceano Indiano a Diani",
+      "durataGiorni": 14,
+      "mezzoConsigliato": "Volo con uno scalo (Doha, Istanbul, Addis Abeba o Amsterdam) da Roma o Milano verso Nairobi; nessun collegamento diretto dalla Toscana o dall'Emilia-Romagna, va aggiunto un volo o treno di adduzione verso l'aeroporto di partenza.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 10-13h di volo totali con uno scalo, cui aggiungere il trasferimento verso Roma o Milano.",
+      "durataViaggioMinuti": 660,
+      "periodoMiglioreTesto": "Da giugno a ottobre (stagione secca, safari migliori) e gennaio-febbraio; la Grande Migrazione nel Masai Mara è tipicamente da luglio a ottobre, ma in questi mesi l'ingresso al parco raddoppia di prezzo.",
+      "mesi": [
+        1,
+        2,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        4,
+        5,
+        11
+      ],
+      "costoMin": 2551,
+      "costoMax": 3892,
+      "costoNota": "Pacchetti interamente organizzati con volo, hotel 4-5 stelle, safari e assicurazione completa partono da circa 5.400 € (fonte Viagea): qui la stima è per un itinerario indipendente da costruire da sé (volo di linea + safari organizzato + estensione mare), più economico ma che richiede più organizzazione.",
+      "dipendenzaAuto": "autista-tour",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Una settimana di safari multi-parco (i trasferimenti fra le riserve sono lunghi, i game drive migliori sono all'alba e al tramonto) più una settimana di mare a Diani per recuperare: sotto le due settimane si deve rinunciare a uno dei due elementi o ridurre il numero di parchi.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: arrivo a Nairobi, transfer e pernottamento."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorni 2-7: safari organizzato multi-parco (Masai Mara, Lago Nakuru, Amboseli) in fuoristrada 4x4 con guida, pernottamento in lodge o tented camp, pasti e ingressi ai parchi inclusi nel pacchetto."
+        },
+        {
+          "giorno": 8,
+          "testo": "Giorno 8: rientro a Nairobi e trasferimento (volo interno o su strada) verso la costa di Diani."
+        },
+        {
+          "giorno": 9,
+          "testo": "Giorni 9-13: mare a Diani Beach, sabbia bianca e barriera corallina; escursioni opzionali alla Foresta di Shimba Hills o snorkeling e dhow al tramonto."
+        },
+        {
+          "giorno": 14,
+          "testo": "Giorno 14: rientro in Italia con volo notturno o diurno secondo la coincidenza."
+        }
+      ],
+      "alloggio": "Lodge o tented camp nei parchi durante il safari (incluso nel pacchetto); resort sulla spiaggia di Diani per l'estensione mare (es. Diani Reef, Diamonds Leisure, Jacaranda o strutture più economiche come Tombo House).",
+      "costiDettaglio": [
+        {
+          "voce": "Volo intercontinentale A/R Milano/Roma-Nairobi (con scalo)",
+          "testo": "353-600 € secondo stagione e anticipo di prenotazione; aggiungere il collegamento verso l'aeroporto di partenza dalla Toscana.",
+          "min": 353,
+          "max": 600,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Safari organizzato 7 giorni (Masai Mara, Nakuru, Amboseli: 4x4, guida, pernottamenti, pasti e ingressi ai parchi)",
+          "testo": "1.600 € a persona in media secondo gli operatori locali; pacchetti equivalenti di agenzie italiane per lo stesso circuito arrivano a 2.200 €.",
+          "min": 1600,
+          "max": 2200,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Estensione mare a Diani, 6 notti",
+          "testo": "Resort da 89 a 160 $ (circa 80-145 €) a notte; per 6 notti 480-870 €.",
+          "min": 480,
+          "max": 870,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Kenya eTA (autorizzazione elettronica)",
+          "testo": "30 $ di tassa governativa (circa 34 $ con la commissione di elaborazione); richiedere solo sul sito ufficiale etakenya.go.ke.",
+          "min": 28,
+          "max": 32,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti fuori dal pacchetto safari (a Diani)",
+          "testo": "Pasto economico 1,60-4,80 €, ristorante di fascia media 12-32 € a persona; stima per 6 giorni.",
+          "min": 90,
+          "max": 190,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Totale",
+          "testo": "2.551-3.892 € circa per un itinerario indipendente; supera i 5.000 € scegliendo un tour interamente organizzato con hotel 4-5 stelle e assicurazione inclusa.",
+          "min": 2551,
+          "max": 3892,
+          "tipo": "persona",
+          "confronto": true
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "L'ingresso alla Masai Mara National Reserve costa 100 $ al giorno a persona da gennaio a giugno 2026 e sale a 200 $ da luglio a dicembre 2026, quando c'è la Grande Migrazione: incide molto sul prezzo del safari nei mesi di punta."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La eTA va richiesta online prima della partenza (approvazione tipica in 24-72h); i safari organizzati e i voli intercontinentali convengono prenotati con largo anticipo, soprattutto in alta stagione."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Nessuna chiusura stagionale dei parchi, ma nella stagione delle piogge (marzo-maggio, novembre) le piste possono essere impraticabili e alcuni lodge chiudono."
+        }
+      ],
+      "note": "Vaccinazioni e profilassi antimalarica sono da valutare col proprio medico con largo anticipo (febbre gialla obbligatoria solo se si arriva da un paese a rischio). Nessun volo diretto dalla Toscana o dall'Emilia-Romagna: aggiungere il collegamento verso Roma o Milano nel budget e nei tempi di viaggio.",
+      "fonti": [
+        "https://www.momondo.it/volo/milano/aeroporto-internazionale-jomo-kenyatta-nbo",
+        "https://www.momondo.it/volo/milano/nairobi",
+        "https://www.barakasafarikenya.it/quanto-costa-un-safari-in-kenya/",
+        "https://www.logitravel.it/grandi-viaggi/africa/kenya/tour/tour-classico/kenya-masai-mara-naivasha-e-amboseli-7-giorni.html",
+        "https://www.iwsafari.com/viaggi/kenya/safari-lodge/kenya-i-grandi-laghi-amboseli-e-il-masai-mara",
+        "https://www.tripadvisor.com/Hotels-g775870-zff8-Diani_Beach_Ukunda_Coast_Province-Hotels.html",
+        "https://www.expedia.com/Diani-Beach-Hotels.d6058779.Travel-Guide-Hotels",
+        "https://etakenya.go.ke/",
+        "https://themasaimara.com/masai-mara-entrance-fee/",
+        "https://www.amicokenya.com/quanto-costa-un-viaggio-in-kenya-budget-e-consigli-per-risparmiare/",
+        "https://www.spiaggedasogno.com/quanto-costa-un-viaggio-in-kenya-prezzi-aggiornati/",
+        "https://viagea.it/cosa-fare-in-kenya/"
+      ],
+      "aggiuntaIl": "2026-09-28"
     }
   ]
 }
