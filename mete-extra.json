@@ -2,6 +2,98 @@
   "$schema": "vedi data/METE-EXTRA.md",
   "mete": [
     {
+      "id": "faenza-1g",
+      "nome": "Faenza",
+      "sottotitolo": "Emilia-Romagna, la città della maiolica lungo la storica linea Faentina",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno regionale diretto da Firenze S.M.N./Campo di Marte sulla storica linea Faentina (Firenze–Borgo San Lorenzo–Faenza), poche corse dirette al giorno; in alternativa Frecciarossa/Italo fino a Bologna Centrale e cambio per Faenza.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 1h56 in treno diretto sulla Faentina; con cambio a Bologna il tempo totale scende a circa 1h30-1h45.",
+      "durataViaggioMinuti": 116,
+      "periodoMiglioreTesto": "Marzo-giugno e settembre-novembre; l'estate è calda e afosa come nel resto della Pianura Padana.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 41,
+      "costoMax": 84,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro storico è compatto e pianeggiante, a dieci minuti a piedi dalla stazione: Piazza del Popolo, la Cattedrale e il MIC coprono una giornata piena, con tempo per la Pinacoteca o una sosta in una delle trattorie del centro. Non richiede un pernottamento.",
+      "cosaVedere": [
+        "MIC - Museo Internazionale delle Ceramiche: la più importante collezione al mondo di ceramica antica, moderna e contemporanea.",
+        "Piazza del Popolo con il Palazzo del Podestà (XII secolo, oggi sede municipale) e i portici storici.",
+        "Cattedrale di San Pietro (1474-1520), facciata rinascimentale su modello fiorentino, e la vicina Pinacoteca Comunale."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "22-27 € in Regionale (da circa 11-13,50 € a tratta); più caro con Frecciarossa/Italo via Bologna.",
+          "min": 22,
+          "max": 27,
+          "tipo": "persona"
+        },
+        {
+          "voce": "MIC - biglietto d'ingresso",
+          "testo": "12 € intero, 9 € ridotto; +2 € durante le mostre temporanee. Gratuito fino a 14 anni.",
+          "min": 9,
+          "max": 14,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pinacoteca Comunale",
+          "testo": "3 € per entrambe le sezioni (Antica e Galleria d'Arte Moderna); gratuita la prima domenica del mese.",
+          "min": 0,
+          "max": 3,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "10-17 € in piadineria o pizzeria, 31-40 € in trattoria con cucina romagnola tipica.",
+          "min": 10,
+          "max": 40,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nessuna ZTL rilevante per chi arriva in treno: dalla stazione il centro è a 10 minuti a piedi in piano."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il MIC chiude il lunedì non festivo; da novembre a marzo l'ingresso nei feriali è solo 10-14 (nel weekend 10-18). Da aprile a ottobre orario 10-19 tutti i giorni tranne il lunedì."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per MIC o Pinacoteca; nei giorni di Argillà Italia (inizio settembre) il MIC osserva orari estesi e maggiore afflusso."
+        }
+      ],
+      "note": "Sulla stessa linea Faentina si può abbinare in giornata anche Brisighella (già in documento con Dozza a 1 giorno), ma i tempi si allungano: valutare se restare solo a Faenza. La linea ha poche corse dirette al giorno: verificare gli orari aggiornati su Trenitalia prima di partire.",
+      "fonti": [
+        "https://www.thetrainline.com/en/train-times/firenze-santa-maria-novella-to-faenza",
+        "https://www.omio.it/treni/firenze/faenza",
+        "https://www.micfaenza.org/organizza-la-tua-visita/",
+        "https://www.pinacotecafaenza.it/",
+        "https://www.paesionline.it/italia/cosa-vedere-faenza",
+        "https://www.tripadvisor.com/Restaurants-g194758-zfp30-Faenza_Province_of_Ravenna_Emilia_Romagna.html"
+      ],
+      "aggiuntaIl": "2026-09-28"
+    },
+    {
       "id": "parma-1g",
       "nome": "Parma",
       "sottotitolo": "Emilia-Romagna, capitale della Food Valley e del Correggio",
@@ -90,6 +182,109 @@
         "https://www.rfi.it/it/news-e-media/infomobilita/avvisi/2026/4/1/linea-bologna-parma.html"
       ],
       "aggiuntaIl": "2026-08-21"
+    },
+    {
+      "id": "piacenza-1g",
+      "nome": "Piacenza",
+      "sottotitolo": "Emilia-Romagna, il Duomo, Palazzo Farnese e la pittura di Ricci Oddi",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. con cambio a Bologna, sulla linea alta velocità Bologna–Milano",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "da circa 2h a 2h50 secondo il collegamento, quasi sempre con cambio a Bologna",
+      "durataViaggioMinuti": 134,
+      "periodoMiglioreTesto": "Metà aprile – metà giugno e settembre",
+      "mesi": [
+        4,
+        5,
+        6,
+        9
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 54,
+      "costoMax": 127,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro storico è compatto e pianeggiante: Duomo, Palazzo Farnese, Basilica di Sant'Antonino e Palazzo Gotico stanno tutti entro dieci minuti a piedi dalla stazione. Una giornata piena copre il nucleo monumentale con calma, lasciando spazio a una sosta gastronomica e, per chi vuole, alla Galleria Ricci Oddi.",
+      "cosaVedere": [
+        "Duomo di Piacenza: ingresso gratuito, aperto 8:30–12:30 e 15:30–19:30; salita alla cupola solo su prenotazione (obbligatoria nei giorni feriali entro le 12, consigliata nel weekend).",
+        "Palazzo Farnese – Musei Civici (Pinacoteca, Museo Civico, sezione archeologica): 10 € intero, 7 € ridotto; 1 € la prima domenica del mese; chiuso il lunedì.",
+        "Basilica di Sant'Antonino: ingresso libero, una delle più antiche basiliche paleocristiane della Lombardia storica.",
+        "Palazzo Gotico (Palazzo Comunale): dal giugno 2026 il Salone Monumentale è visitabile, biglietto 2 €.",
+        "Galleria Ricci Oddi (arte moderna, facoltativa): 5 € il ridotto (il prezzo intero non è stato reperito su fonte verificabile); chiusa 1 gennaio, 1 maggio, 15 agosto, 25 dicembre."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "20–35 € con la combinazione Regionale via Bologna prenotando presto, 40–85 € con Frecciarossa/Italo; le fonti divergono sui tempi (da 2h a 2h50) e sulle tariffe, verificare su Trenitalia prima di partire.",
+          "min": 20,
+          "max": 85,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Palazzo Farnese – Musei Civici",
+          "testo": "10 € intero, 7 € ridotto (6–18 anni, studenti); 1 € la prima domenica del mese.",
+          "min": 7,
+          "max": 10,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Palazzo Gotico – Salone Monumentale",
+          "testo": "2 € (apertura al pubblico da giugno 2026, informazione recente da verificare vicino alla partenza).",
+          "min": 2,
+          "max": 2,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Galleria Ricci Oddi (facoltativa)",
+          "testo": "5 € il biglietto ridotto; il prezzo intero non è stato trovato su una fonte verificabile e resta escluso dal totale.",
+          "min": null,
+          "max": null,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "25–30 € in una trattoria tipica (lardo piacentino, tortelli di magro, pisarei e fasö); un pranzo veloce costa meno ma non è stato trovato un prezzo verificabile.",
+          "min": 25,
+          "max": 30,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico è in ZTL attiva tutti i giorni 8:00–19:00 (con una zona pedonale interna sempre chiusa alle auto): irrilevante per chi arriva in treno, la stazione è raggiungibile a piedi dal centro."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Palazzo Farnese chiude il lunedì. La Galleria Ricci Oddi ha orario ridotto martedì-giovedì mattina (9:30–13:00) e apre tutto il giorno venerdì-domenica (9:30–18:00)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La salita alla cupola del Duomo richiede prenotazione obbligatoria nei giorni feriali (entro le 12 dello stesso giorno) e consigliata nel weekend. La visita guidata gratuita di Palazzo Farnese nel weekend richiede prenotazione."
+        }
+      ],
+      "note": "Le fonti consultate divergono sui tempi di percorrenza (da 2h a 2h50) e sulle tariffe ferroviarie: conviene controllare l'app Trenitalia vicino alla data di partenza. L'estate in Pianura Padana è calda e afosa: preferire la finestra aprile-giugno o settembre.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/piacenza",
+        "https://it.trip.com/treni/italia/viaggio/firenze-piacenza/",
+        "https://www.thetrainline.com/en/train-times/piacenza-to-florence",
+        "https://cattedralepiacenza.it/la-struttura/orari-e-biglietti/",
+        "https://www.palazzofarnese.piacenza.it/en/page/84133",
+        "https://collipiacentini.it/piacenza-cosa-vedere/palazzo-farnese-piacenza/",
+        "https://www.comune.piacenza.it/it/vivere/palazzo-gotico",
+        "https://riccioddi.it/visita.php",
+        "https://www.agriturismolabroncarda.it/costo-trattoria-ristorante-con-piatti-tipici-parma-piacenza/",
+        "https://www.comune.piacenza.it/it/topics/ztl",
+        "https://www.climieviaggi.it/clima/italia/piacenza"
+      ],
+      "aggiuntaIl": "2026-09-07"
     },
     {
       "id": "bergamo-2g",
@@ -194,6 +389,240 @@
         "https://www.bergamoperte.com/info-pratiche.html"
       ],
       "aggiuntaIl": "2026-08-21"
+    },
+    {
+      "id": "lago-maggiore-2g",
+      "nome": "Lago Maggiore e Isole Borromee",
+      "sottotitolo": "Stresa, Isola Bella e Isola Madre: ville e giardini barocchi affacciati sull'acqua",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno alta velocità Firenze–Milano con cambio, poi Milano–Stresa (nessun collegamento diretto)",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "4h07–4h24 in treno con cambio a Milano Centrale (13 collegamenti al giorno fra Frecciarossa, Italo e Intercity)",
+      "durataViaggioMinuti": 247,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre, quando le isole sono aperte ma meno affollate e calde di luglio–agosto",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 192,
+      "costoMax": 390,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Stresa e le due isole principali (Bella e Madre) si visitano con calma in una giornata e mezza: il viaggio di oltre quattro ore a tratta assorbe mezza giornata, quindi conviene dormire una notte per non ridurre tutto a una corsa. Isola dei Pescatori si aggiunge gratis fra un imbarco e l'altro.",
+      "cosaVedere": [
+        "Isola Bella: Palazzo Borromeo (sale barocche, grotte decorate a conchiglie) e i dieci terrazzamenti del giardino all'italiana con i pavoni bianchi.",
+        "Isola Madre: giardino botanico all'inglese, il più grande delle isole, con collezione di camelie, rododendri e un ciclamino centenario; villa con teatrino di marionette.",
+        "Isola dei Pescatori: borgo di pescatori con case colorate, gratuito, si gira a piedi in mezz'ora fra ristoranti di pesce di lago.",
+        "Lungolago di Stresa e Villa Ducale (esterno); in giornata di sole, funivia per il Mottarone se il tempo lo permette."
+      ],
+      "itinerario": null,
+      "alloggio": "Hotel e B&B a Stresa 72–180 € a notte in doppia, dal semplice in periferia alle strutture con vista lago in centro; prenotare con anticipo nei weekend estivi.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R Firenze–Stresa",
+          "testo": "44–146 € A/R secondo anticipo e tariffa (Frecciarossa/Italo con cambio a Milano; da 22 € a tratta in Super Economy fino a 73 € in tariffa flessibile).",
+          "min": 44,
+          "max": 146,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Battello libera circolazione isole",
+          "testo": "15 € a persona per salire e scendere tutto il giorno fra Stresa, Isola Bella, Isola Madre e Isola dei Pescatori (9:30–18:00), più 0,50 € a isola di tassa di sbarco comunale per chi ne visita più di una.",
+          "min": 15,
+          "max": 17,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Biglietto cumulativo Isola Bella + Isola Madre",
+          "testo": "36,50 € a persona per palazzo e giardini di entrambe le isole (contro 26 + 22 € separati); Isola dei Pescatori è gratuita.",
+          "min": 37,
+          "max": 37,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 1 notte in doppia",
+          "testo": "72–180 € la camera doppia a notte (36–90 € a persona), da hotel semplice in periferia a struttura vista lago in centro Stresa.",
+          "min": 36,
+          "max": 90,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti due giorni",
+          "testo": "pranzo semplice 15–25 € (panini, pizzeria, tavola calda); cena con specialità di lago (persico, risotto) 32–48 €; su due pranzi e una cena si spendono indicativamente 60–100 € a persona.",
+          "min": 60,
+          "max": 100,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Stresa non ha ZTL rilevante per il turista: centro e imbarcadero sono pedonali e a pochi minuti dalla stazione. Le isole si raggiungono solo in battello, non ci sono ponti né traghetti auto."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Palazzi e giardini delle isole sono aperti dal 12 marzo all'8 novembre 2026 (chiusi il resto dell'anno): orario 10–17 (ultimo ingresso) fino al 25 ottobre, poi 10–16 fino all'8 novembre."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per battelli e giardini; nei weekend di alta stagione (giugno–settembre) i battelli per Isola Bella possono avere code, meglio partire presto la mattina."
+        }
+      ],
+      "note": "Il biglietto cumulativo Isola Bella + Isola Madre conviene rispetto ai singoli (26 € e 22 € separati): fa risparmiare oltre 11 €. Non esiste treno diretto da Firenze: il cambio a Milano va messo in conto nella pianificazione degli orari.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/stresa-o8wyf",
+        "https://www.thetrainline.com/en-us/train-times/florence-to-bologna-centrale",
+        "https://www.italotreno.com/en/destinations-timetable/lago-maggiore-trains",
+        "https://www.gruppisoleborromee.it/en/entrance-fees-and-tickets-to-museums-and-gardens/",
+        "https://terreborromeo.it/isola-bella/orari-tariffe",
+        "https://www.goldenmoments.it/biglietti_per_isola_bella-_isola_madre_e_rocca_di_angera-_tariffe_per_gruppi.html",
+        "https://www.skyscanner.it/hotel/italia/stresa-hotel/ci-30373142",
+        "https://www.conoscounposto.com/weekend-lago-maggiore-cosa-vedere-dove-mangiare-stresa-e-dintorni/"
+      ],
+      "aggiuntaIl": "2026-09-14"
+    },
+    {
+      "id": "trento-2g",
+      "nome": "Trento",
+      "sottotitolo": "Trentino, il Concilio, il Castello del Buonconsiglio e il MUSE sull'Adige",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Frecciarossa diretto da Firenze S.M.N. via Bologna e Verona, senza cambio",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "2h41 in Frecciarossa diretto, circa 10 collegamenti al giorno fra alta velocità e regionali",
+      "durataViaggioMinuti": 161,
+      "periodoMiglioreTesto": "Metà aprile – metà giugno e settembre; i mercatini di Natale aprono a fine novembre",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        12
+      ],
+      "mesiDaEvitare": [
+        1
+      ],
+      "costoMin": 135,
+      "costoMax": 300,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il Castello del Buonconsiglio e il Duomo riempiono una prima giornata; il MUSE e una mezza giornata a Rovereto (MART o la Campana dei Caduti, 15-29 minuti di treno) completano la visita senza correre: sotto i due giorni si deve rinunciare al MUSE o a Rovereto.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: arrivo, Piazza Duomo e Cattedrale di San Vigilio (gratuita), Basilica Paleocristiana e Museo Diocesano/Palazzo Pretorio, pomeriggio al Castello del Buonconsiglio (prenotazione consigliata, obbligatoria per la Torre Aquila)."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina al MUSE - Museo delle Scienze (biglietto online consigliato), pomeriggio mezza giornata a Rovereto in treno (facoltativo: MART o Campana dei Caduti Maria Dolens), rientro in serata."
+        }
+      ],
+      "alloggio": "B&B e hotel 3 stelle in centro 80–180 € a notte per una doppia secondo la stagione (40–90 € a persona), aggregato Booking.com; tariffe più basse a gennaio-febbraio, più alte in estate e durante i mercatini di Natale.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "da circa 25 € prenotando con anticipo (due tratte Frecciarossa Firenze-Trento), fino a 69-89 € per tratta con la tariffa ufficiale Trenitalia 'Andata e Ritorno in giornata' Standard/Business, presa come riferimento del tetto tariffario.",
+          "min": 25,
+          "max": 90,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 1 notte",
+          "testo": "80–180 € in doppia (40–90 € a persona), aggregato Booking.com; punte più basse fuori stagione.",
+          "min": 40,
+          "max": 90,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Castello del Buonconsiglio",
+          "testo": "10 € intero, 8 € ridotto (under 26/over 65); +2,50 € per la Torre Aquila.",
+          "min": 8,
+          "max": 13,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Basilica Paleocristiana e Museo Diocesano/Palazzo Pretorio",
+          "testo": "5 € ridotto, 7 € intero (10 € l'ingresso serale); la Cattedrale di San Vigilio è gratuita.",
+          "min": 5,
+          "max": 10,
+          "tipo": "persona"
+        },
+        {
+          "voce": "MUSE - Museo delle Scienze",
+          "testo": "11 € intero, 9 € ridotto.",
+          "min": 9,
+          "max": 11,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti due giorni",
+          "testo": "25-45 € a pasto in trattoria tipica trentina (canederli, polenta, strudel); un pranzo veloce costa meno.",
+          "min": 50,
+          "max": 90,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Rovereto (facoltativa, mezza giornata)",
+          "testo": "treno Trento-Rovereto 15-29 minuti, frequente; MART 15 € intero/10 € ridotto oppure Campana dei Caduti Maria Dolens 3 €.",
+          "min": 5,
+          "max": 18,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico ha una ZTL su due zone (pedonale e centro storico) con controllo tramite telecamere: riguarda solo chi arriva in auto, non chi arriva in treno."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Castello del Buonconsiglio chiude i lunedì non festivi e il 25 dicembre. Il MUSE chiude il lunedì e il 25 dicembre. Il Museo Diocesano chiude il martedì."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il Castello del Buonconsiglio richiede di fatto la prenotazione (online o telefonica); la Torre Aquila ha ingressi a orario fisso ogni 45 minuti, da prenotare con almeno 45 minuti di anticipo. Il biglietto online del MUSE è consigliato, non obbligatorio."
+        }
+      ],
+      "note": "Le fonti divergono sulla durata media del viaggio (il Frecciarossa diretto impiega 2h41, ma alcune medie aggregate includono anche itinerari più lenti con cambi): verificare l'orario esatto su Trenitalia. I mercatini di Natale di Trento si tengono dal 20 novembre 2026 al 6 gennaio 2027 in Piazza Fiera e Piazza Mostra.",
+      "fonti": [
+        "https://www.omio.it/treni/trento/firenze-pwb1k",
+        "https://www.omio.it/treni/trento/firenze-dne1r",
+        "https://www.trenitalia.com/it/offerte_e_servizi/andata_e_ritornoingiornata.html",
+        "https://www.buonconsiglio.it/en/buy/",
+        "https://www.buonconsiglio.it/en/castello-del-buonconsiglio/plan-your-visit-to-buonconsiglio-castle/",
+        "https://www.buonconsiglio.it/en/visit/",
+        "https://www.muse.it/en/home/plan-your-visit/",
+        "https://www.muse.it/vuoi-visitare-il-muse-e-le-sue-sedi-territoriali-acquista-il-biglietto-online/",
+        "https://www.cattedralesanvigilio.it/visita/",
+        "https://www.museodiocesanotridentino.it/pagine/orari-e-contatti-sede-di-trento",
+        "https://www.museodiocesanotridentino.it/pagine/orari-e-biglietti-basilica-paleocristiana",
+        "https://www.mart.tn.it/biglietti",
+        "https://www.mart.tn.it/orari",
+        "https://www.fondazioneoperacampana.it/it/informazioni-orari-e-prezzi.html",
+        "https://www.booking.com/city/it/trento.it.html",
+        "https://ritaglidiviaggio.it/2024/01/22/dove-mangiare-a-trento-spendendo-poco/",
+        "https://www.travel365.it/trento-quando-andare.htm",
+        "https://www.climieviaggi.it/clima/italia/trento",
+        "https://natale.visittrento.it/en/christmas-market",
+        "https://www.comune.trento.it/Vivere-il-Comune/Guide/Guida-alla-Ztl",
+        "https://www.e656.net/orario/collegamenti/trento/rovereto.html"
+      ],
+      "aggiuntaIl": "2026-09-07"
     },
     {
       "id": "lisbona-3g",
@@ -330,6 +759,249 @@
       "aggiuntaIl": "2026-08-21"
     },
     {
+      "id": "sofia-plovdiv-3g",
+      "nome": "Sofia e Plovdiv",
+      "sottotitolo": "Bulgaria: la cripta di Alessandro Nevskij e la città vecchia romana di Plovdiv",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair da Pisa o Bologna (nessun collegamento diretto da Firenze)",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "1h50 da Bologna, 2h10 da Pisa; nessun volo diretto da Firenze",
+      "durataViaggioMinuti": 110,
+      "periodoMiglioreTesto": "Maggio, oppure settembre-ottobre",
+      "mesi": [
+        5,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        7,
+        8
+      ],
+      "costoMin": 200,
+      "costoMax": 500,
+      "costoNota": "L'adozione dell'euro in Bulgaria nel 2026 ha fatto salire diversi prezzi al consumo: verificare i costi vicino alla partenza.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Sofia si visita comodamente in un giorno e mezzo (Nevskij, Boyana, Museo di Storia), Plovdiv con il teatro romano e il quartiere Kapana ne riempie un altro: tre giorni bastano per entrambe le città senza la fretta imposta dalle poche frequenze del volo diretto.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: volo diretto da Bologna o Pisa a Sofia, arrivo, passeggiata su Vitosha Boulevard, Cattedrale di Alessandro Nevskij e visita alla cripta/museo di arte cristiana."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina al Museo Nazionale di Storia e alla Chiesa di Boyana (UNESCO, visita di soli 10 minuti all'interno), primo pomeriggio in treno per Plovdiv (2h30-3h30), sera nella città vecchia e nel quartiere Kapana."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Teatro Romano e Stadio Romano di Plovdiv, Museo Etnografico Regionale, treno di ritorno a Sofia e volo di rientro in serata."
+        }
+      ],
+      "alloggio": "Hotel 2-3 stelle 40-150 € a notte per una doppia sia a Sofia sia a Plovdiv secondo categoria e stagione (aggregati Kayak/Booking/Tripadvisor, cifre in USD convertite); punte più basse ad aprile, più alte a giugno.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R da Bologna o Pisa",
+          "testo": "50-150 € prenotando con anticipo (Ryanair, unica compagnia con voli diretti, 2-4 frequenze settimanali secondo la tratta); tariffe last-minute possono salire molto oltre, anche 250-350 €.",
+          "min": 50,
+          "max": 150,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Treno o bus Sofia-Plovdiv A/R",
+          "testo": "treno BDZ da 6 € a tratta (12-15 corse al giorno, 2h30-3h30), bus da 10-20 € a tratta (Flixbus e altri, 1h40-2h).",
+          "min": 12,
+          "max": 20,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 2 notti",
+          "testo": "40-150 € a notte in doppia secondo città e stagione (20-75 € a persona), aggregati Kayak/Booking/Tripadvisor in USD convertiti.",
+          "min": 40,
+          "max": 140,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Ingressi principali di Sofia",
+          "testo": "cripta/museo di Alessandro Nevskij 8 BGN intero/4 BGN ridotto (circa 4/2 €); Chiesa di Boyana 12 BGN/2 BGN ridotto (circa 6/1 €); Museo Nazionale di Storia 5 BGN (circa 2,50 €).",
+          "min": 5,
+          "max": 13,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Ingressi principali di Plovdiv",
+          "testo": "Teatro Romano 7-8 BGN intero/2-3 BGN ridotto (circa 4/1,50 €); Museo Etnografico Regionale circa 6 BGN (circa 3 €); Stadio Romano gratuito nella parte esterna.",
+          "min": 3,
+          "max": 7,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti tre giorni",
+          "testo": "pasto economico 10-11 €, cena in ristorante di fascia media 20 € a persona; media di spesa giornaliera per il cibo a Sofia stimata in circa 58 €/giorno da fonti aggregate sui viaggiatori, ma i prezzi sono saliti dopo l'adozione dell'euro nel 2026.",
+          "min": 90,
+          "max": 174,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nessun volo diretto da Firenze: solo Bologna e Pisa hanno collegamento diretto Ryanair, con poche frequenze settimanali. Ingresso con carta d'identità o passaporto validi (la Bulgaria è entrata nell'area Schengen via aria/mare dal marzo 2024 e via terra dal gennaio 2025); alcune fonti segnalano rifiuti di ingresso con carte d'identità italiane danneggiate o rinnovate con adesivo, meglio portare anche il passaporto."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La cripta della Cattedrale di Alessandro Nevskij chiude il lunedì. La Chiesa di Boyana ha orario stagionale: aprile-ottobre 9:30-18:00, novembre-marzo 9:00-17:30."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per singoli visitatori alla Chiesa di Boyana (solo per gruppi organizzati, via email); conviene però costruire le date del viaggio sulle poche frequenze settimanali del volo diretto prima di prenotare alloggio e treni."
+        }
+      ],
+      "note": "Diverse fonti sui prezzi bulgari sono precedenti o immediatamente successive all'adozione dell'euro nel 2026 e mostrano rincari significativi rispetto agli aggregatori più vecchi: trattare i costi come indicativi e verificarli vicino alla partenza. Verificare anche la scheda paese del Ministero degli Esteri (Viaggiare Sicuri) per gli aggiornamenti sull'ingresso.",
+      "fonti": [
+        "https://www.ryanair.com/flights/ie/en/flights-from-bologna-to-sofia",
+        "https://www.flightconnections.com/flights-from-blq-to-sof",
+        "https://corporate.ryanair.com/news/ryanairs-new-summer-2025-sofia-pisa-route-takes-off/",
+        "https://www.flightsfrom.com/PSA-SOF",
+        "https://www.kiwi.com/en/cheap-flights/sofia-bulgaria/pisa-italy/",
+        "https://www.omio.com/trains/sofia/plovdiv-w95ea",
+        "https://www.omio.com/buses/sofia/plovdiv",
+        "https://us.trip.com/travel-guide/attraction/sofia/alexander-nevsky-crypt-museum-62003381/",
+        "https://boyanachurch.info/en/visitors-information-en/",
+        "https://en.historymuseum.org/prices-and-working-time/",
+        "https://freesofiatour.com/blog/vitosha-boulevard-sofias-main-shopping-street/",
+        "https://oldplovdiv.bg/en/tickets",
+        "https://whichmuseum.com/museum/plovdiv-roman-theatre-7930/tickets-prices",
+        "https://visitkapana.bg/en/",
+        "https://whichmuseum.com/museum/regional-ethnographic-museum-of-plovdiv-7705/tickets-prices",
+        "https://www.kayak.com/Sofia-Hotels.6035.hotel.ksp",
+        "https://www.booking.com/city/bg/plovdiv.en-gb.html",
+        "https://wise.com/gb/cost-of-living/bulgaria",
+        "https://www.budgetyourtrip.com/bulgaria/sofia",
+        "https://bulgarianadventure.com/best-time-to-visit-sofia-month-by-month/",
+        "https://thingstodoinplovdiv.com/when-to-visit/",
+        "https://toursbulgaria.com/bulgaria-visa-entry-requirements",
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/BGR.pdf"
+      ],
+      "aggiuntaIl": "2026-09-07"
+    },
+    {
+      "id": "zagabria-3g",
+      "nome": "Zagabria",
+      "sottotitolo": "Croazia, fra la Città Alta asburgica e la Città Bassa ottocentesca",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair da Pisa (circa 1h20); nessun volo diretto da Firenze o Bologna verso Zagabria.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 1h20 di volo diretto da Pisa; con voli indiretti da Bologna il tempo sale a 3-5h.",
+      "durataViaggioMinuti": 80,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre, con l'estate (luglio-agosto) gradevole ma più calda; evitare l'inverno da novembre a febbraio (freddo e nebbia), salvo per i mercatini di Natale.",
+      "mesi": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "mesiDaEvitare": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "costoMin": 175,
+      "costoMax": 354,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "La Città Alta e la Città Bassa si visitano a piedi in due giornate piene; il terzo giorno permette un'escursione a Samobor, la cittadina delle kremšnite a mezz'ora di bus, senza dover allungare il soggiorno.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Piazza Ban Jelačić, mercato di Dolac, Cattedrale dell'Assunzione (ingresso libero), funicolare fino alla Città Alta, Torre Lotrščak, Piazza San Marco e la Chiesa di San Marco dal tetto piastrellato."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Museo delle Relazioni Interrotte, Museo Croato d'Arte Naïf, Teatro Nazionale Croato, Monastero di San Francesco, e nel pomeriggio il Cimitero monumentale di Mirogoj."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: gita di mezza giornata a Samobor (bus da Autobusni Kolodvor, circa 30-40 minuti), passeggiata al castello medievale e assaggio della kremšnita in piazza; rientro in giornata e volo di ritorno."
+        }
+      ],
+      "alloggio": "Hotel 3 stelle o B&B in Città Bassa, vicino alla stazione o a Piazza Ban Jelačić: comodi a piedi per entrambe le zone storiche.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Pisa-Zagabria (Ryanair)",
+          "testo": "Da circa 37 € nelle offerte migliori a 90 € in bassa stagione con bagaglio a mano incluso; diretto, circa 1h20.",
+          "min": 37,
+          "max": 90,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento, 2 notti",
+          "testo": "40-80 € a notte in hotel 3 stelle o B&B centrale (da 21 € in ostello); per 2 notti 80-160 €.",
+          "min": 80,
+          "max": 160,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Ingressi (Museo Relazioni Interrotte, Torre Lotrščak, Museo Naïf, funicolare)",
+          "testo": "Relazioni Interrotte circa 7 €, Torre Lotrščak da 3 €, Museo Naïf 5,50 € (gratis il venerdì), funicolare 0,66 € a corsa; Cattedrale gratuita.",
+          "min": 16,
+          "max": 16,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Gita a Samobor",
+          "testo": "Bus A/R da Zagabria circa 6-10 €; nessun costo d'ingresso al borgo, solo il conto in pasticceria per la kremšnita.",
+          "min": 6,
+          "max": 10,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti",
+          "testo": "12-26 € a pasto in konoba o trattoria tipica; menù fast food circa 7 €. Stima per 3 giorni.",
+          "min": 36,
+          "max": 78,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Città Alta collegata alla Città Bassa dalla funicolare (66 metri, fra le più corte al mondo) o da una breve salita a piedi; nessuna auto necessaria in centro."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Musei generalmente aperti tutti i giorni con orari ridotti la domenica; verificare gli orari del Museo Naïf e delle Relazioni Interrotte in bassa stagione."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Consigliato acquistare online il biglietto del Museo delle Relazioni Interrotte per saltare la fila nei weekend estivi; i voli Ryanair convengono prenotati con largo anticipo."
+        }
+      ],
+      "note": "Il volo Pisa-Zagabria è una rotta Ryanair soggetta a variazioni stagionali: verificare la disponibilità sulle date scelte, specie fuori stagione estiva. Dicembre è un'eccezione al clima invernale sfavorevole per i celebri mercatini di Natale, ma con prezzi più alti e giornate corte.",
+      "fonti": [
+        "https://www.ryanair.com/flights/it/it/voli-da-pisa-a-zagreb",
+        "https://www.momondo.it/volo/pisa/zagabria",
+        "https://www.kayak.it/voli/Pisa-San-Giusto-PSA/Zagabria-Franjo-Tuman-ZAG",
+        "https://hikersbay.com/prices/croatia/zagreb?lang=it",
+        "https://www.travel365.it/zagabria-itinerario-3-giorni.htm",
+        "https://www.travel365.it/zagabria-cosa-vedere.htm",
+        "https://www.getyourguide.com/zagreb-l803/zagreb-museum-of-broken-relationships-skip-the-line-ticket-t390064/",
+        "https://www.travel365.it/escursioni-dintorni-zagabria.htm",
+        "https://www.travel365.it/zagabria-quando-andare.htm",
+        "https://www.infozagreb.hr/en/travel-plan/traveling-in-town/public-transport-and-parking/funicular-en",
+        "https://www.ilturista.info/ugc/info/da_visitare/1214-Il_Museo_Croato_di_Arte_Naif_a_Zagabria_il_primo_museo_d_opere_naif_al_mondo/"
+      ],
+      "aggiuntaIl": "2026-09-28"
+    },
+    {
       "id": "bosnia-erzegovina-7g",
       "nome": "Bosnia ed Erzegovina",
       "sottotitolo": "Sarajevo e Mostar: minareti, il ponte ottomano sulla Neretva e le cascate dell'Erzegovina",
@@ -464,635 +1136,6 @@
         "https://www.omio.it/treni/firenze/roma-termini"
       ],
       "aggiuntaIl": "2026-09-03"
-    },
-    {
-      "id": "taiwan-14g",
-      "nome": "Taiwan",
-      "sottotitolo": "L'isola di Formosa: Taipei, la costa orientale del Taroko, i laghi del centro e le spiagge del sud",
-      "durataGiorni": 14,
-      "mezzoConsigliato": "Volo diretto China Airlines da Roma Fiumicino (2 frequenze a settimana), da raggiungere in treno da Firenze",
-      "mezzoCategoria": "volo",
-      "durataViaggioTesto": "circa 12h10–14h40 di volo diretto Roma–Taipei, secondo la tratta",
-      "durataViaggioMinuti": 830,
-      "periodoMiglioreTesto": "Ottobre–dicembre, stagione secca e fresca fuori dai tifoni",
-      "mesi": [
-        10,
-        11,
-        12
-      ],
-      "mesiDaEvitare": [
-        5,
-        6,
-        7,
-        8,
-        9
-      ],
-      "costoMin": 1180,
-      "costoMax": 2280,
-      "costoNota": null,
-      "dipendenzaAuto": "senza-auto",
-      "pertinenzaStimata": 3,
-      "percheDurata": "Taiwan in 14 giorni è il giro completo dell'isola coi mezzi pubblici: Taipei e i suoi dintorni (4 giorni), la costa orientale del Taroko (2), il centro fra laghi e montagne — Sun Moon Lake e Alishan (3) — e il sud fra Tainan, Kaohsiung e le spiagge di Kenting (4), con 1 giorno di cuscinetto per i lunghi trasferimenti in treno da nord a sud. Sotto le due settimane si deve rinunciare o alla costa orientale o al sud.",
-      "cosaVedere": null,
-      "itinerario": [
-        {
-          "giorno": 1,
-          "testo": "Giorno 1: volo diretto Roma–Taipei, arrivo in serata, trasferimento in hotel."
-        },
-        {
-          "giorno": 2,
-          "testo": "Giorno 2: Taipei — Tempio di Longshan, Bopiliao Old Street, Ximending, salita al Taipei 101 Observatory al tramonto."
-        },
-        {
-          "giorno": 3,
-          "testo": "Giorno 3: Taipei — National Palace Museum, quartiere di Shilin, sorgenti termali di Beitou (Thermal Valley), tramonto a Danshui."
-        },
-        {
-          "giorno": 4,
-          "testo": "Giorno 4: gita di un giorno a Jiufen (il villaggio di montagna reso famoso da La città incantata) e Shifen (lanterne e cascata), rientro a Taipei in serata."
-        },
-        {
-          "giorno": 5,
-          "testo": "Giorno 5: treno espresso per Hualien (circa 2h), pomeriggio libero sulla spiaggia di Qixingtan."
-        },
-        {
-          "giorno": 6,
-          "testo": "Giorno 6: giornata intera nel Parco Nazionale di Taroko — Visitor Center, Buluowan, Tianxiang, area di Qingshui (Dacingshui); Shakadang e Yanzikou (Swallow Grotto) restano chiuse per i danni del terremoto del 2024."
-        },
-        {
-          "giorno": 7,
-          "testo": "Giorno 7: treno per Taichung, bus per il Sun Moon Lake, pomeriggio in funivia verso il Formosan Aboriginal Culture Village."
-        },
-        {
-          "giorno": 8,
-          "testo": "Giorno 8: giornata intera al Sun Moon Lake — giro in battello, noleggio bici sul lungolago, Tempio di Wenwu."
-        },
-        {
-          "giorno": 9,
-          "testo": "Giorno 9: trasferimento a Chiayi e poi al villaggio di Alishan con il treno forestale, pernottamento in quota per l'alba del giorno dopo."
-        },
-        {
-          "giorno": 10,
-          "testo": "Giorno 10: alba sulle nuvole ad Alishan e passeggiata nella foresta di cipressi millenari, rientro a Chiayi, treno per Tainan."
-        },
-        {
-          "giorno": 11,
-          "testo": "Giorno 11: Tainan — Fortezza di Anping, Torre Chihkan, Tempio di Confucio, giro fra le bancarelle di street food."
-        },
-        {
-          "giorno": 12,
-          "testo": "Giorno 12: treno per Kaohsiung, Lotus Pond, Pier-2 Art District, mercato notturno di Liuhe."
-        },
-        {
-          "giorno": 13,
-          "testo": "Giorno 13: bus per Kenting, pomeriggio in spiaggia e al Parco Nazionale di Kenting, faro di Eluanbi."
-        },
-        {
-          "giorno": 14,
-          "testo": "Giorno 14: mattina libera a Kenting, bus di ritorno a Kaohsiung, treno alta velocità per Taipei, volo di rientro in serata."
-        }
-      ],
-      "alloggio": "Guesthouse e hotel 3 stelle 35–55 € a notte a persona a Taipei, 25–45 € nelle altre città; il pernottamento in quota ad Alishan (per l'alba) è più caro e va prenotato con largo anticipo.",
-      "costiDettaglio": [
-        {
-          "voce": "Volo A/R Roma–Taipei",
-          "testo": "China Airlines diretto, 2 frequenze a settimana; tariffe da 400–750 € nella bassa stagione di novembre, fino a 900–950 € nei periodi di punta.",
-          "min": 450,
-          "max": 950,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Treni e bus interni",
-          "testo": "TRA Taipei–Hualien (445–583 NT$), TRA Hualien–Taichung (815 NT$), bus Taichung–Sun Moon Lake (195–465 NT$), THSR Taichung–Chiayi (circa 260 NT$), treno forestale + ingresso Alishan (750 NT$), THSR Chiayi–Tainan (620 NT$), THSR Tainan–Kaohsiung (410 NT$), bus Kaohsiung–Kenting A/R (700–800 NT$), THSR Kaohsiung–Taipei (1490 NT$).",
-          "min": 140,
-          "max": 200,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Pernottamento 13 notti",
-          "testo": "35–55 € a notte a Taipei (4 notti), 25–45 € nelle altre tappe (9 notti), guesthouse e hotel 3 stelle.",
-          "min": 320,
-          "max": 620,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Ingressi principali",
-          "testo": "Taipei 101 + National Palace Museum combo 820 NT$, treno e ingresso Alishan 750 NT$ (incluso sopra nei trasporti), funivia Sun Moon Lake A/R 380 NT$, pass 2 giorni shuttle Taroko 400 NT$.",
-          "min": 60,
-          "max": 90,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Pasti 14 giorni",
-          "testo": "street food e mercati notturni da 5–10 € a pasto, ristoranti locali 15–20 €, qualche cena più curata fino a 30–35 €.",
-          "min": 210,
-          "max": 420,
-          "tipo": "persona"
-        }
-      ],
-      "ripartizione": null,
-      "vincoli": [
-        {
-          "categoria": "accessi",
-          "testo": "Nessun visto richiesto per cittadini italiani fino a 90 giorni (passaporto valido almeno 6 mesi, 2 pagine libere). La Provincial Highway 8 nel Parco di Taroko è soggetta a controlli di traffico dopo il terremoto del 2024."
-        },
-        {
-          "categoria": "chiusure",
-          "testo": "Nel Parco Nazionale di Taroko lo Shakadang Trail e lo Yanzikou (Swallow Grotto) restano chiusi almeno fino al 2031 per i danni del sisma di magnitudo 7.2 del 3 aprile 2024; Mt. Qingshui e la Zhuilu Old Road sono chiuse senza data di riapertura annunciata. Sono invece aperti Visitor Center, Buluowan, Tianxiang e l'area di Qingshui (Dacingshui)."
-        },
-        {
-          "categoria": "prenotazioni",
-          "testo": "Il volo diretto China Airlines Roma–Taipei ha solo 2 frequenze a settimana: conviene costruire l'itinerario sulle date del volo. Dal 2 marzo 2026 i biglietti del treno forestale di Alishan vanno pagati per intero al momento della prenotazione, senza periodo di grazia."
-        }
-      ],
-      "note": "La stagione dei tifoni va da maggio a ottobre, con il picco fra agosto e settembre: ottobre–dicembre resta la finestra più sicura e stabile, aprile è un'alternativa valida ma con rischio di piogge (stagione dei \"plum rains\"). Il Taroko Gorge è ancora in fase di restauro dopo il terremoto del 2024: alcuni sentieri iconici (Yanzikou/Swallow Grotto, Shakadang) sono chiusi a tempo indeterminato e vanno sostituiti nell'itinerario con le aree già riaperte.",
-      "fonti": [
-        "https://www.momondo.it/volo/roma/taipei",
-        "https://flights.china-airlines.com/en-it/flights-from-rome-to-taipei",
-        "https://it.trip.com/guide/info/requisiti-ingresso-taiwan.html",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/03/06/2003853379",
-        "https://www.taiwanobsessed.com/is-taroko-gorge-open/",
-        "https://www.nickkembel.com/best-time-to-visit-taiwan/",
-        "https://www.rtaiwanr.com/blog/taiwan-typhoon",
-        "https://taiwanrail.vercel.app/en/routes/train/taipei-to-hualien/",
-        "https://www.taiwanese-secrets.com/travel-from-taichung-to-hualien/",
-        "https://www.thepoortraveler.net/2018/09/taroko-gorge-bus-passes-tours-things-to-do/",
-        "https://www.nickkembel.com/how-to-get-to-alishan/",
-        "https://alishan.welcometw.com/product/info/BNn7",
-        "https://en.thsrc.com.tw/ArticleContent/4c3efc1d-e6df-4bfd-97b4-52e89f79ee5c",
-        "https://taiwanderers.com/kaohsiung-to-kenting-bus-9189-timetable/",
-        "https://www.tripadvisor.com/Attraction_Review-g13808635-d6892420-Reviews-Sun_Moon_Lake_Ropeway-Yuchi_Nantou.html",
-        "https://www.hotels.com/de1366745/hotels-taipei-taiwan/",
-        "https://www.tripadvisor.com/AttractionProductReview-g13808515-d19011362-Taipei_101_Observatory_Admission_Ticket_SPECIAL_DEAL-Xinyi_District_Taipei.html",
-        "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
-      ],
-      "aggiuntaIl": "2026-09-03"
-    },
-    {
-      "id": "piacenza-1g",
-      "nome": "Piacenza",
-      "sottotitolo": "Emilia-Romagna, il Duomo, Palazzo Farnese e la pittura di Ricci Oddi",
-      "durataGiorni": 1,
-      "mezzoConsigliato": "Treno da Firenze S.M.N. con cambio a Bologna, sulla linea alta velocità Bologna–Milano",
-      "mezzoCategoria": "treno",
-      "durataViaggioTesto": "da circa 2h a 2h50 secondo il collegamento, quasi sempre con cambio a Bologna",
-      "durataViaggioMinuti": 134,
-      "periodoMiglioreTesto": "Metà aprile – metà giugno e settembre",
-      "mesi": [
-        4,
-        5,
-        6,
-        9
-      ],
-      "mesiDaEvitare": [
-        7,
-        8
-      ],
-      "costoMin": 54,
-      "costoMax": 127,
-      "costoNota": null,
-      "dipendenzaAuto": "senza-auto",
-      "pertinenzaStimata": 3,
-      "percheDurata": "Il centro storico è compatto e pianeggiante: Duomo, Palazzo Farnese, Basilica di Sant'Antonino e Palazzo Gotico stanno tutti entro dieci minuti a piedi dalla stazione. Una giornata piena copre il nucleo monumentale con calma, lasciando spazio a una sosta gastronomica e, per chi vuole, alla Galleria Ricci Oddi.",
-      "cosaVedere": [
-        "Duomo di Piacenza: ingresso gratuito, aperto 8:30–12:30 e 15:30–19:30; salita alla cupola solo su prenotazione (obbligatoria nei giorni feriali entro le 12, consigliata nel weekend).",
-        "Palazzo Farnese – Musei Civici (Pinacoteca, Museo Civico, sezione archeologica): 10 € intero, 7 € ridotto; 1 € la prima domenica del mese; chiuso il lunedì.",
-        "Basilica di Sant'Antonino: ingresso libero, una delle più antiche basiliche paleocristiane della Lombardia storica.",
-        "Palazzo Gotico (Palazzo Comunale): dal giugno 2026 il Salone Monumentale è visitabile, biglietto 2 €.",
-        "Galleria Ricci Oddi (arte moderna, facoltativa): 5 € il ridotto (il prezzo intero non è stato reperito su fonte verificabile); chiusa 1 gennaio, 1 maggio, 15 agosto, 25 dicembre."
-      ],
-      "itinerario": null,
-      "alloggio": null,
-      "costiDettaglio": [
-        {
-          "voce": "Treno A/R",
-          "testo": "20–35 € con la combinazione Regionale via Bologna prenotando presto, 40–85 € con Frecciarossa/Italo; le fonti divergono sui tempi (da 2h a 2h50) e sulle tariffe, verificare su Trenitalia prima di partire.",
-          "min": 20,
-          "max": 85,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Palazzo Farnese – Musei Civici",
-          "testo": "10 € intero, 7 € ridotto (6–18 anni, studenti); 1 € la prima domenica del mese.",
-          "min": 7,
-          "max": 10,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Palazzo Gotico – Salone Monumentale",
-          "testo": "2 € (apertura al pubblico da giugno 2026, informazione recente da verificare vicino alla partenza).",
-          "min": 2,
-          "max": 2,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Galleria Ricci Oddi (facoltativa)",
-          "testo": "5 € il biglietto ridotto; il prezzo intero non è stato trovato su una fonte verificabile e resta escluso dal totale.",
-          "min": null,
-          "max": null,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Pranzo",
-          "testo": "25–30 € in una trattoria tipica (lardo piacentino, tortelli di magro, pisarei e fasö); un pranzo veloce costa meno ma non è stato trovato un prezzo verificabile.",
-          "min": 25,
-          "max": 30,
-          "tipo": "persona"
-        }
-      ],
-      "ripartizione": null,
-      "vincoli": [
-        {
-          "categoria": "accessi",
-          "testo": "Il centro storico è in ZTL attiva tutti i giorni 8:00–19:00 (con una zona pedonale interna sempre chiusa alle auto): irrilevante per chi arriva in treno, la stazione è raggiungibile a piedi dal centro."
-        },
-        {
-          "categoria": "chiusure",
-          "testo": "Palazzo Farnese chiude il lunedì. La Galleria Ricci Oddi ha orario ridotto martedì-giovedì mattina (9:30–13:00) e apre tutto il giorno venerdì-domenica (9:30–18:00)."
-        },
-        {
-          "categoria": "prenotazioni",
-          "testo": "La salita alla cupola del Duomo richiede prenotazione obbligatoria nei giorni feriali (entro le 12 dello stesso giorno) e consigliata nel weekend. La visita guidata gratuita di Palazzo Farnese nel weekend richiede prenotazione."
-        }
-      ],
-      "note": "Le fonti consultate divergono sui tempi di percorrenza (da 2h a 2h50) e sulle tariffe ferroviarie: conviene controllare l'app Trenitalia vicino alla data di partenza. L'estate in Pianura Padana è calda e afosa: preferire la finestra aprile-giugno o settembre.",
-      "fonti": [
-        "https://www.omio.it/treni/firenze/piacenza",
-        "https://it.trip.com/treni/italia/viaggio/firenze-piacenza/",
-        "https://www.thetrainline.com/en/train-times/piacenza-to-florence",
-        "https://cattedralepiacenza.it/la-struttura/orari-e-biglietti/",
-        "https://www.palazzofarnese.piacenza.it/en/page/84133",
-        "https://collipiacentini.it/piacenza-cosa-vedere/palazzo-farnese-piacenza/",
-        "https://www.comune.piacenza.it/it/vivere/palazzo-gotico",
-        "https://riccioddi.it/visita.php",
-        "https://www.agriturismolabroncarda.it/costo-trattoria-ristorante-con-piatti-tipici-parma-piacenza/",
-        "https://www.comune.piacenza.it/it/topics/ztl",
-        "https://www.climieviaggi.it/clima/italia/piacenza"
-      ],
-      "aggiuntaIl": "2026-09-07"
-    },
-    {
-      "id": "trento-2g",
-      "nome": "Trento",
-      "sottotitolo": "Trentino, il Concilio, il Castello del Buonconsiglio e il MUSE sull'Adige",
-      "durataGiorni": 2,
-      "mezzoConsigliato": "Frecciarossa diretto da Firenze S.M.N. via Bologna e Verona, senza cambio",
-      "mezzoCategoria": "treno",
-      "durataViaggioTesto": "2h41 in Frecciarossa diretto, circa 10 collegamenti al giorno fra alta velocità e regionali",
-      "durataViaggioMinuti": 161,
-      "periodoMiglioreTesto": "Metà aprile – metà giugno e settembre; i mercatini di Natale aprono a fine novembre",
-      "mesi": [
-        4,
-        5,
-        6,
-        9,
-        12
-      ],
-      "mesiDaEvitare": [
-        1
-      ],
-      "costoMin": 135,
-      "costoMax": 300,
-      "costoNota": null,
-      "dipendenzaAuto": "senza-auto",
-      "pertinenzaStimata": 4,
-      "percheDurata": "Il Castello del Buonconsiglio e il Duomo riempiono una prima giornata; il MUSE e una mezza giornata a Rovereto (MART o la Campana dei Caduti, 15-29 minuti di treno) completano la visita senza correre: sotto i due giorni si deve rinunciare al MUSE o a Rovereto.",
-      "cosaVedere": null,
-      "itinerario": [
-        {
-          "giorno": 1,
-          "testo": "Giorno 1: arrivo, Piazza Duomo e Cattedrale di San Vigilio (gratuita), Basilica Paleocristiana e Museo Diocesano/Palazzo Pretorio, pomeriggio al Castello del Buonconsiglio (prenotazione consigliata, obbligatoria per la Torre Aquila)."
-        },
-        {
-          "giorno": 2,
-          "testo": "Giorno 2: mattina al MUSE - Museo delle Scienze (biglietto online consigliato), pomeriggio mezza giornata a Rovereto in treno (facoltativo: MART o Campana dei Caduti Maria Dolens), rientro in serata."
-        }
-      ],
-      "alloggio": "B&B e hotel 3 stelle in centro 80–180 € a notte per una doppia secondo la stagione (40–90 € a persona), aggregato Booking.com; tariffe più basse a gennaio-febbraio, più alte in estate e durante i mercatini di Natale.",
-      "costiDettaglio": [
-        {
-          "voce": "Treno A/R",
-          "testo": "da circa 25 € prenotando con anticipo (due tratte Frecciarossa Firenze-Trento), fino a 69-89 € per tratta con la tariffa ufficiale Trenitalia 'Andata e Ritorno in giornata' Standard/Business, presa come riferimento del tetto tariffario.",
-          "min": 25,
-          "max": 90,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Pernottamento 1 notte",
-          "testo": "80–180 € in doppia (40–90 € a persona), aggregato Booking.com; punte più basse fuori stagione.",
-          "min": 40,
-          "max": 90,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Castello del Buonconsiglio",
-          "testo": "10 € intero, 8 € ridotto (under 26/over 65); +2,50 € per la Torre Aquila.",
-          "min": 8,
-          "max": 13,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Basilica Paleocristiana e Museo Diocesano/Palazzo Pretorio",
-          "testo": "5 € ridotto, 7 € intero (10 € l'ingresso serale); la Cattedrale di San Vigilio è gratuita.",
-          "min": 5,
-          "max": 10,
-          "tipo": "persona"
-        },
-        {
-          "voce": "MUSE - Museo delle Scienze",
-          "testo": "11 € intero, 9 € ridotto.",
-          "min": 9,
-          "max": 11,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Pasti due giorni",
-          "testo": "25-45 € a pasto in trattoria tipica trentina (canederli, polenta, strudel); un pranzo veloce costa meno.",
-          "min": 50,
-          "max": 90,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Rovereto (facoltativa, mezza giornata)",
-          "testo": "treno Trento-Rovereto 15-29 minuti, frequente; MART 15 € intero/10 € ridotto oppure Campana dei Caduti Maria Dolens 3 €.",
-          "min": 5,
-          "max": 18,
-          "tipo": "persona"
-        }
-      ],
-      "ripartizione": null,
-      "vincoli": [
-        {
-          "categoria": "accessi",
-          "testo": "Il centro storico ha una ZTL su due zone (pedonale e centro storico) con controllo tramite telecamere: riguarda solo chi arriva in auto, non chi arriva in treno."
-        },
-        {
-          "categoria": "chiusure",
-          "testo": "Il Castello del Buonconsiglio chiude i lunedì non festivi e il 25 dicembre. Il MUSE chiude il lunedì e il 25 dicembre. Il Museo Diocesano chiude il martedì."
-        },
-        {
-          "categoria": "prenotazioni",
-          "testo": "Il Castello del Buonconsiglio richiede di fatto la prenotazione (online o telefonica); la Torre Aquila ha ingressi a orario fisso ogni 45 minuti, da prenotare con almeno 45 minuti di anticipo. Il biglietto online del MUSE è consigliato, non obbligatorio."
-        }
-      ],
-      "note": "Le fonti divergono sulla durata media del viaggio (il Frecciarossa diretto impiega 2h41, ma alcune medie aggregate includono anche itinerari più lenti con cambi): verificare l'orario esatto su Trenitalia. I mercatini di Natale di Trento si tengono dal 20 novembre 2026 al 6 gennaio 2027 in Piazza Fiera e Piazza Mostra.",
-      "fonti": [
-        "https://www.omio.it/treni/trento/firenze-pwb1k",
-        "https://www.omio.it/treni/trento/firenze-dne1r",
-        "https://www.trenitalia.com/it/offerte_e_servizi/andata_e_ritornoingiornata.html",
-        "https://www.buonconsiglio.it/en/buy/",
-        "https://www.buonconsiglio.it/en/castello-del-buonconsiglio/plan-your-visit-to-buonconsiglio-castle/",
-        "https://www.buonconsiglio.it/en/visit/",
-        "https://www.muse.it/en/home/plan-your-visit/",
-        "https://www.muse.it/vuoi-visitare-il-muse-e-le-sue-sedi-territoriali-acquista-il-biglietto-online/",
-        "https://www.cattedralesanvigilio.it/visita/",
-        "https://www.museodiocesanotridentino.it/pagine/orari-e-contatti-sede-di-trento",
-        "https://www.museodiocesanotridentino.it/pagine/orari-e-biglietti-basilica-paleocristiana",
-        "https://www.mart.tn.it/biglietti",
-        "https://www.mart.tn.it/orari",
-        "https://www.fondazioneoperacampana.it/it/informazioni-orari-e-prezzi.html",
-        "https://www.booking.com/city/it/trento.it.html",
-        "https://ritaglidiviaggio.it/2024/01/22/dove-mangiare-a-trento-spendendo-poco/",
-        "https://www.travel365.it/trento-quando-andare.htm",
-        "https://www.climieviaggi.it/clima/italia/trento",
-        "https://natale.visittrento.it/en/christmas-market",
-        "https://www.comune.trento.it/Vivere-il-Comune/Guide/Guida-alla-Ztl",
-        "https://www.e656.net/orario/collegamenti/trento/rovereto.html"
-      ],
-      "aggiuntaIl": "2026-09-07"
-    },
-    {
-      "id": "sofia-plovdiv-3g",
-      "nome": "Sofia e Plovdiv",
-      "sottotitolo": "Bulgaria: la cripta di Alessandro Nevskij e la città vecchia romana di Plovdiv",
-      "durataGiorni": 3,
-      "mezzoConsigliato": "Volo diretto Ryanair da Pisa o Bologna (nessun collegamento diretto da Firenze)",
-      "mezzoCategoria": "volo",
-      "durataViaggioTesto": "1h50 da Bologna, 2h10 da Pisa; nessun volo diretto da Firenze",
-      "durataViaggioMinuti": 110,
-      "periodoMiglioreTesto": "Maggio, oppure settembre-ottobre",
-      "mesi": [
-        5,
-        9,
-        10
-      ],
-      "mesiDaEvitare": [
-        1,
-        7,
-        8
-      ],
-      "costoMin": 200,
-      "costoMax": 500,
-      "costoNota": "L'adozione dell'euro in Bulgaria nel 2026 ha fatto salire diversi prezzi al consumo: verificare i costi vicino alla partenza.",
-      "dipendenzaAuto": "senza-auto",
-      "pertinenzaStimata": 3,
-      "percheDurata": "Sofia si visita comodamente in un giorno e mezzo (Nevskij, Boyana, Museo di Storia), Plovdiv con il teatro romano e il quartiere Kapana ne riempie un altro: tre giorni bastano per entrambe le città senza la fretta imposta dalle poche frequenze del volo diretto.",
-      "cosaVedere": null,
-      "itinerario": [
-        {
-          "giorno": 1,
-          "testo": "Giorno 1: volo diretto da Bologna o Pisa a Sofia, arrivo, passeggiata su Vitosha Boulevard, Cattedrale di Alessandro Nevskij e visita alla cripta/museo di arte cristiana."
-        },
-        {
-          "giorno": 2,
-          "testo": "Giorno 2: mattina al Museo Nazionale di Storia e alla Chiesa di Boyana (UNESCO, visita di soli 10 minuti all'interno), primo pomeriggio in treno per Plovdiv (2h30-3h30), sera nella città vecchia e nel quartiere Kapana."
-        },
-        {
-          "giorno": 3,
-          "testo": "Giorno 3: Teatro Romano e Stadio Romano di Plovdiv, Museo Etnografico Regionale, treno di ritorno a Sofia e volo di rientro in serata."
-        }
-      ],
-      "alloggio": "Hotel 2-3 stelle 40-150 € a notte per una doppia sia a Sofia sia a Plovdiv secondo categoria e stagione (aggregati Kayak/Booking/Tripadvisor, cifre in USD convertite); punte più basse ad aprile, più alte a giugno.",
-      "costiDettaglio": [
-        {
-          "voce": "Volo A/R da Bologna o Pisa",
-          "testo": "50-150 € prenotando con anticipo (Ryanair, unica compagnia con voli diretti, 2-4 frequenze settimanali secondo la tratta); tariffe last-minute possono salire molto oltre, anche 250-350 €.",
-          "min": 50,
-          "max": 150,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Treno o bus Sofia-Plovdiv A/R",
-          "testo": "treno BDZ da 6 € a tratta (12-15 corse al giorno, 2h30-3h30), bus da 10-20 € a tratta (Flixbus e altri, 1h40-2h).",
-          "min": 12,
-          "max": 20,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Pernottamento 2 notti",
-          "testo": "40-150 € a notte in doppia secondo città e stagione (20-75 € a persona), aggregati Kayak/Booking/Tripadvisor in USD convertiti.",
-          "min": 40,
-          "max": 140,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Ingressi principali di Sofia",
-          "testo": "cripta/museo di Alessandro Nevskij 8 BGN intero/4 BGN ridotto (circa 4/2 €); Chiesa di Boyana 12 BGN/2 BGN ridotto (circa 6/1 €); Museo Nazionale di Storia 5 BGN (circa 2,50 €).",
-          "min": 5,
-          "max": 13,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Ingressi principali di Plovdiv",
-          "testo": "Teatro Romano 7-8 BGN intero/2-3 BGN ridotto (circa 4/1,50 €); Museo Etnografico Regionale circa 6 BGN (circa 3 €); Stadio Romano gratuito nella parte esterna.",
-          "min": 3,
-          "max": 7,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Pasti tre giorni",
-          "testo": "pasto economico 10-11 €, cena in ristorante di fascia media 20 € a persona; media di spesa giornaliera per il cibo a Sofia stimata in circa 58 €/giorno da fonti aggregate sui viaggiatori, ma i prezzi sono saliti dopo l'adozione dell'euro nel 2026.",
-          "min": 90,
-          "max": 174,
-          "tipo": "persona"
-        }
-      ],
-      "ripartizione": null,
-      "vincoli": [
-        {
-          "categoria": "accessi",
-          "testo": "Nessun volo diretto da Firenze: solo Bologna e Pisa hanno collegamento diretto Ryanair, con poche frequenze settimanali. Ingresso con carta d'identità o passaporto validi (la Bulgaria è entrata nell'area Schengen via aria/mare dal marzo 2024 e via terra dal gennaio 2025); alcune fonti segnalano rifiuti di ingresso con carte d'identità italiane danneggiate o rinnovate con adesivo, meglio portare anche il passaporto."
-        },
-        {
-          "categoria": "chiusure",
-          "testo": "La cripta della Cattedrale di Alessandro Nevskij chiude il lunedì. La Chiesa di Boyana ha orario stagionale: aprile-ottobre 9:30-18:00, novembre-marzo 9:00-17:30."
-        },
-        {
-          "categoria": "prenotazioni",
-          "testo": "Nessuna prenotazione obbligatoria per singoli visitatori alla Chiesa di Boyana (solo per gruppi organizzati, via email); conviene però costruire le date del viaggio sulle poche frequenze settimanali del volo diretto prima di prenotare alloggio e treni."
-        }
-      ],
-      "note": "Diverse fonti sui prezzi bulgari sono precedenti o immediatamente successive all'adozione dell'euro nel 2026 e mostrano rincari significativi rispetto agli aggregatori più vecchi: trattare i costi come indicativi e verificarli vicino alla partenza. Verificare anche la scheda paese del Ministero degli Esteri (Viaggiare Sicuri) per gli aggiornamenti sull'ingresso.",
-      "fonti": [
-        "https://www.ryanair.com/flights/ie/en/flights-from-bologna-to-sofia",
-        "https://www.flightconnections.com/flights-from-blq-to-sof",
-        "https://corporate.ryanair.com/news/ryanairs-new-summer-2025-sofia-pisa-route-takes-off/",
-        "https://www.flightsfrom.com/PSA-SOF",
-        "https://www.kiwi.com/en/cheap-flights/sofia-bulgaria/pisa-italy/",
-        "https://www.omio.com/trains/sofia/plovdiv-w95ea",
-        "https://www.omio.com/buses/sofia/plovdiv",
-        "https://us.trip.com/travel-guide/attraction/sofia/alexander-nevsky-crypt-museum-62003381/",
-        "https://boyanachurch.info/en/visitors-information-en/",
-        "https://en.historymuseum.org/prices-and-working-time/",
-        "https://freesofiatour.com/blog/vitosha-boulevard-sofias-main-shopping-street/",
-        "https://oldplovdiv.bg/en/tickets",
-        "https://whichmuseum.com/museum/plovdiv-roman-theatre-7930/tickets-prices",
-        "https://visitkapana.bg/en/",
-        "https://whichmuseum.com/museum/regional-ethnographic-museum-of-plovdiv-7705/tickets-prices",
-        "https://www.kayak.com/Sofia-Hotels.6035.hotel.ksp",
-        "https://www.booking.com/city/bg/plovdiv.en-gb.html",
-        "https://wise.com/gb/cost-of-living/bulgaria",
-        "https://www.budgetyourtrip.com/bulgaria/sofia",
-        "https://bulgarianadventure.com/best-time-to-visit-sofia-month-by-month/",
-        "https://thingstodoinplovdiv.com/when-to-visit/",
-        "https://toursbulgaria.com/bulgaria-visa-entry-requirements",
-        "https://www.viaggiaresicuri.it/schede_paese/pdf/BGR.pdf"
-      ],
-      "aggiuntaIl": "2026-09-07"
-    },
-    {
-      "id": "lago-maggiore-2g",
-      "nome": "Lago Maggiore e Isole Borromee",
-      "sottotitolo": "Stresa, Isola Bella e Isola Madre: ville e giardini barocchi affacciati sull'acqua",
-      "durataGiorni": 2,
-      "mezzoConsigliato": "Treno alta velocità Firenze–Milano con cambio, poi Milano–Stresa (nessun collegamento diretto)",
-      "mezzoCategoria": "treno",
-      "durataViaggioTesto": "4h07–4h24 in treno con cambio a Milano Centrale (13 collegamenti al giorno fra Frecciarossa, Italo e Intercity)",
-      "durataViaggioMinuti": 247,
-      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre, quando le isole sono aperte ma meno affollate e calde di luglio–agosto",
-      "mesi": [
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
-      "mesiDaEvitare": [
-        7,
-        8
-      ],
-      "costoMin": 192,
-      "costoMax": 390,
-      "costoNota": null,
-      "dipendenzaAuto": "senza-auto",
-      "pertinenzaStimata": 3,
-      "percheDurata": "Stresa e le due isole principali (Bella e Madre) si visitano con calma in una giornata e mezza: il viaggio di oltre quattro ore a tratta assorbe mezza giornata, quindi conviene dormire una notte per non ridurre tutto a una corsa. Isola dei Pescatori si aggiunge gratis fra un imbarco e l'altro.",
-      "cosaVedere": [
-        "Isola Bella: Palazzo Borromeo (sale barocche, grotte decorate a conchiglie) e i dieci terrazzamenti del giardino all'italiana con i pavoni bianchi.",
-        "Isola Madre: giardino botanico all'inglese, il più grande delle isole, con collezione di camelie, rododendri e un ciclamino centenario; villa con teatrino di marionette.",
-        "Isola dei Pescatori: borgo di pescatori con case colorate, gratuito, si gira a piedi in mezz'ora fra ristoranti di pesce di lago.",
-        "Lungolago di Stresa e Villa Ducale (esterno); in giornata di sole, funivia per il Mottarone se il tempo lo permette."
-      ],
-      "itinerario": null,
-      "alloggio": "Hotel e B&B a Stresa 72–180 € a notte in doppia, dal semplice in periferia alle strutture con vista lago in centro; prenotare con anticipo nei weekend estivi.",
-      "costiDettaglio": [
-        {
-          "voce": "Treno A/R Firenze–Stresa",
-          "testo": "44–146 € A/R secondo anticipo e tariffa (Frecciarossa/Italo con cambio a Milano; da 22 € a tratta in Super Economy fino a 73 € in tariffa flessibile).",
-          "min": 44,
-          "max": 146,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Battello libera circolazione isole",
-          "testo": "15 € a persona per salire e scendere tutto il giorno fra Stresa, Isola Bella, Isola Madre e Isola dei Pescatori (9:30–18:00), più 0,50 € a isola di tassa di sbarco comunale per chi ne visita più di una.",
-          "min": 15,
-          "max": 17,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Biglietto cumulativo Isola Bella + Isola Madre",
-          "testo": "36,50 € a persona per palazzo e giardini di entrambe le isole (contro 26 + 22 € separati); Isola dei Pescatori è gratuita.",
-          "min": 37,
-          "max": 37,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Pernottamento 1 notte in doppia",
-          "testo": "72–180 € la camera doppia a notte (36–90 € a persona), da hotel semplice in periferia a struttura vista lago in centro Stresa.",
-          "min": 36,
-          "max": 90,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Pasti due giorni",
-          "testo": "pranzo semplice 15–25 € (panini, pizzeria, tavola calda); cena con specialità di lago (persico, risotto) 32–48 €; su due pranzi e una cena si spendono indicativamente 60–100 € a persona.",
-          "min": 60,
-          "max": 100,
-          "tipo": "persona"
-        }
-      ],
-      "ripartizione": null,
-      "vincoli": [
-        {
-          "categoria": "accessi",
-          "testo": "Stresa non ha ZTL rilevante per il turista: centro e imbarcadero sono pedonali e a pochi minuti dalla stazione. Le isole si raggiungono solo in battello, non ci sono ponti né traghetti auto."
-        },
-        {
-          "categoria": "chiusure",
-          "testo": "Palazzi e giardini delle isole sono aperti dal 12 marzo all'8 novembre 2026 (chiusi il resto dell'anno): orario 10–17 (ultimo ingresso) fino al 25 ottobre, poi 10–16 fino all'8 novembre."
-        },
-        {
-          "categoria": "prenotazioni",
-          "testo": "Nessuna prenotazione obbligatoria per battelli e giardini; nei weekend di alta stagione (giugno–settembre) i battelli per Isola Bella possono avere code, meglio partire presto la mattina."
-        }
-      ],
-      "note": "Il biglietto cumulativo Isola Bella + Isola Madre conviene rispetto ai singoli (26 € e 22 € separati): fa risparmiare oltre 11 €. Non esiste treno diretto da Firenze: il cambio a Milano va messo in conto nella pianificazione degli orari.",
-      "fonti": [
-        "https://www.omio.it/treni/firenze/stresa-o8wyf",
-        "https://www.thetrainline.com/en-us/train-times/florence-to-bologna-centrale",
-        "https://www.italotreno.com/en/destinations-timetable/lago-maggiore-trains",
-        "https://www.gruppisoleborromee.it/en/entrance-fees-and-tickets-to-museums-and-gardens/",
-        "https://terreborromeo.it/isola-bella/orari-tariffe",
-        "https://www.goldenmoments.it/biglietti_per_isola_bella-_isola_madre_e_rocca_di_angera-_tariffe_per_gruppi.html",
-        "https://www.skyscanner.it/hotel/italia/stresa-hotel/ci-30373142",
-        "https://www.conoscounposto.com/weekend-lago-maggiore-cosa-vedere-dove-mangiare-stresa-e-dintorni/"
-      ],
-      "aggiuntaIl": "2026-09-14"
     },
     {
       "id": "macedonia-del-nord-7g",
@@ -1269,212 +1312,6 @@
       "aggiuntaIl": "2026-09-14"
     },
     {
-      "id": "faenza-1g",
-      "nome": "Faenza",
-      "sottotitolo": "Emilia-Romagna, la città della maiolica lungo la storica linea Faentina",
-      "durataGiorni": 1,
-      "mezzoConsigliato": "Treno regionale diretto da Firenze S.M.N./Campo di Marte sulla storica linea Faentina (Firenze–Borgo San Lorenzo–Faenza), poche corse dirette al giorno; in alternativa Frecciarossa/Italo fino a Bologna Centrale e cambio per Faenza.",
-      "mezzoCategoria": "treno",
-      "durataViaggioTesto": "Circa 1h56 in treno diretto sulla Faentina; con cambio a Bologna il tempo totale scende a circa 1h30-1h45.",
-      "durataViaggioMinuti": 116,
-      "periodoMiglioreTesto": "Marzo-giugno e settembre-novembre; l'estate è calda e afosa come nel resto della Pianura Padana.",
-      "mesi": [
-        3,
-        4,
-        5,
-        6,
-        9,
-        10,
-        11
-      ],
-      "mesiDaEvitare": [
-        7,
-        8
-      ],
-      "costoMin": 41,
-      "costoMax": 84,
-      "costoNota": null,
-      "dipendenzaAuto": "senza-auto",
-      "pertinenzaStimata": 3,
-      "percheDurata": "Il centro storico è compatto e pianeggiante, a dieci minuti a piedi dalla stazione: Piazza del Popolo, la Cattedrale e il MIC coprono una giornata piena, con tempo per la Pinacoteca o una sosta in una delle trattorie del centro. Non richiede un pernottamento.",
-      "cosaVedere": [
-        "MIC - Museo Internazionale delle Ceramiche: la più importante collezione al mondo di ceramica antica, moderna e contemporanea.",
-        "Piazza del Popolo con il Palazzo del Podestà (XII secolo, oggi sede municipale) e i portici storici.",
-        "Cattedrale di San Pietro (1474-1520), facciata rinascimentale su modello fiorentino, e la vicina Pinacoteca Comunale."
-      ],
-      "itinerario": null,
-      "alloggio": null,
-      "costiDettaglio": [
-        {
-          "voce": "Treno A/R",
-          "testo": "22-27 € in Regionale (da circa 11-13,50 € a tratta); più caro con Frecciarossa/Italo via Bologna.",
-          "min": 22,
-          "max": 27,
-          "tipo": "persona"
-        },
-        {
-          "voce": "MIC - biglietto d'ingresso",
-          "testo": "12 € intero, 9 € ridotto; +2 € durante le mostre temporanee. Gratuito fino a 14 anni.",
-          "min": 9,
-          "max": 14,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Pinacoteca Comunale",
-          "testo": "3 € per entrambe le sezioni (Antica e Galleria d'Arte Moderna); gratuita la prima domenica del mese.",
-          "min": 0,
-          "max": 3,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Pranzo",
-          "testo": "10-17 € in piadineria o pizzeria, 31-40 € in trattoria con cucina romagnola tipica.",
-          "min": 10,
-          "max": 40,
-          "tipo": "persona"
-        }
-      ],
-      "ripartizione": null,
-      "vincoli": [
-        {
-          "categoria": "accessi",
-          "testo": "Nessuna ZTL rilevante per chi arriva in treno: dalla stazione il centro è a 10 minuti a piedi in piano."
-        },
-        {
-          "categoria": "chiusure",
-          "testo": "Il MIC chiude il lunedì non festivo; da novembre a marzo l'ingresso nei feriali è solo 10-14 (nel weekend 10-18). Da aprile a ottobre orario 10-19 tutti i giorni tranne il lunedì."
-        },
-        {
-          "categoria": "prenotazioni",
-          "testo": "Nessuna prenotazione obbligatoria per MIC o Pinacoteca; nei giorni di Argillà Italia (inizio settembre) il MIC osserva orari estesi e maggiore afflusso."
-        }
-      ],
-      "note": "Sulla stessa linea Faentina si può abbinare in giornata anche Brisighella (già in documento con Dozza a 1 giorno), ma i tempi si allungano: valutare se restare solo a Faenza. La linea ha poche corse dirette al giorno: verificare gli orari aggiornati su Trenitalia prima di partire.",
-      "fonti": [
-        "https://www.thetrainline.com/en/train-times/firenze-santa-maria-novella-to-faenza",
-        "https://www.omio.it/treni/firenze/faenza",
-        "https://www.micfaenza.org/organizza-la-tua-visita/",
-        "https://www.pinacotecafaenza.it/",
-        "https://www.paesionline.it/italia/cosa-vedere-faenza",
-        "https://www.tripadvisor.com/Restaurants-g194758-zfp30-Faenza_Province_of_Ravenna_Emilia_Romagna.html"
-      ],
-      "aggiuntaIl": "2026-09-28"
-    },
-    {
-      "id": "zagabria-3g",
-      "nome": "Zagabria",
-      "sottotitolo": "Croazia, fra la Città Alta asburgica e la Città Bassa ottocentesca",
-      "durataGiorni": 3,
-      "mezzoConsigliato": "Volo diretto Ryanair da Pisa (circa 1h20); nessun volo diretto da Firenze o Bologna verso Zagabria.",
-      "mezzoCategoria": "volo",
-      "durataViaggioTesto": "Circa 1h20 di volo diretto da Pisa; con voli indiretti da Bologna il tempo sale a 3-5h.",
-      "durataViaggioMinuti": 80,
-      "periodoMiglioreTesto": "Maggio-giugno e settembre, con l'estate (luglio-agosto) gradevole ma più calda; evitare l'inverno da novembre a febbraio (freddo e nebbia), salvo per i mercatini di Natale.",
-      "mesi": [
-        4,
-        5,
-        6,
-        7,
-        8,
-        9
-      ],
-      "mesiDaEvitare": [
-        11,
-        12,
-        1,
-        2
-      ],
-      "costoMin": 175,
-      "costoMax": 354,
-      "costoNota": null,
-      "dipendenzaAuto": "senza-auto",
-      "pertinenzaStimata": 4,
-      "percheDurata": "La Città Alta e la Città Bassa si visitano a piedi in due giornate piene; il terzo giorno permette un'escursione a Samobor, la cittadina delle kremšnite a mezz'ora di bus, senza dover allungare il soggiorno.",
-      "cosaVedere": null,
-      "itinerario": [
-        {
-          "giorno": 1,
-          "testo": "Giorno 1: Piazza Ban Jelačić, mercato di Dolac, Cattedrale dell'Assunzione (ingresso libero), funicolare fino alla Città Alta, Torre Lotrščak, Piazza San Marco e la Chiesa di San Marco dal tetto piastrellato."
-        },
-        {
-          "giorno": 2,
-          "testo": "Giorno 2: Museo delle Relazioni Interrotte, Museo Croato d'Arte Naïf, Teatro Nazionale Croato, Monastero di San Francesco, e nel pomeriggio il Cimitero monumentale di Mirogoj."
-        },
-        {
-          "giorno": 3,
-          "testo": "Giorno 3: gita di mezza giornata a Samobor (bus da Autobusni Kolodvor, circa 30-40 minuti), passeggiata al castello medievale e assaggio della kremšnita in piazza; rientro in giornata e volo di ritorno."
-        }
-      ],
-      "alloggio": "Hotel 3 stelle o B&B in Città Bassa, vicino alla stazione o a Piazza Ban Jelačić: comodi a piedi per entrambe le zone storiche.",
-      "costiDettaglio": [
-        {
-          "voce": "Volo A/R Pisa-Zagabria (Ryanair)",
-          "testo": "Da circa 37 € nelle offerte migliori a 90 € in bassa stagione con bagaglio a mano incluso; diretto, circa 1h20.",
-          "min": 37,
-          "max": 90,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Pernottamento, 2 notti",
-          "testo": "40-80 € a notte in hotel 3 stelle o B&B centrale (da 21 € in ostello); per 2 notti 80-160 €.",
-          "min": 80,
-          "max": 160,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Ingressi (Museo Relazioni Interrotte, Torre Lotrščak, Museo Naïf, funicolare)",
-          "testo": "Relazioni Interrotte circa 7 €, Torre Lotrščak da 3 €, Museo Naïf 5,50 € (gratis il venerdì), funicolare 0,66 € a corsa; Cattedrale gratuita.",
-          "min": 16,
-          "max": 16,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Gita a Samobor",
-          "testo": "Bus A/R da Zagabria circa 6-10 €; nessun costo d'ingresso al borgo, solo il conto in pasticceria per la kremšnita.",
-          "min": 6,
-          "max": 10,
-          "tipo": "persona"
-        },
-        {
-          "voce": "Pasti",
-          "testo": "12-26 € a pasto in konoba o trattoria tipica; menù fast food circa 7 €. Stima per 3 giorni.",
-          "min": 36,
-          "max": 78,
-          "tipo": "persona"
-        }
-      ],
-      "ripartizione": null,
-      "vincoli": [
-        {
-          "categoria": "accessi",
-          "testo": "Città Alta collegata alla Città Bassa dalla funicolare (66 metri, fra le più corte al mondo) o da una breve salita a piedi; nessuna auto necessaria in centro."
-        },
-        {
-          "categoria": "chiusure",
-          "testo": "Musei generalmente aperti tutti i giorni con orari ridotti la domenica; verificare gli orari del Museo Naïf e delle Relazioni Interrotte in bassa stagione."
-        },
-        {
-          "categoria": "prenotazioni",
-          "testo": "Consigliato acquistare online il biglietto del Museo delle Relazioni Interrotte per saltare la fila nei weekend estivi; i voli Ryanair convengono prenotati con largo anticipo."
-        }
-      ],
-      "note": "Il volo Pisa-Zagabria è una rotta Ryanair soggetta a variazioni stagionali: verificare la disponibilità sulle date scelte, specie fuori stagione estiva. Dicembre è un'eccezione al clima invernale sfavorevole per i celebri mercatini di Natale, ma con prezzi più alti e giornate corte.",
-      "fonti": [
-        "https://www.ryanair.com/flights/it/it/voli-da-pisa-a-zagreb",
-        "https://www.momondo.it/volo/pisa/zagabria",
-        "https://www.kayak.it/voli/Pisa-San-Giusto-PSA/Zagabria-Franjo-Tuman-ZAG",
-        "https://hikersbay.com/prices/croatia/zagreb?lang=it",
-        "https://www.travel365.it/zagabria-itinerario-3-giorni.htm",
-        "https://www.travel365.it/zagabria-cosa-vedere.htm",
-        "https://www.getyourguide.com/zagreb-l803/zagreb-museum-of-broken-relationships-skip-the-line-ticket-t390064/",
-        "https://www.travel365.it/escursioni-dintorni-zagabria.htm",
-        "https://www.travel365.it/zagabria-quando-andare.htm",
-        "https://www.infozagreb.hr/en/travel-plan/traveling-in-town/public-transport-and-parking/funicular-en",
-        "https://www.ilturista.info/ugc/info/da_visitare/1214-Il_Museo_Croato_di_Arte_Naif_a_Zagabria_il_primo_museo_d_opere_naif_al_mondo/"
-      ],
-      "aggiuntaIl": "2026-09-28"
-    },
-    {
       "id": "kenya-14g",
       "nome": "Kenya",
       "sottotitolo": "Africa orientale: la savana del Masai Mara e le spiagge dell'Oceano Indiano a Diani",
@@ -1604,6 +1441,355 @@
         "https://viagea.it/cosa-fare-in-kenya/"
       ],
       "aggiuntaIl": "2026-09-28"
+    },
+    {
+      "id": "taiwan-14g",
+      "nome": "Taiwan",
+      "sottotitolo": "L'isola di Formosa: Taipei, la costa orientale del Taroko, i laghi del centro e le spiagge del sud",
+      "durataGiorni": 14,
+      "mezzoConsigliato": "Volo diretto China Airlines da Roma Fiumicino (2 frequenze a settimana), da raggiungere in treno da Firenze",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "circa 12h10–14h40 di volo diretto Roma–Taipei, secondo la tratta",
+      "durataViaggioMinuti": 830,
+      "periodoMiglioreTesto": "Ottobre–dicembre, stagione secca e fresca fuori dai tifoni",
+      "mesi": [
+        10,
+        11,
+        12
+      ],
+      "mesiDaEvitare": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "costoMin": 1180,
+      "costoMax": 2280,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Taiwan in 14 giorni è il giro completo dell'isola coi mezzi pubblici: Taipei e i suoi dintorni (4 giorni), la costa orientale del Taroko (2), il centro fra laghi e montagne — Sun Moon Lake e Alishan (3) — e il sud fra Tainan, Kaohsiung e le spiagge di Kenting (4), con 1 giorno di cuscinetto per i lunghi trasferimenti in treno da nord a sud. Sotto le due settimane si deve rinunciare o alla costa orientale o al sud.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: volo diretto Roma–Taipei, arrivo in serata, trasferimento in hotel."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Taipei — Tempio di Longshan, Bopiliao Old Street, Ximending, salita al Taipei 101 Observatory al tramonto."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Taipei — National Palace Museum, quartiere di Shilin, sorgenti termali di Beitou (Thermal Valley), tramonto a Danshui."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: gita di un giorno a Jiufen (il villaggio di montagna reso famoso da La città incantata) e Shifen (lanterne e cascata), rientro a Taipei in serata."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: treno espresso per Hualien (circa 2h), pomeriggio libero sulla spiaggia di Qixingtan."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: giornata intera nel Parco Nazionale di Taroko — Visitor Center, Buluowan, Tianxiang, area di Qingshui (Dacingshui); Shakadang e Yanzikou (Swallow Grotto) restano chiuse per i danni del terremoto del 2024."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: treno per Taichung, bus per il Sun Moon Lake, pomeriggio in funivia verso il Formosan Aboriginal Culture Village."
+        },
+        {
+          "giorno": 8,
+          "testo": "Giorno 8: giornata intera al Sun Moon Lake — giro in battello, noleggio bici sul lungolago, Tempio di Wenwu."
+        },
+        {
+          "giorno": 9,
+          "testo": "Giorno 9: trasferimento a Chiayi e poi al villaggio di Alishan con il treno forestale, pernottamento in quota per l'alba del giorno dopo."
+        },
+        {
+          "giorno": 10,
+          "testo": "Giorno 10: alba sulle nuvole ad Alishan e passeggiata nella foresta di cipressi millenari, rientro a Chiayi, treno per Tainan."
+        },
+        {
+          "giorno": 11,
+          "testo": "Giorno 11: Tainan — Fortezza di Anping, Torre Chihkan, Tempio di Confucio, giro fra le bancarelle di street food."
+        },
+        {
+          "giorno": 12,
+          "testo": "Giorno 12: treno per Kaohsiung, Lotus Pond, Pier-2 Art District, mercato notturno di Liuhe."
+        },
+        {
+          "giorno": 13,
+          "testo": "Giorno 13: bus per Kenting, pomeriggio in spiaggia e al Parco Nazionale di Kenting, faro di Eluanbi."
+        },
+        {
+          "giorno": 14,
+          "testo": "Giorno 14: mattina libera a Kenting, bus di ritorno a Kaohsiung, treno alta velocità per Taipei, volo di rientro in serata."
+        }
+      ],
+      "alloggio": "Guesthouse e hotel 3 stelle 35–55 € a notte a persona a Taipei, 25–45 € nelle altre città; il pernottamento in quota ad Alishan (per l'alba) è più caro e va prenotato con largo anticipo.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Roma–Taipei",
+          "testo": "China Airlines diretto, 2 frequenze a settimana; tariffe da 400–750 € nella bassa stagione di novembre, fino a 900–950 € nei periodi di punta.",
+          "min": 450,
+          "max": 950,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Treni e bus interni",
+          "testo": "TRA Taipei–Hualien (445–583 NT$), TRA Hualien–Taichung (815 NT$), bus Taichung–Sun Moon Lake (195–465 NT$), THSR Taichung–Chiayi (circa 260 NT$), treno forestale + ingresso Alishan (750 NT$), THSR Chiayi–Tainan (620 NT$), THSR Tainan–Kaohsiung (410 NT$), bus Kaohsiung–Kenting A/R (700–800 NT$), THSR Kaohsiung–Taipei (1490 NT$).",
+          "min": 140,
+          "max": 200,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 13 notti",
+          "testo": "35–55 € a notte a Taipei (4 notti), 25–45 € nelle altre tappe (9 notti), guesthouse e hotel 3 stelle.",
+          "min": 320,
+          "max": 620,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Ingressi principali",
+          "testo": "Taipei 101 + National Palace Museum combo 820 NT$, treno e ingresso Alishan 750 NT$ (incluso sopra nei trasporti), funivia Sun Moon Lake A/R 380 NT$, pass 2 giorni shuttle Taroko 400 NT$.",
+          "min": 60,
+          "max": 90,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti 14 giorni",
+          "testo": "street food e mercati notturni da 5–10 € a pasto, ristoranti locali 15–20 €, qualche cena più curata fino a 30–35 €.",
+          "min": 210,
+          "max": 420,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nessun visto richiesto per cittadini italiani fino a 90 giorni (passaporto valido almeno 6 mesi, 2 pagine libere). La Provincial Highway 8 nel Parco di Taroko è soggetta a controlli di traffico dopo il terremoto del 2024."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Nel Parco Nazionale di Taroko lo Shakadang Trail e lo Yanzikou (Swallow Grotto) restano chiusi almeno fino al 2031 per i danni del sisma di magnitudo 7.2 del 3 aprile 2024; Mt. Qingshui e la Zhuilu Old Road sono chiuse senza data di riapertura annunciata. Sono invece aperti Visitor Center, Buluowan, Tianxiang e l'area di Qingshui (Dacingshui)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il volo diretto China Airlines Roma–Taipei ha solo 2 frequenze a settimana: conviene costruire l'itinerario sulle date del volo. Dal 2 marzo 2026 i biglietti del treno forestale di Alishan vanno pagati per intero al momento della prenotazione, senza periodo di grazia."
+        }
+      ],
+      "note": "La stagione dei tifoni va da maggio a ottobre, con il picco fra agosto e settembre: ottobre–dicembre resta la finestra più sicura e stabile, aprile è un'alternativa valida ma con rischio di piogge (stagione dei \"plum rains\"). Il Taroko Gorge è ancora in fase di restauro dopo il terremoto del 2024: alcuni sentieri iconici (Yanzikou/Swallow Grotto, Shakadang) sono chiusi a tempo indeterminato e vanno sostituiti nell'itinerario con le aree già riaperte.",
+      "fonti": [
+        "https://www.momondo.it/volo/roma/taipei",
+        "https://flights.china-airlines.com/en-it/flights-from-rome-to-taipei",
+        "https://it.trip.com/guide/info/requisiti-ingresso-taiwan.html",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/03/06/2003853379",
+        "https://www.taiwanobsessed.com/is-taroko-gorge-open/",
+        "https://www.nickkembel.com/best-time-to-visit-taiwan/",
+        "https://www.rtaiwanr.com/blog/taiwan-typhoon",
+        "https://taiwanrail.vercel.app/en/routes/train/taipei-to-hualien/",
+        "https://www.taiwanese-secrets.com/travel-from-taichung-to-hualien/",
+        "https://www.thepoortraveler.net/2018/09/taroko-gorge-bus-passes-tours-things-to-do/",
+        "https://www.nickkembel.com/how-to-get-to-alishan/",
+        "https://alishan.welcometw.com/product/info/BNn7",
+        "https://en.thsrc.com.tw/ArticleContent/4c3efc1d-e6df-4bfd-97b4-52e89f79ee5c",
+        "https://taiwanderers.com/kaohsiung-to-kenting-bus-9189-timetable/",
+        "https://www.tripadvisor.com/Attraction_Review-g13808635-d6892420-Reviews-Sun_Moon_Lake_Ropeway-Yuchi_Nantou.html",
+        "https://www.hotels.com/de1366745/hotels-taipei-taiwan/",
+        "https://www.tripadvisor.com/AttractionProductReview-g13808515-d19011362-Taipei_101_Observatory_Admission_Ticket_SPECIAL_DEAL-Xinyi_District_Taipei.html",
+        "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      ],
+      "aggiuntaIl": "2026-09-03"
+    },
+    {
+      "id": "pistoia-1g",
+      "nome": "Pistoia",
+      "sottotitolo": "Toscana, piazza del Duomo, battistero gotico e la città nascosta sotto l'Ospedale del Ceppo",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno regionale Firenze–Pistoia (circa 44 corse al giorno, corsa più rapida 27 minuti)",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Da 27 minuti (corsa più rapida) a circa 41 minuti di media in Regionale; distanza di circa 33 km.",
+      "durataViaggioMinuti": 41,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: da Pasqua a inizio giugno il Battistero è aperto da martedì a domenica, da fine giugno ad agosto tutti i giorni; da settembre a Pasqua solo venerdì-domenica.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [],
+      "costoMin": 20,
+      "costoMax": 64,
+      "costoNota": "Pasti compresi (da buffet a pranzo a trattoria); la torre campanaria e Pistoia Sotterranea sono facoltative.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Pistoia è a 27-41 minuti di treno e il centro si gira a piedi: piazza del Duomo con Cattedrale di San Zeno, Battistero e Torre campanaria, più il percorso guidato di un'ora di Pistoia Sotterranea all'Ospedale del Ceppo, riempiono una giornata senza pernottare. Un secondo giorno non è necessario.",
+      "cosaVedere": [
+        "Cattedrale di San Zeno con l'Altare argenteo di San Jacopo, alla cui creazione contribuì anche Brunelleschi.",
+        "Battistero di San Giovanni in Corte: struttura ottagonale gotica in marmo bianco e verde (costruzione iniziata nel 1301), ingresso gratuito.",
+        "Torre campanaria (67 m) con vista sul centro storico, solo su prenotazione.",
+        "Ospedale del Ceppo con il fregio in terracotta invetriata dei Della Robbia e il percorso di Pistoia Sotterranea (650 m lungo l'antico alveo del torrente Brana), solo con visita guidata di circa un'ora."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Regionale da circa 5,15-5,79 € a tratta (circa 44 corse al giorno).",
+          "min": 10,
+          "max": 12,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pistoia Sotterranea",
+          "testo": "15 € online, 16 € in biglietteria, bambini 6-14 anni 12 €; solo con visita guidata prenotata.",
+          "min": 15,
+          "max": 16,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Torre campanaria",
+          "testo": "6 € intero, solo su prenotazione (facoltativa).",
+          "min": 0,
+          "max": 6,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Da un buffet a 9,90 € in alcune trattorie a 18-30 € in una trattoria tipica; i ristoranti più curati arrivano a 35-42 €.",
+          "min": 10,
+          "max": 30,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "In treno nessun problema di ZTL: la stazione è in centro e la città si gira a piedi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Battistero da settembre a Pasqua apre solo venerdì, sabato e domenica (10-13 e 15-18); da Pasqua al 1° giugno da martedì a domenica."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Pistoia Sotterranea si visita solo con guida (visite a orari fissi ogni ora circa, da ottobre a marzo ultima alle 17): prenotare online. La torre campanaria è solo su prenotazione."
+        }
+      ],
+      "note": "Dato non verificato: gli orari dei treni del giorno specifico vanno controllati su Trenitalia prima di partire. Il prezzo del treno è quello indicato dai comparatori per il Regionale, non una tariffa ufficiale.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/pistoia",
+        "https://us.trip.com/trains/italy/route/florence-to-pistoia/",
+        "https://us.trip.com/trains/italy/route/pistoia-to-florence/",
+        "https://www.discoverpistoia.it/poi-pistoia-sotterranea/",
+        "https://www.pistoiasotterranea.it/it/dettagli-del-tour",
+        "https://www.discoverpistoia.it/poi-battistero-san-giovanni-corte/",
+        "https://www.columbusassicurazioni.it/consigli-di-viaggio/pistoia-cosa-vedere-in-un-giorno",
+        "https://www.thefork.it/ristoranti/pistoia-c427657",
+        "https://www.sluurpy.it/pistoia/ristoranti"
+      ],
+      "aggiuntaIl": "2026-10-05"
+    },
+    {
+      "id": "brescia-2g",
+      "nome": "Brescia",
+      "sottotitolo": "Lombardia, Brixia romana e longobarda: sito UNESCO di Santa Giulia, Capitolium e Castello",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Frecciarossa o Italo diretti Firenze–Brescia (Frecciarossa circa 3 corse al giorno)",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 2h24 di media in Frecciarossa per circa 212 km.",
+      "durataViaggioMinuti": 144,
+      "periodoMiglioreTesto": "Marzo-giugno e settembre-novembre; i musei hanno orario esteso fino alle 19 da giugno a settembre.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [],
+      "costoMin": 67,
+      "costoMax": 185,
+      "costoNota": "Pasti esclusi: non è stata trovata una fonte affidabile sui prezzi dei ristoranti di Brescia.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il complesso UNESCO di Santa Giulia con il Parco archeologico e il Capitolium, più il Castello con il Museo delle Armi, richiedono un giorno pieno di musei; il secondo giorno lascia tempo per il centro storico e il Castello senza fretta. Con il treno da 2h24 un giorno solo sarebbe una corsa, mentre il pernottamento rende il viaggio sostenibile.",
+      "cosaVedere": [
+        "Museo di Santa Giulia: parte del sito UNESCO insieme all'area archeologica del Capitolium e al complesso monastico di San Salvatore; qui è conservata la Vittoria Alata, bronzo romano simbolo della città.",
+        "Capitolium e Parco archeologico di Brixia romana (compresi nel biglietto integrato).",
+        "Castello di Brescia con il Museo delle Armi Luigi Marzoli e il Museo del Risorgimento (biglietto combinato).",
+        "Centro storico tra Piazza della Loggia e Piazza Paolo VI."
+      ],
+      "itinerario": null,
+      "alloggio": "Hotel 3 stelle mediamente 86-104 € a notte in doppia; nel centro storico si trovano opzioni da circa 52-67 €.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Frecciarossa/Italo da 7 € a tratta con prenotazione anticipata fino a circa 51 € (prezzo medio Frecciarossa), 2h24 di media.",
+          "min": 14,
+          "max": 102,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento 1 notte",
+          "testo": "52-104 € a notte in doppia (26-52 € a persona).",
+          "min": 26,
+          "max": 52,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Santa Giulia con Parco archeologico",
+          "testo": "Biglietto integrato 19 € (solo musei 15 €); ridotti 16 € over 65 e 12 € under 26.",
+          "min": 15,
+          "max": 19,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Castello e Museo delle Armi",
+          "testo": "Biglietto combinato Castello di Brescia 12 € intero, 10 € ridotto, 7 € under 26.",
+          "min": 7,
+          "max": 12,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro tra Piazza della Loggia, Piazza Paolo VI e Corso Zanardelli è area pedonale/ZTL con videosorveglianza: meglio arrivare in treno. Chi viene in auto: parcheggio Autosilo 1 con massimo giornaliero 9,10 € oppure piazza Vittoria con massimo 16,80 € al giorno (tariffe 2026)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Santa Giulia e Museo delle Armi chiudono il lunedì non festivo; orario 10-18 (ultimo ingresso 17:15) da ottobre a maggio, 10-19 da giugno a settembre."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria emersa per i musei; prenotare il Frecciarossa in anticipo per le tariffe più basse."
+        }
+      ],
+      "note": "Il prezzo del treno parte da 7 € secondo un comparatore, ma la tariffa media Frecciarossa è circa 51 €: la forchetta è molto ampia e dipende dall'anticipo. Non verificati: orari dei treni della data scelta e prezzi dei pasti.",
+      "fonti": [
+        "https://www.omio.it/treni/brescia/firenze",
+        "https://www.gopili.it/treno/operatori/frecciarossa/firenze-brescia-t46285-47293.html",
+        "https://www.bresciamusei.com/en/museums-and-venues/santa-giulia-museum/",
+        "https://abbonamentomusei.it/en/spazio_espositivo/museo-di-santa-giulia/",
+        "https://www.bresciamusei.com/en/museums-and-venues/luigi-marzoli-arms-and-armor-museum/",
+        "https://www.comune.brescia.it/it/vivere/museo-delle-armi-luigi-marzoli",
+        "https://www.skyscanner.it/hotel/italia/brescia-hotel/ci-27547369",
+        "https://www.agoda.com/it-it/theme/cheap-hotels/city/brescia-it.html",
+        "https://hotel-centro.it/italy/brescia",
+        "https://www.bresciamobilita.it/public/bm/poi/tariffeparkbrescia_2026.pdf",
+        "https://www.accessibilitacentristorici.it/ztl/lombardia/brescia/parcheggio_brescia.html"
+      ],
+      "aggiuntaIl": "2026-10-05"
     }
   ]
 }
