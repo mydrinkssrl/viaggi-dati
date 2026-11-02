@@ -1790,6 +1790,218 @@
         "https://www.accessibilitacentristorici.it/ztl/lombardia/brescia/parcheggio_brescia.html"
       ],
       "aggiuntaIl": "2026-10-05"
+    },
+    {
+      "id": "prato-1g",
+      "nome": "Prato",
+      "sottotitolo": "Toscana, Duomo con gli affreschi di Filippo Lippi e la Sacra Cintola, Museo del Tessuto e Castello dell'Imperatore",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno regionale Firenze–Prato (Centrale o Porta al Serraglio), corse frequenti per tutta la giornata",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 17-18 km; 11-19 minuti di media secondo gli aggregatori (le fonti discordano; da 36 minuti se si parte da Campo di Marte).",
+      "durataViaggioMinuti": 19,
+      "periodoMiglioreTesto": "Nessuna fonte indica una stagionalità: la visita è in gran parte al chiuso e raggiungibile in treno tutto l'anno. Per l'Ostensione della Sacra Cintola le date sono Natale, Pasqua, 1º maggio, 15 agosto e 8 settembre.",
+      "mesi": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "mesiDaEvitare": [],
+      "costoMin": 14,
+      "costoMax": 25,
+      "costoNota": "Pasti esclusi: non è stata trovata una fonte affidabile sui prezzi dei ristoranti di Prato. Il treno è calcolato al prezzo minimo trovato (circa 3 € a tratta): la tariffa regionale ufficiale Trenitalia non è stata verificata. Il biglietto del Centro Pecci non è stato trovato.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Il centro storico è compatto: Duomo con la Cappella della Sacra Cintola, Palazzo Pretorio e Castello dell'Imperatore si fanno al mattino, mentre il pomeriggio basta per il Museo del Tessuto (o il Centro Pecci). Con un treno di circa venti minuti non serve il pernottamento; è più una mezza gita arricchita da un museo che un viaggio vero e proprio, da cui la pertinenza bassa.",
+      "cosaVedere": [
+        "Duomo di Santo Stefano con gli affreschi di Filippo Lippi nella cappella maggiore, il pulpito esterno di Donatello e Michelozzo e la Cappella della Sacra Cintola (affreschi di Agnolo Gaddi).",
+        "Museo di Palazzo Pretorio in Piazza del Comune, con opere di Donatello e Filippo Lippi.",
+        "Castello dell'Imperatore, edificio di epoca sveva, da visitare nel pomeriggio dopo il centro.",
+        "Museo del Tessuto, dedicato alla storia dell'industria tessile pratese.",
+        "In alternativa o in aggiunta, Basilica di Santa Maria delle Carceri di Giuliano da Sangallo e Palazzo Datini."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Regionale da circa 3 € a tratta (Omio 3 €; Trip.com 2,96 €): è il prezzo minimo trovato, non una tariffa ufficiale.",
+          "min": 6,
+          "max": 6,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Museo del Tessuto",
+          "testo": "Programma ufficiale 2026-28: intero 8 €, ridotto 6 €; con mostra intero 10-12 €.",
+          "min": 8,
+          "max": 12,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Duomo / Cappella della Sacra Cintola",
+          "testo": "Cappella 3 € (museionline, scheda del luglio 2024); un'altra guida indica 7 € intero per la visita al Duomo. Fonti discordanti.",
+          "min": 0,
+          "max": 7,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "In treno nessun problema di ZTL: il centro si gira a piedi. Attenzione alle stazioni: Prato Centrale e Porta al Serraglio sono le più comode per il centro; da Firenze Campo di Marte i tempi salgono."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Museo del Tessuto (programma 2026-28): martedì-giovedì 10-15, venerdì-sabato 10-19, domenica 15-19; il lunedì non è indicato come apertura, ma le fonti discordano sul giorno di chiusura: verificare. Palazzo Pretorio chiuso il martedì (dato legato a una mostra, da riverificare)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria emersa per i musei principali; un biglietto combinato con il Museo dell'Opera del Duomo è citato con prenotazione obbligatoria (fonte non recente)."
+        }
+      ],
+      "note": "Fonti in gran parte aggregatori e schede non ufficiali: i prezzi dei musei vanno riverificati sui siti ufficiali (museodeltessuto.it, Centro Pecci, Palazzo Pretorio) prima della visita.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/prato",
+        "https://it.trip.com/treni/italia/viaggio/prato-centrale-firenze/",
+        "https://www.kombo.co/it/treno-Prato-Firenze",
+        "https://www.museodeltessuto.it/wp-content/uploads/2026/06/Programma-delle-attivita-2026-28.pdf",
+        "https://www.museionline.info/toscana-musei-monumenti/cappella-del-sacro-cingolo",
+        "https://www.museionline.info/musei/museo-dell-opera-del-duomo-di-prato",
+        "https://www.finestresullarte.info/mostre/mostra-legati-da-una-cintola-prato-museo-palazzo-pretorio",
+        "https://www.travel365.it/prato-cosa-vedere.htm",
+        "https://www.visittuscany.com/it/citta-e-borghi/prato/",
+        "https://milazzo.life/cosa-vedere-a-prato/"
+      ],
+      "aggiuntaIl": "2026-11-02"
+    },
+    {
+      "id": "varsavia-3g",
+      "nome": "Varsavia",
+      "sottotitolo": "Polonia, Città Vecchia ricostruita, Museo POLIN e panorama dal Palazzo della Cultura e della Scienza",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair o Wizz Air da Pisa verso Varsavia-Chopin (non quotidiano); da Bologna voli Ryanair diretti per Modlin (lun, mer, ven, sab secondo Momondo)",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 2h05-2h07 di volo diretto da Pisa (Kayak, Momondo); da Bologna circa 2 ore per Modlin.",
+      "durataViaggioMinuti": 126,
+      "periodoMiglioreTesto": "Maggio e settembre offrono il miglior compromesso tra clima, folla e costi; giugno-agosto sono i mesi più caldi ma anche più piovosi; l'inverno è rigido.",
+      "mesi": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "mesiDaEvitare": [
+        12,
+        1,
+        2
+      ],
+      "costoMin": 223,
+      "costoMax": 497,
+      "costoNota": "Fascia molto ampia perché le tariffe dei voli low cost variano da 13 € a 111 € a tratta; l'albergo è un solo valore medio (3 stelle, circa 530 zł a notte per la doppia) con range reale molto più ampio; cambio 1 € ≈ 4,313 zł.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Tre giorni coprono il centro storico con il Castello Reale (giorno 1), i musei e i quartieri (giorno 2) e la storia ebraica con il Museo POLIN e il Palazzo della Cultura (giorno 3), senza correre. Con un volo di due ore e il biglietto di trasporto di 72 ore, il ritmo è sostenibile; due giorni obbligherebbero a rinunciare ai musei.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: centro storico e castelli: Città Vecchia, Castello Reale (ingresso gratuito il mercoledì, 1,5-2 ore di visita) e passeggiata fino ai giardini sulla Vistola."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: musei e quartieri: Museo Nazionale (ingresso gratuito il martedì) e i quartieri della città nuova."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: storia ebraica e Palazzo della Cultura: Museo POLIN (chiuso il lunedì, gratuito il giovedì secondo una fonte) e terrazza panoramica del Palazzo della Cultura e della Scienza (10-20), poi volo di ritorno."
+        }
+      ],
+      "alloggio": "Hotel 3 stelle: circa 530 zł a notte secondo un aggregatore (dato con range molto ampio); per la doppia, ripartito per due persone.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Pisa–Varsavia",
+          "testo": "Sola andata da 13 € (Kayak) a 32-111 € come tariffe standard; Ryanair e Wizz Air operano la rotta, non tutti i giorni.",
+          "min": 26,
+          "max": 222,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Treno + Pisa Mover (A/R)",
+          "testo": "Parametro del documento: 8,70 € di treno + 6,50 € di Mover = 15,20 € a tratta, 30,40 € A/R a persona.",
+          "min": 30,
+          "max": 30,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pernottamento, 2 notti",
+          "testo": "Circa 530 zł a notte per un hotel 3 stelle in doppia (circa 123 € a notte, 61 € a persona); dato medio di un aggregatore con range molto più ampio.",
+          "min": 123,
+          "max": 123,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Trasporti urbani ZTM",
+          "testo": "Biglietto 24 ore zona 1 a 15 zł, 72 ore a 36 zł (circa 3-8 €).",
+          "min": 3,
+          "max": 8,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Ingressi (POLIN, terrazza del Palazzo della Cultura)",
+          "testo": "POLIN circa 25 zł e terrazza circa 20 zł, da un'unica fonte non ufficiale: da riverificare. Castello Reale gratuito il mercoledì.",
+          "min": 10,
+          "max": 10,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Bar mleczny 15-25 zł a pasto; ristorante di fascia media circa 50 zł per tre portate con bevande. Stima per 9 pasti.",
+          "min": 31,
+          "max": 104,
+          "tipo": "persona"
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Pisa Chopin: la rotta non è quotidiana, controllare i giorni. Per Bologna conviene l'aeroporto di Modlin, più lontano dal centro di Chopin. In città niente auto: biglietto ZTM giornaliero."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Museo POLIN chiuso il lunedì (martedì-domenica 10-18, giovedì fino alle 20); Castello Reale gratuito il mercoledì, Museo Nazionale gratuito il martedì."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per Castello Reale e POLIN alcune guide consigliano di prenotare in anticipo per evitare le code; prenotare i voli con largo anticipo per le tariffe minime."
+        }
+      ],
+      "note": "Dati in gran parte da aggregatori e guide non ufficiali; nessun sito ufficiale (ZTM, POLIN, Castello Reale) è stato verificato. Le tariffe dei voli e i giorni della rotta Pisa–Varsavia vanno controllati sulle date scelte.",
+      "fonti": [
+        "https://www.kayak.it/voli/Pisa-San-Giusto-PSA/Varsavia-WA1",
+        "https://www.momondo.it/volo/pisa/aeroporto-di-varsavia-chopin",
+        "https://www.momondo.it/volo/bologna/nowy-dwor-mazowiecki",
+        "https://www.ryanair.com/flights/it/it/voli-da-varsavia-a-bologna",
+        "https://www.travel365.it/varsavia-itinerario-3-giorni.htm",
+        "https://audiala.com/it/polonia/varsavia/wkl",
+        "https://gotripzi.com/it/destinations/warsaw-pl/cost",
+        "https://www.nomadotravel.app/it/guides/warsaw-on-a-budget",
+        "https://www.nomadotravel.app/it/guides/getting-around-warsaw",
+        "https://www.dove-e-quando.it/when/europa/polonia/varsavia/",
+        "https://www.nomadotravel.app/it/guides/best-time-to-visit-warsaw"
+      ],
+      "aggiuntaIl": "2026-11-02"
     }
   ]
 }
