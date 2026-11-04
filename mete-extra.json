@@ -13057,6 +13057,212 @@
       }
     },
     {
+      "id": "azzorre-7g",
+      "nome": "Azzorre",
+      "sottotitolo": "Portogallo, arcipelago atlantico: una settimana tra i crateri-lago di São Miguel, le balene al largo di Ponta Delgada e la Terceira di Angra do Heroísmo",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Volo da Firenze Peretola a Ponta Delgada (PDL) con TAP Air Portugal e un solo scalo a Lisbona; a Peretola si arriva col tram T2. Non ci sono voli diretti dalla Toscana o dall'Emilia: il diretto stagionale Azores Airlines Milano Malpensa–Ponta Delgada si è fermato il 10 ottobre 2025 e non riapre nel 2026, e sul sito TAP la tratta Bologna–Ponta Delgada non mostra tariffe da novembre 2026 ad aprile 2027. Da Malpensa resta TAP via Lisbona da 293 € A/R, che però da Firenze costa in più il viaggio fino a Milano. A São Miguel si ritira l'auto a noleggio in aeroporto; per Terceira si prende il volo interno SATA/Azores Airlines (il traghetto tra le due isole non è un'opzione su cui contare).",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Il collegamento più rapido Firenze–Ponta Delgada con TAP via Lisbona dura circa 8h15 all'andata e 10h al ritorno; con tram e attese si arriva a circa 9 ore porta a porta.",
+      "durataViaggioMinuti": 540,
+      "periodoMiglioreTesto": "Maggio, giugno, settembre e ottobre: clima mite, ortensie in fiore a inizio estate, mare ancora navigabile per il whale watching e prezzi lontani dal picco. Ottobre è il mese più economico per dormire a Ponta Delgada (media Kayak circa 33 € a notte), agosto il più caro (circa 275 € di media, e il noleggio auto sale a circa 48 € al giorno). Da dicembre a febbraio il noleggio costa pochissimo ma l'Atlantico è spesso agitato, piove molto e le uscite in barca saltano più facilmente.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        8,
+        12,
+        1,
+        2
+      ],
+      "costoMin": 758,
+      "costoMax": 1421,
+      "costoNota": "Volo calcolato sulle tariffe TAP via Lisbona da Firenze rilevate da Momondo tra novembre 2026 e gennaio 2027: in giugno-settembre e prenotando tardi può costare di più. I prezzi dei pasti sono di luglio 2023 in dollari (Traveltables), convertiti a 1 $ ≈ 0,86 € e arrotondati in alto per il rincaro. Alloggio su 6 notti in camera doppia divisa in due, con la fascia dei 3 stelle di Ponta Delgada; ad agosto la media sale molto oltre il massimo indicato. Il noleggio a Terceira non è nel totale (prezzo non verificato).",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 3,
+      "percheDurata": "São Miguel è lunga circa 65 km ma le strade di montagna sono lente, e le quattro mete forti (Sete Cidades, Furnas, Lagoa do Fogo, uscita in barca per le balene) chiedono ciascuna mezza giornata o una giornata intera, con il meteo che spesso costringe a spostare un belvedere al giorno dopo. Quattro giorni pieni sull'isola lasciano questo margine. Terceira aggiunge Angra do Heroísmo, patrimonio UNESCO da girare a piedi, e l'interno vulcanico: due giorni bastano, raggiungendola col volo interno. Con il primo e l'ultimo giorno spesi in viaggio, sette giorni sono il minimo per non correre; con meno si sceglie un'isola sola.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: tram T2 per Peretola, volo TAP per Lisbona e coincidenza per Ponta Delgada; si arriva nel tardo pomeriggio o in serata (l'Azzorre hanno due ore in meno dell'Italia). Ritiro dell'auto in aeroporto, a dieci minuti dal centro. Prima passeggiata a Ponta Delgada: le Portas da Cidade, i tre archi in basalto nero e pietra bianca, la chiesa madre di São Sebastião e il lungomare della marina, da dove partono le barche per le balene. Notte a Ponta Delgada, base per quattro notti."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Sete Cidades, all'estremità ovest. Si sale al Miradouro da Vista do Rei per la vista classica sui due laghi nel cratere, uno verde e uno azzurro, divisi da un ponticello; poi al Miradouro da Boca do Inferno (breve sentiero dal parcheggio), il punto da cui si vede tutta la caldera. Discesa al villaggio e giro in riva al lago. Nel pomeriggio la costa: Mosteiros con i faraglioni neri e la Ponta da Ferraria, dove una sorgente calda si mescola all'oceano in una piscina naturale tra gli scogli, gratuita; si va con la bassa marea, quando l'acqua è più calda."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: mattina in mare. Uscita di whale watching di mezza giornata dalla marina di Ponta Delgada (partenze verso le 8:30 e le 13:00): capodogli e delfini sono presenti tutto l'anno, le balenottere soprattutto in primavera. Pomeriggio a Lagoa do Fogo, il lago nel cratere senza strade né case intorno: d'estate si sale col bus navetta da Caldeira Velha o da Casa da Água, nel resto dell'anno si arriva in auto al belvedere. Si scende poi a Caldeira Velha, pozze di acqua termale in una gola di felci arboree, e si chiude a Ribeira Grande sulla costa nord."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: Furnas, la valle vulcanica a est. Prima la Lagoa das Furnas, dove sulla riva nord fumano le caldere in cui i ristoranti sotterrano le pentole del cozido, il bollito che cuoce sei-sette ore col calore della terra: si ordina in paese per pranzo. Poi le caldeiras che bollono tra le case del villaggio e il Parque Terra Nostra, giardino settecentesco con la grande vasca d'acqua termale color ruggine a circa 40°C (costume scuro, macchia). Sulla via del ritorno la piantagione di tè di Gorreana sulla costa nord, una delle pochissime piantagioni di tè d'Europa, con visita libera della fabbrica, e un bagno serale alla Poça da Dona Beija, aperta fino a tardi."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: riconsegna dell'auto e volo interno del mattino per Terceira. Angra do Heroísmo è la città più bella dell'arcipelago, patrimonio UNESCO: si gira a piedi tra le case colorate con i balconi in ferro, la cattedrale, il Palácio dos Capitães-Generais e il giardino Duque da Terceira che sale fino all'obelisco del Memória, con la vista sulla baia. Nel pomeriggio il sentiero del Monte Brasil, il cratere che chiude la baia di Angra a ovest, fino al belvedere del Pico das Cruzinhas. Notte ad Angra."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: l'interno di Terceira, con un'auto a noleggio presa in giornata o un tour guidato. Algar do Carvão è un camino vulcanico vuoto in cui si scende a piedi fino a un laghetto, tra stalattiti di silice: apre solo in alcuni periodi e orari, da verificare prima. Poi la Serra do Cume, il belvedere sui campi divisi dai muretti a secco, e le piscine naturali di lava dei Biscoitos sulla costa nord. In serata volo di ritorno a Ponta Delgada e notte vicino all'aeroporto."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: rientro. Volo per Lisbona e coincidenza per Firenze; il ritorno è più lungo dell'andata (circa 10 ore nel caso migliore), quindi si arriva a Peretola la sera e si torna a casa col tram. Chi trova un biglietto multitratta Firenze→Ponta Delgada e Terceira→Firenze, sempre con TAP via Lisbona, può dormire l'ultima notte ad Angra e saltare il volo interno di ritorno."
+        }
+      ],
+      "alloggio": "A Ponta Delgada Kayak rileva per i 3 stelle prezzi da 31 a 103 € a notte nelle ultime settimane (offerta recente da 42 €), una media di circa 33 € a notte in ottobre, il mese più economico, e di circa 275 € in agosto, il più caro. Per il calcolo: 33–103 € a notte per la camera doppia, 6 notti (quattro più una a Ponta Delgada, una ad Angra). Dove dormire: nel centro storico di Ponta Delgada, vicino alla marina, per avere ristoranti a piedi e il porto per le barche; chi vuole il bagno termale serale può spostare una notte a Furnas. A Terceira si dorme dentro Angra do Heroísmo, che si gira tutta a piedi.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Firenze–Ponta Delgada",
+          "testo": "TAP Air Portugal con scalo a Lisbona, oppure combinazioni via Madrid: Momondo rileva da 297 € A/R (novembre 2026) fino a circa 397 € (gennaio 2027). Nessun volo diretto.",
+          "min": 297,
+          "max": 397,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Firenze–aeroporto di Peretola",
+          "testo": "Tram T2 dal centro, 3,40 € A/R a persona.",
+          "min": 3.4,
+          "max": 3.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo A/R Ponta Delgada–Terceira",
+          "testo": "Azores Airlines/SATA, tariffe più basse rilevate sul sito della compagnia: 130 € A/R a novembre, 157 € a dicembre 2026.",
+          "min": 130,
+          "max": 157,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Milano Malpensa–Ponta Delgada",
+          "testo": "Alternativa: TAP via Lisbona da 293 € A/R (novembre 2026), più il treno Firenze–Malpensa. Nessun diretto Azores Airlines nel 2026.",
+          "min": 293,
+          "max": 293,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto a São Miguel (5 giorni)",
+          "testo": "In aeroporto a Ponta Delgada Kayak rileva medie da circa 7 € al giorno (gennaio) a circa 48 € al giorno (agosto), 23 € di media per un'utilitaria: 35–240 € per cinque giorni. Assicurazione a franchigia zero esclusa.",
+          "min": 35,
+          "max": 240,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante a São Miguel",
+          "testo": "Circa 350–450 km in quattro giorni (Sete Cidades, Lagoa do Fogo, Furnas e Gorreana, trasferimenti in aeroporto) a 0,129 €/km.",
+          "min": 45,
+          "max": 58,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "33–103 € a notte per la camera doppia in 3 stelle (Kayak, Ponta Delgada), cioè circa 16–52 € a persona a notte per 6 notti.",
+          "min": 99,
+          "max": 309,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pasto in locale economico circa 10 €, cena di tre portate in ristorante medio circa 37 € in due (Traveltables, 2023): 20–45 € al giorno a persona contando due pasti, caffè e un margine per i rincari. Il cozido di Furnas costa più di un pasto normale.",
+          "min": 20,
+          "max": 45,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Whale watching",
+          "testo": "Mezza giornata da Ponta Delgada: da 33 € con Picos de Aventura (CheckYeti, 3 ore) a 70 € adulti con Celina Tours; 35 € dai 6 ai 12 anni, gratis fino a 5.",
+          "min": 33,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parque Terra Nostra",
+          "testo": "Adulto 16 €, bambini di 6–7 anni 13,60 €, gratis fino a 5 anni; aperto al pubblico 10:30–16:30.",
+          "min": 16,
+          "max": 16,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Navetta Lagoa do Fogo",
+          "testo": "5 € per i non residenti, solo nel periodo estivo della navetta (nel 2025 dal 15 giugno al 30 settembre); nel resto dell'anno si sale in auto gratis.",
+          "min": 0,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Noleggio auto e carburante sono costi della vettura e vanno divisi in due; voli, tram, alloggio (già diviso per due dalla camera doppia), pasti, whale watching, Terra Nostra e navetta sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Da metà giugno a fine settembre a Lagoa do Fogo si sale solo con la navetta (9:00–19:00, partenze da Caldeira Velha o da Casa da Água, parcheggi gratuiti): il parcheggio del belvedere è riservato a residenti, taxi e operatori turistici, non alle auto a noleggio."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Niente voli diretti da Firenze, Pisa o Bologna, e il diretto Malpensa di Azores Airlines nel 2026 non c'è: si passa sempre da Lisbona (o Madrid). Tra São Miguel e Terceira il traghetto non ha orari pubblicati su Ferryhopper: si vola."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Parque Terra Nostra è aperto al pubblico solo dalle 10:30 alle 16:30. Le uscite per le balene dipendono dal mare e vengono annullate con l'oceano mosso: conviene fissare la barca nei primi giorni per avere un giorno di riserva."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Biglietti della navetta di Lagoa do Fogo su lagoadofogo.pt o presso le attività convenzionate. Volo interno per Terceira e auto in estate vanno prenotati presto: le tariffe salgono e le utilitarie finiscono."
+        }
+      ],
+      "note": "Il meteo cambia da un versante all'altro dell'isola in mezz'ora: se Sete Cidades è dentro le nuvole si va a Furnas e si torna ai belvederi il giorno dopo, per questo l'itinerario va tenuto elastico; le webcam di SpotAzores sui laghi aiutano a scegliere al mattino. Il cozido si prenota la sera prima nei ristoranti di Furnas e si va a vedere quando tirano fuori le pentole dalle caldere, verso metà mattina. Nella vasca di Terra Nostra il costume chiaro diventa arancione per sempre: portarne uno vecchio. A Ponta da Ferraria c'è una corda tesa tra gli scogli a cui tenersi: con mare mosso non si entra. Chi preferisce il mare alle città può sostituire Terceira con Pico, sempre col volo interno: Lajes do Pico è l'altro grande porto del whale watching e si può salire sul vulcano più alto del Portogallo, ma i prezzi del volo non sono verificati qui.",
+      "fonti": [
+        "https://www.momondo.it/volo/firenze/ponta-delgada",
+        "https://www.flytap.com/it_it/voli-da-milano-a-ponta-delgada",
+        "https://www.flytap.com/it_it/voli-da-bologna-a-ponta-delgada",
+        "https://italiavola.com/2025/11/17/azores-airlines-nel-2026-non-riaprira-i-voli-su-milano-malpensa/",
+        "https://flights.azoresairlines.pt/en/flights-to-terceira",
+        "https://www.ferryhopper.com/en/ferries/portugal/terceira",
+        "https://www.kayak.ie/Cheap-Ponta-Delgada-Acores--Car-Hire.8254.cars.ksp",
+        "https://www.kayak.ie/Ponta-Delgada-Hotels.8254.hotel.ksp",
+        "https://turismo.azores.gov.pt/?p=24039",
+        "https://bensaudehotels.com/en/experiences/terra-nostra-garden",
+        "https://celina-tours.com/en/futurismo-whale-watching-ponta-delgada-sao-miguel.php",
+        "https://www.checkyeti.com/en/d/1719/12726"
+      ],
+      "aggiuntaIl": "2026-11-04",
+      "coordinate": {
+        "lat": 37.741,
+        "lon": -25.668
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Pozze termali, cozido e balene piacciono a un bimbo di 4 anni (Terra Nostra e whale watching gratis fino a 5 anni), ma i voli di 8–10 ore con scalo e la barca su mare oceanico sono pesanti: meglio un'uscita breve e giorni a ritmo lento."
+      }
+    },
+    {
       "id": "bosnia-erzegovina-7g",
       "nome": "Bosnia ed Erzegovina",
       "sottotitolo": "Sarajevo e Mostar: minareti, il ponte ottomano sulla Neretva e le cascate dell'Erzegovina",
