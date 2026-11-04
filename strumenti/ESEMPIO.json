@@ -1,0 +1,92 @@
+{
+  "id": "faenza-1g",
+  "nome": "Faenza",
+  "sottotitolo": "Emilia-Romagna, la città della maiolica lungo la storica linea Faentina",
+  "durataGiorni": 1,
+  "mezzoConsigliato": "Treno regionale diretto da Firenze S.M.N./Campo di Marte sulla storica linea Faentina (Firenze–Borgo San Lorenzo–Faenza), poche corse dirette al giorno; in alternativa Frecciarossa/Italo fino a Bologna Centrale e cambio per Faenza.",
+  "mezzoCategoria": "treno",
+  "durataViaggioTesto": "Circa 1h56 in treno diretto sulla Faentina; con cambio a Bologna il tempo totale scende a circa 1h30-1h45.",
+  "durataViaggioMinuti": 116,
+  "periodoMiglioreTesto": "Marzo-giugno e settembre-novembre; l'estate è calda e afosa come nel resto della Pianura Padana.",
+  "mesi": [
+    3,
+    4,
+    5,
+    6,
+    9,
+    10,
+    11
+  ],
+  "mesiDaEvitare": [
+    7,
+    8
+  ],
+  "costoMin": 41,
+  "costoMax": 84,
+  "costoNota": null,
+  "dipendenzaAuto": "senza-auto",
+  "pertinenzaStimata": 3,
+  "percheDurata": "Il centro storico è compatto e pianeggiante, a dieci minuti a piedi dalla stazione: Piazza del Popolo, la Cattedrale e il MIC coprono una giornata piena, con tempo per la Pinacoteca o una sosta in una delle trattorie del centro. Non richiede un pernottamento.",
+  "cosaVedere": [
+    "MIC - Museo Internazionale delle Ceramiche: la più importante collezione al mondo di ceramica antica, moderna e contemporanea.",
+    "Piazza del Popolo con il Palazzo del Podestà (XII secolo, oggi sede municipale) e i portici storici.",
+    "Cattedrale di San Pietro (1474-1520), facciata rinascimentale su modello fiorentino, e la vicina Pinacoteca Comunale."
+  ],
+  "itinerario": null,
+  "alloggio": null,
+  "costiDettaglio": [
+    {
+      "voce": "Treno A/R",
+      "testo": "22-27 € in Regionale (da circa 11-13,50 € a tratta); più caro con Frecciarossa/Italo via Bologna.",
+      "min": 22,
+      "max": 27,
+      "tipo": "persona"
+    },
+    {
+      "voce": "MIC - biglietto d'ingresso",
+      "testo": "12 € intero, 9 € ridotto; +2 € durante le mostre temporanee. Gratuito fino a 14 anni.",
+      "min": 9,
+      "max": 14,
+      "tipo": "persona"
+    },
+    {
+      "voce": "Pinacoteca Comunale",
+      "testo": "3 € per entrambe le sezioni (Antica e Galleria d'Arte Moderna); gratuita la prima domenica del mese.",
+      "min": 0,
+      "max": 3,
+      "tipo": "persona"
+    },
+    {
+      "voce": "Pranzo",
+      "testo": "10-17 € in piadineria o pizzeria, 31-40 € in trattoria con cucina romagnola tipica.",
+      "min": 10,
+      "max": 40,
+      "tipo": "persona"
+    }
+  ],
+  "ripartizione": null,
+  "vincoli": [
+    {
+      "categoria": "accessi",
+      "testo": "Nessuna ZTL rilevante per chi arriva in treno: dalla stazione il centro è a 10 minuti a piedi in piano."
+    },
+    {
+      "categoria": "chiusure",
+      "testo": "Il MIC chiude il lunedì non festivo; da novembre a marzo l'ingresso nei feriali è solo 10-14 (nel weekend 10-18). Da aprile a ottobre orario 10-19 tutti i giorni tranne il lunedì."
+    },
+    {
+      "categoria": "prenotazioni",
+      "testo": "Nessuna prenotazione obbligatoria per MIC o Pinacoteca; nei giorni di Argillà Italia (inizio settembre) il MIC osserva orari estesi e maggiore afflusso."
+    }
+  ],
+  "note": "Sulla stessa linea Faentina si può abbinare in giornata anche Brisighella (già in documento con Dozza a 1 giorno), ma i tempi si allungano: valutare se restare solo a Faenza. La linea ha poche corse dirette al giorno: verificare gli orari aggiornati su Trenitalia prima di partire.",
+  "fonti": [
+    "https://www.thetrainline.com/en/train-times/firenze-santa-maria-novella-to-faenza",
+    "https://www.omio.it/treni/firenze/faenza",
+    "https://www.micfaenza.org/organizza-la-tua-visita/",
+    "https://www.pinacotecafaenza.it/",
+    "https://www.paesionline.it/italia/cosa-vedere-faenza",
+    "https://www.tripadvisor.com/Restaurants-g194758-zfp30-Faenza_Province_of_Ravenna_Emilia_Romagna.html"
+  ],
+  "aggiuntaIl": "2026-09-28"
+}
