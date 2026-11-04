@@ -14,12 +14,12 @@ stessi usati per la run del 4 novembre 2026.
   Legge `/home/claude/viaggi-dati/indice-catalogo.json` per i doppioni.
 - `unisci.py` — unisce le schede valide di `/home/claude/run/out/` con
   `mete-extra.json` (a parità di id vince `aggiuntaIl` più recente) e scrive
-  anche `/home/claude/errore/data/mete-extra.json` se il repo è clonato lì.
+  anche `/home/claude/app-famiglia/data/viaggi/mete-extra.json` (Nido, dove dal 4 novembre 2026 vive la sezione Viaggi) se il repo è clonato lì.
 - `candidati-YYYY-MM-DD.json` — gli elenchi di candidati usati nelle run
   precedenti (per non riproporre gli scartati).
 
-Percorsi attesi: `viaggi-dati` clonato in `/home/claude/viaggi-dati`, `errore`
-in `/home/claude/errore`, cartella di lavoro `/home/claude/run/` con dentro una
+Percorsi attesi: `viaggi-dati` clonato in `/home/claude/viaggi-dati`, `app-famiglia`
+(Nido) in `/home/claude/app-famiglia`, cartella di lavoro `/home/claude/run/` con dentro una
 copia di questi file e la sottocartella `out/`.
 
 `indice-catalogo.json` va aggiornato dopo ogni pubblicazione (id, nome,

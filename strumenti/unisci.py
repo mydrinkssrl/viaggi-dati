@@ -8,7 +8,7 @@ import glob, json, os, subprocess, sys
 
 OUT = '/home/claude/run/out'
 LIVE = '/home/claude/viaggi-dati/mete-extra.json'
-REPO = '/home/claude/errore/data/mete-extra.json'
+REPO = '/home/claude/app-famiglia/data/viaggi/mete-extra.json'  # Nido; l'app separata (errore) è stata ritirata
 
 live = json.load(open(LIVE, encoding='utf-8'))
 mete = {m['id']: m for m in live['mete']}
