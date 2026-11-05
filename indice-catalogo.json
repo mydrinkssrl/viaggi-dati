@@ -873,6 +873,11 @@
    1
   ],
   [
+   "cesena-e-bertinoro-1g",
+   "Cesena e Bertinoro",
+   1
+  ],
+  [
    "chianti-greve-panzano-e-castellina-1g",
    "Chianti: Greve, Panzano e Castellina",
    1
@@ -973,6 +978,11 @@
    1
   ],
   [
+   "populonia-e-golfo-di-baratti-1g",
+   "Populonia e il Golfo di Baratti",
+   1
+  ],
+  [
    "portofino-e-santa-margherita-ligure-1g",
    "Portofino e Santa Margherita Ligure",
    1
@@ -990,6 +1000,11 @@
   [
    "sarzana-e-lerici-1g",
    "Sarzana e Lerici",
+   1
+  ],
+  [
+   "saturnia-e-montemerano-1g",
+   "Saturnia e Montemerano",
    1
   ],
   [
@@ -1093,6 +1108,11 @@
    2
   ],
   [
+   "isola-di-capraia-2g",
+   "Isola di Capraia",
+   2
+  ],
+  [
    "lago-d-iseo-e-franciacorta-2g",
    "Lago d'Iseo e Franciacorta",
    2
@@ -1110,6 +1130,11 @@
   [
    "lione-2g",
    "Lione",
+   2
+  ],
+  [
+   "locarno-e-ascona-2g",
+   "Locarno e Ascona",
    2
   ],
   [
@@ -1228,6 +1253,11 @@
    3
   ],
   [
+   "costiera-amalfitana-positano-amalfi-e-ravello-3g",
+   "Costiera Amalfitana: Positano, Amalfi e Ravello",
+   3
+  ],
+  [
    "danzica-3g",
    "Danzica",
    3
@@ -1250,6 +1280,11 @@
   [
    "helsinki-e-tallinn-3g",
    "Helsinki e Tallinn",
+   3
+  ],
+  [
+   "ibiza-e-formentera-3g",
+   "Ibiza e Formentera",
    3
   ],
   [
@@ -1343,8 +1378,18 @@
    7
   ],
   [
+   "alpi-francesi-annecy-chamonix-e-grenoble-7g",
+   "Alpi francesi: Annecy, Chamonix e Grenoble",
+   7
+  ],
+  [
    "azzorre-7g",
    "Azzorre",
+   7
+  ],
+  [
+   "basilicata-completa-matera-dolomiti-lucane-e-maratea-7g",
+   "Basilicata completa: Matera, Dolomiti Lucane e Maratea",
    7
   ],
   [
@@ -1363,6 +1408,11 @@
    7
   ],
   [
+   "castiglia-toledo-segovia-salamanca-e-avila-7g",
+   "Castiglia: Toledo, Segovia, Salamanca e Ávila",
+   7
+  ],
+  [
    "catalogna-barcellona-girona-e-costa-brava-7g",
    "Catalogna: Barcellona, Girona e Costa Brava",
    7
@@ -1373,8 +1423,33 @@
    7
   ],
   [
+   "danimarca-completa-7g",
+   "Danimarca completa",
+   7
+  ],
+  [
+   "dordogna-e-perigord-7g",
+   "Dordogna e Périgord",
+   7
+  ],
+  [
+   "emirati-arabi-dubai-e-abu-dhabi-7g",
+   "Emirati Arabi: Dubai e Abu Dhabi",
+   7
+  ],
+  [
    "finlandia-e-lapponia-7g",
    "Finlandia e Lapponia",
+   7
+  ],
+  [
+   "friuli-completo-udine-carnia-e-aquileia-7g",
+   "Friuli completo: Udine, Carnia e Aquileia",
+   7
+  ],
+  [
+   "galles-7g",
+   "Galles",
    7
   ],
   [
@@ -1383,13 +1458,28 @@
    7
   ],
   [
+   "isole-ionie-corfu-cefalonia-e-zante-7g",
+   "Isole Ionie: Corfù, Cefalonia e Zante",
+   7
+  ],
+  [
    "macedonia-del-nord-7g",
    "Macedonia del Nord: Skopje e il Lago di Ohrid",
    7
   ],
   [
+   "maiorca-completa-7g",
+   "Maiorca completa",
+   7
+  ],
+  [
    "montenegro-7g",
    "Montenegro",
+   7
+  ],
+  [
+   "paesi-baschi-e-navarra-7g",
+   "Paesi Baschi e Navarra",
    7
   ],
   [
@@ -1413,6 +1503,11 @@
    7
   ],
   [
+   "tunisia-completa-7g",
+   "Tunisia completa",
+   7
+  ],
+  [
    "ungheria-budapest-balaton-ed-eger-7g",
    "Ungheria: Budapest, Balaton ed Eger",
    7
@@ -1423,8 +1518,33 @@
    14
   ],
   [
+   "bolivia-14g",
+   "Bolivia",
+   14
+  ],
+  [
+   "botswana-zimbabwe-e-cascate-vittoria-14g",
+   "Botswana, Zimbabwe e le Cascate Vittoria",
+   14
+  ],
+  [
    "brasile-rio-iguazu-e-salvador-14g",
    "Brasile: Rio, Iguazú e Salvador",
+   14
+  ],
+  [
+   "canada-orientale-toronto-montreal-e-quebec-14g",
+   "Canada orientale: Toronto, Montréal e Québec",
+   14
+  ],
+  [
+   "filippine-palawan-cebu-e-bohol-14g",
+   "Filippine: Palawan, Cebu e Bohol",
+   14
+  ],
+  [
+   "guatemala-e-belize-14g",
+   "Guatemala e Belize",
    14
   ],
   [
@@ -1438,8 +1558,28 @@
    14
   ],
   [
+   "kirghizistan-14g",
+   "Kirghizistan",
+   14
+  ],
+  [
    "malesia-e-singapore-14g",
    "Malesia e Singapore",
+   14
+  ],
+  [
+   "mauritius-e-reunion-14g",
+   "Mauritius e Réunion",
+   14
+  ],
+  [
+   "mongolia-14g",
+   "Mongolia",
+   14
+  ],
+  [
+   "oman-14g",
+   "Oman",
    14
   ],
   [
@@ -1608,6 +1748,7 @@
   "pesaro-e-gradara-1g",
   "pola-e-rovigno-2g",
   "tolosa-e-carcassonne-3g",
+  "uganda-e-ruanda-14g",
   "vieste-e-il-gargano-2g"
  ]
 }
