@@ -25,3 +25,15 @@ copia di questi file e la sottocartella `out/`.
 `indice-catalogo.json` va aggiornato dopo ogni pubblicazione (id, nome,
 durata di tutte le mete, documento + extra) ed è la fonte per il controllo dei
 doppioni.
+
+## Nota dalla run del 5 novembre 2026
+- Il limite delle ricerche web è **200 WebSearch per turno**, condivise tra tutti
+  gli agenti (non un tetto orario): bastano per ~27 mete. Per arrivare a 45 la
+  run pubblica ciò che ha, poi si riprogramma con `send_later` (nuovo turno,
+  budget azzerato) e completa il resto. Conviene dire agli agenti di usare al
+  massimo 6 WebSearch (3 per i completamenti) e preferire WebFetch.
+- Gli agenti da 7-14 giorni spesso lasciano i pasti fuori dal totale: controllare
+  che nei `costiDettaglio` ci sia una voce pasti con numeri e passare le schede
+  a `COMPLETA.md` prima di pubblicarle.
+- In questa sessione `app-famiglia` non era attaccabile (manca `add_repo`):
+  basta pubblicare su `viaggi-dati`, Nido la scarica alle 07:30.
