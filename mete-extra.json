@@ -520,6 +520,114 @@
       }
     },
     {
+      "id": "castiglione-della-pescaia-e-vetulonia-1g",
+      "nome": "Castiglione della Pescaia e Vetulonia",
+      "sottotitolo": "Toscana, Maremma: borgo marinaro con castello medievale e la città etrusca di Vetulonia sulla collina",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "In auto da Firenze verso Siena e poi Grosseto lungo la superstrada (Firenze–Siena–Grosseto, senza pedaggio sul tratto principale), poi Castiglione della Pescaia e, per Vetulonia, la salita di pochi chilometri nell'entroterra. Il treno fino a Grosseto esiste ma richiede poi bus o navetta locale e con due tappe distanti fra loro non conviene.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h20 in auto fino a Grosseto secondo Omio (stima porta a porta), più 25-30 minuti fino a Castiglione: nell'insieme circa 2h45. In treno fino a Grosseto circa 3h30 con bus finale.",
+      "durataViaggioMinuti": 165,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: mare e borgo vivibili senza calura né folla. Luglio e agosto sono pieni e il parcheggio è difficile; da novembre a marzo il borgo è quieto ma molti locali stagionali sono chiusi e il museo di Vetulonia chiude alle 16.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 50,
+      "costoMax": 78,
+      "costoNota": "Il carburante e i pedaggi sono stimati sul dato Omio per Grosseto (25 € a tratta) più i pochi km locali; non è stato verificato il chilometraggio esatto fino a Castiglione.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Castiglione della Pescaia ha un centro storico piccolo: il castello e le mura si girano in un'ora e mezza, il porto canale e il lungomare in un'altra ora. Vetulonia è a pochi chilometri e il museo archeologico (sette sale) con la Via dei Sepolcri richiede circa tre ore. Le due tappe stanno bene in una giornata, ma il viaggio da Firenze toglie circa cinque ore tra andata e ritorno: non c'è spazio per altro e il ritmo resta tranquillo solo partendo presto.",
+      "cosaVedere": [
+        "Borgo medievale di Castiglione della Pescaia con castello e cinta muraria: si sale a piedi dal porto e dall'alto si vede tutta la costa e l'Isola del Giglio nelle giornate limpide.",
+        "Porto canale con le barche dei pescatori: è il posto giusto per vedere il pesce fresco che arriva e per una passeggiata prima di pranzo.",
+        "Museo Civico Archeologico Isidoro Falchi a Vetulonia: sette sale con corredi villanoviani e orientalizzanti in argento e oro, e la stele del guerriero Auvele Feluske.",
+        "Via dei Sepolcri e Tomba della Pietrera, Tomba del Diavolino II e Tomba del Belvedere: tumuli etruschi monumentali nel verde a cielo aperto, che mostrano la scala delle sepolture dei notabili di Vetulonia.",
+        "Il piccolo borgo di Vetulonia sulla collina, con vista fino al mare e all'antica laguna dove sorgeva il lago Prile."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante e pedaggi",
+          "testo": "Circa 25 € a tratta fino a Grosseto secondo Omio (carburante e pedaggi), quindi circa 50 € A/R, più 5-12 € per i chilometri locali tra Grosseto, Castiglione e Vetulonia.",
+          "min": 55,
+          "max": 62,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "Circa 27 € in media fino a Grosseto, 3h27 porta a porta, poi serve il bus per la costa.",
+          "min": 27,
+          "max": 27,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Isidoro Falchi",
+          "testo": "5 € intero solo museo, 7 € con mostra temporanea; ridotto 2,50 €. Gratuito fino a 6 anni.",
+          "min": 5,
+          "max": 7,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Pesce del porto 18-28 € a piatto, acquacotta maremmana 10-14 €; un pasto completo in trattoria sui 20-40 € a persona.",
+          "min": 20,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Le voci della vettura (carburante e pedaggi) sono divise per due viaggiatori; museo e pranzo sono a persona. Parcheggio non quantificato: vedi vincoli.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "In alta stagione il parcheggio a Castiglione della Pescaia è scarso e le zone vicino al porto si riempiono presto; il castello si raggiunge solo a piedi. Tariffe del parcheggio non verificate."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il museo di Vetulonia è chiuso il lunedì (salvo festivi). Orari: 1 novembre-31 marzo 10-16; 1 aprile-15 giugno 10-18; 16 giugno-15 settembre 10-14 e 15-19; 16 settembre-31 ottobre 10-18. Chiuso 25-26 dicembre e 1 gennaio."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per il museo; per il pranzo di pesce nei weekend di primavera ed estate conviene prenotare. Il sito segnala di telefonare al museo per conferma degli orari (0564 948058)."
+        }
+      ],
+      "note": "Fate prima Vetulonia al mattino, quando il museo è fresco e vuoto, e poi scendete a Castiglione per un pranzo tardivo e la salita al castello nel pomeriggio, con luce migliore sul mare. Tra le trattorie, quelle lungo la strada fuori dal borgo alto spesso offrono meglio rapporto qualità-prezzo dei locali sul porto. Se potete, partite entro le 8 da Firenze: con meno di un'ora e mezza di margine a Castiglione il pomeriggio diventa corsa.",
+      "fonti": [
+        "https://www.omio.it/viaggi/firenze/grosseto",
+        "https://cultura.gov.it/luogo/museo-civico-archeologico-isidoro-falchi",
+        "https://www.visittuscany.com/en/attractions/isidoro-falchi-archeological-museum-in-vetulonia/",
+        "https://www.visittuscany.com/it/attrazioni/area-archeologica-di-vetulonia/",
+        "https://www.sluurpy.it/castiglione-della-pescaia",
+        "https://campercontact.com/en/italy/tuscany/castiglione-della-pescaia/22524/parcheggio-comunale"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": 42.7627,
+        "lon": 10.8838
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il mare e il porto piacciono a un bimbo di 4 anni, ma il museo è lungo e il viaggio in auto è di quasi tre ore a tratta."
+      }
+    },
+    {
       "id": "certaldo-e-san-miniato-1g",
       "nome": "Certaldo e San Miniato",
       "sottotitolo": "Toscana, due borghi di colle a mezz'ora da Firenze: il paese del Boccaccio e la città del tartufo bianco",
@@ -5500,6 +5608,139 @@
       }
     },
     {
+      "id": "cremona-e-crema-2g",
+      "nome": "Cremona e Crema",
+      "sottotitolo": "Lombardia, la città dei liutai con Stradivari e il Torrazzo, più la vicina Crema veneziana",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. a Cremona: quasi sempre con un cambio (Frecciarossa o Italo fino a Bologna/Milano o Intercity più Regionale Trenord), ma esiste anche un Intercity diretto. In alternativa auto: 253 km via A1/A21, circa 2h25 e 18 € di pedaggio a tratta. Per Crema, il giorno dopo, si usa la linea regionale da Cremona.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 3h in treno (le soluzioni più veloci 2h20-2h45, con cambio); 2h25 in auto (253 km).",
+      "durataViaggioMinuti": 190,
+      "periodoMiglioreTesto": "Marzo-maggio e settembre-ottobre: temperature miti per salire al Torrazzo e passeggiare. In luglio-agosto la Pianura Padana è afosa; in dicembre-gennaio è frequente la nebbia.",
+      "mesi": [
+        3,
+        4,
+        5,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8,
+        12,
+        1
+      ],
+      "costoMin": 146,
+      "costoMax": 328,
+      "costoNota": "Il treno è la fascia più larga: da 19 € a tratta (Intercity diretto) fino a circa 58 € (prezzo medio con Frecciarossa/Italo + Regionale). Non include il treno locale Cremona-Crema, di cui non ho verificato la tariffa.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro di Cremona è piccolo e tutto a piedi: Piazza del Comune con Duomo, Battistero e Torrazzo sono a pochi passi l'una dall'altro, e il Museo del Violino è a dieci minuti. Con tre ore di viaggio da Firenze, un giorno solo sarebbe di corsa; due giorni permettono di dedicare il primo a Cremona con calma (Torrazzo, museo, cena) e il secondo a Crema, che ha un centro raccolto attorno a Piazza Duomo e si visita in mezza giornata senza fretta, prima del rientro.",
+      "cosaVedere": [
+        "Museo del Violino: gli strumenti di Stradivari, Amati e Guarneri del Gesù in un percorso con audioguida inclusa, il motivo per cui Cremona è nella lista UNESCO della liuteria.",
+        "Torrazzo: la torre campanaria di 112,54 m accanto al Duomo, con 502 gradini che passano dal Museo Verticale e dall'orologio astronomico, fino alla vista sulla pianura.",
+        "Piazza del Comune: il cuore medievale con la Cattedrale romanica con affreschi rinascimentali e barocchi, il Battistero ottagonale, il Palazzo del Comune (1206) e la Loggia dei Militi.",
+        "Chiesa di San Gerolamo e le botteghe dei liutai in centro: decorazioni barocche e laboratori dove si vede lavorare il legno degli strumenti.",
+        "Crema, Piazza Duomo: il Duomo gotico lombardo in cotto e marmo bianco (1284-1341), con il Palazzo Comunale cinquecentesco voluto dai veneziani e il Torrazzo cittadino sul lato ovest.",
+        "Crema, Santuario di Santa Maria delle Grazie: interno barocco affrescato da Gian Giacomo Barbelli con le storie della Vergine.",
+        "Crema, Museo Civico: la storia del Cremasco, con ingresso gratuito ma orari spezzati e brevi."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte a Cremona: gli hotel a 3 stelle partono da circa 55-60 € a notte (73 € nel fine settimana) per camera, con media su tutte le categorie intorno a 94 € infrasettimanale e 118 € nel weekend; settembre è il mese più caro (circa 122 €), agosto il più economico (circa 75 €). Conviene dormire in centro, tra Piazza del Comune e la stazione, per muoversi tutti a piedi. Stima per coppia 60-120 € la notte.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Intercity diretto da 19 € a tratta, prezzo medio fino a circa 58 € con Frecciarossa/Italo più Regionale; tariffe minime da 8 € se prenotate molto in anticipo.",
+          "min": 38,
+          "max": 116,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto (alternativa)",
+          "testo": "253 km a tratta: circa 65 € di carburante A/R (0,129 €/km) più 36 € di pedaggio A/R (18 € a tratta), parcheggio escluso.",
+          "min": 101,
+          "max": 101,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo del Violino",
+          "testo": "12 € intero, 8 € ridotto; gratis sotto i 14 anni con due adulti.",
+          "min": 8,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Torrazzo, Battistero e Museo Diocesano",
+          "testo": "Biglietto cumulativo da 10 €; il lunedì 5 € solo per Torrazzo e Museo Verticale.",
+          "min": 10,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (1 notte)",
+          "testo": "60-120 € per due in 3 stelle o B&B, cioè 30-60 € a persona.",
+          "min": 30,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "15-20 € a persona in fascia economica, 25-40 € in fascia media; per due pasti al giorno.",
+          "min": 30,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Treno, ingressi, alloggio e pasti sono a persona. Con l'auto propria diventano della vettura carburante, pedaggi e parcheggio, da dividere per due.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il Museo del Violino è aperto martedì-domenica 10-18 e chiuso il lunedì; il Museo Civico di Crema è chiuso il lunedì e apre solo martedì 14:30-17:30, mercoledì-venerdì 10-12 e 14:30-17:30, sabato e domenica 10-12 e 15:30-18:30."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Per chi viene in treno non ci sono problemi di ZTL: la stazione di Cremona è vicina al centro. In auto serve verificare le zone a traffico limitato prima di entrare."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per i musei indicati; l'audioguida del Museo del Violino non si prenota e può finire nei giorni affollati."
+        }
+      ],
+      "note": "Organizzate il viaggio in modo che il lunedì cada nel giorno di arrivo o di rientro: il Torrazzo costa solo 5 € quel giorno, ma il Museo del Violino è chiuso, quindi non si può fare tutto. Il secondo giorno parti presto per Crema, perché il Museo Civico apre al mattino solo dal mercoledì al venerdì e nel weekend, e verifica gli orari dei treni regionali Cremona-Crema e del rientro a Firenze su Trenord e Trenitalia, perché il collegamento non è frequente come tra grandi città. Per cena a Cremona cerca una trattoria con tortelli cremaschi o marubini, specialità locali, nelle vie dietro Piazza del Comune.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/cremona",
+        "https://www.turismocremona.it/en/museo-del-violino",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Cremona/",
+        "https://abbonamentomusei.it/en/spazio_espositivo/museo-civico-di-crema-e-del-cremasco/",
+        "https://in3giorni.com/faq/quanto-costa-un-biglietto-per-il-torrazzo-di-cremona",
+        "https://www.kayak.it/Hotel-a-Cremona.2804.hotel.ksp",
+        "https://www.mentelocale.it/cremona/19360-cosa-vedere-cremona-giorno-salita-torrazzo-panorama-museo-violino-piatti-tipici.htm?P=2",
+        "https://www.mentelocale.it/cremona/articoli/95800-crema-cosa-vedere-itinerario-storica-citta-lombarda-scrigno-bellezze-architettoniche-ed-artistiche.htm",
+        "https://www.sluurpy.it/cremona/ristorante"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": 45.1333,
+        "lon": 10.0422
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il Torrazzo con 502 gradini è faticoso per un bimbo di 4 anni, ma il museo è gratuito sotto i 14 anni e il centro è tutto pedonale."
+      }
+    },
+    {
       "id": "dublino-2g",
       "nome": "Dublino",
       "sottotitolo": "Irlanda, la capitale dei pub e della letteratura a due ore e cinquanta di volo diretto da Pisa",
@@ -5636,6 +5877,144 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Con un bimbo di 4 anni il volo di 2h50 e i tour guidati (Kilmainham) sono impegnativi; funzionano meglio Dublin Castle e la passeggiata."
+      }
+    },
+    {
+      "id": "gorizia-e-il-collio-2g",
+      "nome": "Gorizia e il Collio",
+      "sottotitolo": "Friuli Venezia Giulia, città di confine con la Slovenia e colline del vino bianco a pochi chilometri",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto: circa 389 km da Firenze via A1 e A4 (Bologna, Padova, Venezia, Trieste direzione Gorizia), con 31,30 € di pedaggio a tratta. L'auto serve soprattutto il secondo giorno per muoversi tra le cantine del Collio. In alternativa treno con cambi (Frecciarossa fino al Veneto e regionale per Gorizia), tra 3h30 e 4h30 secondo le combinazioni.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h45 in auto (389 km); 3h30-4h30 in treno, con uno o due cambi.",
+      "durataViaggioMinuti": 223,
+      "periodoMiglioreTesto": "Aprile-giugno per le colline in fiore e settembre-ottobre per la vendemmia e il fogliame; luglio e agosto sono caldi, l'inverno è freddo e umido ma tranquillo.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        7,
+        8
+      ],
+      "costoMin": 199,
+      "costoMax": 361,
+      "costoNota": "Calcolato per due viaggiatori che condividono l'auto: voci vettura (carburante e pedaggi, circa 163 € totali) divise per due. Il parcheggio non è incluso perché non ho trovato una tariffa verificata. L'alloggio è calcolato per 1 notte a persona (camera doppia divisa per due).",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Il centro di Gorizia è piccolo e si gira a piedi: il Borgo Castello con il castello e i musei, la Grande Guerra, la piazza della Vittoria e la Transalpina al confine con Nova Gorica riempiono comodamente un giorno. Il secondo giorno è per il Collio, a pochi chilometri, con una o due degustazioni su prenotazione e il pranzo in cantina o in osteria. Il viaggio di quasi quattro ore ogni tratta rende il solo giorno singolo insensato, mentre con tre giorni si comincerebbe a ripetersi.",
+      "cosaVedere": [
+        "Castello di Gorizia e Borgo Castello: fortezza medievale sulla collina, restaurata dopo la Grande Guerra, con il Museo del Medioevo Goriziano, armi e macchine d'assedio e la passeggiata sulle mura con vista sulla città.",
+        "Museo della Grande Guerra: ospitato nelle cantine voltate delle case Dornberg e Tasso, racconta il fronte dell'Isonzo e la vita dei civili; il biglietto unico vale per tutti i musei del Borgo.",
+        "Centro storico: piazza della Vittoria, corso Italia, la chiesa di Sant'Ignazio e la sinagoga si coprono a piedi in mezza giornata.",
+        "Piazza Transalpina e Nova Gorica: la piazza attraversata dal confine con la Slovenia, dal 2004 liberamente percorribile; si passa a piedi nella città gemella per un caffè e il Parco della Rimembranza.",
+        "Collio: colline a pochi chilometri con Cormons, Dolegna del Collio e San Floriano del Collio, dove assaggiare Friulano, Ribolla Gialla, Malvasia Istriana e Pinot Grigio direttamente dai produttori.",
+        "Monte Sabotino (facoltativo): escursione fino a circa 4 ore con trincee e belvedere, adatta solo se si aggiunge tempo."
+      ],
+      "itinerario": null,
+      "alloggio": "In media circa 78 € a notte a gennaio (bassa) e 146 € a settembre (alta) per una camera in hotel secondo Kayak, con 105 € di minimo recente per un tre stelle. Per due persone conta 78-146 € a notte, cioè 39-73 € a persona. Conviene dormire in centro a Gorizia, vicino a corso Italia, per cenare a piedi.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante A/R",
+          "testo": "778 km A/R a 0,129 €/km (benzina 1,98 €/l, 6,5 l/100 km), circa 100 €.",
+          "min": 100,
+          "max": 100,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto: pedaggi A/R",
+          "testo": "31,30 € a tratta secondo Unipol Move, circa 63 € A/R.",
+          "min": 63,
+          "max": 63,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "Da circa 35 € a tratta per la ricerca del giorno su Omio (70 € A/R); i prezzi variano molto con anticipo e cambi, più cari con le Frecce.",
+          "min": 70,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio, 1 notte",
+          "testo": "78-146 € a notte per camera doppia, 39-73 € a persona.",
+          "min": 39,
+          "max": 73,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pasto completo in trattoria 25-40 € con bevande, 15-20 € nei locali economici; due pasti al giorno.",
+          "min": 30,
+          "max": 80,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Musei di Borgo Castello",
+          "testo": "Biglietto unico 6 € intero, 3 € ridotto.",
+          "min": 3,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Degustazione in cantina",
+          "testo": "15-20 € per 3-4 vini, 25-40 € per 5-6 vini con assaggi di cibo.",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e si dividono per due; alloggio, pasti, musei e degustazioni sono a persona. L'alloggio considera una camera doppia divisa per due.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il Castello di Gorizia è aperto da martedì a domenica, 10-13 e 15-19, e chiude il lunedì; il Museo della Grande Guerra è aperto martedì-domenica 9-19. Gli orari risalgono a fonti non recentissime, conviene telefonare."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Le cantine del Collio vanno prenotate in anticipo, soprattutto il fine settimana e in alta stagione; lo stesso vale per i ristoranti nel weekend."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Il passaggio a piedi in Slovenia da piazza Transalpina è libero dal 2004; per le cantine del Collio serve l'auto, con un conducente che non beve o a turno."
+        }
+      ],
+      "note": "Programma i giorni in modo che la visita al castello non cada di lunedì, quando è chiuso. La sera di arrivo conviene lasciare l'auto in albergo e muoversi a piedi, il Collio il giorno dopo con un conducente sobrio. Ho trovato i prezzi del parcheggio non verificati: chiedi in hotel se c'è un posto auto incluso. Il viaggio in auto è di quasi quattro ore: partire presto il primo giorno lascia il pomeriggio per il Borgo Castello.",
+      "fonti": [
+        "https://www.omio.it/treni/gorizia/firenze-7tjyu",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Gorizia.php",
+        "https://www.museionline.info/friuli-venezia-giulia-musei-monumenti/castello-di-gorizia",
+        "https://www.museionline.info/friuli-venezia-giulia-musei-monumenti/museo-della-grande-guerra",
+        "https://www.voyage-prive.it/offerte/weekend-a-gorizia",
+        "https://www.kayak.it/Hotel-a-Gorizia.57963.hotel.ksp",
+        "https://www.sluurpy.it/gorizia/trattoria"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": 45.9406,
+        "lon": 13.6205
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Castello e Transalpina piacciono a un bimbo di 4 anni, ma quasi quattro ore di auto per tratta e le cantine pesano."
       }
     },
     {
@@ -6939,6 +7318,118 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Città a misura di passeggino con castello e lungomare, ma il volo e le terrazze della cattedrale (vietate sotto i 9 anni) pesano con un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "parco-della-maremma-e-talamone-2g",
+      "nome": "Parco della Maremma e Talamone",
+      "sottotitolo": "Toscana, colline dell'Uccellina, torri sul mare e un borgo di mare con rocca senese",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria da Firenze verso Grosseto (Siena–Grosseto e Aurelia), poi Alberese per il Centro Visite del parco e Talamone sul secondo giorno: circa 185 km fino a Talamone. In alternativa treno o FlixBus fino a Grosseto e bus locali (RAMA) verso Alberese e Orbetello/Talamone, con tempi più lunghi e corse da verificare.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h20 in auto (circa 185 km fino a Talamone); in treno fino a Grosseto circa 3h e oltre, con bus FlixBus diretto circa 2h20 a bordo.",
+      "durataViaggioMinuti": 142,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: temperature adatte al cammino e mare ancora piacevole. Da luglio ad agosto il caldo è forte e, per il rischio incendi, alcuni percorsi del parco possono aprire solo con guida.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 123,
+      "costoMax": 143,
+      "costoNota": "Il totale usa solo le voci con fonte verificata: carburante per 370 km A/R, una cena al giorno a 25-35 €, una notte da 49 € (tariffa di partenza, in alta stagione sale). Il biglietto d'ingresso al parco non è stato verificato su una fonte ufficiale e non è incluso: controllare le tariffe sul sito del parco. Pedaggi e parcheggi non verificati.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il parco ha un solo grande ingresso a Alberese e un secondo dal mare di Marina di Alberese: il percorso classico A1 verso Torre dell'Uccellina e il monastero di San Rabano richiede ore di cammino e l'anello fino al mare e alle torri costiere arriva a circa 16 km e 8 ore. Un giorno intero va al parco, il secondo a Talamone, alla sua rocca, al porto e alla spiaggia del Bagno delle Donne, senza correre. Con meno tempo si sceglie o il parco o il mare.",
+      "cosaVedere": [
+        "Percorso A1 verso Torre dell'Uccellina e Monastero di San Rabano: dall'abitato di Alberese si sale nel bosco fino alle rovine medievali e alla torre trecentesca, con vista sulla pianura.",
+        "Torre di Collelungo e spiaggia: proseguendo su A1 e A2 si arriva alla torre cinquecentesca con vista sull'Arcipelago Toscano e a una spiaggia dove fare il bagno.",
+        "Butteri, cavalli maremmani e bovini maremmani allo stato brado nei prati attorno ad Alberese, con la Villa Granducale quattrocentesca nel paese.",
+        "Percorso A6 e A5: fondo in gran parte asfaltato e facile, con panchine, adatto anche a passeggini.",
+        "Marina di Alberese: circa 8 km in piano da Alberese, in bici o con la navetta estiva, per una pausa in spiaggia con chiosco.",
+        "Rocca di Talamone: fortezza senese del Duecento che domina il paese, ingresso gratuito.",
+        "Chiesa di Santa Maria Assunta a Talamone (1374), con affreschi quattrocenteschi, e il Tempio etrusco di Talamonaccio, panoramico al tramonto."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte a Alberese, Talamone o Fonteblanda. Fasce verificate di partenza: B&B da 49 € per un adulto al Golfo di Maremma Village, campeggio Marina Chiara da 50 € a notte con un adulto e un bimbo, Camping Maremma Sans Souci da 24 € per piazzola con 2 adulti e 2 bambini; Hotel Capo d'Uomo a Talamone in fascia alta, con garage a 15 € al giorno. Sono prezzi da, in alta stagione più alti: dormire a Alberese comoda per l'apertura del parco, Talamone per cena e passeggiata serale.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante A/R",
+          "testo": "Circa 370 km A/R (185 km fino a Talamone) a 0,129 €/km: circa 48 € per la vettura.",
+          "min": 48,
+          "max": 48,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R fino a Grosseto",
+          "testo": "Circa 20-27 € a tratta, quindi 40-54 € A/R a persona, più bus locale non verificato verso Alberese o Talamone. Alternativa al mezzo consigliato.",
+          "min": 40,
+          "max": 54,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio, 1 notte",
+          "testo": "Da 49 € a notte in B&B per un adulto; in alta stagione e in hotel più alto, qui indicato il minimo verificato.",
+          "min": 49,
+          "max": 49,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cena",
+          "testo": "Circa 25-35 € a persona in locanda a Talamone (Locanda dei Mille); pranzo al sacco consigliato in parco.",
+          "min": 25,
+          "max": 35,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Il carburante è della vettura e va diviso per due; alloggio e cene sono a persona. Biglietto del parco, pedaggi e parcheggi non inclusi perché non verificati.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Per entrare nei percorsi serve il biglietto del Centro Visite di Alberese, acquistabile anche online dal sito del parco. Cani e animali non ammessi nemmeno al guinzaglio. A Marina di Alberese è vietata la sosta sulla strada della Pinastrellaia e l'ordinanza 2025 prevede multe da 50 a 500 €."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Le sbarre di accesso cambiano orario con la stagione: nel 2025 da 07:00-19:30 a fine settembre-ottobre fino a 05:30-22:00 in tarda primavera-estate. Gli orari 2026 vanno controllati sul sito del parco. In estate i percorsi possono aprire solo con guida per il rischio incendi."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Biglietto d'ingresso necessario prima di iniziare qualsiasi percorso. La navetta estiva Alberese-Marina di Alberese non è compresa nel biglietto."
+        }
+      ],
+      "note": "Per tornare al punto di partenza dopo il percorso lungo senza due auto, la navetta è l'unica soluzione solo in estate; fuori stagione conviene un anello dal Centro Visite. Da Talamone il parco ha un secondo ingresso: se parti dal mare risparmi chilometri a piedi. Il treno diretto Firenze-Talamone è raro e con orari irregolari: meglio arrivare in auto.",
+      "fonti": [
+        "https://www.omio.it/viaggi/grosseto/firenze",
+        "https://www.rome2rio.com/s/Prato/Talamone",
+        "https://it.wikivoyage.org/wiki/Talamone",
+        "https://www.visittuscany.com/it/citta-e-borghi/alberese/",
+        "https://www.visittuscany.com/it/itinerari/quattro-passi-nel-parco-della-maremma/",
+        "https://www.familygo.eu/vacanze-con-bambini/viaggi/maremma/weekend-parco-della-maremma-bambini-natura/",
+        "https://www.maremmaguide.com/bagno-delle-donne-talamone.html",
+        "https://parcomaremma.webmapp.it/wp-content/uploads/2025/04/ORDINANZA-6-2025-1.pdf"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": 42.65,
+        "lon": 11.1
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Percorso A6 e il tratto in piano verso Marina di Alberese vanno bene anche con passeggino, ma i percorsi lunghi per le torri sono troppo faticosi per un bimbo di 4 anni."
       }
     },
     {
@@ -8372,6 +8863,165 @@
       }
     },
     {
+      "id": "amburgo-3g",
+      "nome": "Amburgo",
+      "sottotitolo": "Germania del Nord, la città-porto sull'Elba tra magazzini di mattoni rossi, canali e la nuova Elbphilharmonie",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo da Firenze Peretola (FLR) ad Amburgo (HAM): c'è un diretto Volotea, ma non tutti i giorni (la pagina del comparatore segnala le corse del giovedì), quindi controlla le date; le alternative con scalo (KLM, Lufthansa, Air France, SWISS) durano da circa 4 ore in su. Peretola si raggiunge con il tram T2 (3,40 € A/R a persona). In alternativa si può partire da Pisa (PSA) con scalo. Ad Amburgo l'aeroporto è collegato al centro dalla S-Bahn S1 (biglietto singolo 4,10 €), e in città si gira a piedi, con metro, bus e traghetti del porto.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 2h di volo diretto (Volotea); porta a porta circa 4h30 contando tram, imbarco e S-Bahn. Con scalo si superano facilmente le 5-6 ore.",
+      "durataViaggioMinuti": 270,
+      "periodoMiglioreTesto": "Da giugno a settembre: è la stagione calda (massime medie intorno ai 22 °C a luglio) e le giornate arrivano a circa 17 ore di luce. Maggio è piacevole ma è il mese in cui gli hotel costano di più. Da fine novembre a metà marzo fa freddo, con giornate di sole 7-8 ore a dicembre. Piove tutto l'anno, con luglio il mese più bagnato: porta sempre una giacca impermeabile.",
+      "mesi": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "mesiDaEvitare": [
+        12,
+        1,
+        2
+      ],
+      "costoMin": 390,
+      "costoMax": 648,
+      "costoNota": "Prezzi in dollari delle fonti sugli hotel convertiti in euro (1 € circa 1,16 $). Il volo è la voce più variabile: 152 € è il minimo A/R visto su un comparatore a novembre 2026, 239-267 € i prezzi indicativi di KLM, SWISS e Lufthansa. L'alloggio è calcolato su 2 notti (3 giorni), diviso per due persone in camera doppia.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro di Amburgo è grande ma le cose da vedere sono raccolte in tre aree vicine tra loro: Speicherstadt e HafenCity con l'Elbphilharmonie, il porto con i Landungsbrücken e St. Pauli, e la zona dell'Alster con il Rathaus. Il Miniatur Wunderland da solo richiede una mezza giornata piena, la Plaza dell'Elbphilharmonie e il giro in barca nel porto un altro mezzo giorno ciascuno. Con tre giorni si fa tutto a ritmo tranquillo, senza correre tra una prenotazione e l'altra e con un'intera mattina libera per camminare lungo l'Alster. In due giorni dovresti tagliare il porto o il Wunderland; in quattro rischi di ripeterti.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Arrivo in mattinata con il diretto Volotea o uno scalo, S-Bahn S1 fino al centro e lasciati i bagagli in hotel. Pomeriggio nella Speicherstadt, il quartiere dei vecchi magazzini in mattoni rossi sull'acqua, e visita al Miniatur Wunderland (da 22 € per gli adulti, 13 € per i bambini dai 4 ai 15 anni; gratis sotto 1 metro): prenota la fascia oraria online, si può entrare fino a 30 minuti dopo l'orario scelto. Sera in HafenCity con la salita alla Plaza dell'Elbphilharmonie, aperta fino a mezzanotte, per la vista sul porto con la luce del tramonto."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Mattina dedicata al porto: Große Hafenrundfahrt in barca dai Landungsbrücken (da 24 €), con passaggio nella Speicherstadt a seconda della marea. Pranzo veloce con un panino di pesce sul lungofiume, poi a piedi verso St. Pauli e la Reeperbahn, che di giorno è tranquilla e si fotografa meglio che di notte. Nel tardo pomeriggio rientro e cena in un locale del quartiere. Se il tempo è brutto, sposta la Plaza al giorno 2 e il Wunderland alla mattina presto."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Passeggiata attorno all'Alster partendo da Jungfernstieg, con il Rathaus e le gallerie commerciali coperte vicine (buone in caso di pioggia). Resta una mattina libera per un museo a scelta o per i negozi del centro. Pranzo, ritiro dei bagagli e S-Bahn per l'aeroporto con anticipo di almeno due ore sul volo di ritorno."
+        }
+      ],
+      "alloggio": "Un hotel a 3 stelle costa in media circa 122 € a notte per una camera doppia secondo una guida ai costi; un comparatore indica una media annua di 114-127 $ (circa 98-110 €), con gennaio come mese più economico (circa 81 $, 70 €) e maggio come più caro (circa 191 $, 165 €). Per due notti in doppia conta quindi 70-165 € a notte per camera, cioè 35-82 € a persona. Cerca vicino alla Hauptbahnhof o a St. Georg per la comodità di S-Bahn e metro, oppure tra Speicherstadt e HafenCity per essere a piedi dalle attrazioni principali. Domenica è di solito il giorno più economico, martedì il più caro.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Firenze-Amburgo",
+          "testo": "152-270 € A/R a persona: 152 € è il minimo A/R trovato su un comparatore a novembre 2026, 239-267 € per KLM, SWISS e Lufthansa. Il Volotea diretto parte solo in alcuni giorni.",
+          "min": 152,
+          "max": 270,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Tram T2 per Peretola",
+          "testo": "3,40 € A/R a persona dal centro di Firenze all'aeroporto di Peretola.",
+          "min": 3.4,
+          "max": 3.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Trasporti a Amburgo",
+          "testo": "25-36 € per tre giorni: si va dai biglietti giornalieri (8,20 € il giornaliero dalle 9) alla Hamburg Card 3 giorni a 35,90 €, che include il collegamento con l'aeroporto, trasporti pubblici e sconti fino al 50 % su oltre 150 attrazioni.",
+          "min": 25,
+          "max": 36,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "35-82 € a persona a notte in hotel a 3 stelle (70-165 € per camera doppia); per 2 notti il costo corrisponde a circa 23-55 € per ciascuno dei 3 giorni.",
+          "min": 23,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "30-41 € al giorno: due pasti economici a circa 15 € l'uno, più eventualmente due birre da 0,5 l a circa 5,50 € l'una.",
+          "min": 30,
+          "max": 41,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Miniatur Wunderland",
+          "testo": "Da 22 € per gli adulti, 19 € ridotto, 13 € per i bambini dai 4 ai 15 anni; gratis sotto 1 metro.",
+          "min": 22,
+          "max": 22,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Plaza dell'Elbphilharmonie",
+          "testo": "5 € a persona (3 € ridotto per chi ha tra 3 e 17 anni e per gli studenti), da prenotare online o in loco.",
+          "min": 5,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Giro in barca nel porto",
+          "testo": "Da 24 € a persona per la Große Hafenrundfahrt dai Landungsbrücken; con la Hamburg Card il risparmio sul giro del porto è di circa 5 €.",
+          "min": 24,
+          "max": 24,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Non serve l'auto: tutte le voci sono a persona (volo, tram, trasporti locali, alloggio in camera doppia diviso per due, pasti, ingressi).",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "L'aeroporto HAM è collegato al centro con la S-Bahn S1 (biglietto singolo 4,10 €); con la Hamburg Card (zona AB) il collegamento è incluso. Non serve noleggiare l'auto: il centro è denso e i parcheggi sono costosi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Plaza dell'Elbphilharmonie è aperta ogni giorno dalle 10 alle 24 (ultimo ingresso alle 23:30), ma è chiusa il 24 dicembre e il 31 dicembre chiude alle 18. Il Miniatur Wunderland apre lun-gio 9-18, ven 9-19, sab dalle 8 a mezzanotte, dom 8:30-20: gli orari possono variare."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il Miniatur Wunderland si prenota a fasce orarie online (ingresso fino a 30 minuti dopo l'orario prenotato; il biglietto non vale più se esci). Anche la Plaza conviene prenotarla in anticipo per evitare la coda."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il volo diretto Volotea non è giornaliero: scegli prima i giorni in cui opera, altrimenti ti ritrovi con uno scalo che raddoppia il tempo di viaggio."
+        }
+      ],
+      "note": "Per risparmiare sulle attrazioni controlla se la Hamburg Card conviene: costa 35,90 € per 3 giorni e vale per un adulto più tre bambini dai 6 ai 14 anni (esiste anche la versione di gruppo fino a 5 persone, 60,90 € per 3 giorni), quindi con un bimbo piccolo può essere vantaggiosa. Il trucco da chi conosce il posto: al Wunderland scegli la prima fascia del mattino o una serale, quando c'è meno gente, e dalla Speicherstadt vai alla Plaza nel tardo pomeriggio per vedere il porto con la luce migliore. Se il volo diretto non coincide con le tue date, compara anche l'aeroporto di Pisa (scalo) prima di decidere.",
+      "fonti": [
+        "https://www.momondo.it/volo/firenze/amburgo",
+        "https://www.hamburg-travel.com/entrance-to-the-miniatur-wunderland",
+        "https://www.elbphilharmonie.de/en/plaza/",
+        "https://www.volksstimme.de/panorama/elbphilharmonie-plaza-kostet-ab-montag-funf-euro-4332862",
+        "https://www.hamburg-tourism.de/buchen/hamburg-card-1/",
+        "https://www.hamburg-tourism.de/buchen/tickets/maritime-erlebnisse/hafenrundfahrt-barkassen-meyer",
+        "https://www.kayak.com/Hamburg-Hotels_3-stars.Hts.32131.hotel.ksp",
+        "https://www.gotripzi.com/destinations/hamburg-de/cost",
+        "https://weatherspark.com/y/68301/Average-Weather-in-Hamburg-Germany-Year-Round"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": 53.5511,
+        "lon": 9.9937
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Il Miniatur Wunderland è gratis sotto 1 metro e 13 € dai 4 anni; il giro in barca e la Plaza sono adatti anche a un bimbo di 4 anni."
+      }
+    },
+    {
       "id": "barcellona-3g",
       "nome": "Barcellona",
       "sottotitolo": "Catalogna, Spagna: la metropoli di Gaudí, del Barri Gòtic e del mare, a meno di due ore di volo diretto da Firenze",
@@ -8548,6 +9198,154 @@
       "bambini": {
         "adatta": "si",
         "nota": "Con un bimbo di 4 anni il volo è breve e gli ingressi a Sagrada Família (sotto gli 11 anni) e Park Güell (sotto i 7) sono gratuiti; la spiaggia di Barceloneta e il parco dei mosaici bastano a tenerlo contento, ma i vicoli del Gòtico sono duri col passeggino."
+      }
+    },
+    {
+      "id": "bastia-e-capo-corso-3g",
+      "nome": "Bastia e Capo Corso",
+      "sottotitolo": "Corsica, il porto genovese di Bastia e il giro in auto della penisola del Capo, a cinque ore di nave da Livorno",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Treno Regionale da Firenze S.M.N. a Livorno Centrale (circa 1h10-1h30, una quarantina di treni al giorno), poi nave Corsica Ferries Livorno-Bastia (4-5 ore) da persona a piedi; a Bastia si noleggia un'auto per il giro del Capo Corso. Portare l'auto propria in nave costa molto di più (vedi costi). Nei mesi bassi la nave è una sola al giorno, quindi conviene controllare il calendario prima di fissare i giorni.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 7h30 porta a porta: 1h10-1h30 di treno fino a Livorno, trasferimento al porto e imbarco, poi 4-5 ore di traversata fino a Bastia.",
+      "durataViaggioMinuti": 450,
+      "periodoMiglioreTesto": "Maggio, giugno, settembre e ottobre: mare e strade del Capo godibili, più corse di nave che in inverno. A luglio e agosto è afoso e gli hotel arrivano a 190 € a notte. A novembre piove di più e molti servizi del Capo chiudono.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8,
+        11
+      ],
+      "costoMin": 223,
+      "costoMax": 477,
+      "costoNota": "Due viaggiatori che dividono l'auto a noleggio. Il biglietto del museo di Bastia non è incluso perché non sono riuscito a verificarne il prezzo 2026; la forbice dei pasti va da due piatti singoli a un pranzo semplice più una cena a tre portate. L'assicurazione completa dell'auto, consigliata sulle strade strette del Capo, non è inclusa.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Bastia si gira a piedi in mezza giornata: Vieux Port, Terra Nova con la cittadella, Place Saint-Nicolas, le chiese barocche e il museo nel Palais des Gouverneurs (1-1h30 di visita). Il giro del Capo Corso lungo la D80 richiede circa 3h30 di sola guida senza soste, e con Erbalunga, Macinaggio, Centuri e Nonza fa una giornata piena. Con tre giorni resta una mezza giornata libera per Saint-Florent o per il sentiero dei Doganieri. Attenzione: tra andata sera e ritorno mattina in bassa stagione si perde molto tempo, per cui il vero ritmo comodo si ha solo con le corse estive più frequenti.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Treno Firenze-Livorno in mattinata e nave Corsica Ferries delle 13:45 (nei giorni feriali di novembre 2026), arrivo a Bastia nel tardo pomeriggio. Ritiro dell'auto a noleggio o rinvio al giorno dopo, poi passeggiata al Vieux Port, a Place Saint-Nicolas e cena nei vicoli di Terra Vecchia."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Giro del Capo Corso in senso antiorario sulla D80, che dà le viste migliori sulla costa ovest e sul golfo di Saint-Florent. Prima sosta a Erbalunga (circa 20 minuti da Bastia), poi Macinaggio (altri 40 minuti), deviazione a Rogliano e Barcaggio per vedere l'isola della Giraglia, Col de Serra e deviazione di circa 5 km a Centuri per il porto delle aragoste. Si scende per Nonza con la torre paolina e la spiaggia nera, e si chiude a Saint-Florent. Senza soste sono circa 3h30 di guida."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Mattina in città: la cittadella di Terra Nova e il museo del Palais des Gouverneurs (in bassa stagione aperto 9-12 e 14-17, chiuso domenica e lunedì), poi l'Aldilonda con la vista sulla cittadella. Se la nave di ritorno parte alle 08:00 come nelle date di novembre, bisogna anticipare cittadella e museo al giorno 1 o 2 e dedicare il mattino a rientrare a Livorno e a Firenze. In estate, con più corse, si può rientrare nel pomeriggio."
+        }
+      ],
+      "alloggio": "A Bastia gli hotel 2 stelle partono da 63 € a notte, i 3 stelle da 69 €; il mese più economico è gennaio (media 63 €), il più caro agosto (fino a 190 €). Nelle ultime settimane la media è stata 124 € in settimana e 176 € nel fine settimana, quindi il mercoledì costa meno e il sabato di più. Per due persone si calcola 65-130 € a notte. Conviene dormire al Vieux Port o in Terra Nova per muoversi a piedi; chi vuole fare il Capo con calma può passare una notte a Macinaggio o a Tomino, dove i servizi sono più rari nei mesi bassi.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze-Livorno A/R",
+          "testo": "Regionale da circa 11-13 € a tratta, A/R 22-26 € a persona.",
+          "min": 22,
+          "max": 26,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Nave Livorno-Bastia A/R",
+          "testo": "Da 22 € a persona a tratta (Ferryhopper) fino a 43 € sulle date osservate: A/R 44-86 € a persona a piedi.",
+          "min": 44,
+          "max": 86,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio 2 notti",
+          "testo": "65-130 € a notte per due in hotel 2-3 stelle, quindi 65-130 € a persona per le due notti.",
+          "min": 65,
+          "max": 130,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Un piatto a pranzo costa in media 10 € a persona (massimo storico 25 €); una cena a 3 portate arriva a 50 €. Stima giornaliera 20-60 €.",
+          "min": 20,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Noleggio auto 2 giorni",
+          "testo": "Piccole da circa 24-26 € al giorno; media 28 € a ottobre e circa 45 € a luglio.",
+          "min": 48,
+          "max": 90,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante giro del Capo",
+          "testo": "Circa 120-150 km tra D80, deviazioni e Saint-Florent, con il parametro di 0,129 €/km: 15-19 €. Il km totale è una stima, il tempo di guida di 3h30 è dichiarato dalla fonte.",
+          "min": 15,
+          "max": 19,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto propria in nave (confronto)",
+          "testo": "Per due adulti con auto Ferryhopper indica 96 € a tratta, circa 192 € A/R, più carburante e pedaggi fino a Livorno. Non entra nel totale.",
+          "min": 192,
+          "max": 192,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Treno, nave a piedi, alloggio e pasti sono a persona. Noleggio dell'auto e carburante sono della vettura e vengono divisi per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Sulla costa ovest del Capo la strada è stretta e con i bus si manovra; l'ultimo chilometro per la Torre Seneca è molto stretto. Meglio un'auto compatta con assicurazione completa."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il museo di Bastia in bassa stagione (1 ottobre-30 aprile) è aperto 9-12 e 14-17, chiuso domenica e lunedì; chiuso anche l'1 e l'11 novembre. In alta stagione (2 maggio-30 settembre) è 10-18:30. A novembre molti servizi lungo il Capo sono chiusi."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per 5-18 novembre 2026 le partenze Livorno-Bastia risultano alle 13:45 nei giorni feriali e Bastia-Livorno alle 08:00. In bassa stagione bisogna prenotare la nave scegliendo prima i giorni; Kayak consiglia di prenotare l'hotel almeno 33 giorni prima."
+        }
+      ],
+      "note": "Se vai nel fine settimana controlla le corse: nelle date di novembre osservate non ne comparivano né di sabato né di domenica. Il giro in senso antiorario ti fa avere il sole davanti e le viste migliori sulla costa ovest. Un trucco: la cena a Patrimonio, a sud del Capo, chiude bene la giornata con prodotti tipici e vino DOC. Il mercato di Terra Vecchia in place de l'Hôtel-de-Ville si tiene il sabato e la domenica mattina, quindi conviene incastrare lì la mattina libera. Per vedere davvero il Capo con calma la fonte stessa dice che due giorni sono meglio di uno: se potessi, allunga di una notte.",
+      "fonti": [
+        "https://www.traghetti.com/corsica-ferries/livorno-bastia",
+        "https://www.traghetti.com/corsica-ferries/bastia-livorno",
+        "https://www.omio.it/traghetti/firenze/bastia-6gjej",
+        "https://www.ferryhopper.com/it/ferries/france/bastia",
+        "https://www.omio.it/treni/livorno/firenze",
+        "https://www.kayak.it/Hotel-a-Bastia.41202.hotel.ksp",
+        "https://www.kayak.it/Autonoleggi-economici-Bastia.41202.cars.ksp",
+        "https://corsicalovers.fr/it/visitare-cap-corse-corsica/",
+        "https://www.visit-corsica.com/it/Scoprire-la-Corsica/Le-nostre-ispirazioni/Ispirazioni-eco-responsabili-slow/Il-tour-di-cap-corse-1-giorno",
+        "https://www.l-itineraire.com/idees-voyage/bastia/que-faire-a-bastia-les-incontournables",
+        "https://www.combien-coute.net/restaurant/corse/bastia/",
+        "https://weatherspark.com/averages/32090/Bastia-Corse-France"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": 42.7028,
+        "lon": 9.4503
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Bastia è tranquilla e c'è la spiaggia di Tamarone adatta alle famiglie, ma 4-5 ore di nave e il giro del Capo su strade strette sono faticosi per un bimbo di 4 anni."
       }
     },
     {
@@ -11273,6 +12071,161 @@
       }
     },
     {
+      "id": "riviera-di-ponente-sanremo-alassio-e-finale-ligure-3g",
+      "nome": "Riviera di Ponente: Sanremo, Alassio e Finale Ligure",
+      "sottotitolo": "Liguria, tre tappe sul mare tra Belle Époque, carruggi e borghi medievali dell'entroterra",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Auto propria da Firenze: FI-PI-LI fino a Livorno/Pisa, poi A12 verso Genova e A10 Genova-Ventimiglia (circa 371 km fino a Sanremo, 3h33 secondo il calcolo di UnipolMove). Si entra in Liguria da Finale Ligure, si dorme ad Alassio e si finisce a Sanremo. Il treno non è diretto: Firenze-Sanremo richiede 1 o 2 cambi e oltre 5-6 ore, quindi per tre tappe diverse è molto meno pratico.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h33 in auto fino a Sanremo (371 km); la prima tappa, Finale Ligure, è qualche decina di minuti prima. In treno la media indicata è di circa 6 ore con 1-2 cambi (le soluzioni più rapide sono sui 4h34).",
+      "durataViaggioMinuti": 213,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: mare e sentieri vivibili e prezzi lontani dai picchi. Da evitare luglio e agosto, quando le tariffe alberghiere medie ad Alassio e Sanremo salgono di molte volte rispetto a gennaio (la pagina Kayak segnala medie di 527 € a notte a luglio ad Alassio e 308 € ad agosto a Sanremo).",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 250,
+      "costoMax": 395,
+      "costoNota": "Con 2 viaggiatori in auto: carburante e pedaggi (vettura) divisi per due; alloggio per 2 notti in bassa/media stagione. Il parcheggio non è conteggiato perché non ho trovato tariffe 2026 verificabili.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le tre tappe si susseguono lungo circa 80-90 km di costa, con un solo spostamento in auto per giornata. Il primo giorno copre Finale Ligure con Finalborgo e il museo archeologico, il secondo Alassio e il tragitto verso Sanremo, il terzo Sanremo tra Pigna, Villa Nobel e Forte di Santa Tecla. Ogni tappa ha tre o quattro punti d'interesse veri, quindi si cammina senza correre e resta tempo per focaccia, farinata e una passeggiata sul lungomare. In due giorni si dovrebbe saltare una delle tre città; in quattro o cinque si finirebbe a riempire.",
+      "cosaVedere": [
+        "Finalborgo (Finale Ligure): borgo murato con porte e carruggi in pietra a pochi minuti dal mare; il Museo archeologico del Finale ai Chiostri di Santa Caterina racconta il Paleolitico locale (aperto mar-dom 9-12 e 14:30-17, chiuso il lunedì).",
+        "Alassio: il lungomare con la spiaggia sabbiosa, il Budello dei carruggi paralleli al mare e il celebre Muretto con le piastrelle firmate dai personaggi famosi.",
+        "Sanremo, La Pigna: il quartiere medievale a chiocciola sopra il porto, un dedalo di vicoli ripidi che sale verso il Santuario della Madonna della Costa.",
+        "Forte di Santa Tecla (Sanremo): fortezza genovese del 1756 trasformata in spazio culturale, aperta tutti i giorni 10-18, con una bella vista sul porto.",
+        "Villa Nobel: la casa dove visse Alfred Nobel, oggi museo con audioguida; i giardini sono gratuiti.",
+        "Chiesa Ortodossa Russa e Casinò (Sanremo): la prima, con le sue cupole a cipolla del 1912-1913, è visibile dal Corso degli Inglesi; il Casinò Art Nouveau di Eugène Ferret è ad ingresso libero, ma riservato ai maggiorenni."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza da Firenze la mattina presto, circa 3 ore di auto fino a Finale Ligure. Parcheggia fuori dalla ZTL e visita Finalborgo a piedi: porte medievali, piazza centrale e Museo archeologico del Finale (chiuso il lunedì). Pranzo con farinata e trofie al pesto, poi sul lungomare di Finale Marina. In serata trasferimento ad Alassio per la cena e il pernottamento."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina ad Alassio, a piedi: lungomare, Budello dei carruggi e Muretto. Se il meteo è buono, si può prolungare con un po' di spiaggia. Nel pomeriggio si prosegue per Sanremo; sistemazione in hotel e passeggiata nella Pigna al tramonto, con cena in un locale del centro storico."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Sanremo con calma. Mattina a Villa Nobel (martedì-sabato 10-12:30, anche 15-18 venerdì e sabato), poi la chiesa russa e il Corso degli Inglesi con il Casinò. Pranzo al Mercato Annonario con sardenaira e focaccia, quindi Forte di Santa Tecla (10-18). Partenza nel primo pomeriggio verso Firenze, circa 3h30 di ritorno."
+        }
+      ],
+      "alloggio": "Dormire ad Alassio la prima notte e a Sanremo la seconda. Fasce verificate: a Sanremo i 3 stelle partono da circa 50 € a notte e a gennaio la tariffa media è di circa 89 €; ad Alassio la media di gennaio è di circa 80 € e nei 3 stelle le camere recenti andavano da circa 86-100 € a 352 €. Ipotesi di lavoro per autunno/primavera: 60-110 € a notte per una camera doppia, cioè 30-55 € a persona a notte. In luglio e agosto le tariffe salgono molto oltre (medie fino a 527 € ad Alassio e 308 € a Sanremo).",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante A/R",
+          "testo": "Circa 742 km tra andata e ritorno più una settantina di km di spostamenti tra le tre tappe, a 0,129 €/km: circa 103 € per la vettura.",
+          "min": 103,
+          "max": 103,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi autostradali A/R",
+          "testo": "38,80 € a tratta secondo UnipolMove (371 km Firenze-Sanremo): circa 78 € andata e ritorno. Il tratto FI-PI-LI è gratuito.",
+          "min": 78,
+          "max": 78,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggio",
+          "testo": "Tariffe non verificate per il 2026: nel centro di Finale e ad Alassio la sosta è a pagamento (strisce blu, parcheggi in struttura 24 ore); molti alberghi hanno posti auto convenzionati. Chiedi in anticipo.",
+          "min": null,
+          "max": null,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti)",
+          "testo": "60-110 € a notte per una camera doppia in 3 stelle/B&B in bassa-media stagione, cioè 30-55 € a persona a notte: 60-110 € a persona per 2 notti.",
+          "min": 60,
+          "max": 110,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Focaccia o farinata 4-6 € a pezzo, pranzo veloce 10-20 €, cena completa 28-44 €; stimiamo 30-60 € al giorno a persona.",
+          "min": 30,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Museo archeologico del Finale 5 € (ridotto 3), Villa Nobel 7 € con audioguida (giardini gratuiti), Forte di Santa Tecla 4 € (ridotto 2). Chiesa russa e Casinò ad ingresso libero secondo la fonte.",
+          "min": 9,
+          "max": 16,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Firenze-Sanremo A/R (alternativa)",
+          "testo": "Da circa 26 € a tratta, prezzo medio indicato 56 €, 1-2 cambi e oltre 5-6 ore a tratta: non conviene per tre tappe.",
+          "min": 52,
+          "max": 112,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi (vettura, circa 181 € totali) si dividono per due; alloggio, pasti e ingressi sono per persona. Il parcheggio è escluso dal totale perché senza tariffa verificata.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Finale Ligure è a controllo ZTL con telecamere: parcheggia fuori dalla zona e raggiungi Finalborgo a piedi. Nei centri di Alassio e Sanremo la sosta è a pagamento."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Museo archeologico del Finale chiuso il lunedì (mar-dom 9-12 e 14:30-17). Villa Nobel aperta da martedì a sabato 10-12:30, e 15-18 solo venerdì e sabato. Forte di Santa Tecla aperto tutti i giorni 10-18."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per i musei citati. In alta stagione e nei weekend lunghi conviene invece prenotare l'alloggio con largo anticipo, perché i prezzi salgono molto."
+        }
+      ],
+      "note": "Per non sbagliare i giorni, fai coincidere la visita a Villa Nobel con un martedì-sabato e il Museo di Finale con un giorno non lunedì: partire di giovedì o venerdì funziona bene. Il Casinò è visitabile gratuitamente solo da maggiorenni e con abbigliamento adeguato. Alassio e Finale Ligure sono collegate da un treno regionale in circa 23 minuti (5-6 €, circa 21 corse al giorno): utile se vuoi lasciare l'auto in hotel per un tratto. Non esiste un treno diretto da Firenze, quindi per questo viaggio l'auto resta la scelta più comoda.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/sanremo",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Sanremo/",
+        "https://www.omio.it/treni/firenze-santa-maria-novella/finale-ligure-marina-cgzab",
+        "https://www.omio.it/treni/alassio/finale-ligure-bscbz",
+        "https://www.italia.it/it/liguria/cosa-fare/cosa-vedere-a-sanremo-in-5-giorni-itinerario",
+        "https://www.italia.it/it/liguria/finale-ligure/musei/museo-archeologico-del-finale",
+        "https://www.museoarcheologicodelfinale.it",
+        "https://www.travel365.it/sanremo-cosa-vedere.htm",
+        "https://www.museionline.info/liguria-musei-monumenti/forte-di-santa-tecla-sanremo",
+        "https://www.kayak.it/Hotel-a-Sanremo.13073.hotel.ksp",
+        "https://www.kayak.it/Hotel-a-Alassio.40519.hotel.ksp",
+        "https://www.sluurpy.it/finale-ligure/ristoranti"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": 44.0,
+        "lon": 8.17
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Alassio ha una spiaggia sabbiosa e Sanremo passeggiate pianeggianti sul mare, ma le tre tappe comportano molte ore in auto e carruggi ripidi con il passeggino."
+      }
+    },
+    {
       "id": "rodi-3g",
       "nome": "Rodi",
       "sottotitolo": "Grecia (Dodecaneso), città medievale dei Cavalieri, acropoli di Lindos e costa occidentale in un volo diretto stagionale",
@@ -13399,6 +14352,208 @@
       "aggiuntaIl": "2026-09-03"
     },
     {
+      "id": "bulgaria-completa-7g",
+      "nome": "Bulgaria completa",
+      "sottotitolo": "Bulgaria, un anello in auto da Sofia: Rila, Koprivshtitsa, Plovdiv, la Valle delle Rose e Veliko Tărnovo",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Volo diretto Ryanair Bologna–Sofia (circa 1h50; voli il lunedì, mercoledì, venerdì, sabato e domenica), raggiungendo il Marconi in treno da Firenze più Marconi Express. All'aeroporto di Sofia si ritira un'auto a noleggio per tutta la settimana: l'anello interno tocca monasteri e villaggi di montagna serviti male dai mezzi pubblici. Serve la vignetta elettronica settimanale (10 €), spesso già inclusa dalle agenzie: va chiesto al ritiro.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 5 ore porta a porta: treno Firenze–Bologna e Marconi Express, attesa in aeroporto, volo diretto di 1h50, ritiro dell'auto e breve tratto fino al centro di Sofia.",
+      "durataViaggioMinuti": 300,
+      "periodoMiglioreTesto": "Maggio, giugno, settembre e ottobre: giornate lunghe e miti per i villaggi di montagna e per camminare sulle mura di Tsarevets, siti con orario estivo (Boyana 9:30–18). Tra fine maggio e giugno la Valle delle Rose intorno a Kazanlak è nel periodo della raccolta. Luglio e agosto sono caldi in pianura e sono i mesi più cari per il noleggio auto (circa 30 € al giorno di media a luglio, contro i 10 € di novembre). In inverno il Monastero di Rila è spesso innevato e Boyana e Tsarevets chiudono prima.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 488,
+      "costoMax": 1037,
+      "costoNota": "Dal 1° gennaio 2026 la Bulgaria usa l'euro; i prezzi trovati solo in leva (museo di Rila, Tsarevets, Teatro romano) sono convertiti al cambio fisso di 1,95583 lev per euro. I chilometri del giro (900–1.000 km) sono una stima dell'itinerario; il carburante usa il parametro del documento (0,129 €/km), ma in Bulgaria la benzina costa circa 1,55 €/l, quindi la spesa reale sarà un po' più bassa. Esclusi gli ingressi non verificati (case-museo di Koprivshtitsa, tomba tracia di Kazanlak, Shipka), comunque di pochi euro.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Sette giorni bastano per l'anello interno senza correre: le tappe sono distanti tra 90 e 120 km (Sofia–Rila 117 km, Sofia–Koprivshtitsa 108 km, Koprivshtitsa–Plovdiv 88 km), cioè una o due ore d'auto al giorno, con due notti a Sofia, due a Plovdiv e due a Veliko Tărnovo. Restano mezze giornate piene per i centri storici e una giornata intera a Rila, che da sola chiede quattro ore di strada tra andata e ritorno. Il Mar Nero resta fuori: aggiungerlo vorrebbe dire 600 km in più e almeno tre giorni, e il catalogo ha già Sofia e Plovdiv in 3 giorni per chi vuole solo le città.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza da Firenze in treno per Bologna, Marconi Express fino al terminal e volo diretto Ryanair per Sofia (1h50). Ritiro dell'auto in aeroporto, controllando che la vignetta elettronica sia attiva. Pomeriggio a piedi nel centro di Sofia: la cattedrale Aleksandăr Nevski con le cupole dorate, la basilica di Santa Sofia che dà il nome alla città, la rotonda romana di San Giorgio chiusa tra i palazzi del governo e gli scavi dell'antica Serdica che affiorano nel sottopassaggio della metro. Cena in una mehana, la taverna tradizionale, con insalata shopska e banitsa."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: alle 9 si è davanti alla Chiesa di Boyana, ai piedi del Vitosha, patrimonio UNESCO con affreschi del 1259 che anticipano Giotto nei volti; si entra in gruppi di massimo nove persone per dieci minuti, quindi arrivare all'apertura evita l'attesa. Poi circa due ore d'auto (117 km) fino al Monastero di Rila, nascosto in una valle boscosa: il cortile a righe bianche e nere, la chiesa della Natività coperta di affreschi anche all'esterno, la Torre di Hrelyo del 1335 e il museo storico (aperto fino alle 16:30, solo contanti). Rientro a Sofia per la notte."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: partenza presto verso Koprivshtitsa (108 km, circa 1h45), villaggio di montagna del Risorgimento bulgaro dove nel 1876 partì la rivolta d'aprile: case dipinte di azzurro e ocra con le verande di legno, ponticelli sul torrente e alcune case-museo aperte. Pranzo in paese e nel pomeriggio discesa verso la pianura tracia fino a Plovdiv (88 km, circa 1h40). Sera nel quartiere Kapana, le vecchie vie degli artigiani oggi piene di locali e murales."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: Plovdiv, una delle città abitate più antiche d'Europa. Mattina nella Città Vecchia sulle tre colline: il Teatro romano affacciato sui monti Rodopi, ancora usato per concerti estivi, le case nazionali dell'Ottocento con le facciate a sbalzo e i soffitti intagliati. Nel centro si cammina sopra lo Stadio romano, visibile in parte sotto la via pedonale principale. Pomeriggio facoltativo al Monastero di Bachkovo, a circa 40 minuti, il secondo del paese dopo Rila, oppure tempo lento tra i caffè di Kapana."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: verso est nella Valle delle Rose e dei re traci. A Kazanlak si visita la tomba tracia (la copia fedele accanto all'originale UNESCO, che è chiusa per conservazione) con il fregio della coppia regale, e il museo della rosa. Si sale poi al Passo di Shipka, con la chiesa russa dalle cupole dorate e il monumento della guerra del 1877, e si scende sul versante nord fino a Veliko Tărnovo, a circa 1h30–2 ore da Kazanlak. Arrivo in tempo per vedere la città aggrappata alle anse dello Jantra col sole basso."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: Veliko Tărnovo, capitale del Secondo Impero bulgaro. Mattina sulla collina di Tsarevets: mura, porta fortificata, resti del palazzo reale e la chiesa patriarcale in cima con gli affreschi moderni e cupi degli anni Ottanta. Discesa nella via degli artigiani Samovodska charshia, tra botteghe di rame, ceramica e dolci. Pomeriggio ad Arbanasi, villaggio di case-fortezza dei mercanti sul pianoro di fronte. Se in calendario c'è lo spettacolo di suoni e luci su Tsarevets, si guarda dalla piazza Tsar Ivan Asen II."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: rientro verso Sofia per la via dei Balcani: sosta al Monastero di Troyan, a circa 1–1,5 ore da Veliko Tărnovo, con gli affreschi di Zahari Zograf, poi circa due ore fino a Sofia. Riconsegna dell'auto in aeroporto e volo per Bologna; il giorno di partenza va scelto tra quelli operati da Ryanair (lunedì, mercoledì, venerdì, sabato, domenica), per esempio da lunedì a domenica."
+        }
+      ],
+      "alloggio": "Sei notti in tre basi: due a Sofia (centro, tra Aleksandăr Nevski e il viale Vitosha), due a Plovdiv (Città Vecchia o vicino a Kapana) e due a Veliko Tărnovo (verso Samovodska charshia, con vista sulla gola). Un hotel 3 stelle in Bulgaria costa 35–100 € a notte la camera; a Veliko Tărnovo i 3 stelle sono stati trovati tra 34 € e 217 € nelle ultime settimane, con il Family Hotel Silvestar da 37 €, Casa Verdi a 70 € e il Park Hotel Novel a 78 €. Fascia realistica per la doppia: 35–100 € a notte. Meglio scegliere strutture con parcheggio, perché i centri storici di Plovdiv e Veliko Tărnovo hanno vie strette in salita.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Bologna–Sofia",
+          "testo": "Ryanair diretto, circa 1h50; tariffe tipiche 70–205 € andata e ritorno, con offerte trovate anche da 32 €. Bagaglio in stiva escluso.",
+          "min": 70,
+          "max": 205,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Accesso all'aeroporto di Bologna",
+          "testo": "Treno Firenze–Bologna A/R 20–50 € più Marconi Express 23,20 € A/R.",
+          "min": 43.2,
+          "max": 73.2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto (7 giorni)",
+          "testo": "All'aeroporto di Sofia da 10 € al giorno di media a novembre fino a circa 30 € a luglio, il mese più caro: 70–210 € per la settimana.",
+          "min": 70,
+          "max": 210,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Vignetta elettronica settimanale",
+          "testo": "10 € dal 1° agosto 2026 (giornaliera 5,30 €); spesso già compresa nel noleggio.",
+          "min": 10,
+          "max": 10,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Circa 900–1.000 km di anello a 0,129 €/km.",
+          "min": 116,
+          "max": 129,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "35–100 € a notte la doppia in hotel 3 stelle, cioè 210–600 € per sei notti, divisi per due.",
+          "min": 105,
+          "max": 300,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo in mehana 7–15 €; cena 15–23 € a testa (ristorante economico a Sofia circa 15 €, cena di tre portate per due con bevande 30–45 €).",
+          "min": 22,
+          "max": 38,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Chiesa di Boyana",
+          "testo": "12 lev, circa 6 €, solo alla biglietteria.",
+          "min": 6,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Monastero di Rila, museo storico",
+          "testo": "Ingresso al monastero e alla chiesa gratuito; museo circa 8 lev (4 €), solo contanti.",
+          "min": 4,
+          "max": 4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Fortezza di Tsarevets",
+          "testo": "10–12 lev, circa 5–6 €.",
+          "min": 5,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Teatro romano di Plovdiv",
+          "testo": "Circa 5 lev, 2,60 € (prezzo di inizio 2026); chiedere in biglietteria i biglietti combinati con lo Stadio.",
+          "min": 2.6,
+          "max": 2.6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Noleggio, vignetta e carburante sono della vettura e si dividono per due. Volo, accesso all'aeroporto, alloggio (la doppia divisa a metà), pasti e ingressi sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Su autostrade e strade statali serve la vignetta elettronica: 10 € la settimanale, 5,30 € la giornaliera dal 1° agosto 2026. Le auto a noleggio la hanno quasi sempre, ma va verificato al ritiro perché i controlli sono automatici con telecamere."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Al Monastero di Rila il codice di abbigliamento è applicato con rigore: spalle e ginocchia coperte, niente pantaloncini, canottiere o cappelli in chiesa. Il parcheggio è vicino all'ingresso, a pagamento con una piccola tariffa."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Rila: complesso aperto tutti i giorni 7–19:30, museo 8:30–16:30. Boyana: 9:30–18 da aprile a ottobre, 9–17:30 da novembre a marzo, aperta tutti i giorni. Tsarevets apre verso le 9 e chiude tra le 17 e le 19 secondo la stagione."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "A Boyana non si prenota: si entra a gruppi di massimo 9 persone per 10 minuti, con biglietti solo in loco, e nei giorni affollati l'ingresso non è garantito. Lo spettacolo di suoni e luci a Tsarevets non è quotidiano e dipende da meteo e richieste: controllare il calendario sul sito turistico della città."
+        }
+      ],
+      "note": "Il volo Ryanair Bologna–Sofia non opera il martedì e il giovedì: si costruisce la settimana attorno ai giorni di volo. A Rila conviene arrivare entro le 15, perché il museo storico chiude alle 16:30 e accetta solo contanti: portare qualche euro in monete e banconote piccole. Per Koprivshtitsa nel weekend si parte da Sofia prima delle 9, perché è la gita fuori porta preferita dei sofioti e dopo metà mattina il paese si riempie. A Plovdiv l'ufficio turistico vende una CityCard che conviene prendere appena arrivati se si vogliono vedere più case-museo. A Veliko Tărnovo lo spettacolo di luci si vede meglio dalla piazza Tsar Ivan Asen II, di fronte alla collina, che da dentro la fortezza. La benzina in Bulgaria costa circa 1,55 €/l, meno che in Italia: si fa il pieno prima di riconsegnare l'auto. In mehana un pranzo completo con insalata shopska, piatto di carne e birra alla spina da 2–3 € resta sotto i 15 €.",
+      "fonti": [
+        "https://www.momondo.it/volo/bologna/sofia",
+        "https://www.kayak.it/Autonoleggio-Aeroporto-di-Sofia.SOF.cap.ksp",
+        "https://sofiaglobe.com/?p=128494",
+        "https://thebettervacation.com/boyana-church/",
+        "https://thebettervacation.com/rila-monastery/",
+        "https://tourismattractions.net/bulgaria/tsarevets-fortress-veliko-tarnovo-ticket-prices",
+        "https://tourismattractions.net/bulgaria/plovdiv-roman-theatre-ticket-prices",
+        "https://www.kayak.it/Hotel-a-Veliko-Tarnovo.55261.hotel.ksp",
+        "https://loudavymkrokem.cz/en/?p=394593",
+        "https://privateguidebulgaria.com/7-days-tour-itinerary/",
+        "https://www.guidebg.com/discovery-road-trip/"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": 42.15,
+        "lon": 24.75
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Le tappe d'auto sono brevi e Tsarevets e Arbanasi piacciono ai piccoli, ma con un bimbo di 4 anni il volo, i monasteri e i musei con regole di silenzio rendono alcune giornate faticose."
+      }
+    },
+    {
       "id": "calabria-completa-7g",
       "nome": "Calabria completa",
       "sottotitolo": "Calabria, dal Tirreno di Tropea all'altopiano della Sila, dalla Locride greca allo Stretto di Scilla",
@@ -14036,6 +15191,391 @@
       }
     },
     {
+      "id": "finlandia-e-lapponia-7g",
+      "nome": "Finlandia e Lapponia",
+      "sottotitolo": "Finlandia, Helsinki sul Baltico e Rovaniemi sul Circolo Polare, unite dal treno notturno",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Treno Firenze–Bologna, Marconi Express fino al terminal e volo diretto Finnair Bologna–Helsinki (circa 3 ore, unica compagnia sulla rotta senza scalo, 3–4 voli a settimana nella stagione che parte a fine marzo e chiude in ottobre). Da Helsinki-Vantaa il treno urbano Kehärata porta alla stazione centrale in circa 30 minuti. Da Helsinki a Rovaniemi e ritorno si viaggia con il treno notturno VR, in cabina privata da due: due notti d'albergo risparmiate e nessuna auto per tutta la settimana.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 3h di volo diretto Bologna–Helsinki più 30 minuti di treno dall'aeroporto al centro; porta a porta da Firenze, contando treno per Bologna, Marconi Express e imbarco, circa 6 ore. Rovaniemi è a una notte di treno da Helsinki.",
+      "durataViaggioMinuti": 360,
+      "periodoMiglioreTesto": "Marzo (dalla fine del mese, quando riparte il diretto Finnair da Bologna) e settembre. A marzo la Lapponia ha ancora neve alta, giornate già lunghe e notti buie per l'aurora boreale; a settembre c'è la ruska, il foliage artico rosso e oro, e tornano le prime aurore. Aprile va bene solo nella prima metà. Dicembre–febbraio è l'inverno da cartolina, ma senza diretto da Bologna e con hotel di Rovaniemi ai massimi.",
+      "mesi": [
+        3,
+        4,
+        9
+      ],
+      "mesiDaEvitare": [
+        5,
+        11
+      ],
+      "costoMin": 540,
+      "costoMax": 1060,
+      "costoNota": "Il treno notturno VR ha prezzi dinamici: i valori sono le tariffe di partenza per cabina intera (59 € standard, 74 € con doccia), divise per due e moltiplicate per due tratte; in alta stagione salgono. Escluse escursioni con husky, renne e caccia all'aurora e gli ingressi non verificati (Arktikum, Pilke), da aggiungere a parte. Pasti calcolati sulle fasce Wikivoyage, piuttosto basse per una cena al ristorante in Finlandia.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Sette giorni bastano perché il viaggio si regge su due poli e sul treno di notte. Helsinki ha centro, porto e Mercato coperto tutti raggiungibili a piedi, più mezza giornata per Suomenlinna: due giorni pieni sono il ritmo giusto. Rovaniemi chiede tre giorni perché l'aurora non si prenota: servono più notti per avere almeno un cielo sereno, e di giorno ci sono il Villaggio di Babbo Natale sul Circolo Polare, l'Arktikum e la collina di Ounasvaara. Le due notti in treno coprono la lunga distanza tra le due tappe senza sprecare giornate.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: treno per Bologna, Marconi Express e volo diretto Finnair per Helsinki (circa 3 ore). Dall'aeroporto il treno Kehärata arriva alla stazione centrale in mezz'ora (biglietto 5,50 €). Prima passeggiata nella luce lunga del nord: la Piazza del Senato con la cattedrale bianca in cima alla scalinata, l'Esplanadi e il lungomare fino alla cattedrale ortodossa Uspenski, in mattoni rossi sullo sperone di Katajanokka. Cena nel quartiere di Kallio, dove kebab e pizzerie restano tra le cene più economiche della città."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: dalla Kauppatori, la piazza del mercato sul porto, parte ogni mezz'ora il traghetto HSL per Suomenlinna (biglietto turistico A/R di 12 ore 5 €; l'isola è gratuita). La fortezza settecentesca, patrimonio UNESCO, occupa sei isolotti collegati da ponti: bastioni erbosi, cannoni puntati sul Baltico, la Porta del Re dove attraccavano le navi della flotta svedese. Si torna per pranzo nel Vecchio Mercato coperto (Vanha kauppahalli), aperto tutto l'anno, con zuppa di salmone e pane di segale. Nel pomeriggio la chiesa di Temppeliaukio, scavata nel granito con la cupola di rame (8 €), e la biblioteca Oodi davanti al Parlamento, con la terrazza al terzo piano aperta a tutti."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: mattina nel Design District tra Punavuori e Kaartinkaupunki, botteghe di design finlandese e caffè con il korvapuusti, la girella alla cannella. Pranzo con un lounas, il menu del giorno servito più o meno dalle 10:30 alle 14 a 6–10 €, il modo più furbo di mangiare bene a Helsinki. Pomeriggio all'Ateneum o in una sauna pubblica sul mare. La sera si sale sul treno notturno VR per Rovaniemi: cabina privata a due letti, la si lascia all'alba già sopra il Circolo Polare."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: arrivo a Rovaniemi al mattino, deposito bagagli in hotel e colazione. La città fu ricostruita da zero dopo la guerra su pianta di Alvar Aalto. Si passa la giornata all'Arktikum, museo e centro di ricerca sull'Artide con il lungo corridoio di vetro puntato sul fiume Ounasjoki: popoli sami, fauna, aurora spiegata bene, utile prima di andarla a cercare. Al tramonto si attraversa il ponte Jätkänkynttilä, quello con la 'candela del boscaiolo'. La sera, se il cielo è sereno, si esce dalle luci della città verso la riva del fiume o la collina di Ounasvaara."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: autobus o taxi fino al Villaggio di Babbo Natale, a nord della città, dove una linea bianca sul terreno segna il Circolo Polare Artico: l'ufficio di Babbo Natale, l'ufficio postale che timbra le cartoline con il bollo speciale, i laboratori di artigianato. Da qui partono le escursioni con gli husky e con le renne (prezzi variabili, da prenotare con anticipo). La sera, uscita organizzata a caccia d'aurora con un'agenzia locale oppure seconda notte all'aperto per conto proprio."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: mattina sulla collina di Ounasvaara, a ridosso della città, con sentieri nel bosco di pini e betulle: a marzo si fanno con le racchette da neve, a settembre sono il posto migliore per vedere la ruska. Pomeriggio al Pilke, il centro di scienza sulle foreste del nord con installazioni da toccare, adatto ai bambini, oppure ultimo giro nel centro per comprare oggetti in pelle di renna e artigianato sami. La sera treno notturno di ritorno verso Helsinki."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: arrivo a Helsinki al mattino, colazione alla stazione centrale progettata da Eliel Saarinen, con i quattro giganti di pietra che reggono le lampade sulla facciata. Treno Kehärata per l'aeroporto (30 minuti) e volo diretto per Bologna. Va controllato che il volo parta dopo l'arrivo del treno, lasciando almeno tre ore di margine: il diretto Finnair non vola tutti i giorni, quindi è il giorno del volo a decidere la settimana."
+        }
+      ],
+      "alloggio": "Quattro notti in albergo più due in cabina sul treno notturno. A Helsinki gli hotel 3 stelle partono da circa 59 € a notte (Scandic Park intorno ai 68 €), ma gli hotel di catena in centro stanno di solito sopra i 100 €; gli appartamenti costano circa 90–100 € a notte. Dormire tra Kamppi e Kallio, vicino alla stazione per il treno notturno. A Rovaniemi i 3 stelle partono da 46 € a notte; le offerte recenti per un 3 stelle sono sui 114–119 €, e la domenica è il giorno più caro. Da evitare gennaio, quando la media sale intorno ai 396 € a notte, mentre giugno è il mese più economico. Conviene dormire in centro, a piedi dalla stazione e dall'Arktikum, oppure al Santa Claus Holiday Village sul Circolo Polare (circa 181 € a notte).",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Bologna–Helsinki",
+          "testo": "Finnair diretto, circa 3 ore: da 194 € A/R; fascia standard 236–379 €, prezzo tipico intorno ai 300 €.",
+          "min": 194,
+          "max": 379,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Accesso all'aeroporto di Bologna",
+          "testo": "Treno Firenze–Bologna A/R 20–50 € più Marconi Express 23,20 € A/R.",
+          "min": 43.2,
+          "max": 73.2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno aeroporto–centro di Helsinki",
+          "testo": "Kehärata, 5,50 € a tratta, circa 30 minuti: andata e ritorno.",
+          "min": 11,
+          "max": 11,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno notturno Helsinki–Rovaniemi A/R",
+          "testo": "Cabina privata da due da 59 € (da 74 € con doccia) a tratta per l'intera cabina: 29,50–37 € a persona per tratta, due tratte.",
+          "min": 59,
+          "max": 74,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Mezzi pubblici a Helsinki",
+          "testo": "Biglietto singolo HSL zona AB 2,80 €; conteggiate da una a quattro corse in tram o bus.",
+          "min": 2.8,
+          "max": 11.2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traghetto per Suomenlinna",
+          "testo": "Biglietto turistico HSL andata e ritorno valido 12 ore, 5 €; ingresso all'isola gratuito.",
+          "min": 5,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Chiesa di Temppeliaukio",
+          "testo": "8 € dai 18 anni in su, gratis per i minori.",
+          "min": 8,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (4 notti)",
+          "testo": "Helsinki 59–100 € a notte la doppia, Rovaniemi 46–119 €: 210–438 € per quattro notti, divisi per due.",
+          "min": 105,
+          "max": 219,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo con menu lounas 6–10 €; cena in locale di fascia media 10–30 € a testa.",
+          "min": 16,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Alternativa: volo Bologna–Rovaniemi con scalo",
+          "testo": "Andata e ritorno con uno scalo da 232 € fino a circa 327–425 € a seconda delle date (Ryanair, Finnair, SAS); utile d'inverno, quando il diretto Bologna–Helsinki non vola.",
+          "min": 232,
+          "max": 425,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutto è a persona: non c'è auto. La cabina del treno notturno si paga intera e si divide in due, come la camera d'albergo.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il volo diretto Finnair Bologna–Helsinki è stagionale: parte a fine marzo e si ferma in ottobre, con 3–4 voli a settimana. D'inverno serve uno scalo, oppure il Ryanair da Milano Bergamo che vola su Rovaniemi tutto l'anno."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Le cabine del treno notturno sono poche e il prezzo sale man mano che si riempiono: prenotarle su vr.fi appena fissati i voli. Le escursioni con husky, renne e quelle a caccia d'aurora vanno prenotate prima di partire."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Temppeliaukio è aperta tutti i giorni dell'anno, ma l'orario cambia di settimana in settimana per funzioni e concerti: la chiesa lo pubblica una settimana prima."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "A Rovaniemi gli hotel costano molto di più la domenica e in gennaio: conviene organizzare le notti lapponi a metà settimana."
+        }
+      ],
+      "note": "Il diretto Finnair non vola tutti i giorni, quindi si parte dal calendario dei voli e si costruisce la settimana intorno. Il treno notturno fa risparmiare due alberghi, ma va prenotato insieme ai voli: la cabina con doccia al piano superiore costa poco di più e la mattina fa la differenza. A Helsinki il trucco è il lounas, il pranzo a menu fisso dei giorni feriali. Costa quanto un panino e spesso include insalata, pane e caffè, mentre la cena al ristorante pesa sul budget. Per l'aurora non serve per forza un tour: basta allontanarsi dalle luci, sul fiume ghiacciato o in cima a Ounasvaara, e guardare verso nord a notte fonda quando il cielo è sereno. Abbigliamento: anche a fine marzo in Lapponia si scende sotto zero, quindi servono strati termici, scarponi impermeabili e berretto. In alternativa d'inverno, con il Ryanair da Bergamo si può volare dritti a Rovaniemi e fare il giro al contrario.",
+      "fonti": [
+        "https://www.kayak.it/voli/Bologna-Aeroporto-Guglielmo-Marconi-BLQ/Helsinki-Vantaa-HEL",
+        "https://www.flightconnections.com/flights-from-hel-to-blq",
+        "https://www.trasporti-italia.com/?p=37353",
+        "https://www.visitrovaniemi.fi/plan/getting-here/flights-to-rovaniemi/",
+        "https://www.vr.fi/en/night-trains",
+        "https://en.wikivoyage.org/wiki/Helsinki",
+        "https://temppeliaukionkirkko.fi/en/",
+        "https://www.kayak.it/voli/Bologna-Aeroporto-Guglielmo-Marconi-BLQ/Finlandia-FI0",
+        "https://www.skyscanner.ie/routes/rvn/blq/rovaniemi-to-bologna-international.html",
+        "https://www.kayak.it/Finlandia-Hotel.81.dc.html",
+        "https://www.kayak.it/Hotel-a-Rovaniemi.31873.hotel.ksp"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": 66.503,
+        "lon": 25.729
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Il Villaggio di Babbo Natale, gli husky e la cabina sul treno notturno sono il sogno di un bimbo di 4 anni; la caccia all'aurora a tarda sera e il freddo vanno però dosati."
+      }
+    },
+    {
+      "id": "inghilterra-del-nord-lake-district-e-york-7g",
+      "nome": "Inghilterra del Nord: Lake District e York",
+      "sottotitolo": "Cumbria e North Yorkshire, Regno Unito: i laghi e le colline di Wordsworth e Beatrix Potter, poi la città medievale di York",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Treno Firenze–Pisa Centrale e Pisa Mover fino al Galilei, poi volo diretto per Manchester (MAN) con Ryanair, easyJet o Jet2, circa 2h30. A Manchester si ritira un'auto a noleggio in aeroporto e si sale lungo l'autostrada M6 verso Windermere. Dopo quattro giorni nei laghi si attraversano i Pennini sulla A66 fino a York, dove l'auto resta ferma in hotel o al Park & Ride. L'ultimo giorno si torna in aeroporto lungo la M62. In alternativa si vola da Bologna (BLQ) con Ryanair.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 7h30 porta a porta fino a Windermere: circa 1h da Firenze al Galilei con treno e Pisa Mover, l'attesa in aeroporto, 2h30 di volo PSA–MAN, il ritiro dell'auto e circa 1h45 di M6 (stima di guida).",
+      "durataViaggioMinuti": 450,
+      "periodoMiglioreTesto": "I mesi migliori sono maggio, giugno e settembre: giornate lunghe, battelli in pieno orario e colline verdi. Aprile e ottobre vanno bene, ma piove spesso. A luglio e agosto i parcheggi dei laghi si riempiono al mattino e il noleggio costa di più (luglio è il mese più caro su Kayak). Da dicembre a febbraio le giornate sono corte e i passi di montagna possono essere ghiacciati.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        12
+      ],
+      "costoMin": 705,
+      "costoMax": 1222,
+      "costoNota": "Prezzi in sterline convertiti a un cambio indicativo di 1 £ = 1,15–1,19 € (il minimo dei costi usa 1,15, il massimo 1,19). I prezzi degli hotel di Windermere sono in dollari sulla fonte e sono convertiti a circa 0,86 € per dollaro. Il carburante è calcolato con il parametro del documento (0,129 €/km): la benzina nel Regno Unito di solito costa meno, quindi la stima è prudente. I chilometri sono una stima del percorso. Parcheggi, battelli e Hill Top sono esclusi dal totale perché non ho trovato prezzi 2026 verificati.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 3,
+      "percheDurata": "I laghi sono vicini tra loro, ma le strade sono strette e lente: da Windermere a Keswick ci sono circa 35 km, cioè un'ora con le soste. Ogni valle vale una giornata intera a piedi o in battello: Windermere, Grasmere con Rydal, Langdale, Derwentwater con Borrowdale e Ullswater. Quattro giorni bastano per vederle senza correre. York è compatta e si gira a piedi, e un giorno e mezzo copre Minster, mura, Shambles e musei. Con andata e ritorno da Manchester la settimana è piena e mai di corsa.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: treno e Pisa Mover fino al Galilei, poi volo per Manchester. Si ritira l'auto e si sale sulla M6 fino a Windermere o Bowness, circa 1h45. La sera si cammina fino al lungolago di Bowness con il sole che cala dietro le colline della riva ovest. Si dorme a Windermere."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: lago di Windermere. In battello si va da Bowness ad Ambleside, il paese di pietra grigia in cima al lago, dove si vede la Bridge House, una casetta costruita su un ponte. Nel pomeriggio, con il traghetto per auto che attraversa il lago, si arriva a Near Sawrey e Hawkshead. Lì ci sono Hill Top, la fattoria di Beatrix Potter, e un villaggio senza auto, pieno di vicoli. Si dorme a Windermere."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Grasmere e Rydal. La mattina c'è Dove Cottage, la casa in cui Wordsworth scrisse le poesie più note, con un museo accanto. La visita è guidata, con ingressi ogni 40 minuti, ed è aperta solo dal martedì al sabato. Poi si fa il giro a piedi di Rydal Water e Grasmere, circa 9 km quasi in piano, passando per la grotta di Rydal. Nel tardo pomeriggio si sale da Dunmail Raise verso Keswick, dove si dorme."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: Keswick e Derwentwater. Si parte presto per Castlerigg, un cerchio di pietre neolitico circondato dalle montagne, a ingresso libero. Poi si costeggia Derwentwater in Borrowdale fino ad Ashness Bridge e al belvedere di Surprise View, quindi si sale al passo di Honister tra le cave di ardesia. Rientrando ci si ferma a Buttermere per il giro del lago, circa 7 km in piano. Si dorme a Keswick."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: Ullswater e poi York. Da Glenridding si prende il battello degli Ullswater 'Steamers' fino a Howtown, 35 minuti, e si torna a piedi lungo la riva sud: è il tratto più bello dell'Ullswater Way. Si può anche fare tutto il giro del lago in battello. Nel primo pomeriggio si prende la A66 attraverso i Pennini e si arriva a York per cena. Si dorme a York."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: York. La mattina si visita il Minster, la più grande cattedrale gotica del nord Europa, con la Great East Window, e, per chi ha 8 anni o più, si salgono i 275 gradini della torre centrale. Poi si passeggia tra le Shambles e i vicoli medievali (snickelways). Nel pomeriggio c'è il giro delle mura (City Walls), circa 3,4 km, tra Bootham Bar e Monk Bar. Per finire, il National Railway Museum, a ingresso libero, con la Mallard e i treni reali. Si dorme a York."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: la mattina c'è ancora tempo per i resti di Clifford's Tower o per il Jorvik Viking Centre. Poi si percorrono circa 1h30 sulla M62 fino all'aeroporto di Manchester, si riconsegna l'auto e si vola a Pisa."
+        }
+      ],
+      "alloggio": "Le notti sono sei: due a Windermere o Bowness, due a Keswick e due a York. A Windermere Booking.com mostra hotel economici da circa 89 a 193 $ a notte per due, cioè circa 77–166 €, mentre le strutture più richieste vanno da 110 a 455 $. A York la media per una camera doppia è di circa 118 £ a notte (Budget Your Trip), cioè circa 136–140 €; le guest house più semplici partono da circa 134 $. Ho considerato 80–165 € a notte per la doppia in B&B o 3 stelle. A Keswick conviene il centro, vicino a Market Square. A York è meglio dormire dentro le mura o a Bootham, a piedi dal Minster.",
+      "costiDettaglio": [
+        {
+          "voce": "Firenze–aeroporto di Pisa",
+          "testo": "Treno Firenze–Pisa Centrale più Pisa Mover, 30,40 € A/R a persona (parametro del documento). Lasciare l'auto propria a Pisa per sette giorni costerebbe di più.",
+          "min": 30.4,
+          "max": 30.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo A/R Pisa–Manchester",
+          "testo": "Voli diretti Ryanair, easyJet e Jet2, circa 2h30. Skyscanner trova da 44 € A/R nel mese più economico (dicembre) e fino a circa 156 € come prezzo minimo del mese più caro.",
+          "min": 44,
+          "max": 160,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alternativa: volo da Bologna",
+          "testo": "Ryanair BLQ–MAN diretto, solo il martedì, venerdì e sabato, circa 2h35. Su Momondo si trova da 59 € A/R, la fascia abituale è 123–230 €. A questo si aggiungono il treno Firenze–Bologna (20–50 €) e il Marconi Express (23,20 € A/R).",
+          "min": 102,
+          "max": 303,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto 7 giorni",
+          "testo": "All'aeroporto di Manchester Kayak rileva medie da circa 14 £ al giorno a novembre, il mese più economico, fino a circa 27–28 £ al giorno a luglio e come media annua. Per sette giorni sono 98–196 £, cioè circa 113–233 € per l'auto.",
+          "min": 113,
+          "max": 233,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Circa 750–850 km in tutto (Manchester–Windermere, giri tra i laghi, Keswick–York sulla A66, York–Manchester), a 0,129 €/km secondo il parametro del documento: circa 97–110 € per l'auto.",
+          "min": 97,
+          "max": 110,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "80–165 € a notte per la camera doppia in B&B o 3 stelle (Windermere circa 77–166 €, York in media circa 136–140 €). Sei notti fanno 480–990 € per la camera, divisi in due.",
+          "min": 240,
+          "max": 495,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "A York la spesa media per mangiare è di circa 32 £ al giorno a persona, cioè circa 37–38 €. Ho contato 35–45 € al giorno: pranzo al pub o con un sandwich in cammino e cena al pub, più cara nei villaggi dei laghi.",
+          "min": 35,
+          "max": 45,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "York Minster",
+          "testo": "20 £ solo cattedrale, 26 £ con la salita alla torre centrale (dagli 8 anni). I bambini fino a 17 anni entrano gratis con un adulto pagante e il biglietto vale per tutto l'anno solare: circa 23–31 €.",
+          "min": 23,
+          "max": 31,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Dove Cottage e Wordsworth Museum",
+          "testo": "16 £ adulti, 8 £ dai 6 ai 16 anni, gratis sotto i 6. Il biglietto vale 12 mesi: circa 18–19 €.",
+          "min": 18,
+          "max": 19,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alternativa: treno Windermere–York",
+          "testo": "Senza auto il collegamento da Windermere a York ha almeno un cambio e richiede da 3h14 in su. Trainline indica tariffe Advance da 20,50 £ (circa 24 €) a tratta.",
+          "min": 24,
+          "max": 24,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Il noleggio e il carburante sono costi dell'auto, divisi tra i due viaggiatori. Il treno per Pisa, il volo, gli ingressi e i pasti sono a persona. L'alloggio è la camera doppia divisa a metà. Parcheggi e battelli si pagano sul posto e non sono nel totale.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Si guida a sinistra. Hardknott e Wrynose sono passi con pendenze fino al 30% e tornanti stretti: con un'auto a noleggio e la pioggia meglio evitarli. D'estate i parcheggi a pagamento di Grasmere, Glenridding e Buttermere si riempiono entro metà mattina. A York il centro dentro le mura ha strade pedonali (footstreets) e conviene lasciare l'auto in hotel o al Park & Ride."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Per entrare nel Regno Unito con passaporto italiano serve l'ETA, l'autorizzazione elettronica di viaggio, da chiedere online prima di partire. Si controllano anche le regole del noleggio sulla patente e sulla carta di credito del conducente."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Dove Cottage apre solo dal martedì al sabato, dalle 10 alle 16, con ultimo ingresso alle 15:20. York Minster si visita dal lunedì al sabato dalle 9:30 alle 16, ma la domenica solo dalle 12:45 alle 14:30: non conviene programmarlo di domenica. Il pontile del battello ad Aira Force su Ullswater risultava chiuso, da verificare."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La salita alla torre del Minster dipende dai posti disponibili, quindi conviene prenotare online il biglietto combinato. Anche Dove Cottage va prenotato, perché gli ingressi sono a orario. Il volo diretto da Bologna parte solo il martedì, venerdì e sabato: se si sceglie BLQ, le date del viaggio si decidono in base al volo."
+        }
+      ],
+      "note": "Il giorno di Dove Cottage va messo tra martedì e sabato. Nella stessa giornata, a Grasmere, c'è la piccola bottega del Grasmere Gingerbread accanto alla chiesa di San Osvaldo, dove è sepolto Wordsworth: il loro pan di zenzero, che sembra più un biscotto, si compra solo lì e si mangia camminando. Nei laghi si parte presto: alle 9 i parcheggi sono vuoti e la luce è più bella. Serve sempre una giacca impermeabile, perché il tempo cambia in mezz'ora. Gli Ullswater 'Steamers' a novembre fanno due biglietti Round the Lake al prezzo di uno, ma solo comprandoli alla biglietteria. Il biglietto del Minster vale tutto l'anno solare: se il primo giorno a York piove, ci si può tornare il giorno dopo. Il giro delle mura di York è più bello alle 9, quando aprono, con il Minster dietro i tetti. Chi preferisce non guidare può fare i laghi con il treno fino a Windermere e i bus locali, e poi andare a York in treno, ma deve rinunciare a Borrowdale, Honister e Buttermere oppure aggiungere un giorno.",
+      "fonti": [
+        "https://www.skyscanner.ie/routes/psa/man/pisa-to-manchester.html",
+        "https://www.momondo.it/volo/manchester/bologna",
+        "https://www.kayak.co.uk/Manchester-Airport-Car-Hire.MAN.cap.ksp",
+        "https://www.booking.com/city/gb/windermere.html",
+        "https://www.budgetyourtrip.com/united-kingdom/york",
+        "https://www.yorkminster.org/visit/plan-your-visit/",
+        "https://wordsworth.org.uk/visit/",
+        "https://www.ullswater-steamers.co.uk/",
+        "https://www.thetrainline.com/en/train-times/windermere-to-york"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": 54.43,
+        "lon": -2.96
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni vanno bene i battelli, il mondo di Beatrix Potter e il museo dei treni di York. Le camminate lunghe e la torre del Minster (dagli 8 anni) invece no, e servono molte ore di auto."
+      }
+    },
+    {
       "id": "macedonia-del-nord-7g",
       "nome": "Macedonia del Nord: Skopje e il Lago di Ohrid",
       "sottotitolo": "Bazar ottomano, il canyon di Matka e le chiese bizantine sul lago patrimonio UNESCO",
@@ -14421,6 +15961,443 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Lago in barca, Perast e il Lago Nero vanno benissimo a 4 anni; i 1.350 gradini della fortezza e la scalinata del mausoleo no, e le giornate con 3 ore di tornanti vanno spezzate."
+      }
+    },
+    {
+      "id": "provenza-e-camargue-7g",
+      "nome": "Provenza e Camargue",
+      "sottotitolo": "Francia del Sud, da Avignone al Luberon fino agli stagni dei fenicotteri: papi, romani, villaggi di pietra e paludi",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Auto propria: da Firenze per A11/A12/A10 fino a Ventimiglia, poi autostrada francese A8 e A7 fino ad Avignone. Due basi: tre notti ad Avignone e tre ad Arles, così ogni giornata è un giro di poche decine di chilometri. In Provenza l'auto è indispensabile per Luberon, Les Baux e Camargue, dove i mezzi pubblici sono rari.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 6h45 di guida (Firenze–Ventimiglia 387 km in 3h42, poi circa 290 km fino ad Avignone); con le soste si arriva in circa 7h30.",
+      "durataViaggioMinuti": 450,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre: temperature buone per camminare tra rovine e villaggi, fenicotteri numerosi negli stagni, siti aperti con orario lungo (Palais des Papes 9–19 da marzo a inizio novembre). Fine giugno è il momento della lavanda a Sénanque. Luglio e agosto sono roventi, con il Festival di Avignone che riempie città e parcheggi e le zanzare in Camargue; d'inverno soffia il mistral e i siti chiudono presto.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 649,
+      "costoMax": 1109,
+      "costoNota": "Tutti i prezzi sono già in euro. La colazione non è compresa nelle fasce dell'alloggio. Il carburante usa il parametro del documento (0,129 €/km); i chilometri dei giri interni (300–450 km) sono una stima dell'itinerario.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il viaggio richiede due giorni pieni di trasferimento, quindi restano cinque giornate sul posto, ognuna dedicata a un'area compatta: Avignone a piedi, il Luberon, Pont du Gard e Alpilles, Arles, la Camargue. Ogni giornata somma due o tre luoghi a meno di un'ora d'auto l'uno dall'altro, con tempo per pranzo lungo e sosta. Con meno giorni si dovrebbe rinunciare alla Camargue o al Luberon; con più giorni si sconfina in Marsiglia o Costa Azzurra, che il catalogo propone già a parte.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza presto da Firenze verso Ventimiglia (387 km, circa 3h42) e poi lungo l'autostrada francese fino ad Avignone. Si lascia l'auto al parcheggio scambiatore gratuito dell'Île Piot o dei Italiens, con navetta gratuita per il centro, o in un garage coperto. In serata, passeggiata sulle mura e salita al Rocher des Doms per vedere il ponte sul Rodano col sole basso."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Avignone a piedi. La mattina è per il Palais des Papes, il più grande palazzo gotico d'Europa, con i Giardini pontifici; col biglietto combinato da 19,50 € si entra anche sul Pont Saint-Bénézet, quello della canzone, che si interrompe a metà del fiume. Pranzo a Les Halles, il mercato coperto con il muro vegetale. Il pomeriggio è libero tra rue des Teinturiers, con le ruote dei tintori sul canale, e le piazze dietro il Palazzo."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Luberon. In mattinata l'Abbazia di Sénanque (8 €), con l'abbazia cistercense in fondo a una valletta e i campi di lavanda davanti, in fiore tra fine giugno e luglio; la domenica mattina è chiusa. Poi Gordes, arroccato sulla roccia, da guardare dal tornante della strada di Cavaillon prima di entrare. Pomeriggio a Roussillon, con le case color ocra e il sentiero tra le cave rosse. Rientro ad Avignone."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: in mattinata il Pont du Gard, l'acquedotto romano a tre ordini di arcate sul Gardon. Il biglietto da 6,50 € comprende il parcheggio e gli spazi espositivi, e nelle giornate calde si fa il bagno nel fiume sotto le arcate. Si prosegue verso le Alpilles fino a Les Baux-de-Provence: villaggio sul crinale e, nella cava sottostante, le Carrières des Lumières, una proiezione immersiva sulle pareti di pietra (nel 2026 Picasso e Frida Kahlo). Sera ad Arles, nuova base."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: Arles con il Pass Liberté (13–15 €, valido un mese): l'Anfiteatro romano ancora usato per le feste camarghesi, il Teatro antico, il chiostro di Saint-Trophime con i capitelli romanici, gli Alyscamps dipinti da Van Gogh e Gauguin e il Musée Réattu, più un secondo museo a scelta (il Musée départemental Arles antique ha una chiatta romana intera ripescata dal Rodano). Con il pass si ha lo sconto alla Fondation Vincent van Gogh. La sera, Place du Forum e il caffè giallo del quadro."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: Camargue. Si parte presto per il Parco ornitologico di Pont de Gau (8,50 €): sentieri tra gli stagni dove i fenicotteri rosa passano a pochi metri, insieme ad aironi e cavalieri d'Italia. Pranzo a Saintes-Maries-de-la-Mer, con la chiesa-fortezza sul cui tetto si cammina e la spiaggia. Pomeriggio ad Aigues-Mortes, città murata di San Luigi: il giro dei bastioni e la Tour de Constance (9 €) si fanno in circa 1h30, con la vista sulle saline rosa. Rientro ad Arles."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: rientro a Firenze per l'autostrada A8 lungo la costa, con circa 7h30 di viaggio comprese le soste. Chi vuole spezzare può fermarsi a pranzo in Liguria. Conviene partire presto per evitare le code al confine di Ventimiglia nel pomeriggio."
+        }
+      ],
+      "alloggio": "Sei notti, tre ad Avignone (dentro le mura o a Villeneuve-lès-Avignon, sull'altra riva) e tre ad Arles (centro storico, vicino all'Anfiteatro). Ad Arles un hotel 2 stelle costa in media 50 € a notte; la media generale va da circa 81 € a novembre, il mese più economico, a 112 € ad agosto, il più caro. I 3 stelle del centro partono da 53–104 € la doppia (Urban Style Arl Hotel, Hôtel de l'Amphithéâtre, Hôtel du Musée). Fascia realistica: 60–120 € a notte la doppia. Ad Avignone conviene scegliere una struttura con garage o vicina al parcheggio gratuito dell'Île Piot.",
+      "costiDettaglio": [
+        {
+          "voce": "Pedaggi A/R",
+          "testo": "Firenze–Ventimiglia 41,50 € e Menton–Avignone 31,70 € (classe 1) a tratta, quindi circa 146 € andata e ritorno per l'auto.",
+          "min": 146,
+          "max": 146,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Circa 1.360 km di autostrada A/R più 300–450 km di giri interni, cioè 1.660–1.810 km a 0,129 €/km.",
+          "min": 214,
+          "max": 233,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggi Avignone",
+          "testo": "Gratis ai parcheggi scambiatori Île Piot e Italiens con navetta gratuita; 19,30 € per 24 ore al parcheggio sotterraneo del Palais des Papes (tre notti 57,90 €). Il parcheggio del Pont du Gard è compreso nel biglietto.",
+          "min": 0,
+          "max": 58,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "60–120 € a notte la doppia in hotel 2–3 stelle o B&B, cioè 360–720 € in totale per sei notti, divisi per due.",
+          "min": 180,
+          "max": 360,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo a formula sui 15 € (fascia 5–25 €); cena in un ristorante medio di Avignone sui 25 € a persona (fascia 15–50 €), fino a 39 € di media in Provenza.",
+          "min": 30,
+          "max": 64,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Palais des Papes + Pont Saint-Bénézet",
+          "testo": "Biglietto combinato 19,50 € intero, 16 € ridotto; solo Palazzo 16 €. Gratis sotto i 10 anni.",
+          "min": 19.5,
+          "max": 19.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pont du Gard",
+          "testo": "6,50 € adulti, parcheggio compreso; gratis sotto i 18 anni.",
+          "min": 6.5,
+          "max": 6.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Abbazia di Sénanque",
+          "testo": "8 € adulti, 4 € dai 6 ai 17 anni, gratis sotto i 6.",
+          "min": 8,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carrières des Lumières",
+          "testo": "15,50 € intero, 14 € ridotto, 12 € bambini.",
+          "min": 14,
+          "max": 15.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Arles, Pass Liberté",
+          "testo": "13–15 €: 4 monumenti a scelta, Musée Réattu e un secondo museo, valido un mese.",
+          "min": 13,
+          "max": 15,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parco ornitologico di Pont de Gau",
+          "testo": "8,50 € adulti, 5 € bambini dai 4 ai 12 anni.",
+          "min": 8.5,
+          "max": 8.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Torri e bastioni di Aigues-Mortes",
+          "testo": "9 € adulti; gratis sotto i 18 anni e la prima domenica di gennaio, febbraio, marzo, novembre e dicembre.",
+          "min": 9,
+          "max": 9,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Pedaggi, carburante e parcheggi sono della vettura e si dividono per due. Alloggio (la doppia divisa a metà), pasti e ingressi sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Ad Avignone il centro dentro le mura ha sosta su strada a pagamento con limite di 4 ore e parcheggi sotterranei che accettano veicoli fino a 1,90 m di altezza. Conviene lasciare l'auto ai parcheggi scambiatori gratuiti Île Piot o Italiens e prendere la navetta gratuita."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Palais des Papes è aperto tutti i giorni, ma dal 2 novembre al 18 dicembre solo dalle 10 alle 17, con ultimo ingresso un'ora prima; i lavori di restauro proseguono fino alla primavera 2027. L'Abbazia di Sénanque è chiusa la domenica mattina; le Carrières des Lumières riaprono a metà febbraio."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Al Palais des Papes la prenotazione online è consigliata, soprattutto in primavera. A Sénanque le visite guidate a orario fisso vanno prenotate sul sito dell'abbazia; alle Carrières des Lumières conviene prendere l'ingresso a orario nei weekend."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "A luglio, durante il Festival di Avignone, il Comune modifica la circolazione e i parcheggi si riempiono: è un motivo in più per evitare quel mese."
+        }
+      ],
+      "note": "Il Pass Liberté di Arles dà diritto anche a un ridotto a Glanum, a Saint-Rémy-de-Provence, e al castello di Tarascon per quindici giorni: si può aggiungerli al giorno 4 se si arriva presto a Les Baux. Al Parco di Pont de Gau i fenicotteri si fotografano meglio nella prima ora dopo l'apertura, quando la luce è radente e c'è meno gente; il parco resta aperto fino al tramonto anche dopo la chiusura della biglietteria. Ad Aigues-Mortes il giro dei bastioni va fatto in senso orario, partendo dalla Tour de Constance, per avere le saline rosa davanti nel tratto sud. Il Pont du Gard è aperto fino a sera (fino a mezzanotte in luglio e agosto): andarci all'ora di cena significa trovarlo quasi vuoto. La benzina in Francia costa più che in Italia (ad Avignone circa 2,14 €/l): conviene fare il pieno prima di Ventimiglia.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Ventimiglia/",
+        "https://distanceenvoiture.fr/fr/itineraire/Avignon/Menton",
+        "https://avignon-tourisme.com/en/where-to-park-in-avignon",
+        "https://palais-des-papes.com/en/tarifs/",
+        "https://ryo.co/fr/articles/france/nimes/visiter-pont-du-gard/",
+        "https://www.provenceguide.com/patrimoines-culturels/gordes/abbaye-notre-dame-de-senanque/provence-2997151-1.html",
+        "https://provence-alpes-cotedazur.com/que-faire/detente-et-loisirs/toutes-les-activites-detente-et-loisirs/carrieres-des-lumieres-les-baux-de-provence-fr-3978563/",
+        "https://provence-alpes-cotedazur.com/offres/pass-liberte-arles-fr-3577659/",
+        "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/parc-ornithologique-de-pont-de-gau-saintes-maries-de-la-mer-fr-2887482/",
+        "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/tours-et-remparts-d-aigues-mortes-aigues-mortes_TFO5071476/",
+        "https://www.momondo.fr/hotel/arles",
+        "https://www.combien-coute.net/cout-de-la-vie/provence-alpes-c-te-d-azur/avignon/"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": 43.68,
+        "lon": 4.63
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Fenicotteri, Pont du Gard e Carrières piacciono molto a un bimbo di 4 anni, ma le due giornate da 7 ore d'auto e le visite ai monumenti sono pesanti."
+      }
+    },
+    {
+      "id": "renania-e-mosella-colonia-coblenza-e-treviri-7g",
+      "nome": "Renania e Mosella: Colonia, Coblenza e Treviri",
+      "sottotitolo": "Germania occidentale: il Duomo di Colonia, i castelli del Reno e della Mosella e la Treviri romana, tutto in treno regionale",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Treno da Firenze a Bologna Centrale, Marconi Express fino all'aeroporto e volo diretto Ryanair o Eurowings per Colonia/Bonn (CGN). Una volta atterrati non serve l'auto: con un solo Deutschlandticket a testa (63 € al mese) si usano l'S-Bahn per il centro di Colonia, i regionali lungo il Reno fino a Coblenza, la linea della Mosella fino a Treviri e i bus locali, compreso il 365 per Burg Eltz. Il ritorno si fa da Treviri a Colonia in regionale, per riprendere il volo da CGN.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 1h30 di volo Bologna–Colonia/Bonn. Porta a porta, contando il treno per Bologna, il Marconi Express, l'attesa in aeroporto e l'S-Bahn per il centro, servono circa 5 ore. Sul posto Colonia–Coblenza è a 53 minuti in regionale e Coblenza–Treviri a 1h25 col RE.",
+      "durataViaggioMinuti": 300,
+      "periodoMiglioreTesto": "Da aprile a ottobre: Burg Eltz apre dal 1° aprile al 1° novembre e i battelli di linea KD sul Reno navigano dal 28 marzo al 25 ottobre 2026. Maggio, giugno e settembre hanno il clima migliore per camminare tra i vigneti. A Treviri settembre è il mese più caro per gli hotel. Fra fine novembre e dicembre Colonia ha i mercatini, ma Eltz e i battelli sono fermi e la Reichsburg di Cochem fa orario ridotto. In gennaio e febbraio Cochem apre solo mercoledì, sabato e domenica.",
+      "mesi": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 587,
+      "costoMax": 1168,
+      "costoNota": "Tutti i prezzi sono già in euro. Il Deutschlandticket è un abbonamento mensile: se il viaggio va a cavallo di due mesi solari ne servono due (126 €), quindi conviene far cadere i 7 giorni dentro lo stesso mese. La colazione non è compresa nelle fasce dell'alloggio.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Sono tre città e due valli fluviali, tutte sulla stessa rete di regionali: Colonia–Coblenza 53 minuti, Coblenza–Treviri 1h25. Ogni base merita due giorni pieni. A Colonia ci sono il Duomo, la città vecchia e i Brauhaus. Da Coblenza si fanno il Deutsches Eck, la fortezza e la valle del Reno in battello. Treviri ha i monumenti romani UNESCO a piedi l'uno dall'altro. In mezzo c'è la giornata della Mosella con Burg Eltz e Cochem. In meno tempo si salterebbe la Mosella; in più si allungherebbe soltanto.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1 – Firenze → Colonia. Treno per Bologna, Marconi Express e volo diretto per Colonia/Bonn. Si attiva il Deutschlandticket e si prende l'S-Bahn fino a Köln Hbf, che sta proprio sotto il Duomo. Nel pomeriggio si fa il primo giro della Altstadt, dall'Heumarkt alla passeggiata sul Reno. Cena in un Brauhaus storico: l'Halve Hahn non è mezzo pollo ma un panino di segale con formaggio olandese (8,90 €), e il cameriere continua a portare Kölsch finché non si mette il sottobicchiere sul bicchiere."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2 – Colonia. Al mattino presto il Duomo: dal 1° luglio 2026 l'ingresso turistico costa 12 € e si prenota online su koelner-dom.de. Dentro ci sono il reliquiario dei Re Magi e le vetrate di Gerhard Richter. Poi il ponte Hohenzollern con i lucchetti degli innamorati, attraversato a piedi fino a Deutz per la vista più bella sulla città. Nel pomeriggio un giro tra le chiese romaniche, oppure tra i caffè del Belgisches Viertel. Seconda notte a Colonia."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3 – Colonia → Coblenza. Un regionale lungo il Reno, 53 minuti. Si posano i bagagli e si va al Deutsches Eck, la punta dove la Mosella entra nel Reno, con il monumento equestre a Guglielmo I. Dalla vicina basilica di San Castore si prende la funivia sopra il fiume fino alla fortezza di Ehrenbreitstein: biglietto combinato 21,90 €. Al tramonto la terrazza guarda dall'alto entrambi i fiumi. Si cena nella città vecchia di Coblenza."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4 – La valle del Reno UNESCO. Treno regionale da Coblenza a Bacharach, il borgo a graticcio più intatto della valle, con la cappella gotica di Werner in rovina sopra i tetti. Poi battello KD da Bacharach a St. Goar (22 €): passa sotto la rupe della Loreley e davanti ai castelli di Pfalz, Gutenfels e Katz. Da St. Goar si sale a piedi alla rovina di Rheinfels, poi si rientra a Coblenza in treno."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5 – Mosella: Burg Eltz e Cochem, poi Treviri. Si parte presto in treno da Coblenza con le valigie: il bagaglio si lascia negli armadietti della stazione di Cochem, se disponibili. Prima fermata Hatzenport, da dove il bus 365 porta al parcheggio di Burg Eltz. Da lì sono 800 metri a piedi, oppure la navetta da 2 €. La visita del castello, sempre guidata, dura 35–40 minuti e costa 14 €. Nel pomeriggio Cochem: si sale alla Reichsburg (10 €, solo con guida) e si passeggia sul lungofiume. In serata RE per Treviri."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6 – Treviri romana. Si comincia alla Porta Nigra (6 €, aperta tutti i giorni), la porta urbica romana meglio conservata a nord delle Alpi: si sale ai piani alti per vedere la città. Poi Hauptmarkt, il Duomo e la Liebfrauenkirche, che stanno uno accanto all'altra. Si prosegue con la Basilica di Costantino, l'enorme aula del trono in mattoni, le Terme Imperiali e l'anfiteatro, tutti raggiungibili a piedi. Per i siti romani l'AntikenCard fa risparmiare. Al tramonto un bicchiere di Riesling della Mosella in centro."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7 – Treviri → Colonia → Firenze. Ultima mattina libera, per esempio per il Rheinisches Landesmuseum o una passeggiata sul lungo Mosella. Poi in regionale verso Colonia via Coblenza: 1h25 più 53 minuti, più l'S-Bahn per l'aeroporto. Conviene scegliere un volo serale e partire da Treviri entro fine mattinata."
+        }
+      ],
+      "alloggio": "Tre basi da due notti ciascuna, sempre vicino alla stazione perché tutto si muove in treno. A Colonia conviene la zona tra Hauptbahnhof e Altstadt, o Deutz sull'altra riva: un 3 stelle costa in media circa 114 € a notte, con offerte da circa 52 €. Luglio è il mese più economico (media circa 100 €), dicembre il più caro (circa 173 €), il sabato costa più della domenica. Durante le grandi fiere i prezzi salgono di molto. A Coblenza si dorme bene nella città vecchia, tra il Deutsches Eck e la stazione. A Treviri conviene stare tra la Porta Nigra e la stazione: i 3 stelle partono da circa 57 € e la media di maggio è sui 104 €, ma a settembre la media sale verso i 195 €. In pratica, per una doppia, 60–130 € a notte.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze–Bologna A/R",
+          "testo": "20–50 € andata e ritorno tra Regionale e Frecciarossa/Italo, per raggiungere l'aeroporto Marconi.",
+          "min": 20,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Marconi Express A/R",
+          "testo": "Navetta monorotaia Bologna Centrale–aeroporto: 23,20 € andata e ritorno.",
+          "min": 23.2,
+          "max": 23.2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Bologna–Colonia/Bonn A/R",
+          "testo": "Diretti Ryanair ed Eurowings, circa 1h30 di volo. Le tariffe migliori viste sono intorno ai 40 € A/R; la fascia tipica è 116–201 €.",
+          "min": 40,
+          "max": 201,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Deutschlandticket",
+          "testo": "63 € al mese dal 2026: copre tutti i treni regionali (RE/RB/S-Bahn), i bus e i tram del viaggio, compresi l'S-Bahn per l'aeroporto CGN, Colonia–Coblenza, la linea della Mosella fino a Treviri e la valle del Reno.",
+          "min": 63,
+          "max": 63,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "A Colonia un 3 stelle costa in media circa 114 € a notte (dai 52 € delle offerte più basse); a Treviri i 3 stelle partono da circa 57 € e la media di maggio è sui 104 €. Contando 60–130 € a notte la doppia, le sei notti fanno 360–780 € per la camera, divisi per due.",
+          "min": 180,
+          "max": 390,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "In Brauhaus un Halve Hahn costa 8,90 €, i Reibekuchen 9,90 €, i piatti principali vanno da 12,90 € a 30,50 € e un Kölsch da 0,2 l costa 2,40 €. Contando pranzo leggero e cena: 25–50 € al giorno.",
+          "min": 25,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Duomo di Colonia",
+          "testo": "Dal 1° luglio 2026 il biglietto per i turisti costa 12 € (6 € per studenti, gratis fino a 13 anni).",
+          "min": 12,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Funivia + Fortezza di Ehrenbreitstein",
+          "testo": "Biglietto combinato funivia A/R + fortezza: 21,90 € adulti, 8,90 € bambini.",
+          "min": 21.9,
+          "max": 21.9,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Battello KD sul Reno",
+          "testo": "Bacharach–St. Goar sotto la Loreley: 22 € sola andata, 25 € A/R (tariffe 2026, servizio di linea dal 28 marzo al 25 ottobre).",
+          "min": 22,
+          "max": 25,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Burg Eltz",
+          "testo": "14 € adulti con visita guidata obbligatoria, gratis sotto i 6 anni; navetta dal parcheggio P1 2 € a persona, facoltativa.",
+          "min": 14,
+          "max": 16,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Reichsburg di Cochem",
+          "testo": "10 € adulti, 5 € bambini 6–17 anni; si visita solo con guida (circa 40 minuti).",
+          "min": 10,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Porta Nigra",
+          "testo": "6 € adulti, 3 € dai 6 ai 18 anni, gratis sotto i 6; biglietto famiglia per due adulti 12 €.",
+          "min": 6,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alternativa: Rheinland-Pfalz-Ticket",
+          "testo": "Biglietto giornaliero per i treni regionali in Renania-Palatinato: 29 € per la prima persona e 9 € per la seconda, cioè 19 € a testa al giorno. Non copre Colonia: conviene solo se il Deutschlandticket non è comprabile.",
+          "min": 19,
+          "max": 19,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Nessuna voce di vettura: il viaggio si fa senza auto, quindi treni, volo, Deutschlandticket, ingressi e pasti sono a persona. L'alloggio è la doppia divisa a metà.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Burg Eltz apre solo dal 1° aprile al 1° novembre, dalle 9:30 alle 17:00. I battelli di linea KD sul Reno navigano dal 28 marzo al 25 ottobre 2026. Fuori stagione la giornata del Reno si fa solo in treno e la Mosella si riduce a Cochem, che da novembre fa orario 10–15."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il Duomo di Colonia si paga dal 1° luglio 2026: 12 € con biglietto online su koelner-dom.de. Dall'ingresso nord, accanto alla stazione, si entra gratis solo nella piccola area riservata alla preghiera."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il Deutschlandticket è un abbonamento mensile digitale, da comprare prima della partenza e disdire subito dopo per non pagare il mese successivo. Non vale su IC e ICE, che però tra queste città non servono."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Burg Eltz non è raggiungibile in auto fino alla porta: dal parcheggio P1 (4 €, solo contanti) si fanno 800 metri a piedi o si prende la navetta. In treno si scende a Hatzenport e si prende il bus 365. In alternativa c'è il sentiero di circa 40 minuti dal mulino Ringelstein di Moselkern."
+        }
+      ],
+      "note": "Il Deutschlandticket vale come un pass per tutta la settimana. Per sfruttarlo al massimo, a Colonia l'S-Bahn per l'aeroporto è già compreso, e nella valle del Reno si possono usare entrambe le sponde: a sinistra i treni passano più spesso, a destra (VIAS) di solito ce n'è uno all'ora. Per il battello conviene Bacharach→St. Goar e non il contrario, perché in discesa si arriva prima e la Loreley si vede di fronte. Nei Brauhaus di Colonia il Kölsch arriva da solo: il sottobicchiere sopra il bicchiere significa «basta». A Treviri, dal 26 giugno al 9 agosto 2026, i minori di 18 anni entrano gratis al Landesmuseum e ai siti romani. Se il viaggio coincide con una serata dei fuochi di «Rhein in Flammen», gli hotel della valle si riempiono presto: meglio prenotare per tempo.",
+      "fonti": [
+        "https://www.momondo.it/volo/colonia/bologna",
+        "https://www.zdfheute.de/politik/deutschlandticket-dticket-verkehr-nahverkehr-preis-erhoehung-100.html",
+        "https://www.zdfheute.de/panorama/koelner-dom-eintritt-zwoelf-euro-100.html",
+        "https://www.european-traveler.com/germany/transportation-koblenz-rhine-mosel-rivers/",
+        "https://www.seilbahn-koblenz.de/Combined-ticket.html",
+        "https://www.k-d.com/wp-content/uploads/2026/02/KD_Fahrplan_intern_2026_web.pdf",
+        "https://www.koeln.de/freizeit/ausfluege/schloesser-burgen/burg-eltz-ausflug/",
+        "https://tourispo.de/schloss-burg/burg-cochem_preise-und-oeffnungszeiten.html",
+        "https://www.trier-info.de/en/places-of-interest/porta-nigra",
+        "https://www.checkfelix.com/Koeln-Hotels.14508.hotel.ksp",
+        "https://www.kayak.ie/Trier-Hotels.23573.hotel.ksp",
+        "https://www.speisekarte.de/k%C3%B6ln/restaurant/bierhaus_en_dr_salzgass1/speisekarte"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": 50.3597,
+        "lon": 7.5978
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Ci sono castelli con visita breve, una funivia e un battello, e si viaggia in treno senza auto. Sotto i 6 anni Eltz e la Porta Nigra sono gratis, il Duomo lo è fino a 13 anni. Il sentiero per Eltz e le scale dei castelli si fanno meglio col marsupio che col passeggino."
       }
     },
     {
@@ -14845,6 +16822,803 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Con un bimbo di 4 anni vanno bene funivia (bambini 21 €, ma a 3.500 metri si sale e si scende presto), lungomari, piscine naturali e Garajonay a tratti; Masca e il cratere del Teide sono da escludere."
+      }
+    },
+    {
+      "id": "ungheria-budapest-balaton-ed-eger-7g",
+      "nome": "Ungheria: Budapest, Balaton ed Eger",
+      "sottotitolo": "Ungheria, la capitale sul Danubio, la sponda nord del Balaton con Tihany e Hévíz, e la città del vino Eger",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Volo diretto Ryanair da Pisa a Budapest (circa 1h35, in media due voli a settimana: si costruisce il viaggio attorno ai giorni di volo), raggiungendo l'aeroporto con treno e Pisa Mover. Da Ferenc Liszt al centro c'è il bus 100E fino a Deák tér. In Ungheria si gira solo in treno: InterCity per Keszthely, diretti per Balatonfüred ed Eger, più il bus locale per Tihany. L'auto non serve. In alternativa, Ryanair vola da Bologna con più frequenze.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 5 ore porta a porta: treno Firenze–Pisa e Pisa Mover, attesa in aeroporto, volo di 1h35 e bus 100E di circa 40 minuti fino a Deák Ferenc tér.",
+      "durataViaggioMinuti": 300,
+      "periodoMiglioreTesto": "Da aprile a giugno e a settembre–ottobre: Budapest si gira bene a piedi, al Balaton i traghetti e i battelli sono in servizio e le cantine di Eger sono aperte dopo la vendemmia. In luglio e agosto si può fare il bagno nel lago, ma nei weekend estivi al Balaton gli alloggi costano il doppio o il triplo. Gennaio e febbraio sono freddi: i battelli passeggeri non viaggiano dopo il 25 ottobre, le spiagge sono chiuse e a Hévíz si fa il bagno solo fino alle 16.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 542,
+      "costoMax": 988,
+      "costoNota": "Prezzi in fiorini convertiti a 1 € = 368 Ft (cambio BCE del 5 ottobre 2026). Nel totale non entrano il treno regionale Keszthely–Balatonfüred e il bus locale Keszthely–Hévíz, di cui non è stato verificato il prezzo. Il volo è quello di Pisa senza bagaglio da stiva.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Budapest richiede tre notti: il Parlamento e la Basilica a Pest, il Castello e il Bastione dei Pescatori a Buda, e mezza giornata alle terme Széchenyi sono già due giorni pieni senza correre. Il Balaton vuole altri due giorni perché le sue tappe stanno su sponde diverse: Keszthely e Hévíz in fondo al lago, a 2h40 di treno, e Tihany a nord. Eger è a 1h52 da Budapest: con un pomeriggio, una sera e una mattina si vedono il castello, la Valle delle Belle Donne e il minareto. Con meno giorni si deve sacrificare il Balaton; con di più si aggiungono tappe che non sono in questo giro.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: treno per Pisa, Pisa Mover e volo diretto per Budapest. Dall'aeroporto il bus 100E porta a Deák Ferenc tér in circa 40 minuti, con corse ogni 6–15 minuti. Si comprano subito le travelcard da 72 ore e, in serata, si cammina lungo il Danubio sul lato di Pest fino al Ponte delle Catene illuminato, con il Castello di fronte."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Pest. In mattinata la visita al Parlamento, prenotata in anticipo a orario fisso: lo scalone d'oro, la Sacra Corona d'Ungheria custodita sotto la cupola e l'aula della vecchia Camera alta. Poi la Basilica di Santo Stefano e il viale Andrássy in metro M1, la più antica del continente, fino a Piazza degli Eroi. Il pomeriggio si passa alle terme Széchenyi, con le vasche all'aperto calde anche d'inverno e i giocatori di scacchi in acqua. La sera, birra in una kocsma del VII distretto."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Buda. Si sale al Castello con la funicolare Sikló, oppure a piedi o con il bus 16 risparmiando 4.500 Ft. Si vedono la chiesa di Mattia con il tetto di ceramiche colorate e il Bastione dei Pescatori: le terrazze inferiori sono gratuite e hanno la stessa vista sul Parlamento. Si scende al Ponte delle Catene e, nel pomeriggio, si sale a piedi sul colle Gellért per il panorama dei ponti al tramonto. Cena con gulyás in un locale di quartiere, lontano dai menu turistici di Duna utca."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: InterCity diretto da Budapest-Déli a Keszthely, 2h40. Si visita il Palazzo Festetics, la residenza barocca dei conti che fondarono qui la prima scuola agraria d'Europa, con la biblioteca in legno di quercia. Poi in bus locale a Hévíz, 6 km, per due ore nel lago termale più grande d'Europa: l'acqua resta sopra i 22 gradi anche d'inverno, tra le ninfee e le casette su palafitte. In serata treno regionale lungo la sponda nord fino a Balatonfüred."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: Tihany. Il bus da Balatonfüred impiega circa 15 minuti. L'abbazia benedettina sulla cresta della penisola custodisce la cripta del re Andrea I; dalla terrazza si vede il lago da due lati. Si scende a piedi verso il lago interno Belső-tó e i campi di lavanda, poi ci si siede in un bistrot sul porto. Il pomeriggio è per il lungolago di Balatonfüred con la passeggiata Tagore e la cena a base di pesce di lago, per esempio una zuppa di pesce alla Koloska Vendéglő."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: diretto da Balatonfüred a Budapest-Déli (1h50), metro fino a Keleti e treno orario per Eger (1h52). Nel pomeriggio il castello di Dobó István, dove una piccola guarnigione respinse l'assedio ottomano del Cinquecento: casematte sotterranee, bastioni e la vista sui tetti barocchi. Al tramonto si va a piedi alla Valle delle Belle Donne, un anfiteatro di cantine scavate nel tufo, per assaggiare l'Egri Bikavér direttamente dalle botti."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: al mattino si sale la scala a chiocciola del minareto, il più settentrionale rimasto dell'epoca ottomana, e si entra nella Basilica neoclassica, gratuita. Poi treno per Budapest-Keleti (1h52), metro fino a Deák tér e bus 100E per l'aeroporto, con il volo serale per Pisa. Conviene prendere un treno del mattino per avere margine sul 100E e sui controlli in aeroporto."
+        }
+      ],
+      "alloggio": "Sei notti in tre basi. A Budapest tre notti tra il V distretto e il VII, vicino a Deák tér dove arriva il 100E: hotel centrali come Easy Star (53 €), Baross (65 €), Ibis Styles City (76 €) e NH City (87 €); un 3 stelle in bassa stagione costa 80–130 € la doppia, in giugno–agosto 120–190 €. Al Balaton due notti a Balatonfüred, comoda per treno e bus per Tihany: Balkonett Vendégház 52 €, Balaton Panzió 56 €, Montello 83 €, Margareta 113 €. A Eger una notte in centro, ai piedi del castello (Hotel Senator-Ház in Dobó tér da 42 €) o nella Valle delle Belle Donne (Bacchus Panzió 75 €). A Eger dicembre è il mese più economico, intorno ai 63 € di media.",
+      "costiDettaglio": [
+        {
+          "voce": "Accesso aeroporto di Pisa",
+          "testo": "Treno Firenze–Pisa Centrale più Pisa Mover, 30,40 € andata e ritorno a persona (parametro del documento).",
+          "min": 30.4,
+          "max": 30.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Ryanair Pisa–Budapest A/R",
+          "testo": "Diretto PSA–BUD, 1h35 all'andata e 1h40 al ritorno, in media 2 voli a settimana: da 43 € nelle offerte, fascia tipica 67–127 € andata e ritorno, solo bagaglio piccolo.",
+          "min": 43,
+          "max": 127,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alternativa: volo da Bologna",
+          "testo": "Ryanair BLQ–BUD diretto in circa 1h30, da 32 € in offerta fino alla fascia abituale di 139–195 € A/R, più treno per Bologna (20–50 €) e Marconi Express (23,20 €) andata e ritorno.",
+          "min": 75.2,
+          "max": 268.2,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Bus 100E aeroporto–centro A/R",
+          "testo": "2.500 Ft a tratta (circa 6,80 €), 5.000 Ft andata e ritorno; non è coperto dalle travelcard.",
+          "min": 13.6,
+          "max": 13.6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Travelcard 72 ore Budapest",
+          "testo": "5.750 Ft per metro, tram e bus nei tre giorni in città.",
+          "min": 15.6,
+          "max": 15.6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treni e bus interni",
+          "testo": "Budapest-Déli–Keszthely in InterCity 3.410 Ft + 650 Ft di prenotazione; Balatonfüred–Budapest 2.520 Ft; Budapest-Keleti–Eger e ritorno 2 × 2.830 Ft; bus Balatonfüred–Tihany 400 Ft a tratta. Fino a 2 × 990 Ft se si prenota il posto sui treni per Eger. Totale 13.040–15.020 Ft.",
+          "min": 35.4,
+          "max": 40.8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "Budapest 3 notti a 53–130 € la doppia (hotel del centro come Easy Star 53 €, Ibis Styles City 76 €, NH City 87 €; un 3 stelle in bassa stagione 80–130 €); Balatonfüred 2 notti a 52–113 € (Balkonett Vendégház 52 €, Balaton Panzió 56 €, Margareta 113 €); Eger 1 notte a 42–75 € (Senator-Ház 42 €, Bacchus Panzió 75 €). In tutto 305–691 € la doppia, diviso per due.",
+          "min": 152.5,
+          "max": 345.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo seduto in un locale 2.500–4.000 Ft (6–10 €), cena in un ristorante medio 6.000–12.000 Ft (15–30 €) con un bicchiere di vino.",
+          "min": 21,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Parlamento",
+          "testo": "Ingresso con visita a orario, cittadini UE 6.500 Ft (i non UE pagano il doppio); gratis sotto i 6 anni.",
+          "min": 17.7,
+          "max": 17.7,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Terme Széchenyi",
+          "testo": "13.200 Ft dal lunedì al giovedì, 14.800 Ft da venerdì a domenica, con armadietto; la cabina costa 1.000 Ft in più.",
+          "min": 35.9,
+          "max": 40.2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Funicolare del Castello (Sikló)",
+          "testo": "4.500 Ft a tratta, non valida con la travelcard; gratis se si sale a piedi o con il bus 16.",
+          "min": 0,
+          "max": 12.2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Palazzo Festetics, Keszthely",
+          "testo": "4.600 Ft palazzo più una mostra (tariffa estiva 2026); ridotto 2.300 Ft.",
+          "min": 12.5,
+          "max": 12.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Lago termale di Hévíz",
+          "testo": "3.000 Ft per due ore, 4.500 Ft con l'ora in più acquistata prima della scadenza.",
+          "min": 8.2,
+          "max": 12.2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Abbazia di Tihany",
+          "testo": "3.400 Ft adulti.",
+          "min": 9.2,
+          "max": 9.2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Castello di Eger",
+          "testo": "4.800 Ft adulti, 2.400 Ft il biglietto serale dall'ultima ora di apertura delle mostre.",
+          "min": 13,
+          "max": 13,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Minareto di Eger",
+          "testo": "1.000 Ft, solo in contanti.",
+          "min": 2.7,
+          "max": 2.7,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Degustazione nella Valle delle Belle Donne",
+          "testo": "Da 1.990 Ft per tre vini alla cantina Tóth Ferenc (n. 46) a 5.500 Ft per cinque.",
+          "min": 5.4,
+          "max": 15,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Nessuna voce è della vettura: il viaggio si fa in aereo e in treno. Voli, treni, bus, ingressi e pasti sono a persona; l'alloggio è la camera doppia divisa a metà.",
+      "vincoli": [
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il Parlamento si visita solo con ingresso a orario: conviene prenotare online qualche giorno prima. Alle terme Széchenyi il fast-track a orario si compra solo online (15.200–16.800 Ft)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "A Hévíz fino al 14 febbraio 2027 il bagno termina alle 16 e si entra solo dalla Festetics Fürdőház di Ady utca. Il Palazzo Festetics chiude il lunedì e dal 23 al 25 dicembre; molte cantine di Eger non aprono il lunedì. L'abbazia di Tihany da novembre a marzo è aperta 10–16, la domenica dalle 11:15. Le terme Gellért sono chiuse fino al 2028."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Il bus 100E e la funicolare del Castello non sono compresi nelle travelcard BKK. A Tihany il porto del traghetto per Szántód è in rifacimento: parcheggi, servizi e moli a terra sono chiusi, ma il traghetto viaggia tutto l'anno."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Il volo diretto da Pisa ha in media due frequenze settimanali: si fissano prima i voli e poi si incastrano le notti. Da Bologna i giorni disponibili sono di più."
+        }
+      ],
+      "note": "A Széchenyi l'ingresso «Good morning» prima delle 9 costa 10.500 Ft nei feriali, e la mattina presto le vasche esterne fumano nel freddo e sono semivuote. Per il pranzo a Budapest si cercano i cartelli «napi menü» (zuppa più secondo) nelle trattorie di quartiere; su Duna utca lo stesso lángos costa quasi il doppio e si paga il 15% di servizio. A Hévíz conviene comprare l'ora in più prima che scadano le due ore pagate, altrimenti si pagano 1.000 Ft ogni mezz'ora iniziata. Serve un accappatoio d'inverno, e i gioielli d'argento vanno lasciati nell'armadietto perché l'acqua solforosa li annerisce. A Eger il biglietto serale del castello costa la metà e vale dall'ultima ora delle mostre. Si combina bene con il tramonto alla Valle, raggiungibile a piedi dal centro. In Ungheria si paga in fiorini: il minareto accetta solo contanti, e molte cantine pure.",
+      "fonti": [
+        "https://www.momondo.it/volo/pisa/budapest",
+        "https://www.momondo.it/volo/bologna/budapest",
+        "https://hungaryunlocked.com/it/dall-aeroporto-di-budapest-al-centro/",
+        "https://www.budapest.net/budapest-parliament",
+        "https://www.budapest-trip.com/guides/budapest-baths-prices-tickets/",
+        "https://hungaryunlocked.com/lake-balaton-day-trip/",
+        "https://hungaryunlocked.com/heviz-thermal-lake-day-trip-budapest/",
+        "https://hungaryunlocked.com/eger-day-trip-from-budapest/",
+        "https://www.momondo.it/hotel/budapest",
+        "https://www.momondo.it/hotel/balatonfured-provincia-di-veszprem",
+        "https://www.momondo.it/hotel/eger",
+        "https://www.budapest-trip.com/it/guide/costo-viaggio-budapest/"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": 47.4979,
+        "lon": 19.0402
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Terme, lago caldo di Hévíz e castello di Eger piacciono a un bimbo di 4 anni, ma le visite al Parlamento e alle cantine e i tre cambi di base in treno sono faticosi."
+      }
+    },
+    {
+      "id": "australia-la-costa-est-14g",
+      "nome": "Australia: la costa est",
+      "sottotitolo": "Australia, Nuovo Galles del Sud e Queensland: Sydney con le Blue Mountains e il Queensland tropicale tra Grande Barriera Corallina e foresta del Daintree",
+      "durataGiorni": 14,
+      "mezzoConsigliato": "Volo da Firenze Peretola (FLR) a Sydney (SYD) con 2–3 scali (tipicamente via Doha, Dubai, Abu Dhabi o Singapore, spesso combinando più compagnie, oppure KLM/Qatar Airways); a Peretola si arriva col tram T2 (3,40 € A/R a persona). In alternativa da Bologna (BLQ) i collegamenti via Dubai sono più brevi (dalle 22–24 h) ma più cari. In Australia volo interno Sydney–Cairns diretto (Jetstar, Virgin Australia, Qantas, circa 3h05) e auto a noleggio solo per i giorni di Port Douglas e Daintree.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 30 ore porta a porta da Firenze a Sydney (il volo più breve da FLR rilevato è di 29h30 con 3 scali; al ritorno da 26h50). Da Bologna via Dubai da 22–24 ore di volo più il trasferimento a Bologna. Sydney–Cairns: circa 3h05 di volo diretto.",
+      "durataViaggioMinuti": 1830,
+      "periodoMiglioreTesto": "Da giugno a ottobre: nel Queensland tropicale è la stagione secca, con acqua più limpida sulla barriera, meno pioggia e niente meduse urticanti; a Sydney è inverno-primavera mite, ideale per camminare. Da novembre a marzo a Cairns è stagione di meduse (stinger) e cicloni: le gite al reef partono comunque, con muta anti-medusa, ma l'esperienza è peggiore. Dicembre è anche il mese più caro per i voli da Firenze (circa 2.200 € A/R in media); gennaio-febbraio i più economici, ma coincidono con la stagione umida al nord.",
+      "mesi": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "costoMin": 2635,
+      "costoMax": 4491,
+      "costoNota": "Prezzi australiani convertiti a 0,60 € per dollaro australiano (rapporto usato dalla fonte sull'Opera House: 50 AUD ≈ 30 €); le voci che la fonte riporta in dollari USA (alloggio e pasti a Sydney, volo interno) sono convertite a circa 0,86 € per USD, valore indicativo. Il grosso del costo è il volo intercontinentale, molto variabile con la stagione. Esclusi carburante in Australia e Kuranda (prezzo 2026 non verificato).",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Con due giorni abbondanti persi in volo all'andata e uno al ritorno, restano undici notti sul posto: bastano per due poli della costa est fatti bene, non per percorrerla tutta. Sydney si gira a piedi, in traghetto e in treno con la carta Opal in cinque giorni pieni (porto, Manly, Bondi, Blue Mountains in giornata in treno). Poi un volo di tre ore porta a Cairns, da cui reef, Kuranda, Port Douglas e Daintree si raggiungono in giornata: cinque notti senza fretta. Brisbane, Gold Coast, Byron Bay e Whitsunday restano fuori: provarci in 14 giorni significherebbe un trasferimento al giorno.",
+      "cosaVedere": [
+        "Sydney Opera House con la visita guidata di un'ora (circa 2,5 km e 300 gradini all'interno): si entra nelle sale e si capisce come è stata costruita la vela più famosa del mondo.",
+        "Il porto di Sydney dal traghetto per Manly: la vista migliore su Opera House e Harbour Bridge al prezzo di un biglietto dei mezzi pubblici.",
+        "La passeggiata costiera Bondi–Coogee: scogliere di arenaria, piscine oceaniche e spiagge una dopo l'altra.",
+        "Blue Mountains da Katoomba: le Three Sisters da Echo Point e i sentieri sul bordo della valle coperta di eucalipti, raggiungibili in treno.",
+        "Grande Barriera Corallina esterna in giornata da Cairns: due siti di snorkeling sul reef aperto, con pranzo e attrezzatura.",
+        "Kuranda: si sale col trenino storico Kuranda Scenic Railway e si scende con la cabinovia Skyrail sopra la foresta pluviale.",
+        "Port Douglas e la foresta del Daintree fino a Cape Tribulation, dove la foresta pluviale arriva fino alla spiaggia."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: tram T2 fino a Peretola e partenza per Sydney con 2–3 scali (Doha, Dubai, Abu Dhabi o Singapore a seconda della combinazione). Notte in volo: conviene scegliere lo scalo più lungo per sgranchirsi."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: ancora in volo, arrivo a Sydney. Treno dall'aeroporto al centro, check-in e passeggiata serale a Circular Quay per vedere l'Opera House illuminata. Andare a letto all'ora locale aiuta col fuso."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: visita guidata all'Opera House nel primo turno del mattino (meno gente), poi Royal Botanic Garden fino a Mrs Macquarie's Chair per la foto classica di Opera e ponte insieme. Pomeriggio a The Rocks, il quartiere più vecchio, e traversata a piedi dell'Harbour Bridge."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: traghetto da Circular Quay a Manly con la carta Opal (o carta contactless), mattina in spiaggia e passeggiata sul lungomare fino a Shelly Beach. Rientro col traghetto al tramonto, la luce migliore sul porto."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: autobus fino a Bondi e camminata costiera Bondi–Coogee (con le piscine oceaniche di Bondi Icebergs e Bronte). Pomeriggio a Paddington o Surry Hills per mercatini e caffè."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: Blue Mountains in giornata in treno da Central fino a Katoomba. Echo Point e le Three Sisters, sentiero sul bordo della scarpata e, volendo, Scenic World con funivie e la ferrovia molto ripida. Rientro in treno nel tardo pomeriggio."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: giornata libera a Sydney: Barangaroo e Darling Harbour, oppure traghetto per Watsons Bay e passeggiata fino al faro di South Head. Sera a cena sul porto: è l'ultima notte a Sydney prima del nord."
+        },
+        {
+          "giorno": 8,
+          "testo": "Giorno 8: volo diretto Sydney–Cairns (circa 3h05). Pomeriggio sull'Esplanade di Cairns con la laguna balneabile pubblica e cena sul lungomare. Si prenota qui, se non fatto prima, la gita al reef."
+        },
+        {
+          "giorno": 9,
+          "testo": "Giorno 9: giornata intera sulla Grande Barriera Corallina esterna: catamarano dal porto di Cairns, due siti di snorkeling (o immersione di prova), pranzo a bordo. Rientro nel tardo pomeriggio, serata tranquilla."
+        },
+        {
+          "giorno": 10,
+          "testo": "Giorno 10: Kuranda. Treno storico da Cairns Central (partenze alle 8:30 e 9:30) su per la gola del Barron, mattina nel villaggio e nei suoi mercati, discesa con la Skyrail sopra la foresta e bus di rientro. Nel 2026-27 la Skyrail ha lavori di ammodernamento: verificare prima che sia in funzione."
+        },
+        {
+          "giorno": 11,
+          "testo": "Giorno 11: ritiro dell'auto a noleggio e Captain Cook Highway lungo la costa fino a Port Douglas (una delle strade costiere più belle del paese). Pomeriggio a Four Mile Beach e tramonto dal belvedere di Flagstaff Hill."
+        },
+        {
+          "giorno": 12,
+          "testo": "Giorno 12: Mossman Gorge al mattino presto, poi traghetto sul fiume Daintree e strada nella foresta fino a Cape Tribulation, dove la giungla arriva sulla sabbia. Una crociera sul fiume per avvistare coccodrilli completa la giornata."
+        },
+        {
+          "giorno": 13,
+          "testo": "Giorno 13: rientro a Cairns, riconsegna dell'auto e volo per Sydney, dove si prende il volo intercontinentale serale o notturno verso l'Italia."
+        },
+        {
+          "giorno": 14,
+          "testo": "Giorno 14: scali di rientro e arrivo a Firenze (o Bologna). Il ritorno verso ovest è un po' più corto dell'andata (da 26h50 il più breve rilevato)."
+        }
+      ],
+      "alloggio": "Undici notti: sei a Sydney e cinque a Cairns/Port Douglas. A Sydney una camera doppia economica costa circa 80–190 USD a notte (69–163 €) a seconda della stagione, la fascia media 180–380 USD; le zone comode sono Circular Quay/The Rocks (care), CBD e Surry Hills vicino a Central (treni per aeroporto e Blue Mountains). A Cairns un 3 stelle costa 140–220 AUD a notte (84–132 €), con ostelli da circa 60 AUD; dormire sull'Esplanade o in centro permette di andare a piedi al porto delle gite al reef. Nelle vacanze scolastiche australiane (dicembre, gennaio, aprile, luglio, settembre) i prezzi salgono del 20–40 %.",
+      "costiDettaglio": [
+        {
+          "voce": "Tram T2 per Peretola",
+          "testo": "3,40 € A/R a persona dal centro di Firenze all'aeroporto.",
+          "min": 3.4,
+          "max": 3.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Firenze–Sydney A/R",
+          "testo": "Fascia tipica 1.251–1.729 € A/R con 2–3 scali (media annua 1.415 €; gennaio il mese più economico, dicembre il più caro).",
+          "min": 1251,
+          "max": 1729,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alternativa: volo Bologna–Sydney A/R",
+          "testo": "Fascia tipica 1.353–1.911 € A/R, quasi tutto via Dubai, dalle 22–24 h; più treno A/R per Bologna (20–50 €) e Marconi Express (23,20 € A/R).",
+          "min": 1396,
+          "max": 1984,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "eVisitor (subclass 651)",
+          "testo": "Visto elettronico gratuito per passaporti italiani se richiesto direttamente su ImmiAccount; diffidare dei siti intermediari a pagamento.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo interno Sydney–Cairns A/R",
+          "testo": "Fascia tipica 195–330 USD A/R (circa 168–284 €) con Jetstar, Virgin Australia o Qantas, diretto in circa 3h05.",
+          "min": 168,
+          "max": 284,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio Sydney (6 notti)",
+          "testo": "Camera doppia economica 80–190 USD a notte (69–163 €), quindi 207–489 € a persona per 6 notti.",
+          "min": 207,
+          "max": 489,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio Cairns/Port Douglas (5 notti)",
+          "testo": "Hotel 3 stelle 140–220 AUD a notte (84–132 €), quindi 210–330 € a persona per 5 notti.",
+          "min": 210,
+          "max": 330,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti (12 giorni sul posto)",
+          "testo": "Pranzo economico 10–20 USD e cena in ristorante medio 40–95 USD a persona: circa 43–99 € al giorno, 516–1.188 € per 12 giorni.",
+          "min": 516,
+          "max": 1188,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Mezzi pubblici a Sydney",
+          "testo": "Treni, traghetti, bus e tram con Opal o carta contactless: 6–15 USD al giorno (5–13 €), per circa 6 giorni.",
+          "min": 30,
+          "max": 78,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno per le Blue Mountains",
+          "testo": "18–35 USD A/R (circa 15–30 €) da Sydney a Katoomba.",
+          "min": 15,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Blue Mountains, attrazioni",
+          "testo": "Belvederi e sentieri gratuiti; Scenic World e simili fino a circa 40 USD (34 €).",
+          "min": 0,
+          "max": 34,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Visita guidata Opera House",
+          "testo": "50 AUD online (circa 30 €), 55 AUD alla biglietteria (33 €).",
+          "min": 30,
+          "max": 33,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Gita alla Grande Barriera Corallina",
+          "testo": "Giornata sul reef esterno da Cairns 300–410 AUD (180–246 €) con pranzo, attrezzatura e due siti di snorkeling.",
+          "min": 180,
+          "max": 246,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Kuranda Scenic Railway + Skyrail",
+          "testo": "Combinazione treno + cabinovia: prezzo 2026 non pubblicato al momento della verifica; la Gold Class in treno è un supplemento di 55 AUD a tratta.",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto a Cairns (3 giorni)",
+          "testo": "Utilitaria 28–52 AUD al giorno (circa 17–31 €), quindi 50–94 € per 3 giorni, da dividere in due. Carburante escluso.",
+          "min": 50,
+          "max": 94,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Quasi tutto è a persona: voli, alloggio (già diviso per due), pasti, ingressi e gite. L'unica voce della vettura è il noleggio dell'auto a Cairns per i tre giorni di Port Douglas e Daintree, che si divide in due insieme al carburante.",
+      "vincoli": [
+        {
+          "categoria": "prenotazioni",
+          "testo": "Serve l'eVisitor (subclass 651), gratuito su ImmiAccount, valido 12 mesi per soggiorni fino a 3 mesi: si rilascia di solito in 1–5 giorni lavorativi, quindi va chiesto prima di comprare i voli definitivi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Skyrail di Kuranda ha lavori di ammodernamento nel 2026-27: controllare sul sito ufficiale che sia aperta nelle date del viaggio prima di prenotare la combinazione treno + cabinovia. Le visite all'Opera House si fanno ogni giorno tranne dal 25 al 31 dicembre."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Da novembre a marzo è stagione di meduse urticanti e cicloni nel Queensland: in mare si entra con la muta anti-medusa fornita dagli operatori, e le gite possono saltare per il meteo."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Visita all'Opera House da prenotare online qualche giorno prima (50 AUD contro 55 alla biglietteria); la gita al reef va fissata in anticipo nelle vacanze scolastiche australiane."
+        }
+      ],
+      "note": "Per la gita al reef conviene partire da Cairns e non da Port Douglas: gli stessi siti costano 40–100 AUD in più a persona da Port Douglas. A Kuranda il senso migliore è salire in treno e scendere in Skyrail: in salita il treno regala la gola del Barron con le cascate, in discesa la cabinovia mostra la foresta dall'alto con la costa davanti. Per le Blue Mountains bastano il treno e i piedi: i belvederi sono gratuiti e i tour organizzati costano molto di più. Sui voli da Firenze molte offerte combinano compagnie diverse con 3 scali e cambi di terminal: meglio un biglietto unico con al massimo 2 scali, anche a costo di partire da Bologna. Se il budget lo consente, guardare un volo con ritorno direttamente da Cairns evita il volo interno dell'ultimo giorno, ma da Cairns i collegamenti internazionali sono pochi. In Australia si guida a sinistra: provare l'auto con calma sulla Captain Cook Highway, che è tortuosa e piena di belvederi.",
+      "fonti": [
+        "https://www.kayak.it/voli/Firenze-Aeroporto-Peretola-FLR/Sydney-Kingsford-Smith-SYD",
+        "https://www.kayak.it/voli/Bologna-Aeroporto-Guglielmo-Marconi-BLQ/Sydney-Kingsford-Smith-SYD",
+        "https://www.remitly.com/blog/en-au/immigration/evisitor-visa/",
+        "https://www.kayak.com/flight-routes/Sydney-Kingsford-Smith-SYD/Cairns-CNS",
+        "https://www.shopback.com.au/blog/travel/au-cairns-vs-port-douglas-vs-whitsundays-2026-domestic-reef",
+        "https://skyrail.com.au/skyrail-kuranda-train",
+        "https://www.sydneyoperahouse.com/tours/sydney-opera-house-tour",
+        "https://loudavymkrokem.cz/en/sydney-opera-house-tickets-tours/",
+        "https://www.jetsetteralerts.com/cost-to-visit-sydney/",
+        "https://www.kayak.com.au/Cheap-Cairns-Car-Hire.23637.cars.ksp"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": -33.86,
+        "lon": 151.21
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni la trentina di ore di volo con più scali è la parte dura; sul posto spiagge, traghetti, trenino di Kuranda e reef dalla barca funzionano bene, le camminate lunghe meno."
+      }
+    },
+    {
+      "id": "brasile-rio-iguazu-e-salvador-14g",
+      "nome": "Brasile: Rio, Iguazú e Salvador",
+      "sottotitolo": "Brasile (con un giorno in Argentina), le tre facce del paese: la baia di Rio, le cascate di Iguazú tra due parchi nazionali e la Bahia coloniale e afro-brasiliana di Salvador",
+      "durataGiorni": 14,
+      "mezzoConsigliato": "Volo da Firenze Peretola (FLR) a Rio de Janeiro Galeão (GIG) con uno scalo: soprattutto ITA Airways via Roma Fiumicino, poi TAP via Lisbona e KLM/Air France via Amsterdam o Parigi. A Peretola si arriva col tram T2 (3,40 € A/R a persona). In Brasile tre voli interni di sola andata: Rio–Foz do Iguaçu diretto (GOL, LATAM), Foz–Salvador con uno scalo, Salvador–Rio diretto, poi il volo di ritorno da Rio. Sul posto si gira a piedi, in metro e in Uber; per il lato argentino delle cascate si passa il confine in taxi o con un'escursione da Foz.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 17 ore porta a porta da Firenze a Rio: il volo più breve rilevato con uno scalo dura 15h05 (ITA via Fiumicino), quello medio più veloce 15h44 via Amsterdam. Voli interni: Rio–Foz circa 2h15, Foz–Salvador da circa 5h15 con scalo, Salvador–Rio circa 2h10.",
+      "durataViaggioMinuti": 1020,
+      "periodoMiglioreTesto": "Da aprile a giugno e da settembre a inizio novembre: tariffe di alloggio fino al 30–45 % più basse rispetto ai picchi, clima ancora caldo a Rio e Salvador, cascate con buona portata. Da evitare dicembre (il mese più caro sia per i voli da Firenze, circa 1.340 € A/R, sia per gli hotel di Foz) e il Carnevale di febbraio, che a Rio raddoppia le tariffe per circa sei giorni. Luglio è il secondo mese più caro per i voli (circa 1.236 €).",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        12,
+        2
+      ],
+      "costoMin": 1707,
+      "costoMax": 3446,
+      "costoNota": "Prezzi brasiliani e in dollari convertiti con 1 USD ≈ 5,4 R$ (cambio medio 2026 della fonte sui costi) e 1 USD ≈ 0,86 €, cioè circa 0,16 € per real: valori indicativi. Il grosso è il volo intercontinentale. Escluso l'ingresso al lato brasiliano delle cascate (tariffa 2026 per stranieri non verificata), il transfer al lato argentino e le escursioni facoltative come il Macuco Safari.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Tolti un giorno di volo all'andata e uno al ritorno, restano dodici giorni per tre poli lontanissimi tra loro (Rio–Foz 1.900 km, Foz–Salvador oltre cinque ore con scalo), collegati solo in aereo. Rio richiede cinque notti: Cristo, Pão de Açúcar, centro, Santa Teresa e le spiagge sono in quartieri diversi e la nebbia può far saltare una salita. Iguazú vuole due giorni pieni, uno per lato del confine, più il pomeriggio d'arrivo. Salvador si esaurisce in tre notti tra Pelourinho, Bonfim e Barra. Amazzonia, Pantanal e Paraty restano fuori: con 14 giorni sarebbe un volo ogni due giorni.",
+      "cosaVedere": [
+        "Cristo Redentor sul Corcovado, raggiunto col trenino a cremagliera nella foresta: dalla terrazza si vede tutta la baia, da Copacabana al Maracanã.",
+        "Pão de Açúcar con la teleferica in due tratte: la vista al tramonto sulla baia di Guanabara e sul Cristo illuminato è la cartolina di Rio.",
+        "Copacabana, Ipanema e l'Arpoador: il lungomare di Burle Marx e il tramonto applaudito sugli scogli.",
+        "Santa Teresa, Lapa e la Escadaria Selarón: il Rio coloniale e bohémien, col bondinho giallo e la samba la sera.",
+        "Cascate di Iguazú dal lato brasiliano: la vista panoramica sull'intero fronte, con la passerella dentro la Garganta do Diabo.",
+        "Cascate di Iguazú dal lato argentino: i circuiti a piedi sopra e sotto i salti e il belvedere sul bordo della Garganta del Diablo.",
+        "Pelourinho a Salvador: il centro coloniale patrimonio UNESCO, con la chiesa di São Francisco rivestita d'oro e le case color pastello.",
+        "Senhor do Bonfim e Farol da Barra: la devozione dei nastrini colorati e il tramonto più bello di Salvador sul mare."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: tram T2 fino a Peretola e volo serale per Rio con uno scalo, di solito a Fiumicino con ITA (o Lisbona con TAP). Notte in volo."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: arrivo al Galeão in mattinata, Uber fino a Copacabana o Santa Teresa. Pomeriggio leggero sul lungomare di Copacabana fino al Forte, tramonto all'Arpoador applaudito dalla gente sugli scogli: il modo migliore per vincere il fuso."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Cristo Redentor col trenino del Corcovado nella prima corsa del mattino, quando la nebbia non ha ancora coperto la vista e la terrazza è vivibile. Discesa e pomeriggio al Jardim Botânico, con il viale di palme imperiali."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: centro storico a piedi: Confeitaria Colombo, Theatro Municipal, la Escadaria Selarón coperta di piastrelle da tutto il mondo e gli Arcos da Lapa. Pomeriggio al Museu do Amanhã e sul Boulevard Olímpico con i murales. Sera di samba a Lapa."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: mattina a Ipanema e Leblon, poi Pão de Açúcar nel tardo pomeriggio: si sale con la teleferica (ultimo imbarco 19:30) e si resta in cima per vedere la baia passare dal giorno alla notte."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: Santa Teresa col bondinho giallo, atelier e Parque das Ruínas, poi la vista dalla Vista Chinesa nella Floresta da Tijuca. Ultima sera a Rio in un boteco con petiscos e caipirinha."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: volo diretto Rio–Foz do Iguaçu (circa 2h15). Pomeriggio al Parque das Aves, di fronte all'ingresso del parco nazionale, oppure al Marco das Três Fronteiras al tramonto, dove si vedono Brasile, Argentina e Paraguay alla confluenza dei fiumi."
+        },
+        {
+          "giorno": 8,
+          "testo": "Giorno 8: lato brasiliano del Parque Nacional do Iguaçu all'apertura (9:00): il bus interno porta al sentiero di circa un chilometro che si affaccia sul fronte delle cascate e finisce sulla passerella sopra la Garganta do Diabo. Chi vuole fa il Macuco Safari in gommone sotto i salti. Pomeriggio libero o diga di Itaipu."
+        },
+        {
+          "giorno": 9,
+          "testo": "Giorno 9: giornata intera sul lato argentino (Parque Nacional Iguazú): trenino della selva fino alla Garganta del Diablo, poi i circuiti Superior e Inferior, che passano sopra e accanto ai salti. Si esce dal parco nel tardo pomeriggio stanchi e bagnati."
+        },
+        {
+          "giorno": 10,
+          "testo": "Giorno 10: volo Foz–Salvador con uno scalo (circa 5–6 ore). Arrivo nel pomeriggio, sistemazione nel centro storico, cena di acarajé e cocada sulla piazza di Santo Antônio Além do Carmo, che guarda la Baia de Todos os Santos."
+        },
+        {
+          "giorno": 11,
+          "testo": "Giorno 11: Pelourinho a piedi: Largo do Pelourinho con le case color pastello, la chiesa di São Francisco con l'interno ricoperto d'oro, Terreiro de Jesus. Discesa con l'Elevador Lacerda alla Cidade Baixa e al Mercado Modelo."
+        },
+        {
+          "giorno": 12,
+          "testo": "Giorno 12: mattina alla chiesa del Senhor do Bonfim, dove si legano i nastrini colorati alla cancellata, poi la penisola di Itapagipe. Pomeriggio al Farol da Barra con bagno nelle acque calme di Porto da Barra e tramonto dal forte. Sera a Rio Vermelho."
+        },
+        {
+          "giorno": 13,
+          "testo": "Giorno 13: mattina libera (Museu Afro-Brasileiro o una lezione di capoeira nel Pelourinho), poi volo diretto Salvador–Rio (circa 2h10) e volo serale dal Galeão verso l'Italia."
+        },
+        {
+          "giorno": 14,
+          "testo": "Giorno 14: scalo in Europa e arrivo a Firenze nel pomeriggio, rientro col tram T2."
+        }
+      ],
+      "alloggio": "Undici notti: cinque a Rio, tre a Foz do Iguaçu, tre a Salvador. A Rio una pousada a Santa Teresa costa 55–95 USD a notte (47–82 €), un hotel medio a Copacabana o Ipanema 95–180 USD (82–155 €): Copacabana è la base più pratica per metro e spiaggia, Santa Teresa la più caratteristica ma in salita e da girare in Uber la sera. A Foz do Iguaçu si trovano 3 stelle da 27–39 USD a notte, mentre la media cittadina (189–220 USD) è gonfiata dai resort sulla strada delle cascate; ottobre è il mese più economico, dicembre il più caro (331 USD di media). A Salvador una pousada nel centro storico a Santo Antônio Além do Carmo costa 40–75 USD (34–64 €), un hotel medio a Barra 65–130 USD (56–112 €): Santo Antônio per vivere il Pelourinho a piedi, Barra per il mare.",
+      "costiDettaglio": [
+        {
+          "voce": "Tram T2 per Peretola",
+          "testo": "3,40 € A/R a persona dal centro di Firenze all'aeroporto.",
+          "min": 3.4,
+          "max": 3.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Firenze–Rio de Janeiro A/R",
+          "testo": "Fascia tipica 867–1.208 € A/R (media annua 1.024 €) con ITA Airways via Fiumicino, TAP via Lisbona o KLM/Air France; marzo il mese più economico (774 €), dicembre il più caro (1.340 €).",
+          "min": 867,
+          "max": 1208,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Rio–Foz do Iguaçu (sola andata)",
+          "testo": "84–161 € con GOL o LATAM, diretto in circa 2h15.",
+          "min": 84,
+          "max": 161,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Foz do Iguaçu–Salvador (sola andata)",
+          "testo": "98–180 € (media 132 €), nessun diretto: uno scalo a Brasília, San Paolo o Rio, da circa 5h15.",
+          "min": 98,
+          "max": 180,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Salvador–Rio (sola andata)",
+          "testo": "Da 92 € (GOL diretto, circa 2h10), media intorno a 102 €; la fascia A/R è 134–224 €, quindi circa 67–112 € a tratta.",
+          "min": 92,
+          "max": 112,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cristo Redentor",
+          "testo": "Trenino del Corcovado R$ 134 (circa 21 €) oppure van ufficiale da Paineiras R$ 87 (circa 14 €), prezzo unico tutto l'anno; sotto i 6 anni gratis in braccio.",
+          "min": 14,
+          "max": 21,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pão de Açúcar",
+          "testo": "Teleferica sui due morri da R$ 205 (circa 33 €) per i non residenti.",
+          "min": 33,
+          "max": 33,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parque Nacional do Iguaçu (lato brasiliano)",
+          "testo": "Ingresso con bus interno: R$ 105 nel 2025 per i brasiliani; la tariffa 2026 per stranieri non è pubblicata nelle fonti consultate (va verificata su cataratasdoiguacu.com.br). Macuco Safari in gommone sotto le cascate R$ 386 (dato 2024), più l'ingresso.",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parque Nacional Iguazú (lato argentino)",
+          "testo": "Dal 1° giugno 2026 60.000 pesos per gli stranieri (circa R$ 240, quindi circa 38 €); sconto del 50 % se si rientra il giorno dopo.",
+          "min": 38,
+          "max": 38,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio Rio (5 notti)",
+          "testo": "Pousada a Santa Teresa 55–95 USD a notte, hotel medio a Copacabana/Ipanema 95–180 USD: 47–155 € a camera, quindi 118–387 € a persona per 5 notti.",
+          "min": 118,
+          "max": 387,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio Foz do Iguaçu (3 notti)",
+          "testo": "3 stelle da 27 USD a notte (weekend da 39 USD); la media cittadina è 189–220 USD perché pesano i resort. Circa 35–274 € a persona per 3 notti.",
+          "min": 35,
+          "max": 274,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio Salvador (3 notti)",
+          "testo": "Pousada nel centro storico (Santo Antônio) 40–75 USD a notte, hotel medio a Barra 65–130 USD: 34–112 € a camera, quindi 52–168 € a persona per 3 notti.",
+          "min": 52,
+          "max": 168,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti (12 giorni sul posto)",
+          "testo": "Pranzo prato feito o a kilo 6–14 USD, cena da 18 USD (street food a Rio Vermelho) a 35–60 USD (ristorante medio a Leblon): circa 21–64 € al giorno, 252–768 € in 12 giorni.",
+          "min": 252,
+          "max": 768,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Spostamenti urbani",
+          "testo": "Metro di Rio circa R$ 7 a corsa, Uber in Zona Sul 4–9 USD a corsa, a Salvador raramente oltre 6 USD; calcolando una o due corse al giorno divise in due, circa 21–93 € a persona in 12 giorni.",
+          "min": 21,
+          "max": 93,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutto è a persona: voli, ingressi, pasti e alloggio (già diviso per due). Non c'è una vettura; le corse in Uber si dividono in due e sono già calcolate a persona nella voce degli spostamenti urbani.",
+      "vincoli": [
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per i cittadini italiani non serve visto né per il Brasile né per l'Argentina per soggiorni turistici brevi: basta il passaporto, che si porta anche per la giornata sul lato argentino delle cascate (controllo di frontiera sul ponte Tancredo Neves)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il lato brasiliano del parco di Iguaçu apre ogni giorno 9:00–16:00 (8:30 nei weekend), ultimo bus di ritorno da Porto Canoas alle 17:30. La teleferica del Pão de Açúcar funziona tutti i giorni 7:30–21:00, ultimo imbarco 19:30."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Trenino del Corcovado da comprare online in anticipo, con orario fisso: conviene la prima corsa del mattino. Biglietti del parco di Iguaçu online con giorno e fascia oraria."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "A Rio e Salvador la sera ci si sposta in Uber e non a piedi tra i quartieri; a Salvador il Pelourinho è sorvegliato di giorno ma le stradine laterali si svuotano dopo cena."
+        }
+      ],
+      "note": "Al Corcovado il cielo è spesso coperto dalla tarda mattinata: tenere libero un secondo giorno a Rio per ripetere la salita se la prima volta c'è nebbia, e guardare la webcam prima di partire. Le cascate si fanno in quest'ordine: prima il lato brasiliano, che dà la vista d'insieme e si gira in mezza giornata, poi quello argentino, che porta dentro i salti e richiede la giornata intera; chi torna il giorno dopo in Argentina paga metà biglietto. Per il Macuco Safari e la passerella della Garganta servono un cambio completo e una busta per il telefono: ci si bagna davvero. A Salvador, al Bonfim, i venditori legano al polso il nastrino (fitinha) con tre nodi e tre desideri: va lasciato finché non si stacca da solo. A Salvador i mesi più piovosi sono quelli dell'autunno australe, quindi aprile–maggio sono ottimi per Rio e Iguazú ma meno sicuri per le spiagge baiane. Con ITA lo scalo a Fiumicino è il più rapido; con TAP si può spezzare il ritorno a Lisbona.",
+      "fonti": [
+        "https://www.kayak.it/voli/Firenze-Aeroporto-Peretola-FLR/Rio-de-Janeiro-Internazionale-di-Rio-de-Janeiro-Galeao-GIG",
+        "https://www.kayak.it/voli/Rio-de-Janeiro-RIO/Foz-do-Iguacu-Cataratas-IGU",
+        "https://www.kayak.fr/vols/Foz-do-Iguacu-Cataratas-IGU/Salvador-Luis-E-Magalhaes-SSA",
+        "https://www.kayak.it/voli/Salvador-Deputato-Luis-Eduardo-Magalhaes-SSA/Rio-de-Janeiro-RIO",
+        "https://www.fuiserviajante.com/?p=32095",
+        "https://www.fuiserviajante.com/rio-de-janeiro/bondinho-do-pao-de-acucar-rj",
+        "https://guia.melhoresdestinos.com.br/cataratas-do-iguacu.html",
+        "https://travel.com.br/novidades/ingresso-lado-argentino-cataratas-do-iguacu/",
+        "https://latamtravellers.com/blogs/news/brazil-trip-cost-2026-daily-budget-rio-salvador-amazon",
+        "https://www.kayak.com/Foz-do-Iguacu-Hotels.52793.hotel.ksp"
+      ],
+      "aggiuntaIl": "2026-11-05",
+      "coordinate": {
+        "lat": -22.91,
+        "lon": -43.17
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni funzionano spiagge, teleferica, trenino e passerelle di Iguazú (sotto i 6 anni Cristo e parco brasiliano sono gratis), ma pesano 15 ore di volo, tre voli interni e le giornate lunghe nei parchi."
       }
     },
     {

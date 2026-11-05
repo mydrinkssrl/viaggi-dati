@@ -1,1 +1,1613 @@
-{"documento": [["orvieto-1g", "Orvieto", 1], ["assisi-1g", "Assisi", 1], ["ferrara-1g", "Ferrara", 1], ["san-gimignano-1g", "San Gimignano", 1], ["volterra-1g", "Volterra", 1], ["bologna-centro-storico-1g", "Bologna centro storico", 1], ["cinque-terre-1g", "Cinque Terre", 1], ["ravenna-1g", "Ravenna", 1], ["cortona-1g", "Cortona", 1], ["pitigliano-sorano-e-sovana-1g", "Pitigliano, Sorano e Sovana", 1], ["montepulciano-e-pienza-1g", "Montepulciano e Pienza", 1], ["gubbio-1g", "Gubbio", 1], ["spoleto-1g", "Spoleto", 1], ["modena-1g", "Modena", 1], ["terme-libere-della-toscana-1g", "Terme libere della Toscana", 1], ["camaldoli-e-la-verna-1g", "Camaldoli e La Verna", 1], ["massa-marittima-1g", "Massa Marittima", 1], ["brisighella-e-dozza-1g", "Brisighella e Dozza", 1], ["barga-garfagnana-e-grotta-del-vento-1g", "Barga, Garfagnana e Grotta del Vento", 1], ["bolgheri-e-castagneto-carducci-1g", "Bolgheri e Castagneto Carducci", 1], ["civita-di-bagnoregio-e-bolsena-1g", "Civita di Bagnoregio e Bolsena", 1], ["tarquinia-1g", "Tarquinia", 1], ["san-marino-1g", "San Marino", 1], ["abetone-e-l-appennino-pistoiese-1g", "Abetone e l'Appennino pistoiese", 1], ["portovenere-e-l-isola-palmaria-1g", "Portovenere e l'Isola Palmaria", 1], ["alghero-e-la-riviera-del-corallo-2g", "Alghero e la Riviera del Corallo", 2], ["trapani-ed-erice-2g", "Trapani ed Erice", 2], ["ravenna-e-classe-2g", "Ravenna e Classe", 2], ["val-d-orcia-2g", "Val d'Orcia", 2], ["verona-2g", "Verona", 2], ["mantova-e-sabbioneta-2g", "Mantova e Sabbioneta", 2], ["cinque-terre-e-portovenere-2g", "Cinque Terre e Portovenere", 2], ["urbino-e-gubbio-2g", "Urbino e Gubbio", 2], ["bratislava-2g", "Bratislava", 2], ["strasburgo-2g", "Strasburgo", 2], ["ferrara-comacchio-e-delta-del-po-2g", "Ferrara, Comacchio e Delta del Po", 2], ["isola-d-elba-2g", "Isola d'Elba", 2], ["padova-2g", "Padova", 2], ["corfu-2g", "Corfù", 2], ["minorca-2g", "Minorca", 2], ["cracovia-2g", "Cracovia", 2], ["vicenza-2g", "Vicenza", 2], ["perugia-2g", "Perugia", 2], ["cagliari-2g", "Cagliari", 2], ["reggio-calabria-e-scilla-2g", "Reggio Calabria e Scilla", 2], ["rabat-2g", "Rabat", 2], ["sirmione-e-il-basso-garda-2g", "Sirmione e il basso Garda", 2], ["spoleto-norcia-e-castelluccio-2g", "Spoleto, Norcia e Castelluccio", 2], ["brindisi-ostuni-e-la-valle-d-itria-2g", "Brindisi, Ostuni e la Valle d'Itria", 2], ["ascoli-piceno-e-le-grotte-di-frasassi-2g", "Ascoli Piceno e le Grotte di Frasassi", 2], ["pantelleria-2g", "Pantelleria", 2], ["matera-3g", "Matera", 3], ["napoli-pompei-ed-ercolano-3g", "Napoli, Pompei ed Ercolano", 3], ["siviglia-3g", "Siviglia", 3], ["isole-eolie-3g", "Isole Eolie", 3], ["palermo-monreale-e-cefalu-3g", "Palermo, Monreale e Cefalù", 3], ["catania-etna-e-taormina-3g", "Catania, Etna e Taormina", 3], ["siracusa-ortigia-e-noto-3g", "Siracusa, Ortigia e Noto", 3], ["lecce-e-il-salento-barocco-3g", "Lecce e il Salento barocco", 3], ["praga-3g", "Praga", 3], ["cracovia-auschwitz-e-wieliczka-3g", "Cracovia, Auschwitz e Wieliczka", 3], ["trieste-miramare-e-aquileia-3g", "Trieste, Miramare e Aquileia", 3], ["venezia-3g", "Venezia", 3], ["lubiana-e-il-lago-di-bled-3g", "Lubiana e il Lago di Bled", 3], ["ravenna-ferrara-e-comacchio-3g", "Ravenna, Ferrara e Comacchio", 3], ["torino-3g", "Torino", 3], ["verona-mantova-e-sirmione-3g", "Verona, Mantova e Sirmione", 3], ["porto-e-la-valle-del-douro-3g", "Porto e la Valle del Douro", 3], ["umbria-centrale-3g", "Umbria centrale", 3], ["valencia-3g", "Valencia", 3], ["cagliari-e-il-sud-della-sardegna-3g", "Cagliari e il sud della Sardegna", 3], ["budapest-3g", "Budapest", 3], ["bruges-e-gand-3g", "Bruges e Gand", 3], ["spalato-e-trogir-3g", "Spalato e Trogir", 3], ["dubrovnik-e-kotor-3g", "Dubrovnik e Kotor", 3], ["zara-e-i-laghi-di-plitvice-3g", "Zara e i Laghi di Plitvice", 3], ["bolzano-e-le-dolomiti-occidentali-3g", "Bolzano e le Dolomiti occidentali", 3], ["alsazia-strasburgo-e-colmar-3g", "Alsazia: Strasburgo e Colmar", 3], ["marrakech-3g", "Marrakech", 3], ["malaga-ronda-e-i-borghi-bianchi-3g", "Malaga, Ronda e i borghi bianchi", 3], ["atene-3g", "Atene", 3], ["marche-urbino-conero-e-frasassi-3g", "Marche: Urbino, Conero e Frasassi", 3], ["via-emilia-gastronomica-3g", "Via Emilia gastronomica", 3], ["amsterdam-3g", "Amsterdam", 3], ["monaco-di-baviera-3g", "Monaco di Baviera", 3], ["lago-di-como-3g", "Lago di Como", 3], ["langhe-e-monferrato-3g", "Langhe e Monferrato", 3], ["costa-azzurra-nizza-eze-e-monaco-3g", "Costa Azzurra: Nizza, Èze e Monaco", 3], ["marsiglia-e-le-calanques-3g", "Marsiglia e le Calanques", 3], ["cilento-paestum-e-palinuro-3g", "Cilento, Paestum e Palinuro", 3], ["ischia-e-procida-3g", "Ischia e Procida", 3], ["gran-sasso-l-aquila-e-abruzzo-interno-3g", "Gran Sasso, L'Aquila e Abruzzo interno", 3], ["tropea-e-la-costa-degli-dei-3g", "Tropea e la Costa degli Dei", 3], ["tirana-berat-e-la-riviera-albanese-3g", "Tirana, Berat e la riviera albanese", 3], ["copenaghen-3g", "Copenaghen", 3], ["edimburgo-3g", "Edimburgo", 3], ["fes-3g", "Fès", 3], ["tunisi-cartagine-e-sidi-bou-said-3g", "Tunisi, Cartagine e Sidi Bou Said", 3], ["sicilia-orientale-7g", "Sicilia orientale", 7], ["sicilia-occidentale-7g", "Sicilia occidentale", 7], ["andalusia-7g", "Andalusia", 7], ["puglia-completa-7g", "Puglia completa", 7], ["portogallo-7g", "Portogallo", 7], ["dolomiti-7g", "Dolomiti", 7], ["roma-7g", "Roma", 7], ["parigi-7g", "Parigi", 7], ["slovenia-e-istria-croata-7g", "Slovenia e Istria croata", 7], ["sardegna-completa-7g", "Sardegna completa", 7], ["corsica-7g", "Corsica", 7], ["islanda-7g", "Islanda", 7], ["napoli-costiera-amalfitana-capri-e-paestum-7g", "Napoli, Costiera Amalfitana, Capri e Paestum", 7], ["paesi-bassi-e-belgio-7g", "Paesi Bassi e Belgio", 7], ["istanbul-e-cappadocia-7g", "Istanbul e Cappadocia", 7], ["valle-della-loira-7g", "Valle della Loira", 7], ["normandia-e-bretagna-7g", "Normandia e Bretagna", 7], ["marocco-imperiale-7g", "Marocco imperiale", 7], ["baviera-e-foresta-nera-7g", "Baviera e Foresta Nera", 7], ["scozia-7g", "Scozia", 7], ["svizzera-il-grand-train-tour-7g", "Svizzera: il Grand Train Tour", 7], ["grecia-atene-e-le-cicladi-7g", "Grecia: Atene e le Cicladi", 7], ["albania-7g", "Albania", 7], ["croazia-costa-e-plitvice-7g", "Croazia: costa e Plitvice", 7], ["polonia-7g", "Polonia", 7], ["berlino-potsdam-e-dresda-7g", "Berlino, Potsdam e Dresda", 7], ["algarve-e-alentejo-7g", "Algarve e Alentejo", 7], ["creta-7g", "Creta", 7], ["madeira-7g", "Madeira", 7], ["irlanda-7g", "Irlanda", 7], ["transilvania-7g", "Transilvania", 7], ["norvegia-i-fiordi-7g", "Norvegia: i fiordi", 7], ["egitto-cairo-e-crociera-sul-nilo-7g", "Egitto: Cairo e crociera sul Nilo", 7], ["paesi-baltici-7g", "Paesi Baltici", 7], ["georgia-7g", "Georgia", 7], ["cipro-7g", "Cipro", 7], ["slovacchia-il-circuito-completo-7g", "Slovacchia, il circuito completo", 7], ["giappone-14g", "Giappone", 14], ["peru-14g", "Perù", 14], ["grecia-peloponneso-e-cicladi-14g", "Grecia: Peloponneso e Cicladi", 14], ["vietnam-14g", "Vietnam", 14], ["messico-citta-del-messico-chiapas-e-yucatan-14g", "Messico: Città del Messico, Chiapas e Yucatán", 14], ["sudafrica-14g", "Sudafrica", 14], ["turchia-14g", "Turchia", 14], ["thailandia-14g", "Thailandia", 14], ["cina-14g", "Cina", 14], ["islanda-completa-e-westfjords-14g", "Islanda completa e Westfjords", 14], ["tanzania-e-zanzibar-14g", "Tanzania e Zanzibar", 14], ["sri-lanka-14g", "Sri Lanka", 14], ["namibia-14g", "Namibia", 14], ["uzbekistan-14g", "Uzbekistan", 14], ["cuba-14g", "Cuba", 14], ["costa-occidentale-degli-stati-uniti-14g", "Costa occidentale degli Stati Uniti", 14], ["costa-rica-14g", "Costa Rica", 14], ["argentina-e-patagonia-14g", "Argentina e Patagonia", 14], ["colombia-14g", "Colombia", 14], ["india-del-nord-14g", "India del Nord", 14], ["ecuador-e-galapagos-14g", "Ecuador e Galápagos", 14], ["nuova-zelanda-isola-del-sud-14g", "Nuova Zelanda: Isola del Sud", 14], ["cile-14g", "Cile", 14], ["giro-completo-della-sicilia-e-le-eolie-14g", "Giro completo della Sicilia e le Eolie", 14], ["canada-occidentale-14g", "Canada occidentale", 14], ["giordania-14g", "Giordania", 14], ["stati-uniti-costa-est-14g", "Stati Uniti, costa est", 14], ["nepal-14g", "Nepal", 14], ["corea-del-sud-14g", "Corea del Sud", 14], ["indonesia-java-e-bali-14g", "Indonesia: Java e Bali", 14], ["cambogia-e-laos-14g", "Cambogia e Laos", 14], ["spagna-del-nord-e-cammino-di-santiago-14g", "Spagna del Nord e Cammino di Santiago", 14], ["marocco-completo-14g", "Marocco completo", 14]], "extra": [["anghiari-e-sansepolcro-1g", "Anghiari e Sansepolcro", 1], ["camogli-e-san-fruttuoso-1g", "Camogli e San Fruttuoso", 1], ["carrara-e-le-cave-di-marmo-1g", "Carrara e le cave di marmo", 1], ["castell-arquato-e-vigoleno-1g", "Castell'Arquato e Vigoleno", 1], ["certaldo-e-san-miniato-1g", "Certaldo e San Miniato", 1], ["chianti-greve-panzano-e-castellina-1g", "Chianti: Greve, Panzano e Castellina", 1], ["chiusi-e-cetona-1g", "Chiusi e Cetona", 1], ["citta-di-castello-1g", "Città di Castello", 1], ["faenza-1g", "Faenza", 1], ["fidenza-e-busseto-1g", "Fidenza e Busseto, le terre verdiane", 1], ["foligno-bevagna-e-montefalco-1g", "Foligno, Bevagna e Montefalco", 1], ["imola-1g", "Imola", 1], ["levanto-e-bonassola-1g", "Levanto e Bonassola", 1], ["maranello-e-sassuolo-1g", "Maranello e Sassuolo (i musei Ferrari)", 1], ["montalcino-e-sant-antimo-1g", "Montalcino e l'Abbazia di Sant'Antimo", 1], ["montecatini-terme-e-montecatini-alto-1g", "Montecatini Terme e Montecatini Alto", 1], ["monteriggioni-e-colle-di-val-d-elsa-1g", "Monteriggioni e Colle di Val d'Elsa", 1], ["narni-e-amelia-1g", "Narni e Amelia", 1], ["orbetello-e-monte-argentario-1g", "Orbetello e il Monte Argentario", 1], ["parma-1g", "Parma", 1], ["pescia-e-collodi-1g", "Pescia e Collodi (Parco di Pinocchio)", 1], ["piacenza-1g", "Piacenza", 1], ["pietrasanta-e-forte-dei-marmi-1g", "Pietrasanta e Forte dei Marmi", 1], ["pistoia-1g", "Pistoia", 1], ["pontremoli-e-la-lunigiana-1g", "Pontremoli e la Lunigiana", 1], ["portofino-e-santa-margherita-ligure-1g", "Portofino e Santa Margherita Ligure", 1], ["prato-1g", "Prato", 1], ["reggio-emilia-1g", "Reggio Emilia", 1], ["sarzana-e-lerici-1g", "Sarzana e Lerici", 1], ["scarperia-e-il-mugello-1g", "Scarperia, Borgo San Lorenzo e il Mugello", 1], ["sestola-e-monte-cimone-1g", "Sestola e il Monte Cimone", 1], ["suvereto-e-campiglia-marittima-1g", "Suvereto e Campiglia Marittima", 1], ["terni-e-cascata-delle-marmore-1g", "Terni e la Cascata delle Marmore", 1], ["todi-1g", "Todi", 1], ["viareggio-e-torre-del-lago-1g", "Viareggio e Torre del Lago Puccini", 1], ["vinci-e-cerreto-guidi-1g", "Vinci e Cerreto Guidi", 1], ["agrigento-e-la-valle-dei-templi-2g", "Agrigento e la Valle dei Templi", 2], ["aosta-e-i-castelli-valdostani-2g", "Aosta e i castelli valdostani", 2], ["bari-e-polignano-a-mare-2g", "Bari e Polignano a Mare", 2], ["bassano-del-grappa-e-marostica-2g", "Bassano del Grappa e Marostica", 2], ["bergamo-2g", "Bergamo", 2], ["brescia-2g", "Brescia", 2], ["bruxelles-2g", "Bruxelles", 2], ["cortina-d-ampezzo-e-il-cadore-2g", "Cortina d'Ampezzo e il Cadore", 2], ["costa-dei-trabocchi-e-vasto-2g", "Costa dei Trabocchi e Vasto", 2], ["dublino-2g", "Dublino", 2], ["isola-del-giglio-2g", "Isola del Giglio", 2], ["lago-d-iseo-e-franciacorta-2g", "Lago d'Iseo e Franciacorta", 2], ["lago-d-orta-e-sacro-monte-2g", "Lago d'Orta e il Sacro Monte", 2], ["lago-maggiore-2g", "Lago Maggiore e Isole Borromee", 2], ["lione-2g", "Lione", 2], ["lugano-e-bellinzona-2g", "Lugano e Bellinzona", 2], ["macerata-e-fermo-2g", "Macerata e Fermo", 2], ["merano-e-trauttmansdorff-2g", "Merano e i giardini di Trauttmansdorff", 2], ["palma-di-maiorca-2g", "Palma di Maiorca", 2], ["ponza-2g", "Ponza", 2], ["ragusa-modica-e-scicli-2g", "Ragusa, Modica e Scicli", 2], ["riva-del-garda-e-malcesine-2g", "Riva del Garda e Malcesine", 2], ["riviera-del-conero-sirolo-e-numana-2g", "Riviera del Conero: Sirolo e Numana", 2], ["sulmona-e-scanno-2g", "Sulmona e Scanno", 2], ["tivoli-e-subiaco-2g", "Tivoli e Subiaco", 2], ["trento-2g", "Trento", 2], ["treviso-e-asolo-2g", "Treviso e Asolo", 2], ["udine-e-cividale-del-friuli-2g", "Udine e Cividale del Friuli", 2], ["viterbo-e-la-tuscia-2g", "Viterbo e la Tuscia (Bomarzo, Villa Lante)", 2], ["barcellona-3g", "Barcellona", 3], ["belgrado-3g", "Belgrado", 3], ["berlino-3g", "Berlino", 3], ["breslavia-3g", "Breslavia", 3], ["bucarest-3g", "Bucarest", 3], ["calabria-ionica-crotone-le-castella-e-gerace-3g", "Calabria ionica: Crotone, Le Castella e Gerace", 3], ["danzica-3g", "Danzica", 3], ["gargano-e-isole-tremiti-3g", "Gargano e Isole Tremiti", 3], ["ginevra-e-losanna-3g", "Ginevra e Losanna", 3], ["granada-e-cordova-3g", "Granada e Cordova", 3], ["helsinki-e-tallinn-3g", "Helsinki e Tallinn", 3], ["istanbul-3g", "Istanbul", 3], ["la-maddalena-e-costa-smeralda-3g", "Sardegna nord: La Maddalena e Costa Smeralda", 3], ["lisbona-3g", "Lisbona", 3], ["madrid-3g", "Madrid", 3], ["oristano-bosa-e-sinis-3g", "Sardegna ovest: Oristano, Bosa e la penisola del Sinis", 3], ["oslo-3g", "Oslo", 3], ["rodi-3g", "Rodi", 3], ["salonicco-3g", "Salonicco", 3], ["santorini-3g", "Santorini", 3], ["sofia-plovdiv-3g", "Sofia e Plovdiv", 3], ["stoccolma-3g", "Stoccolma", 3], ["val-pusteria-e-lago-di-braies-3g", "Val Pusteria e Lago di Braies", 3], ["valle-d-aosta-courmayeur-cogne-e-gran-paradiso-3g", "Valle d'Aosta: Courmayeur, Cogne e Gran Paradiso", 3], ["varsavia-3g", "Varsavia", 3], ["zagabria-3g", "Zagabria", 3], ["zurigo-e-lucerna-3g", "Zurigo e Lucerna", 3], ["abruzzo-e-molise-7g", "Abruzzo e Molise", 7], ["azzorre-7g", "Azzorre", 7], ["bosnia-erzegovina-7g", "Bosnia ed Erzegovina", 7], ["calabria-completa-7g", "Calabria completa", 7], ["catalogna-barcellona-girona-e-costa-brava-7g", "Catalogna: Barcellona, Girona e Costa Brava", 7], ["cornovaglia-e-devon-7g", "Cornovaglia e Devon", 7], ["macedonia-del-nord-7g", "Macedonia del Nord: Skopje e il Lago di Ohrid", 7], ["montenegro-7g", "Montenegro", 7], ["repubblica-ceca-e-moravia-7g", "Repubblica Ceca e Moravia", 7], ["tenerife-e-la-gomera-7g", "Canarie: Tenerife e La Gomera", 7], ["india-del-sud-kerala-e-tamil-nadu-14g", "India del Sud: Kerala e Tamil Nadu", 14], ["kenya-14g", "Kenya", 14], ["malesia-e-singapore-14g", "Malesia e Singapore", 14], ["taiwan-14g", "Taiwan", 14]], "escluse": [{"nome": "Livorno", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Lucca", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Pisa", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Arezzo", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Genova", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Siena", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Poppi", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Rimini", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Riccione", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Cattolica", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Gardaland", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Consuma", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Vallombrosa", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Malta", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Londra", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "tutta l'Austria", "motivo": "già visitata", "doveLaRitrovi": null}, {"nome": "Roma", "motivo": "Servono almeno 5–6 giorni per una visita non frammentaria", "collegamento": "Frecciarossa 1h30", "doveLaRitrovi": "Non rientra in nessuna durata di questo documento"}, {"nome": "Napoli e area vesuviana", "motivo": "Città, Pompei, Ercolano, costiera: minimo 4–5 giorni", "collegamento": "Frecciarossa 3h", "doveLaRitrovi": "3 giorni, #2 Napoli, Pompei ed Ercolano; 7 giorni, #13 Napoli, Costiera Amalfitana, Capri e Paestum"}, {"nome": "Milano", "motivo": "Grande e dispersa, con musei che richiedono prenotazioni distanziate", "collegamento": "Frecciarossa 1h50", "doveLaRitrovi": "Non rientra in nessuna durata di questo documento"}, {"nome": "Venezia", "motivo": "Tecnicamente compatta ma densissima e satura: due giorni sono una corsa", "collegamento": "Frecciarossa 2h", "doveLaRitrovi": "Non rientra in nessuna durata di questo documento"}, {"nome": "Parigi", "motivo": "Escluso da te espressamente, e correttamente", "collegamento": "Volo con scalo", "doveLaRitrovi": "7 giorni, #8 Parigi"}, {"nome": "Barcellona, Madrid, Berlino", "motivo": "Metropoli: due giorni coprono un quartiere", "collegamento": "Voli diretti da Pisa o Bologna", "doveLaRitrovi": "7 giorni, #26 Berlino, Potsdam e Dresda"}, {"nome": "Siviglia e Valencia", "motivo": "Al limite: Siviglia richiede 3 giorni, Valencia 3–4. Segnalate ma non consigliate in due", "collegamento": "Volo diretto da Firenze da fine settembre 2026", "doveLaRitrovi": "3 giorni, #3 Siviglia"}, {"nome": "Marrakech", "motivo": "Medina molto intensa: in due giorni resterebbe incompleta. Preferita Rabat sulla stessa rotta", "collegamento": "Volo diretto da Pisa", "doveLaRitrovi": "3 giorni, #28 Marrakech"}, {"nome": "Cracovia con Auschwitz", "motivo": "Cracovia entra in due giorni, Auschwitz no: richiede un terzo giorno intero", "collegamento": "Volo diretto da Bologna", "doveLaRitrovi": "3 giorni, #10 Cracovia, Auschwitz e Wieliczka"}], "chiavi": ["meta", "parametriCosto", "destinazioni", "escluse", "calendario", "finestreOro", "finestreNonNegoziabili", "vincoliStagionali", "prenotazioni", "testi"], "scartate": ["aix-en-provence-e-avignone-2g", "bilbao-e-san-sebastian-2g", "bordeaux-3g", "castiglione-del-lago-e-isola-maggiore-1g", "fano-e-senigallia-1g", "loreto-e-recanati-1g", "maratea-2g", "pesaro-e-gradara-1g", "pola-e-rovigno-2g", "tolosa-e-carcassonne-3g", "vieste-e-il-gargano-2g"]}
+{
+ "documento": [
+  [
+   "orvieto-1g",
+   "Orvieto",
+   1
+  ],
+  [
+   "assisi-1g",
+   "Assisi",
+   1
+  ],
+  [
+   "ferrara-1g",
+   "Ferrara",
+   1
+  ],
+  [
+   "san-gimignano-1g",
+   "San Gimignano",
+   1
+  ],
+  [
+   "volterra-1g",
+   "Volterra",
+   1
+  ],
+  [
+   "bologna-centro-storico-1g",
+   "Bologna centro storico",
+   1
+  ],
+  [
+   "cinque-terre-1g",
+   "Cinque Terre",
+   1
+  ],
+  [
+   "ravenna-1g",
+   "Ravenna",
+   1
+  ],
+  [
+   "cortona-1g",
+   "Cortona",
+   1
+  ],
+  [
+   "pitigliano-sorano-e-sovana-1g",
+   "Pitigliano, Sorano e Sovana",
+   1
+  ],
+  [
+   "montepulciano-e-pienza-1g",
+   "Montepulciano e Pienza",
+   1
+  ],
+  [
+   "gubbio-1g",
+   "Gubbio",
+   1
+  ],
+  [
+   "spoleto-1g",
+   "Spoleto",
+   1
+  ],
+  [
+   "modena-1g",
+   "Modena",
+   1
+  ],
+  [
+   "terme-libere-della-toscana-1g",
+   "Terme libere della Toscana",
+   1
+  ],
+  [
+   "camaldoli-e-la-verna-1g",
+   "Camaldoli e La Verna",
+   1
+  ],
+  [
+   "massa-marittima-1g",
+   "Massa Marittima",
+   1
+  ],
+  [
+   "brisighella-e-dozza-1g",
+   "Brisighella e Dozza",
+   1
+  ],
+  [
+   "barga-garfagnana-e-grotta-del-vento-1g",
+   "Barga, Garfagnana e Grotta del Vento",
+   1
+  ],
+  [
+   "bolgheri-e-castagneto-carducci-1g",
+   "Bolgheri e Castagneto Carducci",
+   1
+  ],
+  [
+   "civita-di-bagnoregio-e-bolsena-1g",
+   "Civita di Bagnoregio e Bolsena",
+   1
+  ],
+  [
+   "tarquinia-1g",
+   "Tarquinia",
+   1
+  ],
+  [
+   "san-marino-1g",
+   "San Marino",
+   1
+  ],
+  [
+   "abetone-e-l-appennino-pistoiese-1g",
+   "Abetone e l'Appennino pistoiese",
+   1
+  ],
+  [
+   "portovenere-e-l-isola-palmaria-1g",
+   "Portovenere e l'Isola Palmaria",
+   1
+  ],
+  [
+   "alghero-e-la-riviera-del-corallo-2g",
+   "Alghero e la Riviera del Corallo",
+   2
+  ],
+  [
+   "trapani-ed-erice-2g",
+   "Trapani ed Erice",
+   2
+  ],
+  [
+   "ravenna-e-classe-2g",
+   "Ravenna e Classe",
+   2
+  ],
+  [
+   "val-d-orcia-2g",
+   "Val d'Orcia",
+   2
+  ],
+  [
+   "verona-2g",
+   "Verona",
+   2
+  ],
+  [
+   "mantova-e-sabbioneta-2g",
+   "Mantova e Sabbioneta",
+   2
+  ],
+  [
+   "cinque-terre-e-portovenere-2g",
+   "Cinque Terre e Portovenere",
+   2
+  ],
+  [
+   "urbino-e-gubbio-2g",
+   "Urbino e Gubbio",
+   2
+  ],
+  [
+   "bratislava-2g",
+   "Bratislava",
+   2
+  ],
+  [
+   "strasburgo-2g",
+   "Strasburgo",
+   2
+  ],
+  [
+   "ferrara-comacchio-e-delta-del-po-2g",
+   "Ferrara, Comacchio e Delta del Po",
+   2
+  ],
+  [
+   "isola-d-elba-2g",
+   "Isola d'Elba",
+   2
+  ],
+  [
+   "padova-2g",
+   "Padova",
+   2
+  ],
+  [
+   "corfu-2g",
+   "Corfù",
+   2
+  ],
+  [
+   "minorca-2g",
+   "Minorca",
+   2
+  ],
+  [
+   "cracovia-2g",
+   "Cracovia",
+   2
+  ],
+  [
+   "vicenza-2g",
+   "Vicenza",
+   2
+  ],
+  [
+   "perugia-2g",
+   "Perugia",
+   2
+  ],
+  [
+   "cagliari-2g",
+   "Cagliari",
+   2
+  ],
+  [
+   "reggio-calabria-e-scilla-2g",
+   "Reggio Calabria e Scilla",
+   2
+  ],
+  [
+   "rabat-2g",
+   "Rabat",
+   2
+  ],
+  [
+   "sirmione-e-il-basso-garda-2g",
+   "Sirmione e il basso Garda",
+   2
+  ],
+  [
+   "spoleto-norcia-e-castelluccio-2g",
+   "Spoleto, Norcia e Castelluccio",
+   2
+  ],
+  [
+   "brindisi-ostuni-e-la-valle-d-itria-2g",
+   "Brindisi, Ostuni e la Valle d'Itria",
+   2
+  ],
+  [
+   "ascoli-piceno-e-le-grotte-di-frasassi-2g",
+   "Ascoli Piceno e le Grotte di Frasassi",
+   2
+  ],
+  [
+   "pantelleria-2g",
+   "Pantelleria",
+   2
+  ],
+  [
+   "matera-3g",
+   "Matera",
+   3
+  ],
+  [
+   "napoli-pompei-ed-ercolano-3g",
+   "Napoli, Pompei ed Ercolano",
+   3
+  ],
+  [
+   "siviglia-3g",
+   "Siviglia",
+   3
+  ],
+  [
+   "isole-eolie-3g",
+   "Isole Eolie",
+   3
+  ],
+  [
+   "palermo-monreale-e-cefalu-3g",
+   "Palermo, Monreale e Cefalù",
+   3
+  ],
+  [
+   "catania-etna-e-taormina-3g",
+   "Catania, Etna e Taormina",
+   3
+  ],
+  [
+   "siracusa-ortigia-e-noto-3g",
+   "Siracusa, Ortigia e Noto",
+   3
+  ],
+  [
+   "lecce-e-il-salento-barocco-3g",
+   "Lecce e il Salento barocco",
+   3
+  ],
+  [
+   "praga-3g",
+   "Praga",
+   3
+  ],
+  [
+   "cracovia-auschwitz-e-wieliczka-3g",
+   "Cracovia, Auschwitz e Wieliczka",
+   3
+  ],
+  [
+   "trieste-miramare-e-aquileia-3g",
+   "Trieste, Miramare e Aquileia",
+   3
+  ],
+  [
+   "venezia-3g",
+   "Venezia",
+   3
+  ],
+  [
+   "lubiana-e-il-lago-di-bled-3g",
+   "Lubiana e il Lago di Bled",
+   3
+  ],
+  [
+   "ravenna-ferrara-e-comacchio-3g",
+   "Ravenna, Ferrara e Comacchio",
+   3
+  ],
+  [
+   "torino-3g",
+   "Torino",
+   3
+  ],
+  [
+   "verona-mantova-e-sirmione-3g",
+   "Verona, Mantova e Sirmione",
+   3
+  ],
+  [
+   "porto-e-la-valle-del-douro-3g",
+   "Porto e la Valle del Douro",
+   3
+  ],
+  [
+   "umbria-centrale-3g",
+   "Umbria centrale",
+   3
+  ],
+  [
+   "valencia-3g",
+   "Valencia",
+   3
+  ],
+  [
+   "cagliari-e-il-sud-della-sardegna-3g",
+   "Cagliari e il sud della Sardegna",
+   3
+  ],
+  [
+   "budapest-3g",
+   "Budapest",
+   3
+  ],
+  [
+   "bruges-e-gand-3g",
+   "Bruges e Gand",
+   3
+  ],
+  [
+   "spalato-e-trogir-3g",
+   "Spalato e Trogir",
+   3
+  ],
+  [
+   "dubrovnik-e-kotor-3g",
+   "Dubrovnik e Kotor",
+   3
+  ],
+  [
+   "zara-e-i-laghi-di-plitvice-3g",
+   "Zara e i Laghi di Plitvice",
+   3
+  ],
+  [
+   "bolzano-e-le-dolomiti-occidentali-3g",
+   "Bolzano e le Dolomiti occidentali",
+   3
+  ],
+  [
+   "alsazia-strasburgo-e-colmar-3g",
+   "Alsazia: Strasburgo e Colmar",
+   3
+  ],
+  [
+   "marrakech-3g",
+   "Marrakech",
+   3
+  ],
+  [
+   "malaga-ronda-e-i-borghi-bianchi-3g",
+   "Malaga, Ronda e i borghi bianchi",
+   3
+  ],
+  [
+   "atene-3g",
+   "Atene",
+   3
+  ],
+  [
+   "marche-urbino-conero-e-frasassi-3g",
+   "Marche: Urbino, Conero e Frasassi",
+   3
+  ],
+  [
+   "via-emilia-gastronomica-3g",
+   "Via Emilia gastronomica",
+   3
+  ],
+  [
+   "amsterdam-3g",
+   "Amsterdam",
+   3
+  ],
+  [
+   "monaco-di-baviera-3g",
+   "Monaco di Baviera",
+   3
+  ],
+  [
+   "lago-di-como-3g",
+   "Lago di Como",
+   3
+  ],
+  [
+   "langhe-e-monferrato-3g",
+   "Langhe e Monferrato",
+   3
+  ],
+  [
+   "costa-azzurra-nizza-eze-e-monaco-3g",
+   "Costa Azzurra: Nizza, Èze e Monaco",
+   3
+  ],
+  [
+   "marsiglia-e-le-calanques-3g",
+   "Marsiglia e le Calanques",
+   3
+  ],
+  [
+   "cilento-paestum-e-palinuro-3g",
+   "Cilento, Paestum e Palinuro",
+   3
+  ],
+  [
+   "ischia-e-procida-3g",
+   "Ischia e Procida",
+   3
+  ],
+  [
+   "gran-sasso-l-aquila-e-abruzzo-interno-3g",
+   "Gran Sasso, L'Aquila e Abruzzo interno",
+   3
+  ],
+  [
+   "tropea-e-la-costa-degli-dei-3g",
+   "Tropea e la Costa degli Dei",
+   3
+  ],
+  [
+   "tirana-berat-e-la-riviera-albanese-3g",
+   "Tirana, Berat e la riviera albanese",
+   3
+  ],
+  [
+   "copenaghen-3g",
+   "Copenaghen",
+   3
+  ],
+  [
+   "edimburgo-3g",
+   "Edimburgo",
+   3
+  ],
+  [
+   "fes-3g",
+   "Fès",
+   3
+  ],
+  [
+   "tunisi-cartagine-e-sidi-bou-said-3g",
+   "Tunisi, Cartagine e Sidi Bou Said",
+   3
+  ],
+  [
+   "sicilia-orientale-7g",
+   "Sicilia orientale",
+   7
+  ],
+  [
+   "sicilia-occidentale-7g",
+   "Sicilia occidentale",
+   7
+  ],
+  [
+   "andalusia-7g",
+   "Andalusia",
+   7
+  ],
+  [
+   "puglia-completa-7g",
+   "Puglia completa",
+   7
+  ],
+  [
+   "portogallo-7g",
+   "Portogallo",
+   7
+  ],
+  [
+   "dolomiti-7g",
+   "Dolomiti",
+   7
+  ],
+  [
+   "roma-7g",
+   "Roma",
+   7
+  ],
+  [
+   "parigi-7g",
+   "Parigi",
+   7
+  ],
+  [
+   "slovenia-e-istria-croata-7g",
+   "Slovenia e Istria croata",
+   7
+  ],
+  [
+   "sardegna-completa-7g",
+   "Sardegna completa",
+   7
+  ],
+  [
+   "corsica-7g",
+   "Corsica",
+   7
+  ],
+  [
+   "islanda-7g",
+   "Islanda",
+   7
+  ],
+  [
+   "napoli-costiera-amalfitana-capri-e-paestum-7g",
+   "Napoli, Costiera Amalfitana, Capri e Paestum",
+   7
+  ],
+  [
+   "paesi-bassi-e-belgio-7g",
+   "Paesi Bassi e Belgio",
+   7
+  ],
+  [
+   "istanbul-e-cappadocia-7g",
+   "Istanbul e Cappadocia",
+   7
+  ],
+  [
+   "valle-della-loira-7g",
+   "Valle della Loira",
+   7
+  ],
+  [
+   "normandia-e-bretagna-7g",
+   "Normandia e Bretagna",
+   7
+  ],
+  [
+   "marocco-imperiale-7g",
+   "Marocco imperiale",
+   7
+  ],
+  [
+   "baviera-e-foresta-nera-7g",
+   "Baviera e Foresta Nera",
+   7
+  ],
+  [
+   "scozia-7g",
+   "Scozia",
+   7
+  ],
+  [
+   "svizzera-il-grand-train-tour-7g",
+   "Svizzera: il Grand Train Tour",
+   7
+  ],
+  [
+   "grecia-atene-e-le-cicladi-7g",
+   "Grecia: Atene e le Cicladi",
+   7
+  ],
+  [
+   "albania-7g",
+   "Albania",
+   7
+  ],
+  [
+   "croazia-costa-e-plitvice-7g",
+   "Croazia: costa e Plitvice",
+   7
+  ],
+  [
+   "polonia-7g",
+   "Polonia",
+   7
+  ],
+  [
+   "berlino-potsdam-e-dresda-7g",
+   "Berlino, Potsdam e Dresda",
+   7
+  ],
+  [
+   "algarve-e-alentejo-7g",
+   "Algarve e Alentejo",
+   7
+  ],
+  [
+   "creta-7g",
+   "Creta",
+   7
+  ],
+  [
+   "madeira-7g",
+   "Madeira",
+   7
+  ],
+  [
+   "irlanda-7g",
+   "Irlanda",
+   7
+  ],
+  [
+   "transilvania-7g",
+   "Transilvania",
+   7
+  ],
+  [
+   "norvegia-i-fiordi-7g",
+   "Norvegia: i fiordi",
+   7
+  ],
+  [
+   "egitto-cairo-e-crociera-sul-nilo-7g",
+   "Egitto: Cairo e crociera sul Nilo",
+   7
+  ],
+  [
+   "paesi-baltici-7g",
+   "Paesi Baltici",
+   7
+  ],
+  [
+   "georgia-7g",
+   "Georgia",
+   7
+  ],
+  [
+   "cipro-7g",
+   "Cipro",
+   7
+  ],
+  [
+   "slovacchia-il-circuito-completo-7g",
+   "Slovacchia, il circuito completo",
+   7
+  ],
+  [
+   "giappone-14g",
+   "Giappone",
+   14
+  ],
+  [
+   "peru-14g",
+   "Perù",
+   14
+  ],
+  [
+   "grecia-peloponneso-e-cicladi-14g",
+   "Grecia: Peloponneso e Cicladi",
+   14
+  ],
+  [
+   "vietnam-14g",
+   "Vietnam",
+   14
+  ],
+  [
+   "messico-citta-del-messico-chiapas-e-yucatan-14g",
+   "Messico: Città del Messico, Chiapas e Yucatán",
+   14
+  ],
+  [
+   "sudafrica-14g",
+   "Sudafrica",
+   14
+  ],
+  [
+   "turchia-14g",
+   "Turchia",
+   14
+  ],
+  [
+   "thailandia-14g",
+   "Thailandia",
+   14
+  ],
+  [
+   "cina-14g",
+   "Cina",
+   14
+  ],
+  [
+   "islanda-completa-e-westfjords-14g",
+   "Islanda completa e Westfjords",
+   14
+  ],
+  [
+   "tanzania-e-zanzibar-14g",
+   "Tanzania e Zanzibar",
+   14
+  ],
+  [
+   "sri-lanka-14g",
+   "Sri Lanka",
+   14
+  ],
+  [
+   "namibia-14g",
+   "Namibia",
+   14
+  ],
+  [
+   "uzbekistan-14g",
+   "Uzbekistan",
+   14
+  ],
+  [
+   "cuba-14g",
+   "Cuba",
+   14
+  ],
+  [
+   "costa-occidentale-degli-stati-uniti-14g",
+   "Costa occidentale degli Stati Uniti",
+   14
+  ],
+  [
+   "costa-rica-14g",
+   "Costa Rica",
+   14
+  ],
+  [
+   "argentina-e-patagonia-14g",
+   "Argentina e Patagonia",
+   14
+  ],
+  [
+   "colombia-14g",
+   "Colombia",
+   14
+  ],
+  [
+   "india-del-nord-14g",
+   "India del Nord",
+   14
+  ],
+  [
+   "ecuador-e-galapagos-14g",
+   "Ecuador e Galápagos",
+   14
+  ],
+  [
+   "nuova-zelanda-isola-del-sud-14g",
+   "Nuova Zelanda: Isola del Sud",
+   14
+  ],
+  [
+   "cile-14g",
+   "Cile",
+   14
+  ],
+  [
+   "giro-completo-della-sicilia-e-le-eolie-14g",
+   "Giro completo della Sicilia e le Eolie",
+   14
+  ],
+  [
+   "canada-occidentale-14g",
+   "Canada occidentale",
+   14
+  ],
+  [
+   "giordania-14g",
+   "Giordania",
+   14
+  ],
+  [
+   "stati-uniti-costa-est-14g",
+   "Stati Uniti, costa est",
+   14
+  ],
+  [
+   "nepal-14g",
+   "Nepal",
+   14
+  ],
+  [
+   "corea-del-sud-14g",
+   "Corea del Sud",
+   14
+  ],
+  [
+   "indonesia-java-e-bali-14g",
+   "Indonesia: Java e Bali",
+   14
+  ],
+  [
+   "cambogia-e-laos-14g",
+   "Cambogia e Laos",
+   14
+  ],
+  [
+   "spagna-del-nord-e-cammino-di-santiago-14g",
+   "Spagna del Nord e Cammino di Santiago",
+   14
+  ],
+  [
+   "marocco-completo-14g",
+   "Marocco completo",
+   14
+  ]
+ ],
+ "extra": [
+  [
+   "anghiari-e-sansepolcro-1g",
+   "Anghiari e Sansepolcro",
+   1
+  ],
+  [
+   "camogli-e-san-fruttuoso-1g",
+   "Camogli e San Fruttuoso",
+   1
+  ],
+  [
+   "carrara-e-le-cave-di-marmo-1g",
+   "Carrara e le cave di marmo",
+   1
+  ],
+  [
+   "castell-arquato-e-vigoleno-1g",
+   "Castell'Arquato e Vigoleno",
+   1
+  ],
+  [
+   "castiglione-della-pescaia-e-vetulonia-1g",
+   "Castiglione della Pescaia e Vetulonia",
+   1
+  ],
+  [
+   "certaldo-e-san-miniato-1g",
+   "Certaldo e San Miniato",
+   1
+  ],
+  [
+   "chianti-greve-panzano-e-castellina-1g",
+   "Chianti: Greve, Panzano e Castellina",
+   1
+  ],
+  [
+   "chiusi-e-cetona-1g",
+   "Chiusi e Cetona",
+   1
+  ],
+  [
+   "citta-di-castello-1g",
+   "Città di Castello",
+   1
+  ],
+  [
+   "faenza-1g",
+   "Faenza",
+   1
+  ],
+  [
+   "fidenza-e-busseto-1g",
+   "Fidenza e Busseto, le terre verdiane",
+   1
+  ],
+  [
+   "foligno-bevagna-e-montefalco-1g",
+   "Foligno, Bevagna e Montefalco",
+   1
+  ],
+  [
+   "imola-1g",
+   "Imola",
+   1
+  ],
+  [
+   "levanto-e-bonassola-1g",
+   "Levanto e Bonassola",
+   1
+  ],
+  [
+   "maranello-e-sassuolo-1g",
+   "Maranello e Sassuolo (i musei Ferrari)",
+   1
+  ],
+  [
+   "montalcino-e-sant-antimo-1g",
+   "Montalcino e l'Abbazia di Sant'Antimo",
+   1
+  ],
+  [
+   "montecatini-terme-e-montecatini-alto-1g",
+   "Montecatini Terme e Montecatini Alto",
+   1
+  ],
+  [
+   "monteriggioni-e-colle-di-val-d-elsa-1g",
+   "Monteriggioni e Colle di Val d'Elsa",
+   1
+  ],
+  [
+   "narni-e-amelia-1g",
+   "Narni e Amelia",
+   1
+  ],
+  [
+   "orbetello-e-monte-argentario-1g",
+   "Orbetello e il Monte Argentario",
+   1
+  ],
+  [
+   "parma-1g",
+   "Parma",
+   1
+  ],
+  [
+   "pescia-e-collodi-1g",
+   "Pescia e Collodi (Parco di Pinocchio)",
+   1
+  ],
+  [
+   "piacenza-1g",
+   "Piacenza",
+   1
+  ],
+  [
+   "pietrasanta-e-forte-dei-marmi-1g",
+   "Pietrasanta e Forte dei Marmi",
+   1
+  ],
+  [
+   "pistoia-1g",
+   "Pistoia",
+   1
+  ],
+  [
+   "pontremoli-e-la-lunigiana-1g",
+   "Pontremoli e la Lunigiana",
+   1
+  ],
+  [
+   "portofino-e-santa-margherita-ligure-1g",
+   "Portofino e Santa Margherita Ligure",
+   1
+  ],
+  [
+   "prato-1g",
+   "Prato",
+   1
+  ],
+  [
+   "reggio-emilia-1g",
+   "Reggio Emilia",
+   1
+  ],
+  [
+   "sarzana-e-lerici-1g",
+   "Sarzana e Lerici",
+   1
+  ],
+  [
+   "scarperia-e-il-mugello-1g",
+   "Scarperia, Borgo San Lorenzo e il Mugello",
+   1
+  ],
+  [
+   "sestola-e-monte-cimone-1g",
+   "Sestola e il Monte Cimone",
+   1
+  ],
+  [
+   "suvereto-e-campiglia-marittima-1g",
+   "Suvereto e Campiglia Marittima",
+   1
+  ],
+  [
+   "terni-e-cascata-delle-marmore-1g",
+   "Terni e la Cascata delle Marmore",
+   1
+  ],
+  [
+   "todi-1g",
+   "Todi",
+   1
+  ],
+  [
+   "viareggio-e-torre-del-lago-1g",
+   "Viareggio e Torre del Lago Puccini",
+   1
+  ],
+  [
+   "vinci-e-cerreto-guidi-1g",
+   "Vinci e Cerreto Guidi",
+   1
+  ],
+  [
+   "agrigento-e-la-valle-dei-templi-2g",
+   "Agrigento e la Valle dei Templi",
+   2
+  ],
+  [
+   "aosta-e-i-castelli-valdostani-2g",
+   "Aosta e i castelli valdostani",
+   2
+  ],
+  [
+   "bari-e-polignano-a-mare-2g",
+   "Bari e Polignano a Mare",
+   2
+  ],
+  [
+   "bassano-del-grappa-e-marostica-2g",
+   "Bassano del Grappa e Marostica",
+   2
+  ],
+  [
+   "bergamo-2g",
+   "Bergamo",
+   2
+  ],
+  [
+   "brescia-2g",
+   "Brescia",
+   2
+  ],
+  [
+   "bruxelles-2g",
+   "Bruxelles",
+   2
+  ],
+  [
+   "cortina-d-ampezzo-e-il-cadore-2g",
+   "Cortina d'Ampezzo e il Cadore",
+   2
+  ],
+  [
+   "costa-dei-trabocchi-e-vasto-2g",
+   "Costa dei Trabocchi e Vasto",
+   2
+  ],
+  [
+   "cremona-e-crema-2g",
+   "Cremona e Crema",
+   2
+  ],
+  [
+   "dublino-2g",
+   "Dublino",
+   2
+  ],
+  [
+   "gorizia-e-il-collio-2g",
+   "Gorizia e il Collio",
+   2
+  ],
+  [
+   "isola-del-giglio-2g",
+   "Isola del Giglio",
+   2
+  ],
+  [
+   "lago-d-iseo-e-franciacorta-2g",
+   "Lago d'Iseo e Franciacorta",
+   2
+  ],
+  [
+   "lago-d-orta-e-sacro-monte-2g",
+   "Lago d'Orta e il Sacro Monte",
+   2
+  ],
+  [
+   "lago-maggiore-2g",
+   "Lago Maggiore e Isole Borromee",
+   2
+  ],
+  [
+   "lione-2g",
+   "Lione",
+   2
+  ],
+  [
+   "lugano-e-bellinzona-2g",
+   "Lugano e Bellinzona",
+   2
+  ],
+  [
+   "macerata-e-fermo-2g",
+   "Macerata e Fermo",
+   2
+  ],
+  [
+   "merano-e-trauttmansdorff-2g",
+   "Merano e i giardini di Trauttmansdorff",
+   2
+  ],
+  [
+   "palma-di-maiorca-2g",
+   "Palma di Maiorca",
+   2
+  ],
+  [
+   "parco-della-maremma-e-talamone-2g",
+   "Parco della Maremma e Talamone",
+   2
+  ],
+  [
+   "ponza-2g",
+   "Ponza",
+   2
+  ],
+  [
+   "ragusa-modica-e-scicli-2g",
+   "Ragusa, Modica e Scicli",
+   2
+  ],
+  [
+   "riva-del-garda-e-malcesine-2g",
+   "Riva del Garda e Malcesine",
+   2
+  ],
+  [
+   "riviera-del-conero-sirolo-e-numana-2g",
+   "Riviera del Conero: Sirolo e Numana",
+   2
+  ],
+  [
+   "sulmona-e-scanno-2g",
+   "Sulmona e Scanno",
+   2
+  ],
+  [
+   "tivoli-e-subiaco-2g",
+   "Tivoli e Subiaco",
+   2
+  ],
+  [
+   "trento-2g",
+   "Trento",
+   2
+  ],
+  [
+   "treviso-e-asolo-2g",
+   "Treviso e Asolo",
+   2
+  ],
+  [
+   "udine-e-cividale-del-friuli-2g",
+   "Udine e Cividale del Friuli",
+   2
+  ],
+  [
+   "viterbo-e-la-tuscia-2g",
+   "Viterbo e la Tuscia (Bomarzo, Villa Lante)",
+   2
+  ],
+  [
+   "amburgo-3g",
+   "Amburgo",
+   3
+  ],
+  [
+   "barcellona-3g",
+   "Barcellona",
+   3
+  ],
+  [
+   "bastia-e-capo-corso-3g",
+   "Bastia e Capo Corso",
+   3
+  ],
+  [
+   "belgrado-3g",
+   "Belgrado",
+   3
+  ],
+  [
+   "berlino-3g",
+   "Berlino",
+   3
+  ],
+  [
+   "breslavia-3g",
+   "Breslavia",
+   3
+  ],
+  [
+   "bucarest-3g",
+   "Bucarest",
+   3
+  ],
+  [
+   "calabria-ionica-crotone-le-castella-e-gerace-3g",
+   "Calabria ionica: Crotone, Le Castella e Gerace",
+   3
+  ],
+  [
+   "danzica-3g",
+   "Danzica",
+   3
+  ],
+  [
+   "gargano-e-isole-tremiti-3g",
+   "Gargano e Isole Tremiti",
+   3
+  ],
+  [
+   "ginevra-e-losanna-3g",
+   "Ginevra e Losanna",
+   3
+  ],
+  [
+   "granada-e-cordova-3g",
+   "Granada e Cordova",
+   3
+  ],
+  [
+   "helsinki-e-tallinn-3g",
+   "Helsinki e Tallinn",
+   3
+  ],
+  [
+   "istanbul-3g",
+   "Istanbul",
+   3
+  ],
+  [
+   "la-maddalena-e-costa-smeralda-3g",
+   "Sardegna nord: La Maddalena e Costa Smeralda",
+   3
+  ],
+  [
+   "lisbona-3g",
+   "Lisbona",
+   3
+  ],
+  [
+   "madrid-3g",
+   "Madrid",
+   3
+  ],
+  [
+   "oristano-bosa-e-sinis-3g",
+   "Sardegna ovest: Oristano, Bosa e la penisola del Sinis",
+   3
+  ],
+  [
+   "oslo-3g",
+   "Oslo",
+   3
+  ],
+  [
+   "riviera-di-ponente-sanremo-alassio-e-finale-ligure-3g",
+   "Riviera di Ponente: Sanremo, Alassio e Finale Ligure",
+   3
+  ],
+  [
+   "rodi-3g",
+   "Rodi",
+   3
+  ],
+  [
+   "salonicco-3g",
+   "Salonicco",
+   3
+  ],
+  [
+   "santorini-3g",
+   "Santorini",
+   3
+  ],
+  [
+   "sofia-plovdiv-3g",
+   "Sofia e Plovdiv",
+   3
+  ],
+  [
+   "stoccolma-3g",
+   "Stoccolma",
+   3
+  ],
+  [
+   "val-pusteria-e-lago-di-braies-3g",
+   "Val Pusteria e Lago di Braies",
+   3
+  ],
+  [
+   "valle-d-aosta-courmayeur-cogne-e-gran-paradiso-3g",
+   "Valle d'Aosta: Courmayeur, Cogne e Gran Paradiso",
+   3
+  ],
+  [
+   "varsavia-3g",
+   "Varsavia",
+   3
+  ],
+  [
+   "zagabria-3g",
+   "Zagabria",
+   3
+  ],
+  [
+   "zurigo-e-lucerna-3g",
+   "Zurigo e Lucerna",
+   3
+  ],
+  [
+   "abruzzo-e-molise-7g",
+   "Abruzzo e Molise",
+   7
+  ],
+  [
+   "azzorre-7g",
+   "Azzorre",
+   7
+  ],
+  [
+   "bosnia-erzegovina-7g",
+   "Bosnia ed Erzegovina",
+   7
+  ],
+  [
+   "bulgaria-completa-7g",
+   "Bulgaria completa",
+   7
+  ],
+  [
+   "calabria-completa-7g",
+   "Calabria completa",
+   7
+  ],
+  [
+   "catalogna-barcellona-girona-e-costa-brava-7g",
+   "Catalogna: Barcellona, Girona e Costa Brava",
+   7
+  ],
+  [
+   "cornovaglia-e-devon-7g",
+   "Cornovaglia e Devon",
+   7
+  ],
+  [
+   "finlandia-e-lapponia-7g",
+   "Finlandia e Lapponia",
+   7
+  ],
+  [
+   "inghilterra-del-nord-lake-district-e-york-7g",
+   "Inghilterra del Nord: Lake District e York",
+   7
+  ],
+  [
+   "macedonia-del-nord-7g",
+   "Macedonia del Nord: Skopje e il Lago di Ohrid",
+   7
+  ],
+  [
+   "montenegro-7g",
+   "Montenegro",
+   7
+  ],
+  [
+   "provenza-e-camargue-7g",
+   "Provenza e Camargue",
+   7
+  ],
+  [
+   "renania-e-mosella-colonia-coblenza-e-treviri-7g",
+   "Renania e Mosella: Colonia, Coblenza e Treviri",
+   7
+  ],
+  [
+   "repubblica-ceca-e-moravia-7g",
+   "Repubblica Ceca e Moravia",
+   7
+  ],
+  [
+   "tenerife-e-la-gomera-7g",
+   "Canarie: Tenerife e La Gomera",
+   7
+  ],
+  [
+   "ungheria-budapest-balaton-ed-eger-7g",
+   "Ungheria: Budapest, Balaton ed Eger",
+   7
+  ],
+  [
+   "australia-la-costa-est-14g",
+   "Australia: la costa est",
+   14
+  ],
+  [
+   "brasile-rio-iguazu-e-salvador-14g",
+   "Brasile: Rio, Iguazú e Salvador",
+   14
+  ],
+  [
+   "india-del-sud-kerala-e-tamil-nadu-14g",
+   "India del Sud: Kerala e Tamil Nadu",
+   14
+  ],
+  [
+   "kenya-14g",
+   "Kenya",
+   14
+  ],
+  [
+   "malesia-e-singapore-14g",
+   "Malesia e Singapore",
+   14
+  ],
+  [
+   "taiwan-14g",
+   "Taiwan",
+   14
+  ]
+ ],
+ "escluse": [
+  {
+   "nome": "Livorno",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Lucca",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Pisa",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Arezzo",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Genova",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Siena",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Poppi",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Rimini",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Riccione",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Cattolica",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Gardaland",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Consuma",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Vallombrosa",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Malta",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Londra",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "tutta l'Austria",
+   "motivo": "già visitata",
+   "doveLaRitrovi": null
+  },
+  {
+   "nome": "Roma",
+   "motivo": "Servono almeno 5–6 giorni per una visita non frammentaria",
+   "collegamento": "Frecciarossa 1h30",
+   "doveLaRitrovi": "Non rientra in nessuna durata di questo documento"
+  },
+  {
+   "nome": "Napoli e area vesuviana",
+   "motivo": "Città, Pompei, Ercolano, costiera: minimo 4–5 giorni",
+   "collegamento": "Frecciarossa 3h",
+   "doveLaRitrovi": "3 giorni, #2 Napoli, Pompei ed Ercolano; 7 giorni, #13 Napoli, Costiera Amalfitana, Capri e Paestum"
+  },
+  {
+   "nome": "Milano",
+   "motivo": "Grande e dispersa, con musei che richiedono prenotazioni distanziate",
+   "collegamento": "Frecciarossa 1h50",
+   "doveLaRitrovi": "Non rientra in nessuna durata di questo documento"
+  },
+  {
+   "nome": "Venezia",
+   "motivo": "Tecnicamente compatta ma densissima e satura: due giorni sono una corsa",
+   "collegamento": "Frecciarossa 2h",
+   "doveLaRitrovi": "Non rientra in nessuna durata di questo documento"
+  },
+  {
+   "nome": "Parigi",
+   "motivo": "Escluso da te espressamente, e correttamente",
+   "collegamento": "Volo con scalo",
+   "doveLaRitrovi": "7 giorni, #8 Parigi"
+  },
+  {
+   "nome": "Barcellona, Madrid, Berlino",
+   "motivo": "Metropoli: due giorni coprono un quartiere",
+   "collegamento": "Voli diretti da Pisa o Bologna",
+   "doveLaRitrovi": "7 giorni, #26 Berlino, Potsdam e Dresda"
+  },
+  {
+   "nome": "Siviglia e Valencia",
+   "motivo": "Al limite: Siviglia richiede 3 giorni, Valencia 3–4. Segnalate ma non consigliate in due",
+   "collegamento": "Volo diretto da Firenze da fine settembre 2026",
+   "doveLaRitrovi": "3 giorni, #3 Siviglia"
+  },
+  {
+   "nome": "Marrakech",
+   "motivo": "Medina molto intensa: in due giorni resterebbe incompleta. Preferita Rabat sulla stessa rotta",
+   "collegamento": "Volo diretto da Pisa",
+   "doveLaRitrovi": "3 giorni, #28 Marrakech"
+  },
+  {
+   "nome": "Cracovia con Auschwitz",
+   "motivo": "Cracovia entra in due giorni, Auschwitz no: richiede un terzo giorno intero",
+   "collegamento": "Volo diretto da Bologna",
+   "doveLaRitrovi": "3 giorni, #10 Cracovia, Auschwitz e Wieliczka"
+  }
+ ],
+ "chiavi": [
+  "meta",
+  "parametriCosto",
+  "destinazioni",
+  "escluse",
+  "calendario",
+  "finestreOro",
+  "finestreNonNegoziabili",
+  "vincoliStagionali",
+  "prenotazioni",
+  "testi"
+ ],
+ "scartate": [
+  "aix-en-provence-e-avignone-2g",
+  "bilbao-e-san-sebastian-2g",
+  "bordeaux-3g",
+  "castiglione-del-lago-e-isola-maggiore-1g",
+  "fano-e-senigallia-1g",
+  "loreto-e-recanati-1g",
+  "maratea-2g",
+  "montpellier-nimes-e-il-pont-du-gard-3g",
+  "pesaro-e-gradara-1g",
+  "pola-e-rovigno-2g",
+  "tolosa-e-carcassonne-3g",
+  "vieste-e-il-gargano-2g"
+ ]
+}
