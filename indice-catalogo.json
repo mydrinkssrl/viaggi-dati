@@ -1078,6 +1078,16 @@
    2
   ],
   [
+   "capodistria-e-pirano-2g",
+   "Capodistria e Pirano",
+   2
+  ],
+  [
+   "caserta-e-la-reggia-2g",
+   "Caserta e la Reggia",
+   2
+  ],
+  [
    "cortina-d-ampezzo-e-il-cadore-2g",
    "Cortina d'Ampezzo e il Cadore",
    2
@@ -1095,6 +1105,11 @@
   [
    "dublino-2g",
    "Dublino",
+   2
+  ],
+  [
+   "gaeta-e-sperlonga-2g",
+   "Gaeta e Sperlonga",
    2
   ],
   [
@@ -1238,6 +1253,11 @@
    3
   ],
   [
+   "berna-e-l-oberland-bernese-3g",
+   "Berna e l'Oberland bernese",
+   3
+  ],
+  [
    "breslavia-3g",
    "Breslavia",
    3
@@ -1260,6 +1280,11 @@
   [
    "danzica-3g",
    "Danzica",
+   3
+  ],
+  [
+   "favignana-e-le-egadi-3g",
+   "Favignana e le Egadi",
    3
   ],
   [
@@ -1308,6 +1333,16 @@
    3
   ],
   [
+   "manchester-e-liverpool-3g",
+   "Manchester e Liverpool",
+   3
+  ],
+  [
+   "norimberga-e-ratisbona-3g",
+   "Norimberga e Ratisbona",
+   3
+  ],
+  [
    "oristano-bosa-e-sinis-3g",
    "Sardegna ovest: Oristano, Bosa e la penisola del Sinis",
    3
@@ -1315,6 +1350,11 @@
   [
    "oslo-3g",
    "Oslo",
+   3
+  ],
+  [
+   "riga-e-jurmala-3g",
+   "Riga e Jūrmala",
    3
   ],
   [
@@ -1335,6 +1375,11 @@
   [
    "santorini-3g",
    "Santorini",
+   3
+  ],
+  [
+   "sarajevo-e-mostar-3g",
+   "Sarajevo e Mostar",
    3
   ],
   [
@@ -1383,6 +1428,11 @@
    7
   ],
   [
+   "armenia-7g",
+   "Armenia",
+   7
+  ],
+  [
    "azzorre-7g",
    "Azzorre",
    7
@@ -1428,6 +1478,11 @@
    7
   ],
   [
+   "dodecaneso-rodi-kos-e-patmos-7g",
+   "Dodecaneso: Rodi, Kos e Patmos",
+   7
+  ],
+  [
    "dordogna-e-perigord-7g",
    "Dordogna e Périgord",
    7
@@ -1448,8 +1503,28 @@
    7
   ],
   [
+   "galizia-e-asturie-7g",
+   "Galizia e Asturie",
+   7
+  ],
+  [
    "galles-7g",
    "Galles",
+   7
+  ],
+  [
+   "germania-del-nord-amburgo-lubecca-e-brema-7g",
+   "Germania del Nord: Amburgo, Lubecca e Brema",
+   7
+  ],
+  [
+   "giordania-7g",
+   "Giordania",
+   7
+  ],
+  [
+   "grecia-del-nord-meteore-pelio-e-calcidica-7g",
+   "Grecia del Nord: Meteore, Pelio e Calcidica",
    7
   ],
   [
@@ -1458,8 +1533,28 @@
    7
   ],
   [
+   "isole-della-dalmazia-hvar-brac-korcula-e-vis-7g",
+   "Isole della Dalmazia: Hvar, Brač, Korčula e Vis",
+   7
+  ],
+  [
    "isole-ionie-corfu-cefalonia-e-zante-7g",
    "Isole Ionie: Corfù, Cefalonia e Zante",
+   7
+  ],
+  [
+   "lanzarote-e-fuerteventura-7g",
+   "Lanzarote e Fuerteventura",
+   7
+  ],
+  [
+   "lazio-tuscia-castelli-romani-e-circeo-7g",
+   "Lazio: Tuscia, Castelli Romani e Circeo",
+   7
+  ],
+  [
+   "lussemburgo-e-le-ardenne-7g",
+   "Lussemburgo e le Ardenne",
    7
   ],
   [
@@ -1473,6 +1568,11 @@
    7
   ],
   [
+   "marche-complete-7g",
+   "Marche complete",
+   7
+  ],
+  [
    "montenegro-7g",
    "Montenegro",
    7
@@ -1480,6 +1580,11 @@
   [
    "paesi-baschi-e-navarra-7g",
    "Paesi Baschi e Navarra",
+   7
+  ],
+  [
+   "piemonte-completo-torino-langhe-e-lago-maggiore-7g",
+   "Piemonte completo: Torino, Langhe e Lago Maggiore",
    7
   ],
   [
@@ -1498,6 +1603,16 @@
    7
   ],
   [
+   "serbia-completa-7g",
+   "Serbia completa",
+   7
+  ],
+  [
+   "svezia-stoccolma-uppsala-e-gotland-7g",
+   "Svezia: Stoccolma, Uppsala e Gotland",
+   7
+  ],
+  [
    "tenerife-e-la-gomera-7g",
    "Canarie: Tenerife e La Gomera",
    7
@@ -1508,6 +1623,16 @@
    7
   ],
   [
+   "turchia-egea-smirne-efeso-e-pamukkale-7g",
+   "Turchia egea: Smirne, Efeso e Pamukkale",
+   7
+  ],
+  [
+   "umbria-completa-7g",
+   "Umbria completa",
+   7
+  ],
+  [
    "ungheria-budapest-balaton-ed-eger-7g",
    "Ungheria: Budapest, Balaton ed Eger",
    7
@@ -1515,6 +1640,16 @@
   [
    "australia-la-costa-est-14g",
    "Australia: la costa est",
+   14
+  ],
+  [
+   "australia-melbourne-tasmania-e-great-ocean-road-14g",
+   "Australia: Melbourne, Tasmania e Great Ocean Road",
+   14
+  ],
+  [
+   "bhutan-14g",
+   "Bhutan",
    14
   ],
   [
@@ -1538,8 +1673,23 @@
    14
   ],
   [
+   "capo-verde-14g",
+   "Capo Verde",
+   14
+  ],
+  [
+   "egitto-completo-cairo-nilo-e-mar-rosso-14g",
+   "Egitto completo: Cairo, Nilo e Mar Rosso",
+   14
+  ],
+  [
    "filippine-palawan-cebu-e-bohol-14g",
    "Filippine: Palawan, Cebu e Bohol",
+   14
+  ],
+  [
+   "giappone-del-sud-kyushu-hiroshima-e-okinawa-14g",
+   "Giappone del Sud: Kyushu, Hiroshima e Okinawa",
    14
   ],
   [
@@ -1548,8 +1698,23 @@
    14
   ],
   [
+   "hawaii-14g",
+   "Hawaii",
+   14
+  ],
+  [
    "india-del-sud-kerala-e-tamil-nadu-14g",
    "India del Sud: Kerala e Tamil Nadu",
+   14
+  ],
+  [
+   "indonesia-orientale-lombok-flores-e-komodo-14g",
+   "Indonesia orientale: Lombok, Flores e Komodo",
+   14
+  ],
+  [
+   "kazakistan-14g",
+   "Kazakistan",
    14
   ],
   [
@@ -1560,6 +1725,11 @@
   [
    "kirghizistan-14g",
    "Kirghizistan",
+   14
+  ],
+  [
+   "madagascar-14g",
+   "Madagascar",
    14
   ],
   [
@@ -1578,8 +1748,23 @@
    14
   ],
   [
+   "nuova-zelanda-isola-del-nord-14g",
+   "Nuova Zelanda: Isola del Nord",
+   14
+  ],
+  [
    "oman-14g",
    "Oman",
+   14
+  ],
+  [
+   "repubblica-dominicana-14g",
+   "Repubblica Dominicana",
+   14
+  ],
+  [
+   "stati-uniti-del-sud-new-orleans-nashville-e-memphis-14g",
+   "Stati Uniti del Sud: New Orleans, Nashville e Memphis",
    14
   ],
   [
