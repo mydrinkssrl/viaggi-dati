@@ -37,3 +37,14 @@ doppioni.
   a `COMPLETA.md` prima di pubblicarle.
 - In questa sessione `app-famiglia` non era attaccabile (manca `add_repo`):
   basta pubblicare su `viaggi-dati`, Nido la scarica alle 07:30.
+
+## Nota dalla run del 6 novembre 2026
+- Con 8 agenti in parallelo e il tetto di 5 WebSearch ciascuno il budget di 200
+  ricerche del turno è bastato per ~37 mete; le ultime 8 (quattro da 1-2 giorni e i
+  due completamenti) sono rimaste senza ricerche e vanno fatte in un turno nuovo
+  via `send_later`. Conviene lanciare prima le mete da 7-14 giorni (le più preziose)
+  e tenere le 1-2 giorni per il secondo turno.
+- WebFetch rifiuta gli URL digitati a mano (`PROVENANCE_REQUIRED`): gli agenti
+  devono fetchare solo URL comparsi in una WebSearch precedente. Dirlo nel prompt.
+- Il commit 7c7d6db riporta per errore «5 da 3, 18 da 7, 11 da 14»: le mete
+  pubblicate sono 3 da 2 giorni, 6 da 3, 16 da 7 e 12 da 14 (37 in tutto).
