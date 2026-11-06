@@ -1962,6 +1962,117 @@
       }
     },
     {
+      "id": "marradi-e-palazzuolo-sul-senio-1g",
+      "nome": "Marradi e Palazzuolo sul Senio",
+      "sottotitolo": "Toscana di confine, due borghi dell'Appennino tosco-romagnolo tra castagne, poesia e vita contadina",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno regionale sulla Faentina da Firenze S.M.N. a Marradi (stazione Marradi-Palazzuolo sul Senio, che sorge a Marradi e non a Palazzuolo): per esempio il regionale delle 08:40, che arriva intorno alle 10:06. Per salire a Palazzuolo sul Senio non c'è un collegamento verificato utilizzabile in giornata (Virail segnala una sola corsa alle 05:40): serve un'auto o un taxi da Marradi, oppure si resta solo a Marradi.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 1h26-1h30 in treno regionale fino a Marradi (08:40 → 10:06); la tratta Crespino del Lamone-Marradi, chiusa per l'alluvione del marzo 2025, doveva riaprire il 19 gennaio 2026, ma la Firenze-Marradi non è interessata.",
+      "durataViaggioMinuti": 100,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: in ottobre c'è la Sagra delle castagne di Marradi, in primavera e inizio autunno i boschi sono belli e il Museo delle Genti di Montagna a Palazzuolo è aperto. Da evitare novembre-marzo: il museo è chiuso dal 2 novembre al 4 dicembre e poi da gennaio a marzo, e a Palazzuolo molti locali sono chiusi o aprono solo nei fine settimana.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        3,
+        11
+      ],
+      "costoMin": 36,
+      "costoMax": 53,
+      "costoNota": "Il totale comprende treno A/R e un pasto; il trasferimento Marradi-Palazzuolo (auto o taxi) e gli eventuali biglietti dei musei non hanno una tariffa verificata e non sono inclusi.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Marradi è un borgo di circa 3.000 abitanti con un centro che si gira a piedi in un paio d'ore tra Centro Studi Campaniani, Teatro degli Animosi e le piazze lungo il Lamone: la mattina basta. Il pomeriggio si sale a Palazzuolo sul Senio, un borgo diviso in due metà dal Senio (Borgo dell'Ore e Borgo del Crocifisso), con Palazzo dei Capitani e Museo delle Genti di Montagna. Due paesi piccoli, nessuna coda e distanze brevi: una giornata piena basta e non serve pernottare, a patto di avere un mezzo per il trasferimento e di scegliere un periodo in cui il museo è aperto.",
+      "cosaVedere": [
+        "Centro Studi Campaniani «Enrico Consolini» a Marradi: dedicato al poeta Dino Campana (autore dei Canti Orfici, nato a Marradi), con un museo di arte contemporanea «Artisti per Dino Campana» di dipinti e sculture ispirati ai suoi testi e una mostra bibliografica con edizioni dal 1912.",
+        "Teatro degli Animosi a Marradi: teatro di fine Settecento, sede dell'Accademia degli Animosi fino al 1938, oggi usato per eventi, mostre e cinema.",
+        "Piazza delle Scalelle e Abbazia di Santa Reparata a Salto: la piazza è circondata da edifici di epoche diverse; l'abbazia ha una facciata romanica dell'XI secolo e un interno barocco.",
+        "Il marrone di Marradi: la castagna IGP è il prodotto simbolo; in ottobre la Mostra mercato del Marron buono (63ª edizione nel 2026, quattro domeniche nel centro storico) porta stand, tortelli ai marroni, castagnaccio e marrons glacés.",
+        "Museo delle Genti di Montagna a Palazzuolo sul Senio: oltre mille oggetti, quasi tutti donati dagli abitanti, che documentano il Novecento di una comunità di montagna sul confine tra Toscana e Romagna.",
+        "Palazzo dei Capitani e Borgo dell'Ore a Palazzuolo: edificio in pietra del Trecento sulla piazza principale, con biblioteca e due musei (tra cui il Museo Archeologico dell'Alto Mugello); nel 1506 vi avrebbero passato la notte Giulio II e Machiavelli.",
+        "Ponte sul Senio e chiesa di Santo Stefano a Palazzuolo: il ponte unisce Borgo dell'Ore e Borgo del Crocifisso; la chiesa ha dipinti seicenteschi e settecenteschi e decorazioni di Tito Chini."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R Firenze-Marradi",
+          "testo": "Regionale da circa 8-9 € a tratta (Omio: da 8 €, FAQ 9 €), quindi circa 16-18 € andata e ritorno.",
+          "min": 16,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Circa 20 € di media a Palazzuolo in una trattoria economica (Il Castagno, loc. Misileo), circa 35 € a testa alla Locanda Senio; la sera di giovedì e venerdì (ottobre-dicembre) la Locanda apre solo a cena, nel weekend anche a pranzo.",
+          "min": 20,
+          "max": 35,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Biglietti musei",
+          "testo": "Prezzo del Museo delle Genti di Montagna non indicato sul sito del circuito museale (info allo 055 8046008); ingresso alla sagra di Marradi 2,50 €, gratuito fino a 14 anni, solo nelle domeniche di ottobre.",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona. Il trasferimento in auto o taxi tra Marradi e Palazzuolo, se necessario, è della vettura (o del taxi) e va diviso per due, ma non è incluso perché non ha una tariffa verificata.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "La stazione di Marradi-Palazzuolo sul Senio si trova a Marradi, non a Palazzuolo: tra i due borghi la strada è di montagna, con molti tornanti, e un collegamento pubblico utilizzabile in giornata non risulta verificato (Virail indica una sola corsa alle 05:40). Nelle domeniche della sagra c'è una navetta gratuita da S. Adriano a Marradi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Museo delle Genti di Montagna: chiuso dal 2 novembre al 4 dicembre, dal 5 dicembre al 6 gennaio aperto solo sabato 15-18 e domenica/festivi 10-12 e 15-18, chiuso a Natale e da gennaio a marzo; gli orari di aprile-ottobre vanno chiesti al museo."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il regionale delle 08:40 (94467) non circola dall'11 giugno al 1° luglio; l'ultimo treno serale per Firenze non è confermato in modo coerente dalle fonti, quindi controllare l'orario prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione per il treno regionale; le visite guidate di gruppo al Museo delle Genti di Montagna si fanno su prenotazione. Nelle domeniche della sagra di ottobre il paese è affollato."
+        }
+      ],
+      "note": "Il vantaggio della Faentina è che la stazione di Marradi sta a pochi passi dal paese, quindi la mattina si fa senza auto. Il pezzo di Palazzuolo richiede invece un mezzo e conviene decidere prima: senza auto il programma più realistico è un giorno solo a Marradi. In ottobre la Locanda Senio di Palazzuolo apre a pranzo solo il sabato, la domenica e nei festivi, quindi scegli quei giorni. Chi ama camminare può unire i due paesi con il sentiero 519/505 (circa 3-4 ore, oltre 510 m di dislivello), ma in una giornata sola è un'alternativa all'auto, non un'aggiunta. Nelle domeniche d'ottobre il Marron buono si assaggia nei ristoranti e agriturismi della zona, anche in cavatelli al ragù di cinta senese o nel cinghiale con polenta.",
+      "fonti": [
+        "https://www.e656.net/amp/orario/treno/94467.html",
+        "https://www.omio.it/treni/firenze/marradi",
+        "https://www.omio.co.uk/trains/marradi-palazzuolo-sul-senio/florence-santa-maria-novella-3pfzj",
+        "https://www.lanazione.it/cronaca/treni-faentina-riapre-a-gennaio-la-tratta-crespino-del-lamonemarradi-sxukgkph",
+        "https://www.virail.it/bus-palazzuolo_sul_senio-marradi",
+        "https://musei.mugellotoscana.it/en/museum-of-the-mountain-folk/",
+        "https://www.romagnatoscanaturismo.it/en/art-culture-history/centro-studi-campaniani-2/",
+        "https://www.ilturista.info/blog/sagra-castagne-marradi/",
+        "https://visittuscany.com/en/ideas/marradi-slow-life-in-a-tuscan-town",
+        "https://www.finestresullarte.info/en/travel/palazzuolo-on-senio-brano-di-romagna-in-toscana",
+        "https://www.mugellotoscana.it/en/gastronomia/dove-mangiare/item/140-trattoria-il-castagno.html",
+        "https://www.mugellotoscana.it/en/gastronomia/dove-mangiare/item/138-locanda-senio.html"
+      ],
+      "aggiuntaIl": "2026-11-06",
+      "coordinate": {
+        "lat": 44.0736,
+        "lon": 11.6122
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni il treno e il paese di Marradi vanno bene, ma i musei sono per adulti e la strada per Palazzuolo è a tornanti."
+      }
+    },
+    {
       "id": "montalcino-e-sant-antimo-1g",
       "nome": "Montalcino e l'Abbazia di Sant'Antimo",
       "sottotitolo": "Toscana, il borgo del Brunello e una delle più belle abbazie romaniche d'Italia, tra vigne e uliveti",
@@ -3573,6 +3684,135 @@
       "aggiuntaIl": "2026-11-02"
     },
     {
+      "id": "radda-e-gaiole-in-chianti-1g",
+      "nome": "Radda e Gaiole in Chianti",
+      "sottotitolo": "Toscana, il Chianti senese tra borghi murati, abbazie e castelli del vino",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria da Firenze lungo la Chiantigiana (SR 222) o via Siena-Firenze e poi verso Gaiole: il Chianti senese non ha una rete di treni e i bus tra i borghi sono rari, quindi senza macchina la giornata non regge. Tappe consigliate: Radda al mattino, Badia a Coltibuono, Gaiole, poi Castello di Brolio nel pomeriggio. Se si fa degustazione, meglio un autista designato o un tour organizzato.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 56 minuti in auto fino a Radda (49 km lungo la Chiantigiana, secondo distanzechilometriche.net); tra Radda, Gaiole e Brolio 10-20 minuti a tratta (stima non verificata).",
+      "durataViaggioMinuti": 56,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: colline verdi o vendemmia, giardini di Brolio aperti. Luglio-agosto sono caldi e affollati; da metà dicembre a fine marzo i giardini di Brolio sono chiusi e molte cantine riducono le visite.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8,
+        12,
+        1,
+        2
+      ],
+      "costoMin": 43,
+      "costoMax": 135,
+      "costoNota": "Verificato: Firenze-Radda 49 km, 56 minuti (distanzechilometriche.net). Il resto del giro (Radda-Gaiole-Brolio-ritorno, circa 150-190 km) è una stima non verificata, carburante a 0,129 €/km. Brolio: tour classico 28 €, tour nei vigneti 45 €, giardini+museo con piccola degustazione 8 € (loudavymkrokem.cz, prezzi orientativi); Coltibuono: tour base con 2 vini da 10 €, tour con degustazione da 27 € (Fodor's). Pasti: pranzo 25-50 € a persona (Osteria di Meleto, listino di data non verificata; La Perla del Palazzo a Radda, fascia 31-50 € su OpenTable), inclusi nel totale; prezzi di trattorie di Radda e Gaiole non verificati puntualmente per il 2026.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Radda (borgo murato e compatto) si gira in un'ora; Gaiole è poco più di una piazza con i bar. Il resto è fatto di tre soste distanziate: Badia a Coltibuono (tour di circa un'ora), Castello di Brolio (giardini e museo, oppure tour in cantina di due ore) e magari Vertine o Castello di Meleto. Con 10-20 minuti di guida tra una tappa e l'altra, una giornata basta per farne tre con pranzo senza correre; un pernottamento servirebbe solo a chi vuole due tour in cantina in più o camminare sui sentieri.",
+      "cosaVedere": [
+        "Radda in Chianti: capoluogo storico della Lega del Chianti, con il centro raccolto dentro le mura e il Palazzo del Podestà ricco di stemmi, ideale per il caffè del mattino.",
+        "Badia a Coltibuono: abbazia vallombrosana documentata dal 1037, oggi tenuta con vino, olio e aceti; la visita guidata con degustazione (da circa 27 €) mostra il chiostro con il pozzo antico e il cortile con i gelsomini.",
+        "Castello di Brolio: dal 1141 dei Ricasoli, rifatto in forme neogotiche da Bettino Ricasoli nell'Ottocento; giardini, piccolo museo nella torre e visite in cantina che raccontano la nascita della formula del Chianti.",
+        "Castello di Meleto: fortezza del Duecento con villa settecentesca, visitabile solo con guida (castello, cantina e giardino) e con prenotazione.",
+        "Vertine: minuscolo borgo murato ovale con torre sull'ingresso, utile per una passeggiata silenziosa e per i panorami sulle colline.",
+        "Strade bianche del Chianti: tra Gaiole e Radda si incrocia il percorso dell'Eroica, la gara di bici d'epoca che si corre la prima domenica di ottobre."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Firenze-Radda 49 km (56 min, verificato); giro completo Firenze-Radda-Gaiole-Brolio-Firenze stimato in 150-190 km a 0,129 €/km (benzina 1,98 €/l, 6,5 l/100 km), tratto oltre Radda non verificato.",
+          "min": 19,
+          "max": 25,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggio",
+          "testo": "Parcheggio gratuito a Brolio; nei borghi di Radda e Gaiole parcheggi pubblici in genere gratuiti o di pochi euro.",
+          "min": 0,
+          "max": 0,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Castello di Brolio",
+          "testo": "Giardini e museo con piccola degustazione 8 €; tour classico 2 ore 28 €; tour nei vigneti 45 € (prezzi orientativi, prenotazione essenziale per i tour). Giardini chiusi da metà dicembre a fine marzo.",
+          "min": 8,
+          "max": 45,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Badia a Coltibuono",
+          "testo": "Tour base con 2 vini da 10 € (loudavymkrokem.cz), tour con degustazione da 27 € (Fodor's); prenotazione consigliata. Si può saltare e pranzare solo nel borgo.",
+          "min": 0,
+          "max": 27,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo a persona in trattoria/osteria: circa 25 € (un primo da 14-18 € e un secondo o piatto piccolo da 12-14 €, listino Osteria di Meleto a Gaiole, data del listino non verificata) fino a 50 € (La Perla del Palazzo a Radda, fascia 31-50 € su OpenTable). Tripadvisor colloca i locali di Radda per lo più in fascia €€-€€€, Osteria Le Panzanelle in fascia economica (Fodor's). Bevande escluse dal minimo.",
+          "min": 25,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Carburante e parcheggio sono costi della vettura, divisi per due; ingressi, tour e pasti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Serve l'auto: le strade del Chianti senese sono strette e tortuose, i borghi hanno parcheggi piccoli. Chi degusta ai tour deve prevedere un autista che non beva."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "I giardini di Brolio sono chiusi da metà dicembre a fine marzo; il Castello di Brolio non ha orari fissi, quindi verificare le date di visita sul sito ufficiale o al +39 0577 7301."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Tour in cantina a Brolio, Coltibuono e Meleto richiedono prenotazione (a Meleto è obbligatoria, visita solo guidata). Meglio prenotare almeno qualche giorno prima in primavera e autunno."
+        }
+      ],
+      "note": "Concentrare i tour in un solo pomeriggio stanca: scegliete una sola degustazione lunga (Brolio o Coltibuono) e dedicate il resto a passeggiate nei borghi. La prima domenica di ottobre c'è l'Eroica e le strade tra Gaiole e Radda sono piene di ciclisti: partite presto o evitate quel giorno. Il Chianti Classico Card propone esperienze come il tour di Brolio con pranzo leggero all'Osteria di Brolio: vale la pena chiedere prezzi per mail. Radda, Gaiole e Brolio sono la parte senese del Chianti, già distinta da Greve, Panzano e Castellina in catalogo.",
+      "fonti": [
+        "https://card.chianticlassico.com/en/experiences/guided-tour-of-brolio-castle-and-light-lunch---badia-a-coltibuono",
+        "https://fondoambiente.it/luoghi/castello-di-brolio-gaiole-in-chianti-40369",
+        "https://www.visittuscany.com/en/ideas/discover-gaiole-in-chianti/",
+        "https://www.ilturista.info/da-vedere/castello-brolio-gaiole-chianti-maniero-ricasoli/",
+        "https://cdn.fodors.com/world/europe/italy/tuscany/places/gaiole-in-chianti/things-to-do/sights",
+        "https://www.museionline.info/toscana-musei-monumenti/castello-di-brolio",
+        "https://www.viaggiando-italia.it/castello-di-brolio/",
+        "https://distanzechilometriche.net/firenze-radda%20in%20chianti/",
+        "https://loudavymkrokem.cz/it/vigneti-degustazioni-toscana/",
+        "https://www.tripadvisor.it/Restaurants-g235123-zfp30-Radda_in_Chianti_Tuscany.html",
+        "https://cdn.fodors.com/world/europe/italy/tuscany/places/radda-in-chianti/restaurants",
+        "https://www.visittuscany.com/it/offerte/degustazione-vino-e-visita-castello-brolio/",
+        "https://www.opentable.co.th/r/la-perla-del-palazzo-radda-in-chianti",
+        "https://www.scattidigusto.it/osteria-di-meleto-menu-e-prezzi-della-trattoria-aperta-nel-castello-in-chianti"
+      ],
+      "aggiuntaIl": "2026-11-06",
+      "coordinate": {
+        "lat": 43.4,
+        "lon": 11.43
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Giardini e borghi vanno bene con un bimbo di 4 anni, ma i tour in cantina durano 1-2 ore (Brolio Tour Classico non ammette under 12) e il tragitto in auto è tortuoso."
+      }
+    },
+    {
       "id": "reggio-emilia-1g",
       "nome": "Reggio Emilia",
       "sottotitolo": "Emilia-Romagna, la città del Tricolore: piazze porticate, barocco della Ghiara e musei gratuiti",
@@ -4129,6 +4369,120 @@
       }
     },
     {
+      "id": "spello-e-trevi-1g",
+      "nome": "Spello e Trevi",
+      "sottotitolo": "Umbria, due borghi di pietra tra Assisi e Spoleto: gli affreschi del Pinturicchio e la capitale dell'olio",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno diretto Firenze S.M.N. - Spello (nella pagina Omio compaiono partenze dalle 4:43 alle 23:51, tempi da 1h58 a oltre 3h secondo il treno). Da Spello si torna a Foligno con un regionale di pochi minuti (5 km) e da Foligno si prosegue per Trevi, dove la stazione è a circa 850 m in linea d'aria dal centro, ma il borgo sta in salita. Ritorno da Trevi o da Foligno verso Firenze: controllare l'ultimo treno utile prima di partire.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Da 1h58 (treno più veloce) a circa 3h in treno fino a Spello, sola andata; Spello-Foligno circa 4 minuti.",
+      "durataViaggioMinuti": 130,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: clima mite per camminare nei vicoli in salita e musei di Trevi aperti da martedì a domenica; a fine maggio o giugno cade l'Infiorata di Spello, molto bella ma affollata. In luglio e agosto il caldo rende faticose le salite.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 58,
+      "costoMax": 91,
+      "costoNota": "Treno Firenze-Spello: la pagina Omio indica 18 € come prezzo minimo a tratta; il massimo (20 € a tratta) è ricavato dal prezzo di 20 € rilevato su Firenze-Foligno. Il biglietto della Cappella Baglioni e dei musei di Trevi e la tratta Foligno-Trevi non hanno un prezzo verificato e restano fuori dal totale; il pasto è una stima non verificata.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Spello è un borgo in salita che si gira in poco più di mezza giornata: porte romane, la chiesa di Santa Maria Maggiore con la Cappella Baglioni, la Pinacoteca e il belvedere della Posterula. Trevi, a pochi minuti di treno da Foligno, ha un centro ancora più piccolo: il Duomo, Piazza Mazzini e il complesso di San Francesco si vedono in meno di due ore. Con circa 2 ore di treno all'andata e altrettante al ritorno la giornata è piena ma non di corsa; aggiungere un terzo borgo la renderebbe una maratona.",
+      "cosaVedere": [
+        "Cappella Baglioni (detta anche Cappella Bella) nella Collegiata di Santa Maria Maggiore a Spello: il ciclo di affreschi del Pinturicchio del 1501 con la Vita di Maria e l'Infanzia di Cristo, davanti a un pavimento in maiolica di Deruta del 1566. Nell'Annunciazione il pittore si è autoritratto.",
+        "Mura romane e porte di Spello (Porta Consolare, Porta Venere con le due torri, Porta Urbica): il borgo è cinto da circa due chilometri di mura del I secolo d.C. in pietra del Monte Subasio.",
+        "Belvedere della Posterula, nella parte alta di Spello: vista su oliveti, vigneti e sui profili di Assisi e Montefalco, ottimo per una pausa dopo la salita.",
+        "Villa dei Mosaici a Spello, scoperta nel 2005 in località Sant'Anna: si cammina su passerelle sopra i pavimenti musivi romani; è fuori dal centro, da inserire solo con tempo in più.",
+        "Duomo di Sant'Emiliano e Piazza Mazzini a Trevi: la cattedrale del XII secolo con interni cinquecenteschi, sulla piazza con la Torre Civica del Duecento e il municipio.",
+        "Complesso museale di San Francesco a Trevi: ex convento con pinacoteca, antiquarium e Museo della civiltà dell'ulivo, il posto giusto per capire perché qui l'olio extravergine è un'istituzione.",
+        "Santuario della Madonna delle Lacrime a Trevi: chiesa rinascimentale con l'Adorazione dei Magi del Perugino e una Deposizione dello Spagna."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze-Spello A/R",
+          "testo": "Da 18 € a tratta secondo Omio, quindi circa 36-40 € A/R; in alternativa Firenze-Foligno da 10 € se prenotato in anticipo (20 € il prezzo rilevato per un giorno di novembre).",
+          "min": 36,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Spello-Foligno (regionale)",
+          "testo": "Una tratta di 5 km e circa 4 minuti, 1,60-6,25 € secondo Kombo (media 3,08 €). Foligno-Trevi: prezzo non verificato, un regionale di pochi minuti.",
+          "min": 1.6,
+          "max": 6.25,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cappella Baglioni e musei di Trevi",
+          "testo": "L'ingresso alla chiesa di Santa Maria Maggiore è gratuito, la Cappella Baglioni è a pagamento ma l'importo non risulta nelle fonti consultate; i prezzi del complesso San Francesco di Trevi vanno chiesti direttamente al museo.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Stima non verificata da una fonte: pranzo veloce in osteria o pizzeria 20 € circa, trattoria con piatti umbri fino a 45 € a persona.",
+          "min": 20,
+          "max": 45,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona: la giornata si fa in treno, senza auto.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Da Spello a Trevi serve cambiare a Foligno. La stazione di Trevi è a circa 850 m dal centro, ma il borgo è in salita: scarpe comode. A Spello i vicoli sono ripidi e acciottolati."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Complesso museale di San Francesco a Trevi: 10-13 e 15-18; da aprile a ottobre da martedì a domenica, a novembre e da gennaio a marzo solo venerdì, sabato e domenica; dicembre da martedì a domenica; chiuso il 25 dicembre e il 1° gennaio. La chiesa di Santa Maria Maggiore a Spello risulta aperta ogni giorno 9-18 (da confermare con la chiesa)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria risulta dalle fonti; per le giornate dell'Infiorata di Spello (di solito un weekend tra fine maggio e giugno) il centro è molto affollato e conviene anticipare i treni."
+        }
+      ],
+      "note": "Dopo l'ultima visita guardate gli orari del ritorno: Omio indica per Foligno più collegamenti con Firenze (in media 16 al giorno) che per Spello, quindi se si perde l'ultimo diretto da Spello conviene spostarsi a Foligno. Nella Cappella Baglioni cercate l'autoritratto del Pinturicchio nell'Annunciazione. Se ci si va in novembre, il complesso di San Francesco di Trevi apre solo da venerdì a domenica: meglio scegliere uno di questi giorni. Il tempo si ripartisce bene con la mattina a Spello e il pomeriggio a Trevi, dove a ottobre-novembre si può abbinare un assaggio di olio nuovo (la zona è la 'città dell'olio').",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/spello-jwfaj",
+        "https://www.omio.it/treni/firenze/foligno",
+        "https://www.kombo.co/it/treno-Spello-Foligno",
+        "https://siviaggia.it/idee-di-viaggio/cosa-vedere-spello/532466/",
+        "https://www.italia.it/it/umbria/spello/chiese-luoghi-di-culto/collegiata-di-santa-maria-maggiore",
+        "https://www.museionline.info/umbria-musei-monumenti/collegiata-di-santa-maria-maggiore-spello",
+        "https://www.voloscontato.it/guide-per-viaggiatori/le-6-cose-da-vedere-a-trevi-i-borgo-medievale-dellumbria-a-forma-di-chiocciola.php",
+        "https://www.umbriatourism.it/en/w/san-francesco-museum-complex",
+        "https://www.omio.it/stazioni-dei-treni/italia/trevi/stazione-di-trevi-eaqsi",
+        "https://www.quotidiano.net/itinerari/umbria/guida-trevi-borgo-8392febc"
+      ],
+      "aggiuntaIl": "2026-11-06",
+      "coordinate": {
+        "lat": 42.9886,
+        "lon": 12.6728
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni i vicoli in salita e le circa 2 ore di treno per tratta sono impegnativi; meglio fare solo Spello."
+      }
+    },
+    {
       "id": "suvereto-e-campiglia-marittima-1g",
       "nome": "Suvereto e Campiglia Marittima",
       "sottotitolo": "Toscana (Val di Cornia), due borghi murati tra vigne, miniere etrusche e rocche medievali",
@@ -4616,6 +4970,120 @@
       "bambini": {
         "adatta": "si",
         "nota": "Spiaggia, Pineta di Ponente con laghetto e treno breve; la Villa Puccini è gratis sotto i 6 anni e il fritto di pesce si mangia camminando."
+      }
+    },
+    {
+      "id": "vignola-e-castelvetro-di-modena-1g",
+      "nome": "Vignola e Castelvetro di Modena",
+      "sottotitolo": "Emilia-Romagna, la Rocca dei Contrari e i borghi del Lambrusco Grasparossa sulle prime colline modenesi",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "In auto: A1 Firenze–Bologna–Modena Sud (134 km, circa 1h16 senza traffico) e poi pochi km di strada provinciale fino a Vignola; Castelvetro è a circa 15 minuti da Vignola e a circa 18 km a sud di Modena, quindi l'auto serve per collegare i due borghi e le cantine. Senza auto è fattibile solo con treno ad alta velocità fino a Bologna/Modena e poi bus o treno locale, con tempi molto più lunghi.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h16 in auto senza traffico (134 km, A1 via Bologna, secondo Unipol Move); contare 1h30-1h45 porta a porta con code e uscita; più di 2h30 con mezzi pubblici e cambi.",
+      "durataViaggioMinuti": 90,
+      "periodoMiglioreTesto": "Fine maggio-giugno per le ciliegie Mora di Vignola in fioritura e raccolta, settembre-ottobre per vendemmia e colori delle colline; l'estate piena è calda, in inverno la nebbia padana è frequente.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 63,
+      "costoMax": 127,
+      "costoNota": "Auto: 134 km e circa 9,50 € di pedaggio a tratta da Firenze a Vignola secondo il calcolatore Unipol Move (1h16 senza traffico); carburante a 0,129 €/km. Pasti: 30 € è il prezzo della degustazione con tagliere in cantina a Castelvetro, 85 € è il tetto di un ristorante di fascia media (il sito indica 50-100 in dollari, convertiti in modo approssimato); i prezzi di menu dei singoli locali non sono stati verificati. Non incluso: degustazione di aceto balsamico in acetaia, da 18 a 47 € a persona. Il treno (Firenze-Bologna da 11 € + Bologna-Vignola da 5 €, a tratta, prezzi Omio) è solo un confronto e richiede tempi molto più lunghi.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Vignola e Castelvetro distano circa 15 minuti d'auto l'una dall'altra e hanno centri storici piccoli: la Rocca di Vignola si visita in 50-60 minuti, il centro si gira a piedi in un'ora, a Castelvetro bastano la piazza a scacchiera e le torri. Resta tempo per un pranzo lento e una cantina di Lambrusco. Un pernottamento non aggiunge visite, e con circa 3 ore complessive di guida a/r la giornata è già piena.",
+      "cosaVedere": [
+        "Rocca di Vignola: fortezza medievale (documentata dal 1178) trasformata dai Contrari in residenza, con la Cappella dai affreschi tardogotici del Maestro di Vignola e le sale dei Leoni e dei Leopardi, delle Colombe e del Padiglione.",
+        "Palazzo Barozzi, alle spalle della Rocca: palazzo rinascimentale progettato da Jacopo Barozzi detto il Vignola, con una scala a chiocciola ellittica autoportante.",
+        "Centro storico di Vignola: via Plessi e corso Italia per una passeggiata tra negozi, e le pasticcerie che vendono la Torta Barozzi (cioccolato fondente, mandorle e caffè).",
+        "Museo del Cinema Antonio Marmi a Vignola: attrezzature e cimeli cinematografici, alcuni precedenti alle prime proiezioni dei Lumière.",
+        "Piazza Roma a Castelvetro: pavimentazione a scacchiera bianca e rossa, Torre dell'Orologio e Torre delle Prigioni con panorama sulla Pianura Padana.",
+        "Cantina di Lambrusco Grasparossa di Castelvetro: la zona è la culla della denominazione; le visite durano 1-2 ore e sono gratuite o a pagamento secondo la cantina."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante e pedaggio",
+          "testo": "268 km a/r × 0,129 €/km = circa 35 € di carburante, più circa 19 € di pedaggio (9,50 € a tratta, Unipol Move).",
+          "min": 54,
+          "max": 54,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rocca di Vignola",
+          "testo": "10 € intero, 6 € ridotto; la visita guidata con ingresso è venduta a 15 € intero (12 € ridotto).",
+          "min": 6,
+          "max": 15,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Da 30 € (degustazione con tagliere in cantina a Castelvetro, 4 vini) fino a circa 85 € per un pranzo in locanda di fascia media (50-100 in dollari secondo il sito del locale, convertito in modo approssimato).",
+          "min": 30,
+          "max": 85,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "Firenze-Bologna da 11 € (Frecciarossa da 17 €) e Bologna-Vignola Regionale da 5 € (circa 58 minuti), a tratta: 32-44 € a/r, più bus o cambi per Castelvetro.",
+          "min": 32,
+          "max": 44,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e si dividono tra i due viaggiatori; ingresso alla Rocca e pasti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Senza auto la giornata si complica: Castelvetro si raggiunge con bus da Modena e le cantine sono fuori dal paese, quindi l'auto è praticamente necessaria. Prima di partire controllare eventuali ZTL nei centri storici."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Rocca di Vignola: martedì-sabato 9-18:30, domenica e festivi 10:30-19; il lunedì risulta chiuso. Gli orari vanno confermati al +39 059 775246 prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per la Rocca i gruppi sono limitati a 30 persone e c'è la visita guidata a 15 €, con rimborso fino a 48 ore prima; le cantine di Lambrusco di solito richiedono prenotazione per degustazioni e visite."
+        }
+      ],
+      "note": "Il consiglio da sapere: Vignola è la capitale delle ciliegie Mora e a circa un quarto d'ora dal centro ci sono chioschi e aziende agricole che vendono ciliegie sotto spirito, ottime da portare a casa. Per un giro più lungo si può aggiungere Levizzano Rangone con il suo castello e il Museo Rosso Graspa, vicino a Castelvetro. Le degustazioni di aceto balsamico in acetaia costano da 18 a 47 € a persona.",
+      "fonti": [
+        "https://museionline.info/musei/rocca-di-vignola",
+        "https://siviaggia.it/borghi/castelvetro-di-modena-emilia-romagna/563118/",
+        "https://siviaggia.it/idee-di-viaggio/cosa-vedere-vignola-rocca-centro-storico/303000/",
+        "https://www.visitmodena.it/en/a-journey-among-villas-and-castles/the-castle-of-vignola",
+        "https://www.visitmodena.it/en/discover-modena/itineraries-and-routes/between-modena-and-the-castles-land/day-2-afternoon",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Vignola/",
+        "https://www.omio.it/treni/bologna/vignola-ogax4",
+        "https://www.omio.it/treni/firenze-santa-maria-novella/bologna-borgo-panigale-k619j",
+        "https://www.winedering.com/it/wine-tasting-among-the-vineyards-of-agricola-la-piana-in-castelvetro-di-modena_d6101_travel",
+        "https://www.winedering.com/it/wine-tourism_castelvetro-di-modena_g6538451_ta40_other-wine-tourism-activities",
+        "https://www.enprimeurclub.com/restaurants/locanda-del-feudo-castelvetro-di-modena-restaurant"
+      ],
+      "aggiuntaIl": "2026-11-06",
+      "coordinate": {
+        "lat": 44.4806,
+        "lon": 10.9919
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "La Rocca e le piazze sono semplici da girare con un bimbo di 4 anni, ma la visita guidata e le cantine sono poco adatte e il viaggio in auto è lungo."
       }
     },
     {
@@ -5167,6 +5635,148 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Sei ore di treno per tratta sono lunghe con un bimbo di 4 anni, ma Bari Vecchia e il mare di Polignano si fanno bene a piedi."
+      }
+    },
+    {
+      "id": "basilea-2g",
+      "nome": "Basilea",
+      "sottotitolo": "Svizzera, città dei musei sul Reno: da Holbein e Picasso a Renzo Piano e Tinguely",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno con almeno un cambio (non esiste un diretto) da Firenze S.M.N. a Basel SBB, circa 14 corse al giorno; conviene partire presto la mattina del giorno 1 e rientrare la sera del giorno 2. Il volo non aiuta: nessun diretto FLR-Basilea, il più rapido dura 3h25 con scalo e va sommato il trasferimento in aeroporto. L'autobus FlixBus (9h10) è l'opzione più economica ma molto lunga.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 6h30 in treno con un cambio (la corsa più rapida segnalata è 6h01; la media 6h51).",
+      "durataViaggioMinuti": 390,
+      "periodoMiglioreTesto": "Aprile-ottobre per le passeggiate sul Reno e il giro tra i musei, con settembre-ottobre più tranquilli. A giugno si tiene Art Basel e i prezzi degli alberghi arrivano a triplicare.",
+      "mesi": [
+        4,
+        5,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        6
+      ],
+      "costoMin": 251,
+      "costoMax": 530,
+      "costoNota": "Treno, Fondation Beyeler, Kunstmuseum, Tinguely, alloggio e pasti verificati su fonti (CHF convertiti in euro a circa 1,07 €/CHF). Kunstmuseum: la pagina riporta più listini (16, 26 o 39 CHF intero a seconda di collezione/mostra), quindi fascia ampia. Alloggio e pasti sono medie di portali e guide, non tariffe di una data precisa; a giugno (Art Basel) l'hotel costa molto di più. La BaselCard inclusa nell'hotel dà il Kunstmuseum a 13 CHF.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro storico si gira a piedi e col tram in poche ore, ma i musei sono la ragione del viaggio: Kunstmuseum, Museum Tinguely e Fondation Beyeler (a Riehen, circa 15 minuti di tram) richiedono ciascuno 2-3 ore. Con 6h30 di treno per tratta, un solo giorno sarebbe quasi tutto viaggio; con due giorni (in pratica una notte) si fanno centro e Kunstmuseum il primo giorno, Tinguely e Beyeler il secondo, senza correre.",
+      "cosaVedere": [
+        "Kunstmuseum Basel: collezione pubblica tra le più importanti della Svizzera, dal tardo Medioevo al contemporaneo, con Holbein il Giovane e Picasso; tre edifici collegati da un'ala sotterranea.",
+        "Basler Münster: cattedrale in arenaria rossa dei secoli XIV-XV con la tomba di Erasmo da Rotterdam e, dalla piazza, la vista sul Reno.",
+        "Marktplatz e Rathaus: il municipio dipinto di rosso e il mercato del mattino (lunedì-sabato) nel centro storico più completo della Svizzera.",
+        "Mittlere Brücke e Kleinbasel: attraversare uno dei più antichi ponti sul Reno per la sponda con locali indipendenti.",
+        "Museum Tinguely: edificio di Mario Botta nel parco Solitude con la maggiore collezione al mondo di sculture cinetiche di Jean Tinguely, da vedere in movimento.",
+        "Fondation Beyeler a Riehen: museo di Renzo Piano con Monet, Matisse e altri moderni, il più visitato della Svizzera; calcola 2-3 ore."
+      ],
+      "itinerario": null,
+      "alloggio": "Hotel 3 stelle a Basilea: media circa 195 € a notte per una doppia, con offerte da 79 € e esempi a 117-156 € (Skyscanner); in media tutte le categorie circa 278 $ a notte, gennaio il mese più economico (179 $) e giugno il più caro (496 $, Art Basel) (HotelsCombined). Per una notte in due: 79-195 €, cioè 20-49 € a persona per giorno di viaggio. La zona della stazione (Basel SBB) è la più comoda per il treno; molti alberghi includono la BaselCard. Prenota 6-12 mesi prima se coincide con Art Basel.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R Firenze-Basilea",
+          "testo": "Nessun diretto, 1-2 cambi. Tariffe da 18 € a tratta in anticipo; media indicata 87 €; nel giorno consultato dal sito 144-172 €. Fascia A/R realistica 60-180 € a persona.",
+          "min": 60,
+          "max": 180,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Fondation Beyeler",
+          "testo": "25 CHF intero, 20 CHF ridotto (circa 21-27 €); gratis fino a 25 anni. Aperta tutti i giorni, mercoledì fino alle 20.",
+          "min": 21,
+          "max": 27,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Kunstmuseum Basel",
+          "testo": "Intero 16, 26 o 39 CHF a seconda del listino (circa 17-42 €); ridotto studenti 19,50 CHF; BaselCard 13 CHF; gratis fino a 12 anni.",
+          "min": 17,
+          "max": 42,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museum Tinguely",
+          "testo": "18 CHF intero (circa 19 €), 12 CHF ridotto.",
+          "min": 19,
+          "max": 19,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "79-195 € a notte per una doppia in hotel 3 stelle (media 195 €, minimo trovato 79 €), una notte: 20-49 € a persona per giorno di viaggio.",
+          "min": 20,
+          "max": 49,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo semplice 17-27 €, cena casual 30-55 € a persona: 47-82 € al giorno. Una cena per due in trattoria italiana con vino e dolce arriva a circa 163 CHF.",
+          "min": 47,
+          "max": 82,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "FlixBus A/R (alternativa)",
+          "testo": "Da 36,98 € a tratta, media 49,98 €, 9h10 di viaggio e 8 corse al giorno.",
+          "min": 74,
+          "max": 100,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona: senza auto non ci sono costi della vettura.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Kunstmuseum e Museum Tinguely chiudono il lunedì (Kunstmuseum aperto fino alle 20 il mercoledì, Tinguely fino alle 21 il giovedì). Il Münster apre 11-16 (domenica dalle 11:30)."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Il centro è pedonale e servito da tram; la Fondation Beyeler si raggiunge col tram 6 da Barfüsserplatz verso Riehen, il Tinguely è nel parco Solitude."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuno dei grandi musei è gratuito; prenota l'hotel con largo anticipo se coincidono Art Basel (giugno) o altre fiere."
+        }
+      ],
+      "note": "Con un treno così lungo organizza il viaggio attorno alle chiusure del lunedì dei musei: parti il martedì mattina e rientra il mercoledì sera, quando la Beyeler è aperta fino alle 20. Molti musei sono gratuiti per gli adulti la sera nei feriali o la prima domenica del mese: controlla il calendario prima di decidere. Per chi vuole un secondo giorno più ricco, il percorso a piedi 'Rehberger-Weg' collega la Beyeler al Vitra Campus. I prezzi di alloggio e pasti sono medie da portali: verificali in fase di prenotazione.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/basilea",
+        "https://www.momondo.it/volo/firenze/basilea-mulhouse",
+        "https://www.flixbus.it/tratte-autobus/firenze-basilea",
+        "https://www.museums.ch/it/visita-al-museo/musei/musei/fondation-beyeler-2483.html",
+        "https://www.basel.com/it/arte/musei",
+        "https://www.tour-switzerland.ch/it/destinations/basilea/",
+        "https://www.lonelyplanet.com/points-of-interest/fondation-beyeler/459631",
+        "https://www.thenextguide.com/itineraries/basel/relaxed-2-day-basel-itinerary-for-seniors-may-spring",
+        "https://kunstmuseumbasel.ch/en/visit/ticketsprices",
+        "https://www.tinguely.ch/en/information/admission/tickets.html",
+        "https://www.skyscanner.ie/hotels/switzerland/basel-hotels/three-star/ci-33735926/sr-3",
+        "https://hotelscombined.com/Place/Basel.htm",
+        "https://v0-life-cost-azure.vercel.app/en/blog/basel",
+        "https://expatistan.com/price/dinner/basel"
+      ],
+      "aggiuntaIl": "2026-11-06",
+      "coordinate": {
+        "lat": 47.5596,
+        "lon": 7.5886
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Musei gratuiti fino a 16 anni e il Tinguely è divertente, ma 6h30 di treno per tratta sono pesanti con un bimbo di 4 anni."
       }
     },
     {
@@ -8340,6 +8950,134 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Percorso A6 e il tratto in piano verso Marina di Alberese vanno bene anche con passeggino, ma i percorsi lunghi per le torri sono troppo faticosi per un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "pavia-e-la-certosa-2g",
+      "nome": "Pavia e la Certosa",
+      "sottotitolo": "Lombardia, città universitaria sul Ticino con il Castello Visconteo e il monastero rinascimentale della Certosa",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "In auto per l'A1 (Firenze Nord–Lodi, poi strada verso Pavia): circa 300 km e 2h50–3h05 a tratta, pedaggio 22–22,70 € a tratta. In due l'auto costa meno del treno e rende facile la Certosa, a 9 km dal centro. In alternativa treno Frecciarossa o Italo da Firenze S.M.N. con un cambio (a Milano o Bologna), circa 2h15–2h50 di viaggio, poi regionale fino a Pavia; la Certosa ha una sua stazione, a 20–25 minuti da Pavia.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h in auto (300 km); 2h15–2h50 in treno con un cambio, più il tratto verso il centro.",
+      "durataViaggioMinuti": 185,
+      "periodoMiglioreTesto": "Marzo-giugno e settembre-ottobre: temperature miti e orari lunghi alla Certosa (fino alle 18 da maggio a settembre). Da evitare luglio e agosto (caldo afoso di pianura, e ad agosto gli hotel costano oltre il doppio rispetto a gennaio); in inverno la Certosa chiude il pomeriggio alle 16:30 e la Pianura Padana può essere nebbiosa.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 167,
+      "costoMax": 239,
+      "costoNota": "Totale a persona con 2 viaggiatori in auto: 1 notte, 2 giorni di pasti, biglietti dei due musei a pagamento. Il parcheggio a Pavia non è incluso perché non ho trovato una tariffa verificata.",
+      "dipendenzaAuto": "auto-opzionale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro di Pavia è compatto e si gira a piedi: Duomo, Strada Nuova, Ponte Coperto, Università, San Michele e Castello Visconteo stanno in meno di due chilometri e occupano un giorno pieno senza correre. Il secondo giorno è per la Certosa, a 9 km, che richiede una mattina (visita dentro e chiostri, circa un'ora e mezza con calma) e lascia il pomeriggio per un'ultima passeggiata sul Ticino prima del rientro di circa tre ore. Con un solo giorno si dovrebbe sacrificare o il castello o la Certosa; con tre si comincerebbe a ripetersi.",
+      "cosaVedere": [
+        "Certosa di Pavia: monastero rinascimentale con la facciata in marmo scolpito, chiostri e chiesa; ingresso sempre gratuito, chiusa il lunedì, visite sospese durante la Messa.",
+        "Castello Visconteo e Musei Civici: fortezza viscontea del Trecento con cortile porticato, archeologia, arte medievale e pinacoteca; 8 € e chiuso il lunedì.",
+        "Basilica di San Michele Maggiore: romanica, con facciata in arenaria scolpita di mostri e animali; ingresso gratuito, aperta anche il lunedì.",
+        "Duomo e Piazza della Vittoria: la cupola rinascimentale supera i 90 metri e accanto restano i resti della Torre Civica crollata nel 1989; la piazza è il salotto della città.",
+        "Ponte Coperto e Borgo Ticino: ponte ricostruito dopo il 1945 sul progetto trecentesco, con vista sul fiume e sul borgo dei pescatori, dove si mangia bene.",
+        "Università e cortili: cortili porticati, biblioteca e museo per la storia dell'Università (5 €, orari limitati, controllare il sito); le torri medievali dietro l'ateneo sono tra le poche rimaste della 'città delle cento torri'.",
+        "Basilica di San Pietro in Ciel d'Oro: gratuita, ospita la tomba di Sant'Agostino ed è un buon contrappeso al pomeriggio di castello."
+      ],
+      "itinerario": null,
+      "alloggio": "B&B e piccoli alberghi in centro, tra Piazza della Vittoria e Strada Nuova: nei B&B la fascia è circa 50–110 € a notte per due, con la maggior parte tra 75 e 95 €; un tre stelle sta intorno agli 88 € a notte e un quattro stelle intorno ai 105 €. Gennaio è il mese più economico (circa 69 €), agosto il più caro (circa 192 €); i prezzi salgono nel weekend, per cui prenotate presto. Conviene dormire dentro la zona pedonale o vicino al Ticino per fare a piedi la cena e il Ponte Coperto.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto",
+          "testo": "Circa 600 km A/R: carburante 78 € (0,129 €/km) più pedaggio A1 Firenze Nord–Lodi 22–22,70 € a tratta (44–45,40 € A/R). Costo della vettura, da dividere per due.",
+          "min": 122,
+          "max": 124,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "Con un cambio: Italo da circa 59 € a tratta, Frecciarossa di norma 73–78 € a tratta, quindi 118–156 € A/R a persona. Non entra nel totale.",
+          "min": 118,
+          "max": 156,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (1 notte)",
+          "testo": "75–95 € a notte per due in B&B o tre stelle, cioè 38–48 € a persona per l'unica notte.",
+          "min": 38,
+          "max": 48,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 10–20 € (panino o piatto veloce), cena 20–38 € (cena completa con antipasto, risotto, secondo e dolce 26–38 €; risotto alla certosina 12–16 €, zuppa pavese 8–11 €). A persona al giorno.",
+          "min": 30,
+          "max": 58,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi a pagamento",
+          "testo": "Castello Visconteo e Musei Civici 8 €; museo per la storia dell'Università 5 € (facoltativo). Certosa, Duomo, San Michele, San Pietro in Ciel d'Oro gratuiti.",
+          "min": 8,
+          "max": 13,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Alloggio, pasti e biglietti sono a persona; carburante e pedaggi sono della vettura e sono divisi per due viaggiatori nel totale.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il lunedì sono chiusi sia la Certosa sia il Castello Visconteo: partite in modo da essere a Pavia tra martedì e domenica, meglio sabato e domenica."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Certosa: 9–11:30 e 14:30–16:30 da ottobre a marzo (fino alle 17:30 ad aprile, alle 18 da maggio a settembre). Castello: martedì-venerdì 14:30–18, sabato e domenica 11–19; il mattino dei feriali solo gruppi prenotati."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "La Certosa è a circa 9 km dal centro: in auto per la SS35 verso nord, oppure con il regionale fino alla stazione 'Certosa di Pavia' (20–25 minuti). Verificate ZTL e parcheggio in centro con l'hotel prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per la Certosa; le visite guidate gratuite si prenotano sul sito del comune di Certosa di Pavia. Il museo dell'Università ha orari limitati, da verificare sul sito."
+        }
+      ],
+      "note": "Il trucco è ordinare i giorni sul calendario: se arrivate di sabato, fate il centro, il Castello (aperto fino alle 19) e la cena nel Borgo Ticino, poi la Certosa la domenica mattina alle 9, quando c'è meno gente e la Messa non interrompe la visita. Fate il giro dei cortili dell'Università entrando dalla Strada Nuova e cercate le tre torri medievali dietro l'ateneo, che molti turisti saltano. Se preferite non guidare, da Pavia un regionale porta alla stazione della Certosa e un altro vi riporta indietro; per il rientro a Firenze si cambia a Milano o Bologna. Provate il risotto alla certosina e la zuppa pavese; la torta Paradiso è il dolce di casa.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/pavia",
+        "https://calcolopercorso.it/it/distanza/Firenze/Pavia",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Pavia/",
+        "https://www.travel365.it/pavia-cosa-vedere.htm",
+        "https://www.idealista.it/news/node/238882",
+        "https://www.momondo.it/hotel/pavia",
+        "https://www.bed-and-breakfast.it/en/budget-bb-pavia",
+        "https://www.sluurpy.it/pavia/ristoranti",
+        "https://www.familygo.eu/vacanze-con-bambini/viaggi/pavia/pavia-con-bambini-cosa-vedere-in-un-giorno",
+        "https://www.mentelocale.it/pavia/articoli/94346-gita-pavia-cosa-vedere-itinerario-dal-ponte-coperto-cortili-universita-dal-castello-visconteo-borgo-ticino.htm"
+      ],
+      "aggiuntaIl": "2026-11-06",
+      "coordinate": {
+        "lat": 45.1847,
+        "lon": 9.1582
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il cortile del Castello per giocare a dame e cavalieri, il Ponte Coperto e le torri piacciono a un bimbo di 4 anni, ma chiese e Certosa sono lunghe e il rientro in auto è di circa tre ore."
       }
     },
     {
@@ -17049,6 +17787,213 @@
       }
     },
     {
+      "id": "borgogna-e-giura-7g",
+      "nome": "Borgogna e Giura",
+      "sottotitolo": "Francia orientale: i vigneti della Côte d'Or tra Beaune e Digione e gli altipiani del Giura, dal vin jaune alla Saline royale",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Auto propria da Firenze: A1 e A4/A5 fino ad Aosta (A1 Variante di Valico, poi Autostrada della Valle d'Aosta), da Aosta la statale SS26 fino a Courmayeur, traforo del Monte Bianco (biglietto andata e ritorno valido 7 giorni), poi l'A40 Autoroute Blanche da Le Fayet fino a Bellegarde (Valserhône) ed entrata nel Giura. Sul posto l'auto serve ogni giorno: vigneti, abbazie e cascate non sono serviti bene dai mezzi pubblici.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 5h47 da Firenze a Courmayeur (519 km), poi traforo e circa 3 ore fino al Giura meridionale: una giornata intera di guida, circa 8h45 con le soste. Il ritorno da Beaune richiede un tempo simile.",
+      "durataViaggioMinuti": 525,
+      "periodoMiglioreTesto": "Da maggio a inizio luglio e da settembre a metà ottobre: vigneti verdi o in vendemmia, giornate lunghe per le cascate del Giura, dal 3 al 26 luglio c'è il Festival d'opera barocca di Beaune. Metà novembre (vendita dei vini degli Hospices, domenica 15 novembre 2026) è affascinante ma affollata e cara. In gennaio e febbraio il Giura è freddo e il traforo del Monte Bianco ha chiusure notturne programmate per lavori.",
+      "mesi": [
+        5,
+        6,
+        7,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 646,
+      "costoMax": 1250,
+      "costoNota": "Totale a persona con 2 viaggiatori che condividono l'auto: vettura (carburante, pedaggi italiani, traforo, ATMB) diviso 2, ingressi, alloggio (6 notti, doppia/2, espresso come importo al giorno su 7) e pasti (32–75 € al giorno). Alloggio e pasti sono medie di portali e di Numbeo/Kayak/combien-coute.net (2026): a Beaune, nei weekend, a settembre e nel weekend dell'asta degli Hospices si può superare la fascia alta. Le fasce di Beaune sono state ricavate da Momondo/Kayak (2 e 3 stelle) e dai dati regionali; per Arbois vale il dato del Giura. I péages APRR francesi oltre Bellegarde non sono inclusi: il percorso usa strade dipartimentali gratuite. Valori in dollari (Kayak) non usati nei calcoli.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Due giorni se ne vanno per il viaggio (circa 750 km per tratta tra autostrada, Monte Bianco e strade del Giura), quindi restano cinque giorni pieni: due per il Giura (cascate, reculées, villaggi del vin jaune, Saline royale) e tre per la Borgogna, con Beaune come base e Digione, la Côte de Nuits e l'abbazia di Fontenay in giornata. Le tappe distano tra loro meno di un'ora e mezza d'auto, quindi si dorme in sole due basi senza rifare le valigie ogni sera. Con meno giorni si taglia uno dei due territori; con di più si comincia a ripetere degustazioni e cantine.",
+      "cosaVedere": [
+        "Hôtel-Dieu di Beaune: l'ospedale del 1443 con i tetti di tegole smaltate policrome e la grande sala dei poveri, tra i monumenti storici più visitati di Francia.",
+        "Cité des Climats et Vins de Bourgogne a Beaune: spiega i 'climats', le minuscole parcelle che fanno la differenza tra un village e un grand cru; il percorso include un bicchiere.",
+        "Digione: il Palazzo dei Duchi con il Museo delle Belle Arti e le tombe dei duchi di Valois, il centro con le case a graticcio e la civetta portafortuna di Notre-Dame.",
+        "Route des Grands Crus e Clos de Vougeot: i villaggi di Gevrey-Chambertin, Vosne-Romanée e il castello cistercense in mezzo ai filari.",
+        "Abbazia di Fontenay: monastero cistercense del XII secolo, patrimonio UNESCO, con la forgia idraulica e un chiostro intatto nel bosco.",
+        "Giura: la Saline royale di Arc-et-Senans di Ledoux (UNESCO), Arbois con la casa di Pasteur, Baume-les-Messieurs in fondo alla sua reculée e le Cascades du Hérisson."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza presto da Firenze, A1 e A4/A5 fino ad Aosta, statale fino a Courmayeur e traforo del Monte Bianco (mettere in conto la coda al piazzale nei weekend). Da Chamonix l'Autoroute Blanche fino a Bellegarde, poi strade dipartimentali attraverso il Bugey e il Haut-Jura. Notte nella zona di Lons-le-Saunier o Arbois."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Giura dei laghi e delle reculées. Mattina alle Cascades du Hérisson (sentiero nel bosco lungo la serie di salti, scarpe da trekking), pranzo con comté e morteau, pomeriggio a Baume-les-Messieurs: abbazia in fondo a un canyon calcareo e grotte. Al tramonto il belvedere di Château-Chalon, villaggio arroccato del vin jaune."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Arbois e il sale. Mattina ad Arbois, capitale del vino del Giura: casa di Louis Pasteur, degustazione di savagnin e vin jaune nelle cantine sotto i portici. Pomeriggio alla Saline royale di Arc-et-Senans, la città ideale semicircolare di Claude-Nicolas Ledoux, poi trasferimento verso la Borgogna e notte a Beaune per i quattro giorni successivi."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: Beaune a piedi. Si lascia l'auto ai parcheggi vicino ai bastioni e si entra all'Hôtel-Dieu all'apertura delle 9, prima dei gruppi. Poi collegiata di Notre-Dame, passeggiata sulle mura, Cité des Climats et Vins. Pomeriggio in auto tra Pommard, Volnay e Meursault, dove parte il Sentier des buis tra pini e vigneti."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: Côte de Nuits e Digione. Si risale la Route des Grands Crus: Nuits-Saint-Georges, Vosne-Romanée, il Clos de Vougeot, Gevrey-Chambertin. Pomeriggio a Digione: Palazzo dei Duchi e Museo delle Belle Arti, Tour Philippe le Bon, rue de la Chouette e il mercato coperto ottocentesco in ferro e vetro. Rientro a Beaune la sera."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: Auxois cistercense. Mattina all'abbazia di Fontenay, nel vallone boscoso, poi Châteauneuf-en-Auxois, borgo fortificato affacciato sul canale di Borgogna, e Semur-en-Auxois con le sue torri sulla gola dell'Armançon. Ultima cena borgognona a Beaune: œufs en meurette, bœuf bourguignon, époisses."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: rientro. Da Beaune verso sud-est attraverso la Bresse e il Giura (o in autostrada pagando i péages APRR), Bellegarde, Autoroute Blanche, traforo del Monte Bianco entro la mezzanotte del settimo giorno per sfruttare il biglietto di ritorno, poi Aosta e autostrada fino a Firenze. Partire entro le 8 per arrivare in serata."
+        }
+      ],
+      "alloggio": "Due basi: Arbois o Lons-le-Saunier per le prime due notti (Giura), Beaune per le quattro successive; Beaune è più cara di Digione ma permette di cenare e rientrare a piedi. Fasce 2026 a notte per la doppia: circa 60–150 € in hotel 2–3 stelle e B&B (30–75 € a persona), con 6 notti = 360–900 € per due. Riferimenti: hotel 3 stelle nel Giura 54–437 € (media 124 €); Digione 3 stelle in media 105 € (4 stelle 153 €, catene economiche da circa 45–60 €); Beaune hotel 2 stelle da circa 56 €, 3 stelle in media 93 €, con settembre il mese più caro (media 209 € tutte le categorie) e marzo il più economico (93 €). I dati sono medie dei portali, non tariffe garantite: i weekend e le date d'asta sono molto più cari. A metà novembre, durante la vendita dei vini degli Hospices, a Beaune si trova poco e a prezzi più alti: conviene dormire a Digione o a Chalon e prenotare con mesi di anticipo.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Circa 1.900–2.200 km in tutto (519 km Firenze–Courmayeur per tratta, il resto tra Chamonix, Giura e Borgogna): 245–284 € a 0,129 €/km.",
+          "min": 245,
+          "max": 284,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi autostradali Italia",
+          "testo": "51,40 € Firenze–Aosta per tratta, 102,80 € A/R; da Aosta a Courmayeur si prende la statale SS26 gratuita.",
+          "min": 103,
+          "max": 103,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traforo del Monte Bianco A/R",
+          "testo": "70,40 € andata e ritorno pagando dal lato italiano (69,20 € dal lato francese), ritorno valido fino alla mezzanotte del settimo giorno; la sola andata costa 56,40 €.",
+          "min": 70,
+          "max": 70,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Péages Autoroute Blanche (ATMB)",
+          "testo": "Le Fayet–Scientrier 4,80 € e Viry–Bellegarde 5,80 € (tariffe dal 1° febbraio 2026; il tratto Annemasse–Saint-Julien è gratuito): 10,60 € per tratta, 21,20 € A/R.",
+          "min": 21,
+          "max": 21,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Péages APRR (facoltativi)",
+          "testo": "Se da Bellegarde si prosegue in autostrada (A40/A39 verso Bourg-en-Bresse e Lons) o si rientra da Beaune in autostrada si aggiungono péages APRR non verificati: calcolarli sul simulatore ufficiale prima di partire.",
+          "min": null,
+          "max": null,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Hôtel-Dieu di Beaune",
+          "testo": "12,50 € intero, 9,50 € ridotto (studenti under 26, famiglie numerose), 6,25 € dai 6 ai 17 anni, gratis sotto i 6. Visite guidate tematiche 19–26 €.",
+          "min": 9.5,
+          "max": 12.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cité des Climats et Vins di Beaune",
+          "testo": "Percorso a 11 € con un bicchiere di vino o succo d'uva, gratis sotto i 17 anni; 'billet expérience' con atelier di degustazione a 26 €.",
+          "min": 11,
+          "max": 26,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Degustazione privata guidata a Beaune",
+          "testo": "Da 59 € a persona su base due adulti (offerta Viator 2026); in alternativa molte cantine del Giura e della Côte offrono degustazioni al caveau.",
+          "min": 59,
+          "max": 59,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 12–25 € a persona a Digione (formula/menu del giorno) e cena a 3 portate 20–50 € a persona in Borgogna (media 27 €, Digione 21–45 €; Numbeo, ottobre 2026): 32–75 € al giorno a persona. Beaune, più turistica, sta nella parte alta della fascia. Importo a persona, per 7 giorni.",
+          "min": 32,
+          "max": 75,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Doppia in hotel 2–3 stelle o B&B: circa 60–150 € a notte (per due), cioè 30–75 € a persona. Riferimenti 2026: hotel 3 stelle nel Giura 54–437 €, media 124 €; Digione 3 stelle in media 105 €, 4 stelle 153 €; Beaune hotel 2 stelle da circa 56 €, 3 stelle in media 93 € (più cara a settembre, media 209 € per tutte le categorie). 6 notti: 180–450 € a persona, espresse qui come 26–64 € al giorno su 7 giorni per far tornare il totale.",
+          "min": 26,
+          "max": 64,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Carburante, pedaggi italiani, traforo del Monte Bianco e péages francesi sono della vettura e si dividono per due; ingressi, pasti e mezza camera doppia sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il traforo del Monte Bianco nel 2026 ha avuto chiusure notturne programmate (22–6) a gennaio, febbraio, marzo e aprile e fasi a senso alternato con code: verificare il calendario dei lavori sul sito del traforo prima di fissare le date. Il biglietto A/R vale solo 7 giorni."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "A Beaune il centro dentro i bastioni è da girare a piedi: l'auto si lascia nei parcheggi lungo le mura, all'ingresso del centro."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "L'Hôtel-Dieu è aperto tutti i giorni, 9–19.30 dal 1° aprile al 15 novembre e 9–12.30 / 14–18.30 nel resto dell'anno; la biglietteria chiude un'ora prima. Il 1° gennaio e il 25 dicembre apre solo alle 14."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nel weekend della vendita dei vini degli Hospices (13–15 novembre 2026, asta il 15 alle 14.30) Beaune è piena: alloggio da prenotare con largo anticipo. Le visite guidate tematiche dell'Hôtel-Dieu hanno 18 posti e vanno prenotate online."
+        }
+      ],
+      "note": "All'Hôtel-Dieu conviene entrare alle 9 in punto: dopo le 10.30 arrivano i pullman e la grande sala dei poveri perde metà del fascino. Il biglietto A/R del Monte Bianco scade alla mezzanotte del settimo giorno: se si allunga anche di una sola notte conviene comprare due sole andate. Nel Giura il vin jaune si compra al clavelin da 62 cl e regge benissimo il viaggio; il comté stagionato si fa sottovuoto nelle fruitières. Chi ha un giorno in più può aggiungere Cluny e Tournus sulla strada del ritorno, nel Mâconnais. Con un biglietto TER di meno di 48 ore verso Beaune l'Hôtel-Dieu fa uno sconto (22 € in due invece di 25 €): utile se si fa la giornata a Digione in treno invece che in auto.",
+      "fonti": [
+        "https://distanzechilometriche.net/firenze-courmayeur/",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Aosta/",
+        "https://www.tcs.ch/fr/tools/inforoute-situation-trafic/fermetures-prix-tunnel-mont-blanc.php",
+        "https://trans.info/fr/tunnels-mont-blanc-frejus-2026-448331",
+        "https://ulys.com/autoroute/a40/",
+        "https://www.atmb.com/app/uploads/2026/01/01_15_2026_Revision-tarifs-1.pdf",
+        "https://www.routard.com/fr/guide/france/bourgogne/cote-d-or/beaune/hospices-de-beaune-hotel-dieu",
+        "https://www.routard.com/fr/guide/france/bourgogne/cote-d-or/beaune",
+        "https://onivapp.com/blog/journees-du-patrimoine-beaune",
+        "https://pixidia.com/?p=76611",
+        "https://www.autun-tourisme.com/en/offers/hotel-dieu-hospices-de-beaune-programmation-2025-humaniteitineraire-hospitalier-beaune-en-4050431",
+        "https://www.combien-coute.net/hotel_gite/bourgogne/beaune/",
+        "https://www.combien-coute.net/hotel3/jura/arbois/",
+        "https://www.momondo.fr/hotel/beaune",
+        "https://www.kayak.com/Dijon-Hotels.9226.hotel.ksp",
+        "https://www.combien-coute.net/restaurant-menu/bourgogne/",
+        "https://www.combien-coute.net/cout-de-la-vie/bourgogne/dijon/"
+      ],
+      "aggiuntaIl": "2026-11-06",
+      "coordinate": {
+        "lat": 47.0247,
+        "lon": 4.8397
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Cascate del Hérisson, grotte di Baume e la Saline royale piacciono a un bimbo di 4 anni, ma due giornate da 8–9 ore d'auto e un viaggio centrato su vino e cantine sono pesanti per lui."
+      }
+    },
+    {
       "id": "bosnia-erzegovina-7g",
       "nome": "Bosnia ed Erzegovina",
       "sottotitolo": "Sarajevo e Mostar: minareti, il ponte ottomano sulla Neretva e le cascate dell'Erzegovina",
@@ -22632,6 +23577,188 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Un bimbo di 4 anni si diverte con Egizio, ascensore della Mole, battelli e pavoni dell'Isola Bella e entra gratis (all'Egizio si paga 1 € solo dai 6 anni, alle isole dai 6). La giornata tra le cantine e il lungo trasferimento del giorno 6 sono pesanti per lui."
+      }
+    },
+    {
+      "id": "pirenei-andorra-lourdes-e-val-d-aran-7g",
+      "nome": "Pirenei: Andorra, Lourdes e Val d'Aran",
+      "sottotitolo": "Andorra, Catalogna e Alti Pirenei francesi: un anello in auto da Barcellona tra valli romaniche, il santuario di Lourdes e il Circo di Gavarnie",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Volo diretto Vueling (o Iberia) Firenze Peretola–Barcellona El Prat, circa 1h40–1h50, con il tram T2 fino all'aeroporto; ritiro dell'auto a noleggio a El Prat e anello Barcellona–Andorra la Vella (192 km)–Vielha (137 km)–Lourdes (130 km)–Barcellona (394 km). Alternativa più economica sul volo: Ryanair Pisa–Girona (diretto 4 giorni a settimana), poi noleggio a Girona. Prima di prenotare controllare che il contratto di noleggio consenta l'ingresso in Andorra e Francia.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 7 ore porta a porta fino ad Andorra la Vella: tram T2 per Peretola, volo di 1h40–1h50 per Barcellona, ritiro auto e circa 2h30 di guida (192 km). Il rientro da Lourdes a Barcellona è di 394 km, circa 5h35.",
+      "durataViaggioMinuti": 420,
+      "periodoMiglioreTesto": "Da giugno a settembre: i passi di montagna sono aperti, i sentieri di Gavarnie, Pont d'Espagne e dei laghi andorrani sono percorribili e a Lourdes c'è la fiaccolata serale (si tiene da aprile a ottobre). Da novembre a marzo i Pirenei sono stagione di sci: Andorra ha i prezzi alberghieri più alti dell'anno (a gennaio fino a 379 € a notte di media) e a Gavarnie possono servire le catene.",
+      "mesi": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "mesiDaEvitare": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costoMin": 587,
+      "costoMax": 1100,
+      "costoNota": "Totale a persona con 2 viaggiatori che dividono l'auto, pasti compresi (29–57 € al giorno per 7 giorni) e alloggio verificato per le tre basi (Andorra la Vella, Vielha, Lourdes). Pedaggi e parcheggi restano senza importo, perché non verificati voce per voce, e non sono nel totale. I prezzi dei pasti sono fasce da guide e portali turistici consultati nel 2026; il menu del giorno di Vielha (13–14 €) viene da un articolo non datato. Prezzi rome2rio in dollari citati solo come riferimento testuale, non sommati. Il prezzo del volo cambia molto: luglio e agosto sono i mesi più cari.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 3,
+      "percheDurata": "L'anello tocca tre zone che hanno ognuna bisogno di una giornata piena: le valli di Andorra con chiese romaniche e laghi d'alta quota, la Val d'Aran con i villaggi di pietra e i pascoli di Beret, e Lourdes con Gavarnie e Pont d'Espagne. Tra una base e l'altra le tappe sono brevi in chilometri ma lente: 137 km Andorra–Vielha richiedono circa 3h40 e 130 km Vielha–Lourdes circa 2h55, per via dei passi. Con due notti per base si guida mezza giornata e si cammina l'altra. In meno giorni bisognerebbe tagliare Gavarnie o le valli; con 7 giorni anche il rientro di 394 km è sostenibile.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: volo del mattino Firenze–Barcellona, ritiro dell'auto a El Prat e 192 km verso nord (circa 2h30) fino ad Andorra la Vella. Pomeriggio nel Barri Antic: la Casa de la Vall, sede storica del parlamento andorrano, e la chiesa di Santa Coloma con il campanile cilindrico preromanico, appena fuori città. Notte ad Andorra la Vella."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: risalita della valle verso Canillo per Sant Joan de Caselles, la chiesa romanica più fotografata del Principato, poi su verso Ordino-Arcalís per l'anello dei laghi di Tristaina: 4,5 km con circa 200 m di dislivello, il primo lago si raggiunge in una quarantina di minuti. In serata relax alle terme di Caldea, la grande piramide di vetro di Escaldes. Seconda notte ad Andorra."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: trasferimento in Val d'Aran (137 km, circa 3h40) scendendo a La Seu d'Urgell, poi Sort e la salita al Port de la Bonaigua. Sosta a Esterri d'Àneu, borgo sul fiume con chiesa romanica, e passaggio da Baqueira prima di scendere a Vielha. Passeggiata serale nel centro di Vielha. Notte a Vielha."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: giornata aranese. Al mattino i villaggi dell'alta valle (Arties, Salardú con la chiesa di Sant Andrèu) e il Pla de Beret, l'altopiano dove nascono la Garonna e la Noguera Pallaresa; nel pomeriggio verso Bossòst per la chiesa romanica dell'Assunzione e, se resta tempo, la valle dell'Artiga de Lin con le sue cascate. Seconda notte a Vielha."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: Vielha–Lourdes (circa 130 km, poco meno di 3 ore) seguendo la Garonna verso la Francia. Pomeriggio al Santuario, ad accesso libero tutti i giorni dalle 5:30 a mezzanotte: la Grotta di Massabielle, le basiliche sovrapposte e, alle 21:00 da aprile a ottobre, la fiaccolata di circa un'ora e mezza dalla Grotta all'Esplanade del Rosario. Notte a Lourdes."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: Circo di Gavarnie, a meno di un'ora d'auto: anfiteatro glaciale di circa 5 km con pareti di 1.500 m e la Grande Cascata di 422 m, raggiunto dal villaggio con una camminata facile di circa 2 ore andata e ritorno. Nel pomeriggio Pont d'Espagne sopra Cauterets, nel Parco nazionale dei Pirenei, oppure la funicolare del Pic du Jer sopra Lourdes per il panorama a 360°. Seconda notte a Lourdes."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: partenza presto da Lourdes per Barcellona (394 km, circa 5h35, via Tolosa e la costa oppure via Lleida). Riconsegna dell'auto a El Prat e volo serale per Firenze: conviene prenotare il ritorno dopo le 19 per avere margine sul traffico in uscita dalla Francia."
+        }
+      ],
+      "alloggio": "Sei notti in tre basi, due notti ciascuna. Ad Andorra la Vella secondo Kayak i 3 stelle partono da 36–44 € a notte per la camera, con media di circa 55 € il giovedì e 109 € il venerdì (media infrasettimanale del Principato 114 €); esempi del centro tra 40 e 60 €: Kyriad Comtes d'Urgell, Hotel Cervol, Zenit Diplomatic, Hotel de l'Isard. A Vielha, sempre secondo Kayak, i 3 stelle partono da 55–64 € a notte per la camera (62 € nel weekend nella Val d'Aran), mentre la media di tutti gli hotel della valle è di circa 144–147 € dom–gio e 180–194 € ven–sab; nelle frazioni di Arties, Salardú e Betren si dorme più tranquilli, ma in estate conviene prenotare con anticipo. Lourdes ha una delle maggiori capacità alberghiere di Francia: l'ente turistico calcola circa 37,50 € a persona a notte in 3 stelle con colazione, cioè circa 75 € per camera doppia. Fasce usate nei costi, per camera doppia a notte: Andorra 55–114 €, Vielha 55–144 €, Lourdes 75 €; per 2 notti a base fanno 370–666 € a camera, cioè 185–333 € a persona per le sei notti.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Firenze–Barcellona",
+          "testo": "Vueling e Iberia diretti FLR–BCN, circa 1h40–1h50: andata e ritorno di solito 124–175 €, minimo recente 99 € (novembre il mese più economico, lunedì il giorno più caro).",
+          "min": 99,
+          "max": 175,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Tram T2 per Peretola",
+          "testo": "3,40 € andata e ritorno a persona, parametro del documento.",
+          "min": 3.4,
+          "max": 3.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alternativa: volo Pisa–Girona + Pisa Mover",
+          "testo": "Ryanair diretto Pisa–Girona lunedì, martedì, giovedì e sabato, 1h25: andata e ritorno 31–106 €; si aggiungono treno e Pisa Mover 30,40 € A/R e il noleggio a Girona.",
+          "min": 61,
+          "max": 136,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto a El Prat",
+          "testo": "Auto piccola 12–33 € al giorno (media 21 €), luglio il mese più caro; 7 giorni circa 84–231 € da dividere in due. Verificare franchigia e permesso per Andorra e Francia.",
+          "min": 12,
+          "max": 33,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Carburante",
+          "testo": "853 km di tappe (192 + 137 + 130 + 394) più 250–300 km di escursioni (Gavarnie, Cauterets, valli andorrane): 850–1.150 km a 0,129 €/km, circa 110–148 € per l'auto.",
+          "min": 110,
+          "max": 148,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi e parcheggi",
+          "testo": "Non verificati voce per voce: rome2rio stima carburante più pedaggi in 34–48 dollari per Barcellona–Andorra e 72–104 dollari per Lourdes–Barcellona. Parcheggi a pagamento a Gavarnie e Pont d'Espagne.",
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "Camera doppia in 3 stelle a notte: Andorra la Vella 55–114 € (da 36–44 € le offerte minime), Vielha 55–144 € (da 55–64 €, media infrasettimanale 144–147 €), Lourdes circa 75 € con colazione. Due notti per base: 370–666 € a camera in totale, 185–333 € a persona per 6 notti.",
+          "min": 185,
+          "max": 333,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti (pranzo e cena)",
+          "testo": "Fascia al giorno a persona: 29–57 €. Pranzo 10–22 €: menu del giorno ad Andorra 10–15 € (feriali), a Vielha 13–14 € (fonte non datata), pizzerie e cucina internazionale ad Andorra 12–22 €. Cena 19–35 €: Andorra 18–35 € nei ristoranti tradizionali o di fascia media, media Numbeo di 23 € per tre portate; Lourdes menu adulti da 18,90 € (Restaurant de Paris, vicino al Santuario) e carta da 9 a 30 € (Le Palacio); Vielha 20–30 € (La Abuela) o 30–45 € (Era Lucana). Bevande escluse nel minimo. Il totale moltiplica la fascia per i 7 giorni.",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true,
+          "min": 29,
+          "max": 57
+        },
+        {
+          "voce": "Alternativa: pacchetto «Best of Pyrenees»",
+          "testo": "7 giorni e 7 notti con hotel e colazione (Jaca, Aínsa, Benasque, Saint-Lary, Gavarnie, Cauterets, Lourdes), pass Pic du Midi, pass Pont d'Espagne, tre spa e noleggio auto 7 giorni: da 639 € a persona in due, voli esclusi. Non tocca Andorra.",
+          "min": 639,
+          "max": 639,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Volo, tram, alloggio e pasti sono a persona. Noleggio, carburante, pedaggi e parcheggi sono della vettura e si dividono per due: noleggio più carburante fanno circa 194–379 € in totale, 97–190 € a testa.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il noleggio deve permettere di passare in Andorra e in Francia: il comparatore non lo indica, quindi va verificato nelle condizioni del noleggiatore prima di pagare (può esserci un supplemento). A Gavarnie d'inverno possono servire le catene; d'estate c'è anche un bus da Lourdes al parcheggio del circo."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Santuario di Lourdes è aperto ogni giorno dalle 5:30 a mezzanotte e la Grotta resta accessibile di notte; la fiaccolata delle 21:00 si tiene solo da aprile a ottobre, e la messa internazionale è il mercoledì e la domenica alle 9:30 nella basilica sotterranea."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il pernottamento in vetta al Pic du Midi va prenotato con largo anticipo; in agosto gli hotel di Vielha e delle frazioni aranesi si riempiono presto, così come Lourdes nei giorni dei grandi pellegrinaggi."
+        }
+      ],
+      "note": "Il tratto più bello di guida è il Port de la Bonaigua tra Esterri d'Àneu e Baqueira: partire da Andorra in mattinata permette di fare soste senza arrivare a Vielha col buio. Ad Andorra fare il pieno conviene, ma all'uscita verso la Spagna c'è dogana con controlli sugli acquisti: tenere gli scontrini. A Lourdes la differenza la fa la sera: chi dorme in città vede la Grotta quasi vuota dopo le 23, dopo la messa a lume di candela, mentre di giorno c'è la folla dei pullman. Per Gavarnie partire presto: la camminata fino al fondo del circo è facile e adatta a tutti, ma il sito riceve circa un milione di visitatori l'anno e d'estate le ore centrali sono le più affollate. Chi ha tempo per un ottavo giorno può aggiungere la valle d'Ossau col trenino d'Artouste, raggiunto con la cabinovia della Sagette, 55 minuti a 10 km/h fino al lago.",
+      "fonti": [
+        "https://www.momondo.it/volo/firenze/barcellona",
+        "https://www.momondo.it/volo/pisa/barcellona",
+        "https://www.kayak.it/Autonoleggio-Aeroporto-di-Barcellona-El-Prat.BCN.cap.ksp",
+        "https://www.rome2rio.com/s/Barcelona/Andorra-Country",
+        "https://www.rome2rio.com/s/Lourdes/Barcelona",
+        "https://www.kayak.it/Hotel-a-Andorra-la-Vella.26204.hotel.ksp",
+        "https://www.kayak.it/Andorra-Hotel.5.dc.html",
+        "https://www.lourdes-infotourisme.com/app/uploads/lourdes/2022/06/dest-py-lourdes-octobre-2021-a4-italiano-web-planches-compressed.pdf",
+        "https://www.kayak.it/Val-d-Aran-Hotel.f608.dr.html",
+        "https://andorrainsiders.com/en/restaurantes-andorra-donde-comer/",
+        "https://www.tourisme-occitanie.com/fr/fiche/restauration/restaurant-de-paris-lourdes_TFORESMIP065V5016ZT/",
+        "https://gastroranking.es/restaurantes/mediterranea/lleida/vielha-e-mijaran/"
+      ],
+      "aggiuntaIl": "2026-11-06",
+      "coordinate": {
+        "lat": 42.7,
+        "lon": 0.8
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Gavarnie, Pont d'Espagne e il Santuario vanno bene con un bimbo di 4 anni (passeggino o zaino porta-bimbo), ma le tappe di 3–5 ore d'auto su strade di montagna sono pesanti: meglio spezzarle con soste frequenti."
       }
     },
     {
