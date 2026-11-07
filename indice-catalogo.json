@@ -1258,6 +1258,11 @@
    2
   ],
   [
+   "alicante-e-la-costa-blanca-3g",
+   "Alicante e la Costa Blanca",
+   3
+  ],
+  [
    "amburgo-3g",
    "Amburgo",
    3
@@ -1285,6 +1290,11 @@
   [
    "berna-e-l-oberland-bernese-3g",
    "Berna e l'Oberland bernese",
+   3
+  ],
+  [
+   "bilbao-e-san-sebastian-3g",
+   "Bilbao e San Sebastián",
    3
   ],
   [
@@ -1353,6 +1363,11 @@
    3
   ],
   [
+   "lampedusa-e-linosa-3g",
+   "Lampedusa e Linosa",
+   3
+  ],
+  [
    "lisbona-3g",
    "Lisbona",
    3
@@ -1395,6 +1410,11 @@
   [
    "rodi-3g",
    "Rodi",
+   3
+  ],
+  [
+   "rotterdam-delft-e-l-aia-3g",
+   "Rotterdam, Delft e L'Aia",
    3
   ],
   [
@@ -1458,8 +1478,23 @@
    7
   ],
   [
+   "alto-adige-occidentale-7g",
+   "Alto Adige occidentale: Merano, Val Venosta e Ortles",
+   7
+  ],
+  [
+   "aragona-7g",
+   "Aragona: Saragozza, Teruel e i Pirenei aragonesi",
+   7
+  ],
+  [
    "armenia-7g",
    "Armenia",
+   7
+  ],
+  [
+   "azerbaigian-7g",
+   "Azerbaigian: Baku, Sheki e il Caucaso",
    7
   ],
   [
@@ -1503,8 +1538,18 @@
    7
   ],
   [
+   "champagne-e-lorena-7g",
+   "Champagne e Lorena: Reims, Nancy e Metz",
+   7
+  ],
+  [
    "cornovaglia-e-devon-7g",
    "Cornovaglia e Devon",
+   7
+  ],
+  [
+   "costa-licia-7g",
+   "Costa licia: Antalya, Kaş e Fethiye",
    7
   ],
   [
@@ -1520,6 +1565,11 @@
   [
    "dordogna-e-perigord-7g",
    "Dordogna e Périgord",
+   7
+  ],
+  [
+   "emilia-romagna-completa-7g",
+   "Emilia-Romagna completa: Bologna, Modena, Parma e Ravenna",
    7
   ],
   [
@@ -1558,6 +1608,11 @@
    7
   ],
   [
+   "gran-canaria-e-la-palma-7g",
+   "Gran Canaria e La Palma",
+   7
+  ],
+  [
    "grecia-del-nord-meteore-pelio-e-calcidica-7g",
    "Grecia del Nord: Meteore, Pelio e Calcidica",
    7
@@ -1565,6 +1620,11 @@
   [
    "inghilterra-del-nord-lake-district-e-york-7g",
    "Inghilterra del Nord: Lake District e York",
+   7
+  ],
+  [
+   "inghilterra-del-sud-7g",
+   "Inghilterra del Sud: Kent, Sussex e Dorset",
    7
   ],
   [
@@ -1578,6 +1638,11 @@
    7
   ],
   [
+   "laghi-lombardi-7g",
+   "Laghi lombardi: Como, Garda, Iseo e Maggiore",
+   7
+  ],
+  [
    "lanzarote-e-fuerteventura-7g",
    "Lanzarote e Fuerteventura",
    7
@@ -1585,6 +1650,11 @@
   [
    "lazio-tuscia-castelli-romani-e-circeo-7g",
    "Lazio: Tuscia, Castelli Romani e Circeo",
+   7
+  ],
+  [
+   "liguria-completa-7g",
+   "Liguria completa: Riviera di Levante e Riviera di Ponente",
    7
   ],
   [
@@ -1608,13 +1678,28 @@
    7
   ],
   [
+   "marocco-atlantico-7g",
+   "Marocco atlantico: Essaouira, Agadir e l'Anti-Atlante",
+   7
+  ],
+  [
    "montenegro-7g",
    "Montenegro",
    7
   ],
   [
+   "norvegia-del-nord-lofoten-tromso-7g",
+   "Norvegia del Nord: Lofoten e Tromsø",
+   7
+  ],
+  [
    "paesi-baschi-e-navarra-7g",
    "Paesi Baschi e Navarra",
+   7
+  ],
+  [
+   "peloponneso-completo-7g",
+   "Peloponneso completo: Nafplio, Micene, Olimpia e Monemvasia",
    7
   ],
   [
@@ -1625,6 +1710,11 @@
   [
    "pirenei-andorra-lourdes-e-val-d-aran-7g",
    "Pirenei: Andorra, Lourdes e Val d'Aran",
+   7
+  ],
+  [
+   "portogallo-del-nord-7g",
+   "Portogallo del Nord: Porto, Minho e Trás-os-Montes",
    7
   ],
   [
@@ -1643,6 +1733,16 @@
    7
   ],
   [
+   "romania-bucovina-maramures-delta-7g",
+   "Romania: Bucovina, Maramureș e Delta del Danubio",
+   7
+  ],
+  [
+   "sassonia-e-turingia-7g",
+   "Sassonia e Turingia: Lipsia, Weimar ed Erfurt",
+   7
+  ],
+  [
    "serbia-completa-7g",
    "Serbia completa",
    7
@@ -1650,6 +1750,11 @@
   [
    "svezia-stoccolma-uppsala-e-gotland-7g",
    "Svezia: Stoccolma, Uppsala e Gotland",
+   7
+  ],
+  [
+   "svizzera-orientale-grigioni-engadina-7g",
+   "Svizzera orientale: Grigioni, Engadina e Trenino del Bernina",
    7
   ],
   [
@@ -1678,6 +1783,21 @@
    7
   ],
   [
+   "veneto-completo-7g",
+   "Veneto completo: Padova, Vicenza, Verona e le Dolomiti bellunesi",
+   7
+  ],
+  [
+   "alaska-14g",
+   "Alaska: Anchorage, Kenai, Denali e i fiordi",
+   14
+  ],
+  [
+   "antille-francesi-14g",
+   "Antille francesi: Guadalupa e Martinica",
+   14
+  ],
+  [
    "australia-la-costa-est-14g",
    "Australia: la costa est",
    14
@@ -1688,6 +1808,11 @@
    14
   ],
   [
+   "australia-occidentale-14g",
+   "Australia occidentale: Perth, Coral Coast e Margaret River",
+   14
+  ],
+  [
    "bhutan-14g",
    "Bhutan",
    14
@@ -1695,6 +1820,11 @@
   [
    "bolivia-14g",
    "Bolivia",
+   14
+  ],
+  [
+   "borneo-malese-14g",
+   "Borneo malese: Sabah e Sarawak",
    14
   ],
   [
@@ -1725,6 +1855,16 @@
   [
    "filippine-palawan-cebu-e-bohol-14g",
    "Filippine: Palawan, Cebu e Bohol",
+   14
+  ],
+  [
+   "florida-14g",
+   "Florida: Miami, Keys, Everglades e la costa del Golfo",
+   14
+  ],
+  [
+   "giappone-del-nord-14g",
+   "Giappone del Nord: Hokkaido e Tohoku",
    14
   ],
   [
@@ -1768,6 +1908,11 @@
    14
   ],
   [
+   "ladakh-e-himachal-14g",
+   "India himalayana: Ladakh e Himachal Pradesh",
+   14
+  ],
+  [
    "madagascar-14g",
    "Madagascar",
    14
@@ -1780,6 +1925,11 @@
   [
    "mauritius-e-reunion-14g",
    "Mauritius e Réunion",
+   14
+  ],
+  [
+   "messico-bassa-california-14g",
+   "Messico: Bassa California e la costa del Pacifico",
    14
   ],
   [
@@ -1798,8 +1948,23 @@
    14
   ],
   [
+   "panama-14g",
+   "Panama: canale, Bocas del Toro, San Blas e Boquete",
+   14
+  ],
+  [
+   "polinesia-francese-14g",
+   "Polinesia francese: Tahiti, Moorea e le Isole della Società",
+   14
+  ],
+  [
    "repubblica-dominicana-14g",
    "Repubblica Dominicana",
+   14
+  ],
+  [
+   "seychelles-14g",
+   "Seychelles: Mahé, Praslin e La Digue",
    14
   ],
   [
@@ -1810,6 +1975,11 @@
   [
    "taiwan-14g",
    "Taiwan",
+   14
+  ],
+  [
+   "zambia-e-malawi-14g",
+   "Zambia e Malawi: Cascate Vittoria, South Luangwa e il lago",
    14
   ]
  ],

@@ -48,3 +48,15 @@ doppioni.
   devono fetchare solo URL comparsi in una WebSearch precedente. Dirlo nel prompt.
 - Il commit 7c7d6db riporta per errore «5 da 3, 18 da 7, 11 da 14»: le mete
   pubblicate sono 3 da 2 giorni, 6 da 3, 16 da 7 e 12 da 14 (37 in tutto).
+
+## Nota dalla run del 7 novembre 2026
+- Il tetto di WebSearch del turno si è esaurito dopo circa 42 agenti (34 schede
+  nuove da 5 ricerche + 8 completamenti da 3): con 5 WebSearch a scheda il budget
+  copre ~30 mete da 7-14 giorni più i completamenti; le 1-3 giorni vanno nel
+  secondo turno (`send_later`). Gli agenti con tetto 4 ricerche hanno lasciato
+  quasi tutti pasti/alloggio senza numeri: meglio 5 ricerche e meno mete.
+- Le schede uscite senza budget (costi solo testuali) non vanno pubblicate: si
+  spostano in `/home/claude/run/pending/` e si completano nel turno successivo
+  con `COMPLETA.md`.
+- `add_repo` non è disponibile nella sessione pianificata: `app-famiglia` non si
+  attacca, si pubblica solo su `viaggi-dati`.
