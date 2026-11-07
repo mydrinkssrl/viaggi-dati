@@ -260,6 +260,151 @@
       }
     },
     {
+      "id": "carmignano-e-artimino-1g",
+      "nome": "Carmignano e Artimino",
+      "sottotitolo": "Toscana (Prato), colline del Carmignano DOCG con villa medicea UNESCO, Pontormo e tumuli etruschi",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto da Firenze, circa 25 km senza pedaggi (Artimino è a circa 50 minuti secondo le guide locali, Carmignano a circa 30). Con il bus il giro tra Artimino, Carmignano e Comeana è scomodo: l'auto è il mezzo che rende la giornata fattibile.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 40-50 minuti in auto fino ad Artimino (circa 25 km, nessun pedaggio); circa 70 km totali con gli spostamenti tra Comeana, Carmignano e Artimino.",
+      "durataViaggioMinuti": 45,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: colline verdi o vendemmia, temperature miti. A novembre-febbraio il tumulo di Comeana è aperto solo nei fine settimana.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 72,
+      "costoMax": 89,
+      "costoNota": "Il totale include auto (carburante 0,129 €/km su circa 70 km, diviso per 2), museo di Artimino, degustazione e pranzo (fascia 25-40 € di Carmignano su Sluurpy, dato 2025, non un menu specifico). Il tumulo di Comeana risulta gratuito. Il parcheggio non ha tariffe reperite e resta fuori dalla somma.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le tre tappe stanno in un raggio di pochi chilometri: Comeana, Carmignano e Artimino sono collegate da strade collinari di 10-15 minuti. Una mattina copre tumulo etrusco e Pontormo, il pranzo cade ad Artimino, il pomeriggio bastano villa, museo e una cantina con degustazione di circa 90 minuti. Sono 5-6 punti di interesse senza fretta, e la visita guidata della villa e le cantine funzionano su prenotazione, quindi conviene non aggiungere altro.",
+      "cosaVedere": [
+        "Villa medicea La Ferdinanda ad Artimino: progettata da Buontalenti nel 1596 per Ferdinando I, patrimonio UNESCO dal 2013 e famosa per i camini a forma di cento comignoli; la visita è gratuita su prenotazione secondo VisitTuscany.",
+        "Museo archeologico di Artimino: reperti della necropoli etrusca del territorio, tra cui quelli del tumulo di Montefortini, nel borgo di Artimino (piazza San Carlo 3).",
+        "Pieve di San Leonardo ad Artimino: piccola chiesa romanica di campagna, nel paesaggio dei vigneti, tappa breve a due passi dalla villa.",
+        "Carmignano, chiesa di San Michele e San Francesco: custodisce la Visitazione di Pontormo (202 x 156 cm), capolavoro manierista dai colori acidi che da solo vale la deviazione.",
+        "Tumulo etrusco di Montefortini a Comeana: tomba monumentale di circa 60 metri di diametro, con corridoio e camere visitabili.",
+        "Cantine del Carmignano DOCG (Tenuta di Artimino, Capezzana, Bacchereto): visite con degustazione di vino, olio e Vin Santo, da prenotare."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante)",
+          "testo": "Circa 70 km complessivi (A/R da Firenze più spostamenti tra Comeana, Carmignano e Artimino) a 0,129 €/km, benzina; nessun pedaggio.",
+          "min": 9,
+          "max": 9,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo archeologico di Artimino",
+          "testo": "4 € intero, 2 € ridotto (tariffa riportata da museionline.info; da riconfermare).",
+          "min": 2,
+          "max": 4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Villa La Ferdinanda",
+          "testo": "Visita gratuita su prenotazione secondo VisitTuscany; la villa è anche hotel, quindi gli accessi variano.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Degustazione in cantina",
+          "testo": "40 € a persona, 1h30, visita della villa e degustazione di vini di Artimino (prenotazione online, gruppi fino a 12).",
+          "min": 40,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Tumulo di Montefortini",
+          "testo": "Ingresso gratuito secondo Prato Turismo e museionline.info (orari da verificare: 055 8718124).",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Fascia di Carmignano su Sluurpy: pasto completo con bevande 25-40 € a persona (economico 15-20 €, ristoranti di livello da 50 €); dato del 2025, adatto anche a Da Delfina o ai locali di Artimino.",
+          "min": 25,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggio",
+          "testo": "Prezzo non verificato: nei borghi di Artimino e Carmignano la sosta non risulta a tariffa nelle fonti consultate.",
+          "min": null,
+          "max": null,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante (vettura) diviso tra i due viaggiatori; museo e degustazione sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il tumulo di Comeana: lunedì, mercoledì, venerdì 8:30-13 e 13:30-17, giovedì 10-13, sabato e domenica chiuso secondo italia.it; il museo di Artimino segnala invece orari propri (verificare)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il museo di Artimino da novembre a febbraio apre solo sabato, domenica e festivi 9:30-16:00 secondo museionline.info; da marzo a ottobre feriali 9:30-13:30 e weekend 9:30-18:00."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Degustazione e visita della villa su prenotazione, conferma dall'host entro 24 ore."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Il bus non collega bene Comeana, Carmignano e Artimino: serve l'auto per spostarsi tra le tre tappe."
+        }
+      ],
+      "note": "Le fonti sul tumulo di Comeana sono discordanti sugli orari: telefona prima (055 8718124) e controlla il sito del Parco archeologico di Carmignano. Il giro funziona meglio nel fine settimana tra novembre e febbraio, quando musei e tumulo sono aperti insieme. La Visitazione di Pontormo è in una chiesa di paese: verificare gli orari di apertura sul posto o dal Comune.",
+      "fonti": [
+        "https://www.visittuscany.com/it/idee/gita-ad-artimino-vino-etruschi-e-cento-camini/",
+        "https://visittuscany.com/en/ideas/a-trip-to-carmignano-where-to-go-and-what-to-do",
+        "https://www.winetourism.com/it/visita-in-cantina/discover-carmignano/",
+        "https://museionline.info/musei/museo-archeologico-di-artimino",
+        "https://www.italia.it/it/toscana/carmignano/luoghi-della-cultura/tumulo-di-montefortini---area-archeologica-di-comeana",
+        "https://www.pratoturismo.it/en/where/restaurants/da-delfina-en/",
+        "https://italysegreta.com/it/artimino-la-gita-fuori-porta-da-firenze-piu-sottovalutata/",
+        "https://www.sluurpy.it/carmignano/economico",
+        "https://www.sluurpy.it/carmignano/ristorante",
+        "https://www.pratoturismo.it/en/what/places-to-see/comune/carmignano/Etruscan-tumulus-of-Montefortini",
+        "https://museionline.info/toscana-musei-monumenti/complesso-monumentale-etrusco-di-montefortini"
+      ],
+      "aggiuntaIl": "2026-11-07",
+      "coordinate": {
+        "lat": 43.7937,
+        "lon": 11.001
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il tumulo e i giardini piacciono a un bimbo di 4 anni, ma degustazione e musei sono per adulti e servono spostamenti in auto."
+      }
+    },
+    {
       "id": "carrara-e-le-cave-di-marmo-1g",
       "nome": "Carrara e le cave di marmo",
       "sottotitolo": "Toscana, Alpi Apuane: in jeep dentro le cave a cielo aperto di Fantiscritti, dove si estrae il marmo statuario",
@@ -1257,6 +1402,136 @@
       }
     },
     {
+      "id": "crete-senesi-asciano-e-monte-oliveto-1g",
+      "nome": "Crete Senesi: Asciano e Monte Oliveto Maggiore",
+      "sottotitolo": "Toscana, i calanchi e le colline d'argilla a sud di Siena con un borgo medievale e un'abbazia affrescata da Signorelli e Sodoma",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto: raccordo Firenze-Siena (gratuito) fino a Siena, poi SS438 Lauretana verso Asciano (circa 104 km da Firenze, circa 1 ora); da Asciano all'abbazia di Monte Oliveto Maggiore sono circa 9 km di strada panoramica. Senza auto la giornata non è realistica: l'abbazia è isolata nel bosco e il Site Transitoire sta in aperta campagna.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h in auto fino ad Asciano (104 km); altri 15 minuti circa fino all'abbazia.",
+      "durataViaggioMinuti": 60,
+      "periodoMiglioreTesto": "Marzo-maggio, quando le crete sono verdissime, e ottobre-novembre per le luci basse e la nebbia sui calanchi; in luglio-agosto le colline sono gialle, bruciate e senza ombra.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 38,
+      "costoMax": 61,
+      "costoNota": "Il totale comprende carburante, parcheggio, ingresso a Palazzo Corboli e pranzo (20–40 € a persona, fascia da Swipein e Sluurpy, non da listini ufficiali: i prezzi dei menu vanno confermati con il ristorante). I 235 km sono una stima (104 km Firenze-Asciano da fonte, più circa 9 km per l'abbazia e qualche km per Leonina, andata e ritorno). Orari e tariffa di Palazzo Corboli e orari dell'abbazia non sono stati confermati per il 2026 sui siti ufficiali (tariffario 2022): verificare.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le tre tappe sono vicine tra loro (Asciano - Monte Oliveto circa 9 km, Leonina e il Site Transitoire sulla stessa zona): un museo piccolo, una collegiata, un'abbazia con il chiostro da 36 scene e qualche sosta panoramica riempiono una giornata senza fretta. Asciano si gira a piedi in un'ora e mezza; all'abbazia servono almeno due ore per chiostro, chiesa, refettorio e biblioteca. Il resto del tempo va ai belvedere e al pranzo. Più giorni servirebbero solo aggiungendo Pienza, Buonconvento o la Val d'Orcia, cioè un altro viaggio.",
+      "cosaVedere": [
+        "Abbazia di Monte Oliveto Maggiore: il chiostro grande ha 36 scene della vita di San Benedetto, le prime di Luca Signorelli (1497-1498), le altre del Sodoma dal 1505; poi la chiesa con il coro ligneo intarsiato e la biblioteca a tre navate del 1518.",
+        "Museo di Palazzo Corboli ad Asciano: ospita il trittico di Ambrogio Lorenzetti e un affresco con la ruota di Barlaam, in un palazzo medievale lungo il corso.",
+        "Collegiata di Sant'Agata e chiesa di San Francesco ad Asciano: il centro è piccolo e si gira a piedi in pochissimo tempo, ma queste due chiese danno il senso del borgo senese.",
+        "Site Transitoire: opera di land art di Jean-Paul Philippe su una collina tra Leonina e Mucigliani, legata alla luce del sole e della luna, sempre accessibile.",
+        "Strada della Leonina e belvedere sui calanchi: le colline di argilla nuda e i cipressi sono quello che ti fa venire in mente le Crete Senesi, e si vedono bene dalle strade secondarie.",
+        "Chiusure o San Giovanni d'Asso come variante: il primo è un borgo sopra i calanchi vicino all'abbazia, il secondo è il paese del tartufo con il museo nel castello."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante)",
+          "testo": "Circa 235 km A/R a 0,129 €/km (benzina 1,98 €/l, 6,5 l/100 km): circa 30 €. Nessun pedaggio: il raccordo Firenze-Siena è gratuito e la SS438 non ha pedaggi.",
+          "min": 30,
+          "max": 30,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggio",
+          "testo": "Monte Oliveto: 1 € secondo Lonely Planet, gratuito secondo park4night (spazi limitati, a maggio 2026 l'accesso al parcheggio del ristorante era segnalato chiuso ai camper). Asciano: da verificare.",
+          "min": 0,
+          "max": 1,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Abbazia di Monte Oliveto: ingresso",
+          "testo": "Ingresso gratuito; è richiesta un'offerta per biblioteca, museo e farmacia. La visita della cantina storica è gratuita.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo di Palazzo Corboli: biglietto",
+          "testo": "5 € intero, 3 € ridotto (tariffa dell'ultimo aggiornamento disponibile, 2022).",
+          "min": 3,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "20–40 € a persona: Ristorante La Torre (Monte Oliveto) indicato a 20–30 € su Swipein (testo generato automaticamente, da confermare); media di Asciano 25–40 € a persona bevande incluse e 15–20 € in locali economici secondo Sluurpy (stima non fonte-citata). Opzioni: La Torre di Monte Oliveto (chiuso il lunedì, tel. 0577 707022), La Mencia ad Asciano (chiusa il lunedì, tel. 0577 718227), Il Bersagliere ad Asciano, Locanda Paradiso a Chiusure. Chiedere il menu prima.",
+          "min": 20,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Il carburante e il parcheggio sono della vettura (divisi tra i due viaggiatori); gli ingressi sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Palazzo Corboli risulta aperto da mercoledì a domenica, 10-13 e 15-19 (fonte aggiornata al 2022): chiuso lunedì e martedì, scegliere un giorno dal mercoledì in poi e telefonare al +39 0577 714450."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "L'abbazia risulta aperta tutti i giorni 9-17 (fonte aggiornata al 2022); conferma telefonica allo 0577 707611 e occhio alla pausa di mezzogiorno. A novembre le giornate sono corte: arrivare entro metà pomeriggio."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Il parcheggio di Monte Oliveto è piccolo e al sole: nei weekend di primavera e autunno si riempie e si parcheggia lungo la strada. Il viale dei Cipressi (fattoria Baccoleno) è una strada privata con cancello: foto solo dalle colline vicine."
+        }
+      ],
+      "note": "Il consiglio che si trova solo sapendo il posto: la domenica alle 11 all'abbazia c'è la messa con canto gregoriano (fonte Lonely Planet), ma è anche il momento in cui si riempie; chi vuole il chiostro in pace deve andare nel tardo pomeriggio di un feriale. I monaci vendono vino e olio nella cantina storica, con degustazione gratuita. Il percorso Siena-Asciano sulla SS438 è lento e panoramico: lasciare tempo per fermarsi. Meglio decidere il pranzo prima di partire.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Asciano/",
+        "https://en.wikipedia.org/wiki/Raccordo_autostradale_RA3",
+        "https://www.italia.it/it/toscana/asciano/luoghi-della-cultura/abbazia-di-monte-oliveto-maggiore",
+        "https://www.touringclub.it/destinazioni/asciano/vedere/99214-abbazia-di-monte-oliveto-maggiore",
+        "https://www.museionline.info/toscana-musei-monumenti/abbazia-di-monte-oliveto-maggiore",
+        "https://museionline.info/toscana-musei-monumenti/museo-di-palazzo-corboli",
+        "https://www.lonelyplanet.com/points-of-interest/abbazia-di-monte-oliveto-maggiore/1138395",
+        "https://park4night.com/es/place/80112",
+        "https://finestresullarte.info/fr/carnets-de-voyage/15600vn_crete-senesi-que-voir-itineraire-en-10-etapes.php",
+        "https://cretesenesiholidays.lodgify.com/en/best-restaurants-in-asciano-or-rapolano",
+        "https://www.summerinitaly.com/guide/restaurant-la-torre",
+        "https://www.italia.it/it/toscana/asciano/dove-mangiare/ristorante-la-mencia",
+        "https://www.summerinitaly.com/guide/restaurant-il-bersagliere",
+        "https://www.summerinitaly.com/guide/san-giovanni-d-asso",
+        "https://www.swipein.restaurant/en/restaurant/ristorante-la-torre-asciano",
+        "https://www.sluurpy.it/asciano/gastronomia"
+      ],
+      "aggiuntaIl": "2026-11-07",
+      "coordinate": {
+        "lat": 43.2336,
+        "lon": 11.4731
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il chiostro e i calanchi si fanno volentieri anche con un bimbo di 4 anni, ma l'abbazia chiede silenzio e il museo di Asciano è piccolo; bene come mezza giornata in auto."
+      }
+    },
+    {
       "id": "faenza-1g",
       "nome": "Faenza",
       "sottotitolo": "Emilia-Romagna, la città della maiolica lungo la storica linea Faentina",
@@ -1613,6 +1888,160 @@
       }
     },
     {
+      "id": "forli-e-castrocaro-terme-1g",
+      "nome": "Forlì e Castrocaro Terme",
+      "sottotitolo": "Emilia-Romagna, la grande mostra d'arte di Forlì e il borgo termale con fortezza sulle colline",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. a Forlì (diretto o con cambio a Faenza/Bologna a seconda della corsa; verificare gli orari su Trenitalia o Italo), poi bus di linea o taxi da Forlì a Castrocaro (circa 10 km). In alternativa auto: A1 + A14 oppure la SS67 del Muraglione, più lenta ma panoramica; a Forlì conviene lasciare l'auto fuori dalla ZTL.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Dalle aggregatori consultati la durata varia molto: da circa 1h06 con Italo a 2h46 o più con Regionale; contare 1h30-2h30 a seconda della corsa. Forlì-Castrocaro circa 26 minuti in bus (linea 127).",
+      "durataViaggioMinuti": 120,
+      "periodoMiglioreTesto": "Marzo-giugno e settembre-novembre: la mostra annuale di San Domenico va da autunno a inverno-primavera e le colline di Castrocaro sono piacevoli. A luglio-agosto fa molto caldo in pianura.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 40,
+      "costoMax": 73,
+      "costoNota": "Totale a persona: treno A/R in Regionale (16-24 €), mostra Lee Miller, Fortezza e pranzo (8-30 €: piadineria 8-17 €, trattoria 18-30 € secondo voloscontato.it). Il biglietto del bus Forlì-Castrocaro non è stato trovato su fonti ufficiali: tariffa non inclusa (di solito pochi euro). L'auto è solo un confronto e non entra nel totale.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Forlì ha un centro compatto: Piazza Saffi, San Mercuriale, i Musei di San Domenico con la mostra (circa 2 ore) e la Pinacoteca stanno in meno di un chilometro a piedi. Castrocaro dista circa 10 km e basta mezza giornata tra Fortezza, borgo e Terra del Sole; con partenza al mattino e rientro serale si fa tutto senza correre, ma aggiungere Palazzo Romagnoli o le Terme richiede già di scegliere.",
+      "cosaVedere": [
+        "Musei di San Domenico, Forlì: sede della grande mostra annuale; ora Lee Miller. Opere 1930-1955 (10 ottobre 2026 - 10 gennaio 2027, oltre 160 fotografie), con il Giapponismo in programma.",
+        "Pinacoteca Civica Melozzo degli Ambrogi, nello stesso complesso: dipinti da Beato Angelico a Cagnacci, Canova e Morandi.",
+        "Piazza Saffi e Abbazia di San Mercuriale: il campanile romanico è il simbolo della città.",
+        "Palazzo Romagnoli e il quartiere razionalista di Forlì: l'architettura degli anni Trenta lungo il cosiddetto Miglio Bianco, da cercare passeggiando.",
+        "Fortezza di Castrocaro con il Museo storico: castello medievale sul colle sopra le Terme.",
+        "Terme e Padiglione delle Feste a Castrocaro: il complesso liberty del primo Novecento nel parco termale.",
+        "Terra del Sole: la città fortezza fondata dai Medici nel 1564, a pochi chilometri, con le mura intatte."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Da circa 8-12 € a tratta in Regionale secondo gli aggregatori (16-24 € A/R); Frecce/Italo più cari.",
+          "min": 16,
+          "max": 24,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto (confronto)",
+          "testo": "Confronto: 109 km da Forlì a Firenze secondo distanzechilometriche.net (SS67 Tosco-Romagnola, circa 1h52) e pedaggio autostradale di 14,22 € a tratta secondo UnipolMove; A/R circa 218 km, carburante circa 28 € a 0,129 €/km più circa 28 € di pedaggio, circa 57 € per la vettura (circa 28 € a persona). Il percorso del calcolatore di pedaggio non è specificato.",
+          "min": 57,
+          "max": 57,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Bus Forlì-Castrocaro",
+          "testo": "Linea 127 Start Romagna da Forlì Punto Bus a Castrocaro: circa 26 minuti di corsa (orario inverno 2024-25; feriale circa 10 corse, festivo solo 2 corse alle 10:10 e 18:15, verificare l'orario attuale). Tariffa non verificata, non inclusa nel totale.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggi",
+          "testo": "Solo per chi viene in auto: parcheggi a pagamento ai bordi della ZTL di Forlì e gratuiti o economici a Castrocaro; tariffe non verificate.",
+          "min": null,
+          "max": null,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Mostra Lee Miller, San Domenico",
+          "testo": "14 € intero, 12 € ridotto.",
+          "min": 12,
+          "max": 14,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Fortezza di Castrocaro",
+          "testo": "5 € intero, 4 € ridotto.",
+          "min": 4,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pinacoteca Civica (facoltativa)",
+          "testo": "5 € intero, 3 € ridotto secondo una scheda del 2023; da verificare se incluso nel biglietto della mostra.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Piadineria 8-17 € a persona, trattoria o osteria 18-30 €, menu a prezzo fisso a pranzo da 16 € (voloscontato.it, Forlì).",
+          "min": 8,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Treno, biglietti d'ingresso, bus e pranzo sono a persona; carburante, pedaggi e parcheggio, se si va in auto, sono della vettura e si dividono per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Forlì ha ZTL: chi viene in auto parcheggia fuori e va a piedi; dalla stazione il centro è raggiungibile a piedi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Mostra San Domenico: lun-ven 9:30-19:00, sab, dom e festivi 9:30-20:00. Pinacoteca: mar-ven 9:30-17:30, sab-dom 10-18 (scheda 2023). Fortezza di Castrocaro: orari fonte museionline sab 15-19, dom e festivi 10-19; telefonare allo 0543 769541 prima di andare, soprattutto in feriale."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "I biglietti della mostra si acquistano online sul sito della mostra; non è stato verificato se sia obbligatoria la prenotazione nei weekend affollati."
+        }
+      ],
+      "note": "La Fortezza è sicura soprattutto nel fine settimana, quindi conviene fare questa gita di sabato o domenica; se parti in feriale, chiama prima. La mostra di San Domenico cambia ogni anno e di solito va da autunno a gennaio e da febbraio a giugno: controlla il titolo in corso.",
+      "fonti": [
+        "https://www.cosedicasa.com/mostre/lee-miller-opere-1930-1955",
+        "https://www.finestresullarte.info/mostre/museo-civico-san-domenico-forli-mostra-lee-miller",
+        "https://www.finestresullarte.info/musei-sedi-gallerie/museo-civico-san-domenico",
+        "https://museionline.info/musei/pinacoteca-civica-melozzo-degli-ambrogi",
+        "https://www.museionline.info/emilia-romagna-musei-monumenti/fortezza-di-castrocaro",
+        "https://www.omio.it/treni/firenze/forli",
+        "https://www.omio.it/treni/forli",
+        "https://scopriforli.it/upload/turismoforli_ecm10/documentiallegati/ScopriForlintuttelestagioni_13660_3427.pdf",
+        "https://startromagna.it/wp-content/uploads/2024/10/FC_Linea_127_inv24-25_4.11.24.pdf",
+        "https://www.voloscontato.it/ristoranti/forli-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.unipolmove.it/calcola-pedaggio/Forli/Firenze/",
+        "https://distanzechilometriche.net/forli-firenze/?alt=1"
+      ],
+      "aggiuntaIl": "2026-11-07",
+      "coordinate": {
+        "lat": 44.2227,
+        "lon": 12.0407
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "La fortezza e Terra del Sole piacciono a un bimbo di 4 anni, la mostra fotografica molto meno."
+      }
+    },
+    {
       "id": "imola-1g",
       "nome": "Imola",
       "sottotitolo": "Emilia-Romagna, la città dell'autodromo Enzo e Dino Ferrari con un centro storico raccolto lungo la via Emilia",
@@ -1840,6 +2269,138 @@
       "bambini": {
         "adatta": "si",
         "nota": "Percorso piano e senza auto, Spiaggia Grande di Bonassola con fondale basso; con un bimbo di 4 anni si usa la bici con seggiolino o si cammina fino a Bonassola."
+      }
+    },
+    {
+      "id": "lucignano-e-monte-san-savino-1g",
+      "nome": "Lucignano e Monte San Savino",
+      "sottotitolo": "Toscana, Val di Chiana: il borgo a pianta ellittica con l'Albero d'Oro e la cittadina rinascimentale del Sangallo",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto da Firenze lungo l'A1 verso sud fino al casello di Monte San Savino (circa 80 km), poi pochi chilometri di provinciale per Lucignano. Il treno non è pratico: le stazioni della zona sono lontane dai centri storici.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h in auto da Firenze a Monte San Savino (circa 80 km); Lucignano è a una decina di minuti dal casello.",
+      "durataViaggioMinuti": 70,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre, con luce buona per i borghi in pietra; a fine maggio c'è la Maggiolata Lucignanese con carri fioriti. Luglio e agosto sono caldi e le strade dei borghi collinari senza ombra.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 34,
+      "costoMax": 61,
+      "costoNota": "Totale a persona con 2 viaggiatori: museo di Lucignano, pranzo e vettura (carburante 22 € + pedaggio A1 10,80 € A/R + parcheggi 0 €, diviso per due). Il parcheggio gratuito è verificato solo per Lucignano; a Monte San Savino le tariffe non sono verificate. Pedaggio da fonte che non indica classe e casello.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Lucignano si gira a piedi in meno di due ore: quattro vie concentriche, la Collegiata e il Museo Comunale con l'Albero d'Oro. Monte San Savino è a pochi minuti d'auto e occupa un'altra mezza giornata tra Logge dei Mercanti, Palazzo di Monte, Cassero e Sinagoga. Due borghi compatti, poche attrazioni a pagamento: una giornata intera li copre senza fretta, con pranzo seduti.",
+      "cosaVedere": [
+        "Lucignano, pianta ellittica: le vie si dispongono ad anelli concentrici attorno alla collina, un impianto medievale insolito che si capisce meglio camminandolo che guardando la mappa.",
+        "Museo Comunale di Lucignano: custodisce l'Albero d'Oro (o Albero della Vita), reliquiario alto circa 2,60 m realizzato tra il 1350 e il 1471, con dodici rami e piccole teche, oltre a opere dal XIII al XVIII secolo, tra cui due dipinti attribuiti a Luca Signorelli.",
+        "Collegiata di San Michele Arcangelo e chiesa di San Francesco a Lucignano, in cima e ai margini dell'abitato.",
+        "Logge dei Mercanti a Monte San Savino: il portico rinascimentale del Sangallo sul corso, il pezzo più riconoscibile del paese.",
+        "Palazzo di Monte, sempre del Sangallo, a Monte San Savino.",
+        "Cassero di Monte San Savino: la fortezza oggi ospita un museo, riaperto a luglio 2025 con percorso rinnovato, con ceramiche popolari dei secoli XVIII-XIX, un crocifisso senese del Trecento e reperti di scavo.",
+        "Sinagoga di Monte San Savino: testimonianza della comunità ebraica del paese, da verificare l'apertura prima di andare."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "Circa 175 km A/R (80 km per tratta più il tratto fino a Lucignano e i giri locali) a 0,129 €/km: circa 22 € di benzina per la vettura.",
+          "min": 22,
+          "max": 22,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggio A1",
+          "testo": "Firenze-Monte San Savino circa 81 km, 5,40 € a tratta (10,80 € A/R) secondo il calcolatore Unipol Move; la pagina non indica la classe né il casello, ma gli importi dei calcolatori sono per auto.",
+          "min": 10.8,
+          "max": 10.8,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggi",
+          "testo": "Lucignano: parcheggio gratuito di 40 posti sulla SP 19 ai piedi del borgo (park4night). Monte San Savino: tariffe non verificate, da controllare sul posto.",
+          "min": 0,
+          "max": 0,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Comunale di Lucignano",
+          "testo": "5 € intero, 3 € ridotto (fonte museionline).",
+          "min": 3,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cassero di Monte San Savino",
+          "testo": "Ingresso gratuito secondo il portale turistico di Monte San Savino (pagina dei musei; orari 10-13 e 15-18 da giovedì a domenica, mattina lun-mer).",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 15-20 € in una soluzione economica, 25-40 € in un ristorante di fascia media (stime di Sluurpy, bevande incluse).",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Persona: museo di Lucignano, Cassero (gratuito) e pranzo. Vettura (divisa per due viaggiatori): carburante, pedaggio A1 e parcheggi.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "I centri storici di Lucignano e Monte San Savino si visitano a piedi: lasciare l'auto fuori dalle mura e salire a piedi, le vie interne sono strette e in salita."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Orari del Museo Comunale di Lucignano discordanti nelle fonti: una lo indica aperto tutti i giorni 10:30-13:00 e 14:30-18:30, un'altra giovedì-domenica. Telefonare allo 0575 838001 prima di partire. Il Cassero riaperto da luglio 2025: orari da verificare."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione dichiarata; nel weekend a fine maggio la Maggiolata porta più gente a Lucignano."
+        }
+      ],
+      "note": "Dei due borghi, parti da Lucignano e sali fino alla Collegiata prima di pranzo, poi scendi a Monte San Savino nel pomeriggio: così tieni il Cassero e le Logge quando la luce cala. Se avanza tempo, la variante sono Marciano della Chiana o Foiano, a pochi minuti, ma senza una tappa fissa. Arezzo resta fuori da questo programma.",
+      "fonti": [
+        "https://www.museionline.info/musei/museo-comunale-di-lucignano",
+        "https://en.wikivoyage.org/wiki/Lucignano",
+        "https://www.visittuscany.com/en/attractions/the-cassero-municipal-museum/",
+        "https://www.monteturismo.it/en/what-to-visit/buildings-monuments/72-the-cassero",
+        "https://www.sluurpy.it/lucignano/ristorante",
+        "https://www.nostrofiglio.it/famiglia/viaggi/lucignano-con-i-bambini-il-borgo-toscano-a-spirale-che-lascera-senza-fiato",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Monte-San-Savino/",
+        "https://nuovo.monteturismo.it/en/categoria-luoghi/museum/",
+        "https://park4night.com/it/place/12045"
+      ],
+      "aggiuntaIl": "2026-11-07",
+      "coordinate": {
+        "lat": 43.2756,
+        "lon": 11.7437
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Borghi piccoli e a misura di passeggiata, l'Albero d'Oro è la tappa che incuriosisce di più; con un bimbo di 4 anni conviene fare pause e saltare Sinagoga e Cassero."
       }
     },
     {
@@ -7061,6 +7622,141 @@
       }
     },
     {
+      "id": "francoforte-e-magonza-2g",
+      "nome": "Francoforte e Magonza",
+      "sottotitolo": "Assia e Renania-Palatinato, la città dei grattacieli sul Meno e la città di Gutenberg a mezz'ora di S-Bahn",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Volo diretto Firenze (FLR) – Francoforte (FRA) con Lufthansa o Air Dolomiti, circa 1h35 di volo; tram T2 da Firenze centro a Peretola. In alternativa Pisa o Bologna per tariffe diverse (Ryanair su Hahn non va bene: serve FRA). Dall'aeroporto di Francoforte la S-Bahn porta in centro e a Magonza (linee S8/S9 per Mainz Hbf).",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 1h35 di volo diretto; con tram, check-in e S-Bahn dall'aeroporto circa 4h porta a porta.",
+      "durataViaggioMinuti": 240,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre per il clima mite e il mercato del vino di Magonza; dicembre per i mercatini di Natale, ma freddo e affollato.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 379,
+      "costoMax": 611,
+      "costoNota": "Totale a persona (2 viaggiatori): voli, tram T2, RMV, 1 notte, pasti per 2 giorni e ingressi Städel, Main Tower, Goethe-Haus, Palmengarten. Escluso l'ingresso del Museo Gutenberg (prezzo non trovato su fonti; ticket valido anche per il Naturhistorisches Museum). Alloggio e pasti convertiti da USD solo dove indicato nelle fonti (Booking in USD, 61-170 USD circa 55-150 €). Voli molto variabili: verificare le date.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Due giorni bastano per un giorno pieno a Francoforte (Römerberg, Dom, Museumsufer, Main Tower, Goethe-Haus) e un giorno a Magonza (Duomo, Museo Gutenberg, vetrate di Chagall a St. Stephan). Le distanze sono a piedi nel centro storico e la S-Bahn fra le due città è di circa mezz'ora. Palmengarten e Städel si possono scegliere in base al tempo.",
+      "cosaVedere": [
+        "Römerberg e Dom di Francoforte: la piazza ricostruita con le case a graticcio e il duomo gotico dove venivano incoronati gli imperatori.",
+        "Museumsufer: la riva sud del Meno con una fila di musei, tra cui lo Städel con la pittura europea dal Medioevo a oggi.",
+        "Main Tower: la terrazza panoramica per capire lo skyline dei grattacieli, il contrasto con il centro storico.",
+        "Palmengarten: il giardino botanico con serre tropicali, utile per una pausa verde.",
+        "Goethe-Haus: la casa natale del poeta, ricostruita dopo la guerra, con gli interni borghesi del Settecento.",
+        "Duomo di Magonza: la cattedrale romanica in arenaria rossa, tra le più grandi della Germania.",
+        "Museo Gutenberg: la storia della stampa a caratteri mobili nella città dove nacque.",
+        "St. Stephan: le vetrate blu di Marc Chagall, un'esperienza di luce unica in una chiesa gotica.",
+        "Mercato del vino di Magonza: banchi di vini del Reno nel centro storico, soprattutto nel fine settimana."
+      ],
+      "itinerario": null,
+      "alloggio": "1 notte: camera doppia 3 stelle/budget circa 90-155 € per due (Ibis Budget/B&B 70-110 €, 3 stelle circa 110 €, NH Collection 154 €), cioè 45-78 € a persona; in settimana di fiera (Messe) un 3 stelle sale a circa 240 €. Zone: Francoforte vicino alla Hauptbahnhof o Altstadt/Sachsenhausen, oppure Magonza vicino alla stazione.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R FLR-FRA",
+          "testo": "222-361 € A/R tipicamente su Kayak (media 266 €); Momondo 231-322 €. Diretti con Lufthansa e Air Dolomiti, circa 1h35; il giovedì è il giorno più economico.",
+          "min": 222,
+          "max": 361,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Tram T2 Firenze-aeroporto",
+          "testo": "3,40 € A/R a persona (parametro del documento).",
+          "min": 3,
+          "max": 4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "S-Bahn/RMV",
+          "testo": "MainzCard Plus 11,95 € a persona (RMV, zona 65 e collegamento aeroporto-Mainz/Wiesbaden); in alternativa Frankfurt Card 22 € per 24 ore; biglietto singolo urbano circa 2,75 €.",
+          "min": 12,
+          "max": 22,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (1 notte)",
+          "testo": "Doppia 90-155 € per due in budget/3 stelle (Ibis Budget 70-110 €, 3 stelle circa 110 €, NH Collection 154 €), 45-78 € a persona per 1 notte.",
+          "min": 45,
+          "max": 78,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Colazione 5-9 €, pranzo 10-16 €, cena 15-25 € (Apfelwein/Biergarten 15-25 €, Imbiss 5-10 €): 30-50 € al giorno a persona.",
+          "min": 30,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Städel 16 € (ridotto 14), Main Tower 9 € (ridotto 6), Goethe-Haus 12 €, Palmengarten 9 € (gratis la prima domenica del mese). Museo Gutenberg: prezzo non verificato, escluso.",
+          "min": 37,
+          "max": 46,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona; non c'è auto. Alloggio: 1 notte, importo a persona (doppia divisa per due). Pasti: al giorno a persona, moltiplicati per 2 giorni. Il Museo Gutenberg non è quantificato.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "In città si cammina e si usa il trasporto pubblico RMV: non serve l'auto. Il biglietto va convalidato prima della partenza; senza biglietto valido la multa è di 60 €."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Städel: chiuso il lunedì; aperto 10-18 (giovedì 10-21). Museo Gutenberg: il comunicato 2026 indica orario lun-mer e ven-dom 9-18, giovedì 9-20, chiuso per manutenzione 11-18 gennaio 2026; un'altra scheda del museo indica invece chiuso il lunedì (mar-sab 9-17, dom 11-17): controllare prima. Palmengarten: aperto tutti i giorni tranne 24 e 31 dicembre, biglietteria 9-19 da marzo a ottobre e 9-16 da novembre a febbraio, serre un'ora dopo. Orari Main Tower e Goethe-Haus non trovati su fonti: vedere maintower.de e il sito del Goethe-Haus."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Main Tower e mostre temporanee dello Städel conviene prenotarle online; in settimana di fiera gli hotel salgono molto di prezzo."
+        }
+      ],
+      "note": "Per risparmiare, la MainzCard Plus include il collegamento aeroporto-Mainz e sconti sui musei locali, e vale più dei biglietti singoli. Atterrando a FRA si può lasciare il bagaglio e andare subito a Magonza, tornando a Francoforte la sera. Il giovedì è il giorno più economico per volare.",
+      "fonti": [
+        "https://www.kayak.it/voli/Firenze-Aeroporto-Peretola-FLR/Francoforte-sul-Meno-FRA",
+        "https://www.momondo.it/volo/firenze/aeroporto-di-francoforte-sul-meno-fra",
+        "https://www.rmv.de/c/en/fahrkarten/die-richtige-fahrkarte/tickets-overview/local-tickets/mainzcardplus",
+        "https://timeout.com/frankfurt/things-to-do/public-transportation-in-frankfurt",
+        "https://www.booking.com/threestars/city/de/frankfurt-am-main.html?aid=9",
+        "https://lorenzigo.com/frankfurt-trip-cost-budget/",
+        "https://www.gotripzi.com/destinations/frankfurt-de/cost",
+        "https://whichmuseum.co.uk/museum/staedel-museum-frankfurt-5636/opening-hours",
+        "https://www.visitfrankfurt.travel/en/package/permanent-exhibition-at-the-staedel-museum",
+        "https://www.mainz.de/microsite/gutenberg-museum/medien/bindata/pressemitteilungen/2026-01-08_PM-Schliessung-Pflege-und-Wartungsarbeiten.pdf",
+        "https://www.mainz.de/microsite/gutenberg-museum-en/medien/bindata/GM_1600_engl.pdf",
+        "https://www.premierinn.com/de/de/reiseziele/frankfurt/parks/palmengarten-frankfurt.html"
+      ],
+      "aggiuntaIl": "2026-11-07",
+      "coordinate": {
+        "lat": 50.11,
+        "lon": 8.68
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Palmengarten e Museo Gutenberg piacciono ai bimbi, ma il ritmo è fitto e la Main Tower è meno adatta a un bimbo di 4 anni."
+      }
+    },
+    {
       "id": "gaeta-e-sperlonga-2g",
       "nome": "Gaeta e Sperlonga",
       "sottotitolo": "Lazio meridionale, due borghi sul mare della Riviera di Ulisse: il promontorio di Gaeta e il villaggio bianco di Sperlonga",
@@ -8518,6 +9214,147 @@
       }
     },
     {
+      "id": "matera-e-altamura-2g",
+      "nome": "Matera e Altamura",
+      "sottotitolo": "Basilicata e Puglia, i Sassi e le chiese rupestri di Matera più la Cattedrale federiciana e il pane DOP di Altamura",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Volo diretto Ryanair Pisa-Bari (circa 1h20), con collegamento Firenze-Pisa in treno e Pisa Mover (in alternativa auto a Pisa con parcheggio, oppure Bologna-Bari con treno e Marconi Express). Da Bari aeroporto a Matera con bus Sitabasilicata (circa 1h15, 7 corse dirette al giorno tra le 9:30 e le 22:45). Per Altamura e il Pulo si usano la linea FAL/bus oppure un'auto a noleggio a Bari, utile soprattutto per Murgia Timone e il Parco delle chiese rupestri.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 5h30 porta a porta in sola andata: Firenze-aeroporto di Pisa, volo di 1h20 per Bari, poi bus di 1h15 fino a Matera. Il tempo è una stima, i soli tratti verificati sono volo e bus.",
+      "durataViaggioMinuti": 330,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: il clima è mite per camminare tra i Sassi e sulla Murgia, e i prezzi restano contenuti. Ottobre è il mese più economico per gli hotel di Matera (media 109 € a notte), agosto il più caro (fino a 540 € a notte) e va evitato.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 251,
+      "costoMax": 506,
+      "costoNota": "Fascia larga perché il volo Pisa-Bari varia molto (tariffe usuali 77-222 € A/R, minimo recente 37 €). Gli importi di alloggio e pasti sono moltiplicati per 2 giorni come da motore costi: con una sola notte reale la spesa scende di circa 30-55 €. Non verificati e quindi esclusi dal totale: ingresso ai Sassi e al Parco della Murgia Materana, collegamento Matera-Altamura, noleggio auto, pasti a Matera (i prezzi dei pasti sono quelli verificati per Altamura). Costo Pisa Mover e treno secondo i parametri del documento di viaggio.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Matera da sola richiede già una giornata piena: i Sassi Barisano e Caveoso, la Casa Grotta di Vico Solitario, il Palombaro Lungo e la Cripta del Peccato Originale, che si raggiunge fuori città sulla Gravina di Picciano e si visita solo su prenotazione. Altamura sta a mezza giornata: Cattedrale federiciana, centro storico con i forni, Museo Archeologico e un'uscita al Pulo, la grande dolina carsica profonda circa 90 metri. In due giorni si fa tutto con calma se si dorme a Matera e si dedica la seconda giornata ad Altamura e alla Murgia; con un solo giorno si dovrebbe tagliare o l'uno o l'altro. Il ritmo è tranquillo, senza dover correre tra le visite.",
+      "cosaVedere": [
+        "Sassi di Matera (Barisano e Caveoso): il labirinto di case scavate nel tufo si gira a piedi in mezza giornata, con le scale e i vicoli da percorrere con scarpe che aderiscano bene.",
+        "Casa Grotta di Vico Solitario: abitazione rupestre con quattro stanze su tre livelli, più stalla e cantina, che mostra come si viveva nei Sassi prima degli sfollamenti degli anni Cinquanta.",
+        "Cripta del Peccato Originale: chiesa rupestre dell'VIII-IX secolo con affreschi del Pittore dei Fiori, detta la Cappella Sistina del rupestre; si entra solo su prenotazione.",
+        "Palombaro Lungo e centro storico di Matera: la grande cisterna a circa 17 metri di profondità, visitabile con un percorso guidato.",
+        "Murgia Timone e Parco delle chiese rupestri: l'altopiano di fronte ai Sassi, con i sentieri panoramici e i villaggi rupestri visti dall'altra sponda della gravina; per i dettagli di ingresso consulta il sito del Parco.",
+        "Cattedrale di Altamura (Santa Maria Assunta): costruita tra il 1232 e il 1254 per volere di Federico II, con esterno romanico-gotico e rosone trecentesco; dentro il museo diocesano MUDIMA.",
+        "Museo Archeologico Nazionale e MUDA a Palazzo Baldassarre: la storia dell'Uomo di Altamura, scheletro del Pleistocene trovato nella grotta di Lamalunga, con ricostruzione realistica a grandezza naturale.",
+        "Pane di Altamura DOP e Museo del pane Vito Forte: un forno medievale vicino alla Cattedrale con un percorso multimediale sul pane, da abbinare a un assaggio in uno dei forni storici."
+      ],
+      "itinerario": null,
+      "alloggio": "Hotel 3 stelle a Matera da circa 58 € a notte per camera (da 67 € nel weekend), B&B da circa 39 a 94 € e ostelli da 27 €; la media hotel di ottobre è 109 €. Per due persone la quota a testa è quindi circa 29-55 € a notte. Meglio dormire a Matera nei Sassi o nella parte alta vicino alla fermata del bus; prenotare con anticipo nei weekend.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Pisa-Bari",
+          "testo": "Ryanair diretto circa 1h20; tariffe usuali 77-222 € A/R, media circa 96 €, minimo recente 37 €. Il martedì è il giorno più economico.",
+          "min": 77,
+          "max": 222,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Collegamento Firenze-aeroporto di Pisa",
+          "testo": "Treno più Pisa Mover, 30,40 € A/R a persona (parametro del documento). In alternativa auto: circa 22 € di benzina più 12-18 € di parcheggio per 2 giorni.",
+          "min": 30,
+          "max": 31,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Bus Bari aeroporto-Matera A/R",
+          "testo": "Sitabasilicata da circa 4 € a tratta, Cotrap fino a 6 €; 7 corse dirette al giorno, circa 1h15. Matera-Altamura con FAL/bus o noleggio non è stato verificato e non entra nel totale.",
+          "min": 8,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingressi principali",
+          "testo": "Casa Grotta 5 € (ridotto 3), Cripta del Peccato Originale 8 €, Museo Archeologico di Altamura 5 €; con tour guidato al Pulo (9-13 €) fino a circa 31 €.",
+          "min": 18,
+          "max": 31,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Camera doppia 58-109 € a notte (hotel 3 stelle e B&B) divisa per due: 29-55 € a persona a notte.",
+          "min": 29,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 10-15 € in forno o pizzeria, cena completa in trattoria 20-30 € (fasce verificate per Altamura).",
+          "min": 30,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Noleggio auto o FAL (alternativa)",
+          "testo": "Per raggiungere Altamura, il Pulo e Murgia Timone: noleggio auto a Bari oppure FAL/bus. Prezzi non verificati, indicare un preventivo prima di partire.",
+          "min": null,
+          "max": null,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci del totale sono a persona (volo, collegamenti, ingressi, alloggio, pasti). L'eventuale noleggio auto è una voce della vettura, da dividere per due, ma non è inclusa perché non verificata.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "I Sassi sono pedonali: si arriva a piedi, con scale e salite. Le uscite verso Murgia Timone e Altamura sono più comode con un'auto."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Cripta del Peccato Originale apre da martedì a domenica solo su prenotazione. La Casa Grotta ha orari 9:30-18:00 nei feriali e 9:30-19:00 nel weekend (dato non aggiornato, verificare). Le visite guidate di Altamura sono a giorni fissi (Pulo il martedì, giovedì e domenica; Cattedrale e Museo mercoledì e martedì)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Prenotare in anticipo la Cripta (tel. +39 320 3345323) e i tour CoopCulture ad Altamura; per i musei di Altamura verificare gli orari sul sito del polo museale della Puglia."
+        }
+      ],
+      "note": "Il trucco è arrivare a Matera con un volo del mattino e dormire lì; la sera il bus dall'aeroporto di Bari ha corse fino alle 22:45. Il giorno dopo si sale ad Altamura per la visita guidata del centro storico e si assaggia il pane DOP direttamente nei forni. Il Pulo si visita solo nei tour del martedì, del giovedì e della domenica, quindi scegli il giorno di rientro di conseguenza. Murgia Timone e il Parco delle chiese rupestri vanno gestiti con calma: lascia un'ora e mezza per la passeggiata panoramica.",
+      "fonti": [
+        "https://www.momondo.it/volo/pisa/bari",
+        "https://www.omio.it/autobus/stazione-di-bari-aeroporto/stazione-di-matera-centrale-w19wa",
+        "https://museionline.info/basilicata-musei-monumenti/casa-grotta-di-vico-solitario",
+        "https://museionline.info/basilicata-musei-monumenti/cripta-del-peccato-originale",
+        "https://www.kayak.it/Hotel-a-Matera.20090.hotel.ksp",
+        "https://www.voloscontato.it/guide-per-viaggiatori/7-cose-da-vedere-e-da-fare-ad-altamura-la-citta-del-pane.php",
+        "https://www.coopculture.it/en/products/altamura-in-tour/",
+        "https://www.sluurpy.it/altamura/ristoranti",
+        "https://www.marcotogni.it/cosa-vedere-matera/"
+      ],
+      "aggiuntaIl": "2026-11-07",
+      "coordinate": {
+        "lat": 40.6663,
+        "lon": 16.6043
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni i Sassi hanno molte scale e il Pulo e la Murgia richiedono passeggiate; meglio il passeggino leggero e brevi tratti."
+      }
+    },
+    {
       "id": "merano-e-trauttmansdorff-2g",
       "nome": "Merano e i giardini di Trauttmansdorff",
       "sottotitolo": "Alto Adige, la città di cura dei passeggi mediterranei e il giardino botanico più visitato della provincia",
@@ -8686,6 +9523,318 @@
       "bambini": {
         "adatta": "si",
         "nota": "Con un bimbo di 4 anni i giardini sono gratuiti sotto i 6 anni e permettono la visita con pause; la Tappeiner è una passeggiata di circa 4 km, da accorciare."
+      }
+    },
+    {
+      "id": "nuoro-orgosolo-e-il-supramonte-2g",
+      "nome": "Nuoro, Orgosolo e il Supramonte",
+      "sottotitolo": "Sardegna centrale, Barbagia: murales, maschere di Mamoiada, sorgenti e gole del Supramonte",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Volo low cost da Pisa o Bologna su Olbia (circa 1 ora), poi auto a noleggio per circa 100 km fino a Nuoro. Da Firenze si raggiunge Pisa in auto (FI-PI-LI gratuita, 85 km) o in treno con Pisa Mover. Senza auto in Barbagia ci si muove male: il noleggio è necessario.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 5h30 porta a porta: 1h15 da Firenze a Pisa aeroporto, volo di circa 1 ora, circa 1h30 in auto da Olbia a Nuoro (circa 100 km), più imbarchi e ritiro auto.",
+      "durataViaggioMinuti": 330,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: temperature miste adatte al trekking; in autunno la rassegna Autunno in Barbagia anima i paesi. In luglio e agosto il caldo rende pesante la gola di Gorropu.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 273,
+      "costoMax": 454,
+      "costoNota": "Totale a persona (2 viaggiatori) con volo, collegamento Pisa, noleggio, carburante, ingressi, escursione, 1 notte e pasti di 2 giorni. Km locali (400 km) stimati. Prezzi di voli, noleggio e pasti variabili per data e locale; i pasti sono fasce indicative.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Due giorni bastano per un giro ben fatto della Barbagia senza correre. Nuoro, Orgosolo, Mamoiada e Oliena distano 15-25 km l'una dall'altra, quindi si visitano con soste di 1-2 ore. Il primo giorno copre i musei di Nuoro e i murales di Orgosolo, il secondo Mamoiada, Oliena e una camminata nel Supramonte (Gorropu o Tiscali, 4-5 ore a piedi). Con un giorno solo si taglia il trekking, con tre si può aggiungere Cala Gonone.",
+      "cosaVedere": [
+        "Museo MAN di Nuoro: arte moderna e contemporanea sarda in un edificio ottocentesco, utile per capire il contesto culturale della città.",
+        "Museo della vita e delle tradizioni popolari sarde (Museo del Costume): la più grande raccolta etnografica dell'isola, con costumi, gioielli, maschere e strumenti.",
+        "Casa natale di Grazia Deledda a Nuoro: la casa della scrittrice premio Nobel 1926, nel quartiere di San Pietro.",
+        "Orgosolo e i murales: centinaia di pitture murali politiche e di memoria locale lungo le vie del paese, da girare a piedi in 1-2 ore.",
+        "Mamoiada e il Museo delle Maschere Mediterranee: mamuthones e issohadores, con maschere da tutto il Mediterraneo.",
+        "Oliena e la sorgente di Su Gologone: acqua carsica limpida ai piedi del Supramonte, adatta per una sosta di mezz'ora.",
+        "Monte Ortobene: la statua del Redentore e il bosco, con vista su Nuoro e la Barbagia.",
+        "Gola di Gorropu o villaggio nuragico di Tiscali: due escursioni a piedi di 4-5 ore, da scegliere una delle due."
+      ],
+      "itinerario": null,
+      "alloggio": "Circa 58-100 € a notte per una doppia a Nuoro (Momondo: media 58 € in ottobre, budget 88 €, fino a 128 € nei mesi cari), cioè 29-50 € a persona per 1 notte. Dormire a Nuoro o a Oliena è la scelta più comoda per il secondo giorno nel Supramonte.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Pisa o Bologna - Olbia",
+          "testo": "Fascia A/R per persona 60-150 €: Bologna-Olbia abituale 59-152 € (media 88 €, minimo recente 40 € con Volotea, Kayak); Pisa-Olbia da 53 € con Volotea, martedì da 86 €, venerdì fino a circa 175 € (Momondo). Novembre risulta il mese più caro su Bologna, aprile il più economico. Ryanair non consultabile.",
+          "min": 60,
+          "max": 150,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Collegamento da Firenze all'aeroporto di Pisa",
+          "testo": "In auto: circa 22 € di benzina (170 km A/R) più 12-18 € di parcheggio per 2 giorni; in alternativa treno con Pisa Mover 30,40 € A/R a persona (parametri del documento).",
+          "min": 34,
+          "max": 40,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante in Sardegna",
+          "testo": "Circa 400 km tra Olbia-Nuoro A/R e giri locali (stima), a 0,129 €/km. Noleggio auto non verificato, da aggiungere.",
+          "min": 52,
+          "max": 52,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto (utilitaria)",
+          "testo": "Auto piccola a Olbia aeroporto: media 31 €/giorno, intervallo 12-58 € (Momondo); 2 giorni = 62-116 € per l'auto, assicurazioni e franchigia escluse.",
+          "min": 62,
+          "max": 116,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingressi musei e sorgente",
+          "testo": "Museo del Costume 5 € (ridotto 3, gratis la prima domenica; cumulativo 10 € con Casa Deledda e Museo Ceramica), MAN 5 € (ridotto 3, gratis under 18 e prima domenica del mese), Museo Maschere Mamoiada circa 4-5 €, mappa murales Orgosolo 3 €, Su Gologone circa 2 €.",
+          "min": 19,
+          "max": 20,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Escursione Gorropu o Tiscali",
+          "testo": "Gorropu ingresso circa 5 €; Tiscali ingresso circa 5 €; con guida da Dorgali circa 45 € (da confermare). Si sceglie una sola escursione.",
+          "min": 5,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Camera doppia circa 58-100 € a notte a Nuoro (media Momondo: 58 € in ottobre, budget 88 €, fino a 128 € nei mesi cari). 1 notte per due = 29-50 € a persona; poiché la voce è perGiorno ed è moltiplicata per 2 giorni, qui sono riportati 14,5-25 € al giorno a persona.",
+          "min": 14.5,
+          "max": 25,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 15-20 € (locali economici di Orgosolo, 15-20 € a persona) e cena completa 28-40 € (Nuoro: cena antipasto-primo-secondo-dolce 28-40 €; agriturismo con vino 30-45 €) = 43-60 € al giorno a persona; porceddu 18-25 €. Fasce indicative da guide, non da menu ufficiali.",
+          "min": 43,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Ingressi ed escursioni sono a persona. Carburante, parcheggio a Pisa e noleggio sono della vettura e si dividono per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Tiscali è raggiungibile solo a piedi (circa 4-5 ore A/R); Gorropu richiede 4-5 ore a piedi dal parcheggio e il percorso più difficile ha bisogno di una guida."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "MAN: aperto 10-13 e 15-19, chiuso il lunedì. Museo del Costume: dal 1 novembre al 15 marzo 10-13 e 15-19, chiuso il lunedì; in ottobre tutti i giorni 10-19. Museo delle Maschere di Mamoiada: 10-18, chiuso il martedì (da confermare, tel. +39 0784 1898135)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per Tiscali e Gorropu in alta stagione conviene prenotare la guida; l'ingresso a Gorropu si paga in contanti."
+        }
+      ],
+      "note": "A Orgosolo conviene cominciare dai murales più lontani dal centro e scendere verso la piazza, per evitare i gruppi organizzati. Porta contanti: in diversi ingressi del Supramonte si paga solo così. Pianifica Nuoro tra martedì e domenica per i musei, ma Mamoiada il martedì è chiusa.",
+      "fonti": [
+        "https://www.voyagetips.com/?p=30245",
+        "https://www.charmingsardinia.com/sardegna/siti-nuoro.html",
+        "https://strictlysardinia.com/guide-to-supramonte-sardinia/",
+        "https://www.momondo.it/volo/pisa/olbia",
+        "https://www.kayak.it/voli/Olbia-Costa-Smeralda-OLB/Bologna-Aeroporto-Guglielmo-Marconi-BLQ",
+        "https://www.momondo.it/noleggio-auto/olbia-costa-smeralda-OLB-cap.ksp",
+        "https://www.momondo.it/hotel/nuoro",
+        "https://www.nomadotravel.app/it/attractions/museo-del-costume-nuoro",
+        "https://www.nomadotravel.app/it/attractions/museo-delle-maschere-mediterranee",
+        "https://www.meer.com/museoman/it",
+        "https://www.sluurpy.it/orgosolo/economico",
+        "https://www.sluurpy.it/nuoro/ristoranti",
+        "https://www.nomadotravel.app/it/guides/sardinia-agriturismo-guide",
+        "https://www.itinerarinellarte.it/en/museums/man-museo-d-arte-provincia-di-nuoro-0017"
+      ],
+      "aggiuntaIl": "2026-11-07",
+      "coordinate": {
+        "lat": 40.32,
+        "lon": 9.33
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Murales, musei e Su Gologone vanno bene con un bimbo di 4 anni, ma Gorropu e Tiscali sono lunghe camminate non adatte."
+      }
+    },
+    {
+      "id": "ostia-antica-e-i-castelli-romani-2g",
+      "nome": "Ostia Antica e i Castelli Romani",
+      "sottotitolo": "Lazio, il porto della Roma imperiale in un giorno e i colli Albani con lago, ville papali e fraschette nell'altro",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Frecciarossa o Italo da Firenze S.M.N. a Roma Termini (circa 1h30-1h45), poi metro B fino a Piramide e treno Roma-Lido da Porta San Paolo a Ostia Antica (circa 30-45 minuti) per il primo giorno. Roma è solo transito. Per il secondo giorno i Castelli (Castel Gandolfo, Nemi, Ariccia, Frascati, Grottaferrata) sono molto più comodi in auto: da Firenze lungo l'A1 sono circa 280 km a tratta; chi viaggia in treno può usare i regionali e i bus da Roma Termini, ma gli orari e le tariffe locali (Cotral, FL4) non sono stati verificati.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 3h10 porta a porta fino a Ostia Antica (AV 1h30-1h45 + metro B + Roma-Lido 30-45 minuti); in auto circa 3h per 280 km fino ai Castelli.",
+      "durataViaggioMinuti": 190,
+      "periodoMiglioreTesto": "Marzo-maggio e ottobre-novembre: Ostia Antica ha pochissima ombra e in estate è molto calda, mentre in autunno i Castelli offrono i colori del lago e le fraschette sono aperte. Evitare luglio e agosto.",
+      "mesi": [
+        3,
+        4,
+        5,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 172,
+      "costoMax": 314,
+      "costoNota": "Totale con treno AV A/R, Roma-Lido, ingressi (Ostia 18 €, Ville Pontificie 12 €, Museo Navi 3 €), 1 notte (36-88 € a persona, riportata per giorno su 2 giorni) e pasti (30-50 € al giorno). Esclusi perché non verificati: pedaggi A1 Firenze-Roma e tariffe Cotral/FL4 per i Castelli. Il prezzo del Museo delle Navi viene da un portale non datato; il biglietto di Ostia dal sito ufficiale con aggiornamento 2025.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Ostia Antica richiede da sola 3-5 ore tra Teatro, Piazzale delle Corporazioni, Terme di Nettuno, Capitolium e il Museo Ostiense, quindi occupa bene una giornata con rientro prima della chiusura invernale (ultimo ingresso 15:30 da fine ottobre a febbraio). I Castelli stanno nel secondo giorno perché sono borghi vicini tra loro (pochi km tra Castel Gandolfo, Nemi e Ariccia) ma con ritmo lento: Ville Pontificie, Museo delle Navi, un pranzo in fraschetta e un giro sul lago. Con due giorni si evita la corsa tra due mete molto diverse.",
+      "cosaVedere": [
+        "Ostia Antica, Teatro Romano: uno dei teatri meglio conservati d'Italia, si sale in cima alla cavea per vedere l'intero scavo.",
+        "Piazzale delle Corporazioni: portico con mosaici in bianco e nero che mostrano i mestieri e le imprese commerciali del porto romano.",
+        "Terme di Nettuno e Thermopolium: il mosaico di Nettuno sul carro e il banco con il menu dipinto raccontano la vita quotidiana della città.",
+        "Museo Ostiense: 20-30 minuti vicino all'ingresso per capire cosa si vede poi tra le rovine.",
+        "Castel Gandolfo e le Ville Pontificie: Palazzo Apostolico, giardini e vista sul lago Albano, ma la visita richiede prenotazione sul sito dei Musei Vaticani.",
+        "Museo delle Navi Romane di Nemi: ospita i resti delle navi di Caligola recuperate dal lago; l'accesso conviene da Genzano, non dal paese.",
+        "Ariccia e le fraschette: pranzo con porchetta e vino dei Castelli in osterie semplici, un'esperienza molto locale."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte ai Castelli: Frascati hotel 3 stelle circa 119 € in media, mese più economico gennaio 72 €, più caro maggio 131 € per camera; Castel Gandolfo da 94 € (dicembre) a 177 € (settembre), minimo visto 68 €. A persona in doppia 36-88 € a notte. Zone: Castel Gandolfo, Ariccia, Frascati; prenotare presto nei fine settimana.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno AV Firenze-Roma A/R",
+          "testo": "Da 19,90 € a 44,90 € a tratta (Frecciarossa/Italo tipici 19,90-27,90 €, Regionale Veloce circa 24,50 €): 40-90 € A/R prenotando in anticipo.",
+          "min": 40,
+          "max": 90,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Trasporti locali Roma-Lido",
+          "testo": "Metro B + Roma-Lido a Ostia Antica: 1,70 € a corsa con biglietto ATAC singolo, quindi 3,40 € A/R. Bus Cotral e treni regionali FL4 per i Castelli: tariffe non verificate, escluse dal totale.",
+          "min": 3.4,
+          "max": 3.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parco archeologico di Ostia Antica",
+          "testo": "18 € intero, 2 € ridotto (giovani UE 18-25); sito ufficiale cultura.gov.it, aggiornato ad agosto 2025, da riconfermare per il 2026. Chiuso il lunedì.",
+          "min": 18,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ville Pontificie di Castel Gandolfo",
+          "testo": "12 € intero Palazzo Papale e Giardino Segreto (tariffe ufficiali Musei Vaticani); ridotti e prenotazione sul sito dei Musei Vaticani; gratis sotto i 7 anni.",
+          "min": 12,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo delle Navi di Nemi",
+          "testo": "3 € intero, 2 € ridotto, gratuito la prima domenica del mese (portale museionline.info, non datato).",
+          "min": 3,
+          "max": 3,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto da Firenze (confronto)",
+          "testo": "Circa 560 km A/R sull'A1 a 0,129 €/km di carburante = circa 72 €; pedaggi A1 Firenze-Roma non verificati, esclusi. Solo confronto con il treno.",
+          "min": 72,
+          "max": 72,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "1 notte ai Castelli: camera doppia circa 72-131 € a Frascati (media mensile gennaio-maggio, momondo) e 94-177 € a Castel Gandolfo (dicembre-settembre): 36-88 € a persona a notte, cioè 18-44 € per giorno su 2 giorni.",
+          "min": 18,
+          "max": 44,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Fraschette di Ariccia: 14-25 € a persona a pasto (menu fissi 15-25 €, Osteria N° 1 14-20 €). Stima 30-50 € al giorno tra pranzo e cena.",
+          "min": 30,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Tutto è a persona; l'auto, se scelta al posto del treno, è un costo della vettura da dividere per due.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il Parco di Ostia Antica è chiuso il lunedì, il 25 dicembre e il 1° gennaio. Da fine ottobre a febbraio l'ultimo ingresso è alle 15:30 (uscita 16:30)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Museo delle Navi di Nemi è aperto dal martedì alla domenica, 9-19 secondo un portale non datato: telefonare al +39 06 939 80 40 per conferma."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Le Ville Pontificie richiedono prenotazione sul sito dei Musei Vaticani (tickets.museivaticani.va) con fasce orarie di 15 minuti; la fonte datata 2020 parlava di apertura solo sabato e domenica, da verificare."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Ostia Antica si raggiunge con la Roma-Lido da Porta San Paolo (metro B Piramide); l'ingresso è a 5-10 minuti a piedi dalla stazione. I borghi dei Castelli hanno strade strette e parcheggi limitati."
+        }
+      ],
+      "note": "Programma consigliato: giorno 1 Ostia Antica con partenza presto da Firenze, per arrivare entro le 10 e uscire prima della chiusura invernale; dormire sui Castelli o a Roma. Giorno 2 Castelli, con Nemi e il museo la mattina e una fraschetta di Ariccia a pranzo. Portare acqua e scarpe chiuse a Ostia Antica: c'è un solo bar e il selciato è irregolare. Il Museo di Nemi si raggiunge meglio da Genzano. Le Ville Pontificie vanno prenotate prima; se non si trova posto, il giro del lago Albano a piedi resta valido.",
+      "fonti": [
+        "https://www.voloscontato.it/informazioni-utili/parco-archeologico-di-ostia-antica-come-comprare-i-biglietti-costo-riduzioni-orari.php",
+        "https://www.nomadotravel.app/it/guides/ostia-antica-guide",
+        "https://www.romeing.it/it/ville-pontificie-di-castel-gandolfo/",
+        "https://www.turismoroma.it/en/places/palazzo-apostolico-e-giardini-di-castel-gandolfo",
+        "https://www.museionline.info/musei/museo-delle-navi-di-nemi",
+        "https://www.lonelyplanet.com/points-of-interest/museo-delle-navi-romane/1095920",
+        "https://virail.it/treni-firenze-roma",
+        "https://www.museivaticani.va/content/museivaticani/it/organizza-visita/tariffe-e-biglietti.html",
+        "https://cultura.gov.it/luogo/parco-archeologico-di-ostia-antica-area-archeologica-di-ostia-antica",
+        "https://www.momondo.it/hotel/castel-gandolfo",
+        "https://www.momondo.it/hotel/frascati",
+        "https://www.voloscontato.it/ristoranti/fraschette-ariccia-dove-mangiare-bene-spendendo-poco.php"
+      ],
+      "aggiuntaIl": "2026-11-07",
+      "coordinate": {
+        "lat": 41.7559,
+        "lon": 12.2917
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Ostia Antica è ampia, con poca ombra e selciato irregolare: con un bimbo di 4 anni bastano 2-3 ore; i Castelli sono più facili, il lago è ideale per passeggiare."
       }
     },
     {
@@ -9675,6 +10824,134 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Spiagge a fondale dolce come San Michele e Urbani vanno bene, ma i sentieri e il viaggio di quasi 4 ore a tratta stancano un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "salerno-e-paestum-2g",
+      "nome": "Salerno e Paestum",
+      "sottotitolo": "Campania, il capoluogo del golfo con il Duomo di San Matteo e i templi dorici di Paestum a mezz'ora di regionale",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Frecciarossa o Italo diretto Firenze S.M.N.–Salerno (circa 3h15 di percorrenza, senza passare da Napoli come tappa); a Salerno si dorme e il giorno dopo si prende un regionale per la fermata Capaccio-Roccadaspide-Paestum (circa 20-35 minuti, 14-19 corse al giorno). Dalla fermata all'ingresso del parco si cammina circa 1 km.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 3h15 in Frecciarossa/Italo diretto (circa 450 km); porta a porta circa 3h45 con trasferimento in città.",
+      "durataViaggioMinuti": 225,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre per i templi senza caldo eccessivo; da metà novembre a gennaio in più ci sono le Luci d'Artista a Salerno (la 20a edizione è durata dal 14 novembre 2025 al 1 febbraio 2026). Luglio e agosto sono caldi e affollati.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 200,
+      "costoMax": 444,
+      "costoNota": "Pasti: 2 al giorno a 15-40 € l'uno (fonte sluurpy.it, FAQ 2025 su pagina aggiornata a novembre 2026), per 2 giorni. Ingresso Paestum 12 € (marzo-novembre, 6 € in dicembre-febbraio) da napolike.it: il sito ufficiale del Parco non era leggibile (robots), quindi il dato non è ufficiale. Alloggio convertito da USD in euro in modo approssimato (50-110 USD a notte per camera, per due) e contato su 2 giorni come richiede il motore costi.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Salerno ha un centro storico di pochi isolati tra il Duomo, il Giardino della Minerva e il lungomare, che si coprono bene in una giornata, con il Castello di Arechi in cima come tappa in più. Paestum chiede da 3 a 4 ore tra i tre templi, l'area archeologica e il museo con la Tomba del Tuffatore, quindi mezza giornata piena. Con due giorni si fa una giornata per Salerno e una per Paestum, senza correre e con una sera di passeggiata sul lungomare. Una terza giornata servirebbe solo per aggiungere Vietri sul Mare o Velia.",
+      "cosaVedere": [
+        "Duomo di San Matteo e la sua cripta: la cattedrale è gratuita, la cripta costa 1 € ed è il cuore del culto del santo patrono della città.",
+        "Giardino della Minerva: orto botanico medievale a terrazze, biglietto 3 €, a circa 8 minuti a piedi dal centro, chiuso il lunedì.",
+        "Castello di Arechi: fortezza longobarda sul colle sopra la città con vista sul golfo, 4 € e aperto martedì-domenica 9-16, quindi da visitare di mattina.",
+        "Lungomare Trieste e centro storico: passeggiata lunga e piana, la sera diventa il percorso delle Luci d'Artista (accensione verso le 17, ingresso gratuito) da metà novembre a gennaio.",
+        "Templi di Paestum: Tempio di Nettuno, Basilica e Tempio di Cerere, tre templi dorici greci tra i meglio conservati al mondo, nel biglietto unico del parco.",
+        "Museo archeologico nazionale di Paestum con la Tomba del Tuffatore: l'affresco greco del tuffatore (V secolo a.C.), l'unico esempio di pittura greca di questo tipo, che conviene verificare sia accessibile il giorno scelto perché la sala viene chiusa a volte.",
+        "Opzionale: Vietri sul Mare per la ceramica, a pochi minuti di treno da Salerno, oppure Velia, compresa nello stesso biglietto di Paestum ma più lontana."
+      ],
+      "itinerario": null,
+      "alloggio": "Circa 50-110 USD a notte per camera (convertiti: circa 46-101 €, tarati per due, quindi 25-50 € a persona) in hotel 3 stelle e B&B a Salerno secondo un'istantanea di hoteles.com su date dall'8 novembre al 1 dicembre 2026 (20 strutture, mediana 74,50 USD). Conviene dormire vicino alla stazione o sul lungomare, dove si raggiunge tutto a piedi e si prende il regionale la mattina dopo.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze–Salerno A/R",
+          "testo": "Frecciarossa da circa 31 € e Italo da circa 26 € a tratta se prenotati in anticipo; sulle date osservate i diretti stavano per lo più a 55-76 €. Stima A/R 62-152 € (a tratta 31-76 €).",
+          "min": 62,
+          "max": 152,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Regionale Salerno–Paestum A/R",
+          "testo": "Regionale da 4 € a tratta (medio circa 6 € se acquistato il giorno stesso); circa 36 km, 20-35 minuti. A/R 8-12 €.",
+          "min": 8,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Circa 25-50 € a persona a notte (camera da 46 a 101 € per due), vedi sezione Alloggio.",
+          "min": 25,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi principali",
+          "testo": "Parco e Museo di Paestum 12 € da marzo a novembre (6 € da dicembre a febbraio; biglietto unico valido 3 giorni, gratis la prima domenica del mese), Castello di Arechi 4 €, Giardino della Minerva 3 €, cripta del Duomo 1 €, Duomo gratuito.",
+          "min": 20,
+          "max": 20,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pasto completo a Salerno 25-40 € a persona bevande incluse, locali economici 15-20 €, fascia alta 50 € o più (sluurpy.it, FAQ del 2025, pagina aggiornata a novembre 2026). Stimati 2 pasti al giorno (colazione esclusa): 30-80 € a persona al giorno.",
+          "min": 30,
+          "max": 80,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona (nessuna vettura): si viaggia in treno e a piedi. Per l'alloggio il totale conta 2 giorni come richiede il motore costi, anche se la notte è una.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il Giardino della Minerva e il Castello di Arechi sono chiusi il lunedì; il Castello è aperto 9-16 nei giorni di apertura, il Giardino 9:30-19:30."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Paestum ha orari indicativi 8:30-19:30 con ultimo ingresso al parco alle 18:30 e al museo alle 19:00, ma in inverno chiude prima: controllare sul sito del parco. La sala del Tuffatore è stata chiusa temporaneamente in alcuni giorni."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Dalla fermata Capaccio-Roccadaspide-Paestum l'ingresso al parco dista circa 1 km a piedi; a Salerno il centro è piano e raggiungibile a piedi, per il Castello serve il bus 19 (1 € a corsa, 2,70 € il giornaliero)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria segnalata per il parco; nei weekend di dicembre le Luci d'Artista sono molto affollate, meglio un giorno feriale. Prenotare in anticipo l'alta velocità per i prezzi più bassi."
+        }
+      ],
+      "note": "Il trucco è invertire l'ordine rispetto all'istinto: arrivare a Salerno la mattina presto, fare Duomo e Castello (che chiude alle 16) e il giorno dopo andare a Paestum con calma, perché con il biglietto valido 3 giorni non c'è fretta. Chi ha tempo in più può aggiungere Vietri sul Mare per le ceramiche. Napoli non è una tappa: il diretto la attraversa soltanto. La prima domenica del mese l'ingresso al parco è gratuito ma c'è più gente.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/salerno-n6wc6",
+        "https://www.omio.it/treni/salerno/paestum",
+        "https://www.napolike.it/paestum-guida-templi-greci",
+        "https://www.italia.it/it/campania/parco-archeologico-di-paestum-e-velia",
+        "https://blog.italotreno.com/idee-di-viaggio/cosa-vedere-a-salerno/",
+        "https://www.viaggiapiccoli.com/luci-artista-salerno-natale/",
+        "https://www.hoteles.com/tgp/lodging/star/3/6059421/salerno",
+        "https://www.sluurpy.it/salerno/ristorante",
+        "https://www.napolike.it/point/parco-archeologico-di-paestum"
+      ],
+      "aggiuntaIl": "2026-11-07",
+      "coordinate": {
+        "lat": 40.6824,
+        "lon": 14.7681
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni il treno lungo e la salita al castello pesano, ma i templi aperti e il lungomare piano vanno bene e sotto i 18 anni l'ingresso a Paestum è gratuito."
       }
     },
     {
@@ -12373,6 +13650,206 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Castello sul mare e spiaggia a Le Castella piacciono a un bimbo di 4 anni, ma le molte ore d'auto e i vicoli in salita di Gerace sono faticosi."
+      }
+    },
+    {
+      "id": "capri-e-anacapri-3g",
+      "nome": "Capri e Anacapri",
+      "sottotitolo": "Campania, l'isola del Golfo di Napoli: il lato mondano di Capri e quello più quieto di Anacapri, con ville romane, sentieri sul mare e Grotta Azzurra",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Treno alta velocità (Frecciarossa o Italo) da Firenze S.M.N. a Napoli Centrale, poi trasferimento al Molo Beverello e aliscafo SNAV o NLG fino a Marina Grande. Napoli è solo un transito: non è una tappa. Sull'isola si usano funicolare (Marina Grande-Capri), bus (Capri-Anacapri) e seggiovia del Monte Solaro, senza auto.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 2h40-2h55 di Frecciarossa/Italo fino a Napoli Centrale, più il trasferimento al Beverello e circa 50 minuti di aliscafo: nell'insieme circa 5 ore porta a porta (il totale è una stima, i singoli tratti sono verificati).",
+      "durataViaggioMinuti": 300,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: più corse di aliscafo (fino a 17 al giorno da aprile a ottobre), seggiovia con orario esteso e mare adatto alla Grotta Azzurra, senza il caldo e la calca di luglio-agosto. In inverno le corse scendono e la seggiovia ha orario ridotto.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 450,
+      "costoMax": 761,
+      "costoNota": "Fasce a persona, per 2 viaggiatori, senza auto (nessuna voce vettura). Alloggio (perGiorno x 3) conta in modo prudente 2 notti su 3 giorni. Pasti: stima da fasce di prezzo di guide (in3giorni, Sluurpy) non da menu ufficiali. Il contributo di sbarco usa l'importo 2024 (2,50-5 €), non confermato per il 2026 e forse già incluso nel biglietto dell'aliscafo. Giardini di Augusto 2,50 € da Napolike; Villa Jovis 6 € dal sito dei Musei di Capri.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 5,
+      "percheDurata": "L'isola è piccola ma verticale: tra Marina Grande, Capri e Anacapri si sale e si scende di continuo, e metà del bello si fa a piedi. Tre giorni permettono di dedicare un giorno a Capri (Giardini di Augusto, via Krupp, Villa Jovis, Arco Naturale e Pizzolungo), uno al mare (giro in barca con Faraglioni e Grotta Azzurra, da fare quando il mare è calmo) e uno ad Anacapri (Villa San Michele, Monte Solaro, Faro di Punta Carena e sentiero dei Fortini). In meno tempo si salta il lato ovest o si corre; con una giornata di margine si può spostare la barca se il mare è mosso.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: mattina presto Frecciarossa o Italo da Firenze a Napoli Centrale, poi al Molo Beverello e aliscafo per Marina Grande (circa 50 minuti, prima corsa verso le 7). Dalla marina funicolare fino alla Piazzetta di Capri. Passeggiata ai Giardini di Augusto, belvedere sui Faraglioni e su via Krupp, la strada a tornanti che scende al mare (spesso chiusa per caduta massi: controlla prima). Pomeriggio bus per Anacapri, check-in e tramonto sui vicoli bianchi."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: giornata di Capri e del mare. Mattina a piedi fino a Villa Jovis, la residenza di Tiberio sul punto più alto del lato est, poi discesa per l'Arco Naturale e il sentiero di Pizzolungo, panoramico sul mare. Nel pomeriggio, dalla Marina Grande, giro in barca dell'isola con i Faraglioni; se il mare è calmo, sosta alla Grotta Azzurra con barchetta e ingresso. Rientro in bus ad Anacapri."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Anacapri. Mattina a Villa San Michele, il giardino-museo di Axel Munthe con la vista sul golfo, poi seggiovia fino in cima al Monte Solaro (12-13 minuti ciascun senso). Nel primo pomeriggio bus fino al Faro di Punta Carena e tratto del sentiero dei Fortini sulla costa ovest (circa due ore, difficoltà media). Bus per Capri, funicolare e aliscafo di rientro, poi Napoli e treno per Firenze. Da novembre a marzo l'ultimo aliscafo è presto: parti da Anacapri in tempo."
+        }
+      ],
+      "alloggio": "Anacapri è la base più conveniente: B&B e piccoli alberghi intorno ai 120 € per due a notte (circa 60 € a persona), con tariffe d'ingresso da 57-78 € per la stanza secondo l'aggregatore e media di 115 € nella categoria budget; febbraio è il mese più economico (media 116 € a notte). Gli hotel nel centro di Capri partono da cifre molto più alte (220-700 € per una doppia). Per questo la scheda considera 39-58 € a persona a notte in B&B ad Anacapri, nei mesi di spalla.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R Firenze-Napoli",
+          "testo": "Alta velocità, circa 2h40-2h55. Tariffe minime da 16-24 € a tratta (Italo, prenotando in anticipo); biglietti tipici di 70-86 € a tratta con Frecciarossa/Italo a ridosso della partenza. A/R stimato 48-150 €.",
+          "min": 48,
+          "max": 150,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Aliscafo Napoli Beverello-Capri A/R",
+          "testo": "SNAV/NLG, circa 50 minuti: 25-27 € a tratta nel resto dell'anno, 27,50-29,50 € in alta stagione (A/R 50-59 €). Il contributo di sbarco è in una voce a parte.",
+          "min": 50,
+          "max": 59,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Contributo di sbarco Comune di Capri",
+          "testo": "2,50 € la tariffa base, raddoppiata a 5 € nella stagione 1 aprile-31 ottobre dal 2024 (fonte 2024; l'importo 2026 non è confermato da fonte ufficiale e alcune compagnie lo includono già nel biglietto, quindi potrebbe essere già compreso nel costo dell'aliscafo). Residenti esenti.",
+          "min": 2.5,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Funicolare e bus (circa 4 corse di funicolare e 6 di bus)",
+          "testo": "Funicolare 2,20-2,50 € a corsa; bus Capri-Anacapri 2,40 € (2,90 € a bordo). Non esiste un biglietto giornaliero unico.",
+          "min": 23,
+          "max": 28,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Seggiovia Monte Solaro",
+          "testo": "14 € andata e ritorno, 11 € solo andata; gratis fino a 7 anni in braccio.",
+          "min": 14,
+          "max": 14,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Giro in barca dell'isola",
+          "testo": "Circa 24 €, due ore, con i Faraglioni; il programma salta se il mare è mosso.",
+          "min": 24,
+          "max": 24,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Grotta Azzurra (ingresso con barchetta)",
+          "testo": "18 € in aggiunta al giro in barca; sospesa con mare mosso.",
+          "min": 18,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Villa San Michele",
+          "testo": "Circa 10 € di ingresso; aperta dalle 9 fino a un'ora prima del tramonto.",
+          "min": 10,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Villa Jovis",
+          "testo": "6 € intero (2 € ridotto per cittadini UE di 18-24 anni); aperta 10-17 dal 1 marzo al 15 ottobre, 10-16 dal 16 ottobre a fine febbraio, ultimo ingresso 30 minuti prima.",
+          "min": 6,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Giardini di Augusto",
+          "testo": "Biglietto intero 2,50 €, gratis fino a 12 anni; acquisto online indicato come obbligatorio. Aperti 9-20 in estate, in autunno e inverno chiudono verso le 16:30.",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false,
+          "min": 2.5,
+          "max": 2.5
+        },
+        {
+          "voce": "Alloggio ad Anacapri (a persona, al giorno)",
+          "testo": "B&B o piccolo albergo ad Anacapri, circa 78-115 € a notte per due, cioè 39-58 € a persona; 2 notti, conteggiate su 3 giorni.",
+          "min": 39,
+          "max": 58,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti (a persona, al giorno)",
+          "testo": "Pranzo veloce o pizza 20-30 €, pasto completo in trattoria ad Anacapri 25-40 € bevande incluse, cena di tre portate in ristorante a Capri 60-80 €. Stima a persona al giorno: 45 € (pranzo veloce e cena semplice) fino a 90 € (pranzo e cena al ristorante).",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true,
+          "min": 45,
+          "max": 90
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona: il viaggio si fa senza auto (treno e aliscafo non imbarcano veicoli) e quindi non ci sono voci vettura da dividere per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nessuna auto: gli aliscafi non imbarcano veicoli e sull'isola funicolare, bus e seggiovia coprono i percorsi. Via Krupp è spesso chiusa per sicurezza; Villa Jovis si raggiunge solo a piedi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Seggiovia del Monte Solaro: marzo-ottobre 9:30-17:30, inverno 10:30-15:00, chiusa con vento forte. Aliscafi: fino a 17 corse al giorno da aprile a ottobre, almeno 8 in bassa stagione (le tabelle di alcuni operatori ne indicano 4 in inverno), prima corsa verso le 7 e ultima verso le 19."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Treno e aliscafo si prenotano in anticipo (il prezzo del treno sale man mano che i posti si vendono). Il giro in barca con Grotta Azzurra dipende dal mare: tieni un giorno di margine."
+        }
+      ],
+      "note": "Dormire ad Anacapri costa meno e permette di fare Villa San Michele e Monte Solaro prima dell'arrivo dei gruppi di giornata, poi di tornare a Capri a piedi e in bus quando la gente se ne va. Prendi il treno presto: il Frecciarossa/Italo da Firenze copre la tratta in circa 2h40-2h55 e la prima corsa di aliscafo è verso le 7. Per risparmiare prenota Italo con largo anticipo e, per l'aliscafo, usa lo stesso operatore all'andata e al ritorno: c'è una riduzione sul ritorno. Controlla via Krupp e la Grotta Azzurra la mattina stessa, non prima.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/napoli",
+        "https://everyrail.com/it/treni/firenze-napoli/",
+        "https://www.ferryhopper.com/it/blog/featured/snav-naples-capri-ferry",
+        "https://www.traghettilines.it/it/capri/traghetti-napoli-beverello-capri.aspx",
+        "https://www.traghetti.com/traghetti-campania/traghetti-napoli-beverello-capri",
+        "https://www.napolike.it/come-arrivare-capri",
+        "https://www.napolike.it/capri-in-un-giorno-itinerario",
+        "https://in3giorni.com/faq/quanto-costa-spostarsi-a-capri",
+        "https://in3giorni.com/faq/quanto-costa-la-seggiovia-a-capri",
+        "https://in3giorni.com/faq/dove-soggiornare-per-visitare-capri",
+        "https://www.momondo.it/hotel/anacapri",
+        "https://www.booking.com/cheap/city/it/capri.html",
+        "https://museicapri.cultura.gov.it/wp-content/uploads/2026/08/Regolamento-di-visita.pdf",
+        "https://www.capripress.com/guida/capripress2026web.pdf",
+        "https://www.napolike.it/certosa-san-giacomo-giardini-augusto-capri",
+        "https://www.fanpage.it/napoli/raddoppia-la-tassa-di-sbarco-a-capri-costera-5-euro-dal-1-aprile/",
+        "https://moveo.telepass.com/tassa-di-sbarco-a-capri/",
+        "https://in3giorni.com/faq/quanto-costa-un-pranzo-a-capri",
+        "https://www.sluurpy.it/anacapri/ristorante"
+      ],
+      "aggiuntaIl": "2026-11-07",
+      "coordinate": {
+        "lat": 40.5532,
+        "lon": 14.2222
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Seggiovia gratis fino a 7 anni e aliscafo scontato, ma con un bimbo di 4 anni salite, scale e sentieri come Pizzolungo e Fortini sono faticosi."
       }
     },
     {
@@ -17258,6 +18735,152 @@
         "https://www.nomadotravel.app/it/guides/best-time-to-visit-warsaw"
       ],
       "aggiuntaIl": "2026-11-02"
+    },
+    {
+      "id": "vilnius-e-trakai-3g",
+      "nome": "Vilnius e Trakai",
+      "sottotitolo": "Lituania, capitale barocca con il centro storico UNESCO e il castello di mattoni rossi sul lago di Trakai",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair o Wizz Air da Milano (Bergamo BGY o Malpensa MXP) a Vilnius (VNO), circa 2h30 di volo; da Firenze si raggiunge l'aeroporto milanese con treno o bus (FlixBus per Malpensa da 20,48 €, circa 5h15; treno per Bergamo da 37 €, con cambi). Da Pisa e da Bologna, secondo Skyscanner, al momento non risultano voli diretti per Vilnius: solo scali, quindi sconsigliati per un weekend lungo. A Vilnius il centro si gira a piedi; per Trakai si usa il treno regionale o il bus dalla stazione di Vilnius, circa mezz'ora (treno LTG Link circa 34 minuti, bus circa 45 minuti, 2-5 € a tratta).",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 2h30 di volo da Milano. Stima porta a porta da Firenze circa 8 ore: 4-5h15 fino all'aeroporto milanese (FlixBus Malpensa 5h15, treno per Bergamo da circa 4h) piu volo e margini.",
+      "durataViaggioMinuti": 480,
+      "periodoMiglioreTesto": "Indicativamente maggio-settembre per giornate lunghe e passeggiate sul lago di Trakai; settembre e inizio ottobre sono più tranquilli. Da dicembre a febbraio il freddo è intenso, ma i voli costano meno: il comparatore indica le tariffe più basse tra novembre e febbraio e le più alte a giugno-agosto.",
+      "mesi": [
+        5,
+        6,
+        9
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 242,
+      "costoMax": 461,
+      "costoNota": "Totale a persona per 2 viaggiatori, tutte voci a persona. Volo da tariffe Skyscanner in PLN convertite a 4,25 PLN/EUR. Voci alloggio e pasti da portali di costi di viaggio (stime medie, non tariffe di singole strutture); trasferimento da/per Bergamo o Malpensa verso la citta e bus/treno Trakai da aggregatori. Alloggio: 2 notti distribuite sui 3 giorni.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro storico di Vilnius è compatto e si percorre a piedi: la città vecchia con la Cattedrale e la Torre di Gediminas, il quartiere bohémien di Užupis e il Colle delle Tre Croci stanno tutti nello stesso raggio di pochi chilometri e riempiono bene il primo giorno e mezzo. Il Museo delle Occupazioni (ex sede del KGB) merita una mattina intera, con calma. Trakai si fa in una giornata completa con il castello sul lago Galvė e il borgo karaita. Il terzo giorno resta per un'escursione più lunga (Kernavė o Paneriai) o per riposare senza correre. In 3 giorni si evita il ritmo da blitz di un solo giorno senza dilatare troppo il viaggio.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: arrivo a Vilnius e passeggiata nel centro storico UNESCO, tra le più grandi città vecchie barocche d'Europa. Si parte dalla Porta dell'Aurora, si scende per Pilies gatvė fino alla Piazza della Cattedrale con la Cattedrale e il campanile isolato, poi si sale a piedi alla Torre di Gediminas per il panorama sui tetti rossi. Cena in uno dei locali di Stikliu o Literatu gatvė."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina al Museo delle Occupazioni e delle Libertà (ex sede KGB), che racconta con le celle e gli archivi l'occupazione sovietica; poi Užupis, la piccola 'repubblica' di artisti oltre il fiume Vilnia con la sua costituzione affissa in strada, e nel tardo pomeriggio salita al Colle delle Tre Croci per il tramonto sulla città."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: giornata a Trakai, raggiungibile in treno o bus da Vilnius. Si visita il Castello di Trakai, costruito in mattoni rossi su un'isola del lago Galvė, si passeggia nel borgo lungo il lago con le case in legno dei karaiti e si assaggia il kibinai, il tipico fagottino di pasta ripieno. In alternativa, se si ha un giorno in più o si preferisce, Kernavė (siti UNESCO medievali) o il memoriale di Paneriai possono sostituire Trakai."
+        }
+      ],
+      "alloggio": "Doppia 64-95 € a notte in B&B o hotel 3 stelle nella Citta Vecchia o a Uzupis, cioe 32-48 € a persona a notte (2 notti: 64-96 € a persona). Ostelli e guesthouse da circa 10-15 €, con ribassi del 25-35 % tra gennaio e marzo. Fonti: gotripzi, viatravelers, amigosim.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Milano (BGY/MXP) - Vilnius",
+          "testo": "Tariffe 'da' A/R economy rilevate da Skyscanner (Polonia) per mese: da 189 PLN (febbraio) a 426 PLN (agosto), circa 45-100 € al cambio di 4,25 PLN/EUR; novembre circa 290 PLN (68 €). Voli diretti Ryanair e Wizz Air, circa 2h30. Da Pisa e Bologna non risultano voli diretti.",
+          "min": 45,
+          "max": 100,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Collegamento Firenze - aeroporto milanese (A/R)",
+          "testo": "FlixBus Firenze - Milano Malpensa da 20,48 € a tratta (media 45,98 €), circa 5h15, 10 corse al giorno; treno Firenze - Bergamo Orio al Serio da 37 € a tratta (media 64 €), con cambi e almeno 4 ore. Fascia A/R 41-92 €. Per Bergamo serve anche una navetta aeroportuale (non quantificata).",
+          "min": 41,
+          "max": 92,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno/bus Vilnius-Trakai (A/R)",
+          "testo": "Treno LTG Link circa 34 minuti, bus Kautra circa 45 minuti dalla stazione degli autobus; circa 2-5 € a tratta (fonti in USD/FAQ, non biglietterie ufficiali).",
+          "min": 4,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Trasporti urbani a Vilnius",
+          "testo": "Biglietto singolo 1-1,25 €, 24 ore 7,50 €; il centro si gira a piedi, quindi 1-2 corse (aeroporto-centro incluso) o un 24h.",
+          "min": 3,
+          "max": 15,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti, ripartite sui 3 giorni)",
+          "testo": "Doppia 64-95 € a notte (B&B/hotel 3 stelle in centro, fonti gotripzi e amigosim) = 32-48 € a persona a notte; per 2 notti 64-96 € a persona, qui espresso al giorno su 3 giorni (21-32 € x 3).",
+          "min": 21,
+          "max": 32,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo del giorno 7-12 €, cena in locale medio 12-20 € a persona: circa 20-40 € al giorno a persona.",
+          "min": 20,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi (Castello di Trakai, Torre di Gediminas, Museo delle Occupazioni)",
+          "testo": "Trakai 12 € (ott-mar) o 14 € (apr-set); Torre di Gediminas 8 €; Museo delle Occupazioni 6 €. Totale 26-28 €.",
+          "min": 26,
+          "max": 28,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona: nessuna vettura, perché il viaggio si fa in aereo e con mezzi pubblici o a piedi a destinazione.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico di Vilnius si visita a piedi e non richiede l'auto; per Trakai servono treno o bus, con orari da controllare in anticipo."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Museo delle Occupazioni chiuso lunedi e martedi (mer-sab 10-18, dom 10-17). Torre di Gediminas aperta 10-20 da ottobre a marzo, 10-21 da aprile a settembre. Orari del Castello di Trakai da confermare sul sito del museo (orari estivi 1 maggio-30 settembre)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Prenotare con anticipo il volo diretto, che ha poche frequenze e prezzi che salgono in estate; per i musei verificare se serve la prenotazione nei periodi di maggiore affluenza."
+        }
+      ],
+      "note": "Da Firenze il volo diretto non esiste: conviene confrontare i voli da Milano Bergamo (Ryanair) e Malpensa (Wizz Air), e controllare i voli da Pisa o Bologna perché le rotte stagionali cambiano. Se hai solo tre giorni, tieni il giorno di Trakai nel mezzo del soggiorno e non il giorno del volo di ritorno, così non rischi di perdere l'aereo per un ritardo del treno. Pianifica il Museo delle Occupazioni tra mercoledi e domenica: il lunedi e il martedi e chiuso.",
+      "fonti": [
+        "https://www.skyscanner.pl/trasy/mila/vno/mediolan-do-wilno.html",
+        "https://zbordirect.com/en/low-cost/from-italy/to-lithuania/milan-vilnius",
+        "https://www.rome2rio.com/s/Vilnius/Trakai",
+        "https://trakaimuziejus.lt/wp-content/uploads/2026/01/TIM_EN_bilietu-kainos_svetainei-2026.pdf",
+        "https://thetripverdict.com/gediminas-tower-vilnius",
+        "https://www.govilnius.lt/museum-of-occupations-and-freedom-fights",
+        "https://www.flixbus.it/tratte-autobus/firenze-milano-malpensa-aeroporto",
+        "https://www.omio.it/treni/aeroporto-di-milano-bergamo-orio-al-serio/firenze-uhxax",
+        "https://www.amigosim.com/blog/how-much-does-a-trip-to-lithuania-cost",
+        "https://viatravelers.com/budget/vilnius/",
+        "https://www.gotripzi.com/destinations/vilnius-lt/cost",
+        "https://www.skyscanner.co.il/routes/psa/vno/pisa-to-vilnius.html"
+      ],
+      "aggiuntaIl": "2026-11-07",
+      "coordinate": {
+        "lat": 54.6872,
+        "lon": 25.2797
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il castello di Trakai e il lago piacciono a un bimbo di 4 anni, ma il Museo delle Occupazioni è un tema duro e le salite alla Torre di Gediminas e al Colle delle Tre Croci sono lunghe."
+      }
     },
     {
       "id": "zagabria-3g",

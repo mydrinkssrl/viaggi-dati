@@ -853,6 +853,11 @@
    1
   ],
   [
+   "carmignano-e-artimino-1g",
+   "Carmignano e Artimino",
+   1
+  ],
+  [
    "carrara-e-le-cave-di-marmo-1g",
    "Carrara e le cave di marmo",
    1
@@ -893,6 +898,11 @@
    1
   ],
   [
+   "crete-senesi-asciano-e-monte-oliveto-1g",
+   "Crete Senesi: Asciano e Monte Oliveto Maggiore",
+   1
+  ],
+  [
    "faenza-1g",
    "Faenza",
    1
@@ -908,6 +918,11 @@
    1
   ],
   [
+   "forli-e-castrocaro-terme-1g",
+   "Forlì e Castrocaro Terme",
+   1
+  ],
+  [
    "imola-1g",
    "Imola",
    1
@@ -915,6 +930,11 @@
   [
    "levanto-e-bonassola-1g",
    "Levanto e Bonassola",
+   1
+  ],
+  [
+   "lucignano-e-monte-san-savino-1g",
+   "Lucignano e Monte San Savino",
    1
   ],
   [
@@ -1133,6 +1153,11 @@
    2
   ],
   [
+   "francoforte-e-magonza-2g",
+   "Francoforte e Magonza",
+   2
+  ],
+  [
    "gaeta-e-sperlonga-2g",
    "Gaeta e Sperlonga",
    2
@@ -1188,8 +1213,23 @@
    2
   ],
   [
+   "matera-e-altamura-2g",
+   "Matera e Altamura",
+   2
+  ],
+  [
    "merano-e-trauttmansdorff-2g",
    "Merano e i giardini di Trauttmansdorff",
+   2
+  ],
+  [
+   "nuoro-orgosolo-e-il-supramonte-2g",
+   "Nuoro, Orgosolo e il Supramonte",
+   2
+  ],
+  [
+   "ostia-antica-e-i-castelli-romani-2g",
+   "Ostia Antica e i Castelli Romani",
    2
   ],
   [
@@ -1225,6 +1265,11 @@
   [
    "riviera-del-conero-sirolo-e-numana-2g",
    "Riviera del Conero: Sirolo e Numana",
+   2
+  ],
+  [
+   "salerno-e-paestum-2g",
+   "Salerno e Paestum",
    2
   ],
   [
@@ -1310,6 +1355,11 @@
   [
    "calabria-ionica-crotone-le-castella-e-gerace-3g",
    "Calabria ionica: Crotone, Le Castella e Gerace",
+   3
+  ],
+  [
+   "capri-e-anacapri-3g",
+   "Capri e Anacapri",
    3
   ],
   [
@@ -1455,6 +1505,11 @@
   [
    "varsavia-3g",
    "Varsavia",
+   3
+  ],
+  [
+   "vilnius-e-trakai-3g",
+   "Vilnius e Trakai",
    3
   ],
   [

@@ -60,3 +60,7 @@ doppioni.
   con `COMPLETA.md`.
 - `add_repo` non è disponibile nella sessione pianificata: `app-famiglia` non si
   attacca, si pubblica solo su `viaggi-dati`.
+- Secondo turno (send_later dopo 3 minuti, budget azzerato): 4 completamenti + 7 mete
+  nuove + 8 completamenti dei pasti in tre ondate, ~75 ricerche. Totale notte: 45 mete.
+  Le schede già pubblicate vanno spostate fuori da `out/` (es. `pubblicate/`) prima
+  di rifare `unisci.py`, altrimenti il validatore le segna come doppioni.
