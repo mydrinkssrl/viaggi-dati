@@ -140,6 +140,125 @@
       }
     },
     {
+      "id": "bagno-di-romagna-1g",
+      "nome": "Bagno di Romagna e la Foresta della Lama",
+      "sottotitolo": "Emilia-Romagna, borgo termale Bandiera Arancione alle porte del Parco Nazionale delle Foreste Casentinesi",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto: da Firenze si sale a Dicomano e al Passo del Muraglione, poi si scende in Romagna fino a San Benedetto in Alpe e Bagno di Romagna (strada statale di montagna, curvosa, senza pedaggi). Non c'è un treno diretto: la stazione più vicina è lontana dal borgo e i bus da Cesena o Forlì sono poco frequenti, quindi per una giornata l'auto è la scelta pratica.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h45-2h in auto per la strada del Muraglione (stima per circa 100 km, non confermata da una fonte consultata).",
+      "durataViaggioMinuti": 105,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-novembre: in ottobre e novembre i faggi e gli aceri della foresta sono nel pieno dei colori (il Parco promuove i festival del fall foliage). Evitare gennaio-febbraio per la neve sul Muraglione.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 29,
+      "costoMax": 83,
+      "costoNota": "Il chilometraggio dell'auto (circa 100 km a tratta) e il prezzo del pranzo non sono stati confermati da una fonte consultata: sono stime prudenti, da verificare. Carburante calcolato con 0,129 €/km.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il borgo si gira a piedi in un'ora: Basilica, Palazzo dei Capitani e Via Fiorentina sono tutti nello stesso centro. Il resto della giornata si divide tra un'uscita nella foresta (Sentiero degli Gnomi o un anello breve verso la Lama) e la diga di Ridracoli con il museo IDRO, oppure un bagno nelle piscine termali. Fare tutto richiede una giornata piena, ma non un pernottamento: il rientro per il Muraglione è fattibile in serata.",
+      "cosaVedere": [
+        "Basilica di S. Maria Assunta, ricostruita nel XV secolo sulla piazza principale, con tracce della struttura romanica originaria.",
+        "Palazzo dei Capitani (XIV secolo), ex sede dell'amministrazione fiorentina e oggi polo culturale: ricorda che questa valle fu fiorentina e piena di stemmi dei vicari.",
+        "Via Fiorentina, asse del centro storico con i palazzi della piccola nobiltà locale: si passeggia in mezz'ora.",
+        "Parco termale: piscine di acqua calda naturale a circa 45 °C, al chiuso e all'aperto, con acque bicarbonato-alcaline e solfuree. Perfetto dopo una camminata d'autunno.",
+        "Foresta della Lama e Sasso Fratino, nel Parco Nazionale delle Foreste Casentinesi: Sasso Fratino è la prima riserva naturale integrale d'Italia (circa 764 ettari) e non si visita liberamente, ma i boschi attorno sono percorribili con sentieri e guide del Parco.",
+        "Diga di Ridracoli (557 m) e IDRO Ecomuseo: la diga alta 100 metri si visita con lo stesso biglietto del museo, e d'estate c'è il battello elettrico sul lago.",
+        "Sentiero degli Gnomi: percorso nel bosco vicino al centro, pensato per i bambini."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante)",
+          "testo": "Circa 200 km A/R (stima) a 0,129 €/km: circa 26 € di carburante, nessun pedaggio autostradale sulla strada del Muraglione.",
+          "min": 26,
+          "max": 26,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Diga di Ridracoli + IDRO",
+          "testo": "5 € intero, 4 € ridotto (bambini da 1 m a 12 anni). Con lo stesso biglietto si accede a diga e museo; gratis sotto 1 m di altezza.",
+          "min": 4,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Battello elettrico sul lago",
+          "testo": "3 € intero, 2,60 € ridotto; circa 45 minuti. Attivo da fine marzo a metà settembre, quindi fuori stagione in novembre.",
+          "min": 0,
+          "max": 3,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Piscine termali (facoltativo)",
+          "testo": "Circa 22-32 € per una giornata alle piscine termali in Italia (fascia generica); Euroterme come voucher con servizi costa 53 € venerdì-domenica.",
+          "min": 0,
+          "max": 32,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Stima 12-30 € a persona tra chiosco/rifugio sul lago e trattoria nel borgo; i prezzi dei locali non risultano su una fonte consultata.",
+          "min": 12,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante della vettura diviso per due; biglietti, terme e pranzo a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Da Pasqua a fine agosto la domenica e nei festivi la diga di Ridracoli si raggiunge solo con la navetta; ci sono parcheggi vicino alla diga, senza tariffe indicate."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Orari diga del 2025 (da riverificare per il 2026): 20 ottobre-8 dicembre sabato 10-17 (IDRO dalle 14), domenica e festivi 10-17; dal 9 dicembre solo la domenica e i festivi, e solo la diga. Fuori stagione in settimana la diga può essere chiusa."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il battello si compra in loco o online con due giorni di anticipo. Le uscite in foresta con guide del Parco e il voucher Euroterme si prenotano prima."
+        }
+      ],
+      "note": "Il consiglio di chi conosce il posto: andare nel fine settimana in autunno, quando diga e museo sono aperti insieme, e iniziare dalla foresta di mattina, lasciando le terme per il pomeriggio. Prima di partire controllare gli orari aggiornati su ridracoli.it, perché in bassa stagione cambiano. La strada del Muraglione può avere neve o ghiaccio da fine novembre.",
+      "fonti": [
+        "https://www.touringclub.it/destinazioni/bagno-di-romagna",
+        "https://www.ilbelcasentino.it/bagno-romagna-en.php",
+        "https://www.euroterme.com/en/trekking-bagno-di-romagna-eng.html",
+        "https://in3giorni.com/faq/quanto-costa-ingresso-euroterme-bagno-di-romagna",
+        "https://www.viaggiapiccoli.com/diga-di-ridracoli/",
+        "https://www.ilrestodelcarlino.it/forli/cronaca/ridracoli-diga-e-idro-ecco-tutti-gli-orari-e-le-modalita-di-accesso-7b8af255"
+      ],
+      "aggiuntaIl": "2026-11-08",
+      "coordinate": {
+        "lat": 43.8333,
+        "lon": 11.9667
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Sentiero degli Gnomi, diga e battello piacciono a un bimbo di 4 anni (battello gratis fino a 3 anni, ridotto da 4)."
+      }
+    },
+    {
       "id": "camogli-e-san-fruttuoso-1g",
       "nome": "Camogli e San Fruttuoso",
       "sottotitolo": "Liguria, il borgo di pescatori dalle case a otto piani e l'abbazia sul mare raggiungibile solo in battello o a piedi",
@@ -2876,6 +2995,120 @@
       }
     },
     {
+      "id": "montelupo-fiorentino-ed-empoli-1g",
+      "nome": "Montelupo Fiorentino ed Empoli",
+      "sottotitolo": "Toscana, due cittadine sulla linea Firenze-Pisa: la ceramica rinascimentale e il vetro verde, il Pontormo e la Collegiata",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno Regionale dalla stazione di Firenze Santa Maria Novella sulla linea per Pisa: prima fermata a Montelupo-Capraia, poi risalita in treno fino a Empoli (poche fermate) e rientro da Empoli a Firenze. Treni molto frequenti, senza bisogno di auto.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 26 minuti Firenze-Montelupo-Capraia (Regionale, il più veloce 18 minuti) e circa 21-30 minuti Firenze-Empoli.",
+      "durataViaggioMinuti": 40,
+      "periodoMiglioreTesto": "Marzo-giugno e settembre-novembre: giornate miti per camminare tra i due centri; in luglio e agosto fa caldo e alcuni locali riducono gli orari.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 26,
+      "costoMax": 45,
+      "costoNota": null,
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Montelupo e Empoli sono a pochi minuti l'una dall'altra e hanno centri piccoli e pianeggianti. La mattina basta per il Museo della Ceramica e le botteghe di Montelupo, il pomeriggio per piazza Farinata degli Uberti, la Collegiata e un museo a Empoli. Due musei per cittadina e un pranzo tranquillo riempiono la giornata senza fretta; un pernottamento non serve.",
+      "cosaVedere": [
+        "Museo della Ceramica di Montelupo: oltre 5.000 reperti da scavi nel centro storico, con alcune centinaia esposti, dalla maiolica rinascimentale legata ai Medici all'Arlecchino del Seicento; vale per capire perché Montelupo fu uno dei grandi centri della maiolica toscana.",
+        "Il celebre piatto 'Rosso di Montelupo' del 1509 e le sale su fornaci, tecniche di bottega ed esportazioni nel Mediterraneo: il biglietto unico da 5 € vale per i tre musei della città.",
+        "Botteghe e negozi di ceramica nel centro di Montelupo, dove si vede ancora dipingere a mano la maiolica.",
+        "Piazza Farinata degli Uberti a Empoli: piazza principale con portici e fontana ottocentesca con quattro leoni, perfetta per una sosta caffè.",
+        "Collegiata di Sant'Andrea con la facciata in marmo verde e bianco e, accanto, il Museo della Collegiata: otto sale con Masolino, Filippo Lippi, Lorenzo Monaco e Rossellino.",
+        "MUVE, Museo del Vetro di Empoli, in via Ridolfi: racconta la tradizione del vetro verde della città con ambienti ricostruiti e video.",
+        "Casa del Pontormo e chiesa di San Michele a Pontorme, nel quartiere a est: per chi ama il manierismo, due dipinti del maestro nel paese dove nacque."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze-Montelupo A/R + Empoli-Firenze",
+          "testo": "Regionale da circa 4 € a tratta Firenze-Montelupo e da circa 5 € Empoli-Firenze (prezzi minimi Omio, medio circa 5 €); la tratta Montelupo-Empoli di pochi minuti si può comprare a parte. Stima complessiva 9-10 €.",
+          "min": 9,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo della Ceramica di Montelupo",
+          "testo": "5 € intero, 4 € ridotto; biglietto unico valido per i tre musei di Montelupo.",
+          "min": 4,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Musei di Empoli",
+          "testo": "Museo della Collegiata 5 € intero (3 € ridotto) e MUVE 5 € intero (3 € ridotto): da un museo ridotto a entrambi interi.",
+          "min": 3,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 10 € in forno o panineria, circa 20 € in pizzeria o trattoria (stime di prezzo medio a persona dei locali di Montelupo).",
+          "min": 10,
+          "max": 20,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "In treno nessun problema di ZTL: le stazioni di Montelupo-Capraia e Empoli sono vicine ai centri, a piedi in piano (a Montelupo la stazione è un po' fuori dal centro storico, conviene verificare la distanza)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Museo della Ceramica: lunedì 14-19, martedì-domenica 10-19. Museo del Vetro di Empoli: martedì-domenica 10-19 (chiuso il lunedì). Museo della Collegiata: martedì-domenica 9-19. Orari dai portali museali, aggiornati al 2022-2023: verificare prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria indicata per i musei; per gruppi o visite guidate telefonare ai musei (Montelupo 0571 51352, MUVE 0571 76714)."
+        }
+      ],
+      "note": "Il lunedì è il giorno peggiore perché i musei di Empoli sono chiusi e quello di Montelupo apre solo il pomeriggio: scegliere martedì-domenica. Conviene fare Montelupo al mattino, quando le botteghe sono aperte, e Empoli nel pomeriggio, dove il centro è più vivo. A Empoli si può aggiungere la Casa del Pontormo a Pontorme se avanza tempo. Controllare gli orari dei treni di ritorno: gli ultimi regionali da Empoli sono tardi, ma meglio non ridursi all'ultimo.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/empoli",
+        "https://www.omio.it/treni/firenze-santa-maria-novella/montelupo-capraia-xrvis",
+        "https://www.visittuscany.com/en/attractions/museum-of-ceramics-in-montelupo-fiorentino/",
+        "https://www.museionline.info/toscana-musei-monumenti/museo-della-ceramica-di-montelupo",
+        "https://www.museionline.info/toscana-musei-monumenti/museo-del-vetro-di-empoli",
+        "https://www.museionline.info/toscana-musei-monumenti/museo-della-collegiata-di-sant-andrea",
+        "https://tuscanynowandmore.com/discover-italy/favourite-towns-villages/empoli-travel-guide",
+        "https://www.sluurpy.it/montelupo-fiorentino"
+      ],
+      "aggiuntaIl": "2026-11-08",
+      "coordinate": {
+        "lat": 43.724,
+        "lon": 10.95
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Il museo di Montelupo ha laboratori e attività interattive per bambini e i centri sono piani e pedonali, ottimi con un bimbo di 4 anni."
+      }
+    },
+    {
       "id": "monteriggioni-e-colle-di-val-d-elsa-1g",
       "nome": "Monteriggioni e Colle di Val d'Elsa",
       "sottotitolo": "Toscana, il castello-borgo cinto da 14 torri e la città del cristallo, due soste a 25 minuti l'una dall'altra",
@@ -4488,6 +4721,118 @@
       }
     },
     {
+      "id": "san-casciano-dei-bagni-e-sarteano-1g",
+      "nome": "San Casciano dei Bagni e Sarteano",
+      "sottotitolo": "Toscana (Siena), borghi termali etruschi al confine con Umbria e Lazio",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "In auto lungo l'A1 fino all'uscita Chiusi-Chianciano Terme, poi circa 20 minuti per Sarteano e San Casciano dei Bagni (i due borghi distano pochi chilometri tra loro). In treno si arriva a Chiusi-Chianciano Terme con un Regionale da Firenze, ma dalla stazione al borgo serve comunque un mezzo (taxi o noleggio), per cui l'auto è molto più pratica.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h45-2h in auto (stima); in treno 1h45-2h30 fino a Chiusi-Chianciano Terme, più circa 20 minuti dalla stazione al borgo.",
+      "durataViaggioMinuti": 120,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: clima mite, vasche libere piacevoli anche in autunno perché l'acqua sgorga calda; luglio-agosto sono afosi e affollati (a Ferragosto a Sarteano c'è la Giostra del Saracino).",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 50,
+      "costoMax": 65,
+      "costoNota": "Il totale comprende pranzo e carburante (km A/R stimati, non verificati con un percorso ufficiale); pedaggi A1 e ingresso alle piscine termali a pagamento non sono inclusi perché non verificati.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "I due borghi sono a pochi chilometri l'uno dall'altro e piccoli: a San Casciano si cammina in meno di un'ora, ma il bello è il sito archeologico del santuario etrusco-romano e le vasche libere ai piedi del colle, raggiungibili solo a piedi. Sarteano aggiunge castello, palazzi e una mezza giornata di passeggiata e relax. Con pranzo lento in trattoria la giornata si riempie senza correre, ma un pernottamento non serve.",
+      "cosaVedere": [
+        "Terme libere di San Casciano dei Bagni: tre vasche in pietra (una triangolare, un lavatoio coperto e la grande caldagna) con acqua a circa 40 °C, raggiungibili a piedi in circa 200 metri dalla base del colle.",
+        "Santuario termale etrusco-romano di San Casciano: lo scavo dove nel 2022 sono emerse 24 statue in bronzo, tra le scoperte più importanti degli ultimi decenni; il museo in paese è in preparazione, verifica cosa è visitabile prima di andare.",
+        "Piazza della Repubblica a San Casciano: terrazza sulla campagna con vista sulla Valdichiana, ottima per un caffè.",
+        "Castello di Sarteano: documentato dal 1038 e rimaneggiato nel Quattrocento, circondato da un parco di lecci secolari.",
+        "Palazzo Gabrielli a Sarteano: ospita il museo con i reperti etruschi degli scavi locali, tra cui il materiale delle necropoli.",
+        "Parco delle Piscine di Sarteano: tre vasche con acqua a 24 °C e cascatelle, adatte soprattutto in estate."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante)",
+          "testo": "Circa 330 km A/R (stima) a 0,129 €/km di carburante, parametro del documento: 40-50 € per la vettura, divisi per due.",
+          "min": 40,
+          "max": 50,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "Regionale Firenze-Chiusi da circa 10 € a tratta, 16 € nelle corse dell'8 novembre; 20-32 € A/R, ma poi serve un mezzo fino ai borghi.",
+          "min": 20,
+          "max": 32,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Terme libere di San Casciano",
+          "testo": "Le vasche libere sono gratuite (accesso a piedi).",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 30-40 € a testa in trattoria a Celle sul Rigo; fascia €€ per Daniela a San Casciano.",
+          "min": 30,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Il carburante è della vettura e si divide per due; pranzo ed eventuali ingressi sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Le vasche libere di San Casciano si raggiungono solo a piedi, scendendo da una stradina alla base del colle (circa 200 metri): scarpe adatte."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il ristorante Daniela a San Casciano è aperto tutti i giorni 12-15 e 19-22; per castello e museo di Sarteano verifica gli orari sui siti locali."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per le piscine termali a pagamento di Sarteano esistono biglietti a tempo (4 ore, solo giorni feriali, over 12): meglio prenotare online."
+        }
+      ],
+      "note": "Il museo del santuario di San Casciano era in allestimento in un palazzo cinquecentesco acquistato dal Ministero: controlla se è aperto. Dalla stazione di Chiusi i borghi sono a circa 20 minuti, quindi il treno ha senso solo con un noleggio. Il pranzo a Celle sul Rigo, frazione di San Casciano, è una buona alternativa ai locali del centro.",
+      "fonti": [
+        "https://it.wikivoyage.org/wiki/San_Casciano_dei_Bagni",
+        "https://www.visittuscany.com/it/attrazioni/terme-libere-di-san-casciano-dei-bagni/",
+        "https://www.ilturista.info/guide/sarteano-toscana-castello-terme-visita-borgo/",
+        "https://www.omio.it/treni/firenze/chiusi",
+        "https://bigliettiparchi.1sticket.com/en/box-office/ingresso-piscine-termali-theia-feriale",
+        "https://ansa.it/english/news/2023/11/18/bathing-in-history-at-san-casciano-park_304b1356-5304-48ff-83be-05d8f23daa9d.html",
+        "https://foodle.pro/restaurants/celle-sul-rigo/trattoria-la-pace-1",
+        "https://guide.michelin.com/ch/it/toscana/san-casciano-dei-bagni/ristorante/daniela"
+      ],
+      "aggiuntaIl": "2026-11-08",
+      "coordinate": {
+        "lat": 42.8664,
+        "lon": 11.8756
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Vasche e borghi piacciono, ma l'accesso alle terme libere è a piedi su sentiero e il resto è poco pensato per un bimbo di 4 anni."
+      }
+    },
+    {
       "id": "sarzana-e-lerici-1g",
       "nome": "Sarzana e Lerici",
       "sottotitolo": "Liguria di Levante, la città-fortezza di confine e il borgo di mare del Golfo dei Poeti",
@@ -4927,6 +5272,117 @@
       "bambini": {
         "adatta": "si",
         "nota": "Rocca, trenino estivo, seggiovia, Lago della Ninfa e Adventure Park sono pensati anche per famiglie; il viaggio di 1h40 in auto è l'unico punto delicato con un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "sestri-levante-e-chiavari-1g",
+      "nome": "Sestri Levante e Chiavari",
+      "sottotitolo": "Liguria, la Baia del Silenzio e il centro porticato di Chiavari nel Golfo del Tigullio",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. a Sestri Levante (servizi Intercity/Frecciargento diretti o con un cambio sulla linea tirrenica), poi regionale per Chiavari (5-12 minuti). Lungo la linea Genova-La Spezia le due stazioni sono il centro stesso: non serve l'auto.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 3h10 in media in treno (dalle 2h06 col Frecciargento fino a oltre 3h30 con i cambi); partire presto è obbligatorio per avere tempo in loco.",
+      "durataViaggioMinuti": 190,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: mare e passeggiate piacevoli senza la ressa di luglio e agosto, quando la Baia del Silenzio è affollatissima.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 56,
+      "costoMax": 126,
+      "costoNota": "Il treno è la voce più variabile: 19 € è il minimo a tratta indicato da Omio, 35 € il massimo citato (Frecciabianca); la fascia alta riflette acquisto last minute.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Sestri Levante ha un centro minuscolo, a piedi tra due baie: Baia del Silenzio, Baia delle Favole e la penisola dell'Isola si girano in due-tre ore. Chiavari è a 5-12 minuti di treno e il suo centro storico porticato e il museo archeologico richiedono un'altra mezza giornata. Il viaggio di andata e ritorno consuma circa sei ore, quindi una sola località sarebbe sprecata e due sono il massimo sensato: niente pernottamento, ma neppure fretta eccessiva.",
+      "cosaVedere": [
+        "Baia del Silenzio: piccola baia di pescatori con case color pastello e la statua del Pescatore, a ridosso della penisola dell'Isola; ci vuole circa un'ora tra sosta e foto.",
+        "Baia delle Favole: lungo lungomare con spiagge, dall'altra parte dell'istmo; comodo per passeggiare e pranzare.",
+        "Chiesa di San Nicolò dell'Isola e Sentiero di Punta Manara: la chiesa sulla penisola dà il miglior panorama sulla Baia del Silenzio, il sentiero (circa un'ora a salire) la vista sulla costa.",
+        "Palazzo Fascie e Museo Archeologico (MUSEL): piccolo museo civico a Sestri, 5 € intero, utile se piove.",
+        "Centro storico di Chiavari: circa 3 km di portici medievali con botteghe, piazze e chiese, e sul lungomare la ferrovia e il porto a due passi.",
+        "Cattedrale di Nostra Signora dell'Orto (1613): patrona della città, con il pronao marmoreo del 1907 che domina la piazza.",
+        "Palazzo Rocca e Museo Archeologico Nazionale di Chiavari: villa seicentesca nel parco che custodisce i reperti della necropoli preromana (VIII-VII sec. a.C.) scoperta nel 1959."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze-Sestri Levante A/R",
+          "testo": "Da 19 € a tratta (minimo Omio) fino a circa 35 € (Frecciabianca); prezzo medio indicato 26 € a tratta. Fascia A/R 38-70 €.",
+          "min": 38,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Sestri Levante-Chiavari A/R",
+          "testo": "3 € a tratta in Regionale (fino a 4 € il giorno stesso), 9 € in Intercity; A/R 6-8 € con il regionale.",
+          "min": 6,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Musei",
+          "testo": "Museo Archeologico Nazionale di Chiavari 3 € intero (2 € ridotto); MUSEL a Sestri Levante 5 € intero.",
+          "min": 0,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Da circa 12 € per un piatto di trofie al pesto in un bistrot fino a 25-40 € nei ristoranti di pesce o nelle trattorie tradizionali (Tapullo, Osteria Mattana, Trattoria da Turin 25-30 €; Pelagica, Polpo Mario circa 40 €).",
+          "min": 12,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nessuna ZTL per chi viaggia in treno: le stazioni di Sestri Levante e di Chiavari sono a pochi minuti a piedi dai centri."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Museo Archeologico di Chiavari aperto mar, mer, ven e sab 9-14, giovedì 9-17, seconda domenica del mese 9-17 (chiuso lunedì); verificare gli orari. Il MUSEL di Sestri Levante è aperto tutti i giorni 10-13 e 14-17."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione necessaria per musei e chiese; in estate e nei weekend di bel tempo prenotare il tavolo per il pranzo."
+        }
+      ],
+      "note": "Il museo di Chiavari è gratuito la prima domenica del mese (musei statali), ma è aperto solo la seconda domenica del mese: scegliete in base alla giornata. Il tempo di viaggio è lungo: guardate gli orari Intercity diretti prima di fissare la data e puntate al treno delle prime ore per non rientrare a notte fonda. Se il mare è mosso, la sosta migliore resta il giro sulla penisola dell'Isola.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/sestri-levante-qcp89",
+        "https://www.omio.it/treni/stazione-di-sestri-levante/stazione-di-chiavari-oix2o",
+        "https://www.travel365.it/sestri-levante-cosa-vedere.htm",
+        "https://www.spiagge.it/magazine/scoprire-sestri-levante-posti-imperdibili-estate/",
+        "https://www.lecinqueterre.org/chiavari.php",
+        "https://museionline.info/musei/museo-archeologico-di-chiavari",
+        "https://www.scattidigusto.it/il-bistro-a-sestri-levante-menu-e-prezzi"
+      ],
+      "aggiuntaIl": "2026-11-08",
+      "coordinate": {
+        "lat": 44.2706,
+        "lon": 9.3933
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Spiagge e passeggiate piacevoli per un bimbo di 4 anni, ma sei ore di treno complessive sono pesanti."
       }
     },
     {
@@ -6600,6 +7056,126 @@
         "https://www.bergamoperte.com/info-pratiche.html"
       ],
       "aggiuntaIl": "2026-08-21"
+    },
+    {
+      "id": "bobbio-e-val-trebbia-2g",
+      "nome": "Bobbio e la Val Trebbia",
+      "sottotitolo": "Emilia-Romagna (Piacenza), il borgo dell'abbazia di San Colombano e del Ponte Gobbo sul fiume Trebbia",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto: A1 Firenze–Piacenza (circa 251 km, pedaggio 19,20 €), poi circa 51 km di statale lungo la Val Trebbia fino a Bobbio. Il treno non arriva a Bobbio: le stazioni più vicine sono Stradella (circa 35 km) e Voghera (circa 39 km) e servono bus o taxi per l'ultimo tratto, quindi per un weekend l'auto è molto più pratica.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h30 in auto (circa 300 km): 2h24 fino a Piacenza più la statale della Val Trebbia, tempo quest'ultimo stimato in circa un'ora.",
+      "durataViaggioMinuti": 210,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: temperature miti, fiume balneabile in tarda primavera e colori autunnali sui colli. Da evitare gennaio-febbraio per freddo e strade ghiacciate.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 222,
+      "costoMax": 354,
+      "costoNota": "Voce vettura (carburante e pedaggi A/R) divisa per due. L'alloggio è calcolato a persona su una doppia da 80-130 € e moltiplicato per i giorni, quindi è una stima prudente per un solo pernottamento.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro storico di Bobbio si gira a piedi in poche ore, ma i musei (abbazia, Museo della Città, castello) aprono quasi solo sabato, domenica e festivi, quindi serve un weekend pieno. Con due giorni si riesce a fare il borgo con Ponte Gobbo, abbazia e Duomo il primo giorno e a dedicare il secondo alla valle: Brugnello, le cascate del Perino o il monte Penice. Il viaggio di oltre tre ore all'andata rende poco sensata la gita in giornata.",
+      "cosaVedere": [
+        "Ponte Gobbo (Ponte del Diavolo): ponte di origine romana sul Trebbia con 11 arcate irregolari, percorribile solo a piedi; è il simbolo del paese e vale la camminata fino al centro dell'alveo.",
+        "Abbazia di San Colombano, fondata nel 614: la basilica ha affreschi cinquecenteschi di Bernardino Lanzani e la cripta custodisce il sarcofago del santo con un mosaico pavimentale del XII secolo.",
+        "Museo dell'Abbazia e Museo della Città, nel complesso abbaziale (il secondo nell'ex refettorio e nelle cucine): per capire perché Bobbio fu un centro di cultura nel Medioevo.",
+        "Duomo di Santa Maria Assunta, con affreschi settecenteschi e il ciclo quattrocentesco dell'Annunciazione nella cappella di San Giovanni.",
+        "Castello Malaspina-Dal Verme (XIV secolo): museo statale con ampio panorama sulla valle, ingresso 2,50 € intero.",
+        "Escursioni vicine: Brugnello, le cascate del Perino, la Pietra Parcellara e il monte Penice, per il secondo giorno."
+      ],
+      "itinerario": null,
+      "alloggio": "B&B e piccole strutture a Bobbio da circa 80 € a notte per due (Al Museo, Altarelli B&B) a 90-130 € (B&B San Nicola, agriturismi e Villa Costanza), ossia circa 40-65 € a persona. Conviene dormire nel borgo o nelle immediate vicinanze per la cena a piedi.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto A/R (carburante)",
+          "testo": "Circa 604 km A/R (251 km Firenze-Piacenza più circa 51 km fino a Bobbio, ciascuno due volte) a 0,129 €/km: circa 78 €.",
+          "min": 78,
+          "max": 78,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi autostradali A/R",
+          "testo": "19,20 € a tratta Firenze-Piacenza, 38,40 € andata e ritorno.",
+          "min": 38,
+          "max": 38,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingressi musei",
+          "testo": "Castello Malaspina 2,50 € intero (1,50 ridotto); Museo della Città 3 € intero (2 ridotto). Il biglietto del museo dell'abbazia non è stato verificato.",
+          "min": 4,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "80-130 € a notte in B&B per due, circa 40-65 € a persona.",
+          "min": 40,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pasto completo con bevande 25-40 € a persona, fascia economica 15-20 €; due pasti al giorno (colazione compresa nel B&B).",
+          "min": 40,
+          "max": 80,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e divisi tra i due viaggiatori; ingressi, alloggio e pasti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Ponte Gobbo è solo pedonale; per l'ultimo tratto in Val Trebbia serve l'auto propria, perché le stazioni di Stradella e Voghera distano 35-39 km da Bobbio."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il castello apre sabato e domenica 10-13 e 15-18; il Museo della Città sabato, domenica e festivi 10:30-12:30 e 15:30-18:30. Orari da una scheda non recente: confermare per telefono (0523 962815)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria segnalata per i musei; prenotare il B&B con anticipo nei weekend di bella stagione."
+        }
+      ],
+      "note": "Programmate il viaggio per sabato e domenica, altrimenti i musei sono chiusi. Provate i maccheroni alla bobbiese con stracotto, i salumi DOP piacentini (coppa, salame, pancetta) e i pinoli al sugo di funghi. Anche la prima domenica del mese l'ingresso ai musei statali può essere gratuito, ma va verificato per questi due.",
+      "fonti": [
+        "https://travel.thewom.it/italia/emilia-romagna/cosa-vedere-a-bobbio.html",
+        "https://www.percorsokm.it/it/come-arrivare-a-Bobbio",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Piacenza/",
+        "https://www.bed-and-breakfast.it/en/bobbio?prezzo=1",
+        "https://www.sluurpy.it/bobbio/ristorante",
+        "https://museionline.info/emilia-romagna-musei-monumenti/castello-malaspina-dal-verme-bobbio",
+        "https://museionline.info/emilia-romagna-musei-monumenti/museo-della-citta-di-bobbio",
+        "https://distanzechilometriche.net/varzi-bobbio/"
+      ],
+      "aggiuntaIl": "2026-11-08",
+      "coordinate": {
+        "lat": 44.7697,
+        "lon": 9.3856
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Il Ponte Gobbo e il castello piacciono ai bimbi, ma il ponte ha parapetti bassi e il viaggio in auto è lungo."
+      }
     },
     {
       "id": "brescia-2g",
@@ -10937,6 +11513,125 @@
       }
     },
     {
+      "id": "rovereto-e-vallagarina-2g",
+      "nome": "Rovereto e la Vallagarina",
+      "sottotitolo": "Trentino, città del MART e della Campana dei Caduti ai piedi del Monte Zugna",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Frecciarossa o Italo diretti da Firenze S.M.N. a Rovereto, senza cambi sulla linea del Brennero. In alternativa Regionale con cambi (più economico ma molto più lento). In auto sono circa 299 km con A1 e A22 e circa 21,90 € di pedaggio a tratta: non serve, perché il centro si gira a piedi e la stazione è a pochi minuti dal centro.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 2h20-2h25 in treno diretto (Frecciarossa/Italo); circa 2h50 in auto (299 km).",
+      "durataViaggioMinuti": 150,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre per clima mite e giornate lunghe; novembre-marzo è fattibile ma con orari ridotti e freddo. Luglio e agosto sono caldi in fondovalle.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 134,
+      "costoMax": 343,
+      "costoNota": "Una sola notte: alloggio espresso come media al giorno (metà della tariffa a notte a persona) per 2 giorni.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro storico di Rovereto è compatto e pianeggiante: MART, Casa Depero, Castello con il Museo della Guerra e il Museo Civico stanno tutti entro un paio di chilometri. Due giorni permettono di dedicare una mattina intera al MART, il pomeriggio al Castello, e il secondo giorno alla Campana dei Caduti sul colle di Miravalle e a un'uscita nella Vallagarina (Sentiero dei Dinosauri sul Monte Zugna) senza correre. Un solo giorno obbligherebbe a tagliare almeno due musei.",
+      "cosaVedere": [
+        "MART, Museo d'Arte Moderna e Contemporanea: De Chirico, Carrà, Sironi, Balla e Depero in un edificio di Mario Botta; aperto fino alle 21 il venerdì.",
+        "Casa Depero: la casa-museo del futurista Fortunato Depero, con circa 3.000 opere a rotazione; stessi orari del MART e biglietto cumulativo.",
+        "Castello di Rovereto e Museo Storico Italiano della Guerra: la collezione sulla Grande Guerra più importante d'Italia, dentro una fortezza veneziana.",
+        "Campana dei Caduti Maria Dolens sul colle di Miravalle, a circa 3 km dal centro: ingresso gratuito, ogni sera 100 rintocchi di pace.",
+        "Centro storico, Palazzo Annona e Chiesa di San Marco: il barocco con affreschi e un organo del 1509, gratis e sempre aperta.",
+        "Sentiero dei Dinosauri sul Monte Zugna: uno dei maggiori giacimenti di impronte fossili in Italia, gratuito.",
+        "Museo Civico di Scienze e Archeologia: sezione utile nelle ore di pioggia, chiuso il lunedì."
+      ],
+      "itinerario": null,
+      "alloggio": "Un hotel 3 stelle costa in media circa 83 € a notte per la doppia (momondo), con minimi attorno a 57 € a marzo e punte medie di 168 € a settembre: circa 28-84 € a persona a notte. Conviene dormire in centro storico, vicino alla stazione, per muoversi a piedi.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Tariffe a tratta da 14 € (Italo in anticipo) a 82 € nelle date consultate, media circa 36-38 €; A/R tipico 28-90 € a persona.",
+          "min": 28,
+          "max": 90,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "MART 11 € intero (gratis la prima domenica del mese), Castello/Museo della Guerra 7,50-11 €, Museo Civico 7 €.",
+          "min": 18,
+          "max": 29,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Circa 15-35 € a pasto in trattoria o pizzeria del centro (dati 2018, rivalutare al rialzo); pranzo e cena al giorno.",
+          "min": 30,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Hotel 3 stelle circa 57-168 € a notte per due, cioè 28-84 € a persona; una sola notte, quindi equivalente a 14-42 € al giorno su 2 giorni.",
+          "min": 14,
+          "max": 42,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Auto (alternativa)",
+          "testo": "299 km a tratta, circa 38 € di benzina e 21,90 € di pedaggio a tratta secondo Unipol Move; non entra nel totale.",
+          "min": 120,
+          "max": 120,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Treno, ingressi, pasti e alloggio sono per persona; l'auto (solo confronto) è una spesa di vettura da dividere per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro si visita a piedi dalla stazione; la Campana dei Caduti è a circa 3 km dal centro, raggiungibile in taxi, bici o a piedi in salita."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "MART, Casa Depero, Castello e Museo Civico sono chiusi il lunedì non festivo. Il Castello chiude anche il 24, 25, 31 dicembre e il 1 gennaio; ultimo ingresso alle 17."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per i musei; la visita guidata al Castello costa 3 € in più. L'Eremo di San Colombano apre solo la domenica pomeriggio da maggio a fine settembre."
+        }
+      ],
+      "note": "Programma i due giorni evitando il lunedì: tutto è chiuso. Il venerdì il MART resta aperto fino alle 21, quindi conviene arrivare il venerdì e dormire. La prima domenica del mese l'ingresso al MART è gratuito, ma c'è più folla. Verifica sempre orari e prezzi aggiornati sui siti dei musei prima di partire: le fonti riportano versioni diverse del biglietto del Castello.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze-santa-maria-novella/rovereto-yj173",
+        "https://www.dolomiti.it/it/castelli-e-fortezze/castello-di-rovereto",
+        "https://www.momondo.it/hotel/rovereto",
+        "https://www.travel365.it/rovereto-cosa-vedere.htm",
+        "https://www.voloscontato.it/ristoranti/rovereto-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Rovereto/"
+      ],
+      "aggiuntaIl": "2026-11-08",
+      "coordinate": {
+        "lat": 45.89,
+        "lon": 11.04
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Castello con il Museo della Guerra, Sentiero dei Dinosauri e Campana sono adatti ai bimbi di 4 anni; ingresso gratuito per i minori fino a 17 anni accompagnati."
+      }
+    },
+    {
       "id": "salerno-e-paestum-2g",
       "nome": "Salerno e Paestum",
       "sottotitolo": "Campania, il capoluogo del golfo con il Duomo di San Matteo e i templi dorici di Paestum a mezz'ora di regionale",
@@ -11334,6 +12029,132 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Il lago ha giochi e spazi picnic sulla riva sinistra e il museo dei confetti piace, ma otto ore di auto in due giorni sono dure per un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "teramo-e-civitella-del-tronto-2g",
+      "nome": "Teramo, Civitella del Tronto e Atri",
+      "sottotitolo": "Abruzzo teramano: città romana e medievale, fortezza borbonica sul confine e borgo sopra i calanchi",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto: circa 233 km da Firenze verso Teramo (autostrada), poi spostamenti brevi tra Teramo, Civitella del Tronto (circa 20 km) e Atri (circa 40 km). Il treno esiste ma è lento (circa 4h45 con cambi) e Civitella e Atri senza auto sono scomodi.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 4h porta a porta in auto (233 km); in treno circa 4h45-5h15 con cambi.",
+      "durataViaggioMinuti": 240,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: clima mite, fortezza aperta con orario lungo. In luglio-agosto fa caldo e Civitella è affollata.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 195,
+      "costoMax": 320,
+      "costoNota": "Stima con auto in due: carburante e pedaggi ricavati dalla cifra Omio (circa 69 € a tratta) più circa 100 km di spostamenti locali. Alloggio e pasti sono moltiplicati per i 2 giorni.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Il viaggio è lungo (circa 4 ore per tratta), quindi una sola giornata non basta. Due giorni permettono di dedicare il primo a Teramo (centro raccolto, Cattedrale, Teatro romano, Domus) e il secondo a Civitella del Tronto (fortezza lunga oltre 500 m e borgo) con tappa ad Atri. Distanze interne di 20-40 km, circa 6-8 attrazioni in tutto: ritmo tranquillo, senza correre.",
+      "cosaVedere": [
+        "Fortezza di Civitella del Tronto: tra le più grandi fortificazioni d'Italia, ultima a cadere nel 1861; con il Museo delle Armi si visita in 1-2 ore.",
+        "Borgo di Civitella: la Ruetta, uno dei vicoli più stretti d'Italia, e il panorama su Gran Sasso e Maiella.",
+        "Cattedrale di Santa Maria Assunta di Atri: gotica (1264-1305), con il coro affrescato da Andrea de Litio e una cisterna romana in cripta.",
+        "Calanchi di Atri: riserva WWF a ridosso del centro, paesaggio di argille erose da vedere al tramonto.",
+        "Teramo, centro storico: il Duomo e le vestigia romane (teatro e Domus) in un centro da girare a piedi in mezza giornata."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte a Teramo: hotel 3 stelle da circa 58 € a notte la doppia (circa 29 € a testa), media generale degli hotel in città circa 82 € a notte la doppia. Conviene dormire in centro per cenare a piedi.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto A/R",
+          "testo": "Circa 69 € a tratta tra carburante e pedaggi secondo Omio (233 km), quindi circa 138 € A/R per la vettura.",
+          "min": 138,
+          "max": 138,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Spostamenti locali",
+          "testo": "Circa 100 km tra Teramo, Civitella e Atri a 0,129 €/km, più eventuale parcheggio.",
+          "min": 13,
+          "max": 17,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "Da circa 40-44 € a tratta nelle date campione, 4h45 con cambi.",
+          "min": 80,
+          "max": 88,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Fortezza di Civitella",
+          "testo": "6 € con Museo delle Armi, 10 € con anche il Museo Nina.",
+          "min": 6,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Da 58 € a notte in hotel 3 stelle fino a circa 94 € la doppia, divisi per due.",
+          "min": 29,
+          "max": 47,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Circa 15-20 € in locali economici, 25-40 € in ristorante con bevande; due pasti al giorno.",
+          "min": 30,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Auto, carburante e pedaggi sono della vettura e divisi per due; ingressi, alloggio (metà doppia) e pasti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il borgo di Civitella è su un crinale: si parcheggia fuori e si sale a piedi, con salite ripide. Il centro di Teramo ha ZTL: usare i parcheggi attorno al centro."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Fortezza: orario 10-19 in aprile, maggio e settembre, 10-20 circa in estate, 10:30-18 negli altri periodi; giorni di chiusura non confermati, verificare prima."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria nota; per Atri e per orari aggiornati telefonare (Cattedrale +39 085 8710218)."
+        }
+      ],
+      "note": "Il tragitto è lungo: partire presto il primo giorno. Civitella e Atri stanno su due lati opposti rispetto a Teramo, quindi conviene ordinarle in un'unica giornata con base a Teramo. Non ho verificato gli orari di Teramo città né la percorrenza esatta; controllare prima. Gli arrosticini sono il piatto da provare.",
+      "fonti": [
+        "https://www.omio.it/viaggi/teramo/firenze",
+        "https://www.museionline.info/abruzzo-musei-monumenti/fortezza-di-civitella-del-tronto",
+        "https://www.momondo.it/hotel/teramo",
+        "https://www.sluurpy.it/teramo/ristorante",
+        "https://it.wikivoyage.org/wiki/Atri",
+        "https://www.italia.it/it/abruzzo/civitella-del-tronto"
+      ],
+      "aggiuntaIl": "2026-11-08",
+      "coordinate": {
+        "lat": 42.66,
+        "lon": 13.7
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "La fortezza è grande e divertente per un bimbo di 4 anni, ma il viaggio di 4 ore e le salite del borgo pesano."
       }
     },
     {
@@ -21219,6 +22040,219 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Giardini, Merano 2000 e le funivie di Solda vanno benissimo con un bimbo di 4 anni; i tornanti dello Stelvio e le quattro ore d'autostrada sono pesanti e la visita guidata di un'ora a Castel Coira è lunga per lui."
+      }
+    },
+    {
+      "id": "alvernia-e-lione-7g",
+      "nome": "Alvernia e Lione: Clermont-Ferrand, Puy de Dôme, Le Puy-en-Velay e Vichy",
+      "sottotitolo": "Francia centrale, Auvergne-Rhône-Alpes: due giorni a Lione e un anello tra vulcani spenti, cattedrali romaniche e la città termale della Belle Époque",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Volo diretto Volotea da Firenze Peretola a Lione Saint-Exupéry (1h20, un volo al giorno nelle date viste: andata alle 11:30, ritorno da Lione alle 13:30). Da Saint-Exupéry il treno-navetta Rhônexpress porta in centro in 38 minuti. I due giorni di Lione si fanno a piedi e coi mezzi pubblici; per l'Alvernia conviene un'auto a noleggio ritirata in città il terzo giorno e riconsegnata all'aeroporto di Saint-Exupéry prima del volo di ritorno. L'autostrada A75, che attraversa l'Alvernia da nord a sud, è gratuita.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 3h30 porta a porta fino al centro di Lione: tram T2 per Peretola, 1h20 di volo diretto Volotea e 38 minuti di Rhônexpress. In treno servono 6h24–7h05 con un cambio a Milano o Torino. Lione–Clermont-Ferrand sono 136 km, circa 2 ore in auto.",
+      "durataViaggioMinuti": 210,
+      "periodoMiglioreTesto": "Da maggio a settembre, al massimo fino a metà ottobre: è il periodo in cui sono aperti Vulcania, Lemptégy e i rifugi, e in vetta al Puy de Dôme fa meno freddo. Luglio e agosto in Alvernia restano sui 25 °C nelle zone basse, 5–10 gradi in meno della Provenza. Da evitare gennaio–marzo: neve sulle cime e strade di montagna difficili, e dal 1° novembre al 31 marzo in alcuni paesi sono richiesti pneumatici invernali o catene.",
+      "mesi": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        3
+      ],
+      "costoMin": 545,
+      "costoMax": 1166,
+      "costoNota": "Totale a persona con 2 viaggiatori: volo, tram, Rhônexpress, ingressi, alloggio (fascia 50–120 € la doppia, conversioni da dollari e rand approssimative), pasti (30–57 € al giorno per 7 giorni, medie Numbeo), noleggio auto 5 giorni diviso per due e carburante calcolato a 0,129 €/km (parametro del brief) sui soli 136 km Lione–Clermont (minimo): i km degli altri tratti dell'anello non sono verificati, quindi carburante e pedaggi a pagamento sono sottostimati.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Lione chiede due giorni pieni da sola (Fourvière e Vieux Lyon il primo, Presqu'île e Croix-Rousse il secondo). L'Alvernia è un anello di quattro tappe distanti tra loro: Le Puy-en-Velay vale una giornata con notte (cattedrale, chiostro, i 268 gradini di Saint-Michel d'Aiguilhe), il Puy de Dôme con la Chaîne des Puys occupa un altro giorno intero, Clermont e Vichy stanno insieme nel sesto. Il volo diretto arriva a Lione a mezzogiorno e riparte all'ora di pranzo: in sette giorni si vede tutto senza correre, in meno si dovrebbe tagliare una tappa.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: tram T2 per Peretola e volo Volotea delle 11:30, arrivo a Saint-Exupéry alle 12:50. Rhônexpress fino a Part-Dieu (38 minuti), si lasciano i bagagli e si sale a Fourvière per vedere la città dall'alto: la basilica, i teatri romani e la discesa a piedi per le scalinate fino al Vieux Lyon. Sera nei vicoli rinascimentali di Saint-Jean, cena in un bouchon. Notte a Lione."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Lione a piedi. Mattina sulla Presqu'île tra place Bellecour, place des Terreaux e il Musée des Beaux-Arts; poi la salita alla Croix-Rousse attraverso le traboules, i passaggi coperti dei tessitori di seta che tagliano gli isolati. Pomeriggio alle Halles Paul Bocuse o lungo le rive del Rodano e della Saona fino alla Confluence. Notte a Lione."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: ritiro dell'auto in città e partenza verso sud-ovest per Le Puy-en-Velay, la città dei pinnacoli vulcanici. Si sale alla cattedrale Notre-Dame, punto di partenza della Via Podiensis per Santiago (il GR65 corre per 736 km fino ai Pirenei), con il chiostro romanico a mosaici di pietra policroma. Nel pomeriggio i 268 gradini scavati nella roccia fino alla cappella di Saint-Michel d'Aiguilhe, in cima a un camino vulcanico alto circa 82 metri, e la statua rossa di Notre-Dame de France sul Rocher Corneille. Assaggio delle lenticchie verdi del Puy. Notte a Le Puy."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: verso nord sulla A75, gratuita, deviando sui Monts Dore. Sosta al Lac Pavin, lago di cratere profondo circa 90 metri: il giro a piedi della riva richiede circa un'ora e la balneazione è vietata. Poi il borgo di Besse-et-Saint-Anastaise e, 17 km più avanti, Saint-Nectaire con la chiesa romanica e il formaggio omonimo. In serata arrivo a Clermont-Ferrand. Notte a Clermont."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: il Puy de Dôme, a circa 10 km da Clermont. Dalla base di Orcines il treno a cremagliera Panoramique des Dômes sale in circa 15 minuti a 1.465 metri; chi ha gambe può salire a piedi dal parcheggio per il Chemin des Chèvres, circa 1h15, che passa accanto al cratere del Nid de la Poule. In vetta le rovine del tempio di Mercurio, gallo-romano, e la vista sugli oltre 80 vulcani della Chaîne des Puys. Pomeriggio a Vulcania, a una ventina di minuti (aperto da fine marzo al 1° novembre), oppure in stagione al vulcano-cava di Lemptégy con un geologo. Notte a Clermont."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: mattina a Clermont-Ferrand: la cattedrale gotica nera in pietra vulcanica, iniziata nel 1248 e finita circa sette secoli dopo, e la basilica romanica di Notre-Dame-du-Port con oltre 250 capitelli scolpiti; per chi ha tempo, il vecchio borgo di Montferrand o L'Aventure Michelin. Pomeriggio a Vichy, la città termale della Belle Époque: il Parc des Sources con le gallerie in ghisa, le sorgenti da assaggiare al Hall des Sources, l'Opéra e la passeggiata sul lago d'Allier; da aprile a metà agosto l'osservatorio dei pesci migratori mostra la risalita dei salmoni. Notte a Vichy."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: partenza presto da Vichy verso Lione Saint-Exupéry, riconsegna dell'auto in aeroporto e volo Volotea delle 13:30, arrivo a Peretola alle 14:50. Chi preferisce un rientro meno stretto può dormire la sesta notte di nuovo a Clermont e anticipare Vichy al mattino del sesto giorno."
+        }
+      ],
+      "alloggio": "Si dorme due notti a Lione (Presqu'île o vicino a Part-Dieu), una a Le Puy-en-Velay nella città alta, due a Clermont-Ferrand in centro vicino al tram e una a Vichy vicino al Parc des Sources. Fasce indicative per la doppia: 50–120 € a notte (25–60 € a persona). Le Puy da circa 54 $ (media 70 $ sugli otto hotel di Expedia), Clermont-Ferrand tra le più economiche (da circa 700 ZAR su Momondo), Vichy la più cara dell'Alvernia (media circa 2.100 ZAR), Lione 3 stelle da circa 60 a 220 € (brochure ottobre 2024). Conversioni in euro approssimative: ricontrollare su un portale di prenotazione.",
+      "costiDettaglio": [
+        {
+          "voce": "Tram T2 per Peretola A/R",
+          "testo": "3,40 € andata e ritorno a persona dalla stazione di Firenze all'aeroporto (parametro del documento).",
+          "min": 3.4,
+          "max": 3.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Firenze–Lione A/R",
+          "testo": "Volotea diretto FLR–LYS, 1h20. Tariffa più bassa vista 29 € a tratta; per lunedì 9 novembre 72 € l'andata e 128 € il ritorno (Omio). Fascia A/R 58–200 €.",
+          "min": 58,
+          "max": 200,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rhônexpress aeroporto–centro",
+          "testo": "16 € a tratta, 38 minuti, una corsa ogni 8 minuti circa. Si usa solo all'arrivo: al ritorno si riconsegna l'auto direttamente in aeroporto.",
+          "min": 16,
+          "max": 16,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Panoramique des Dômes A/R",
+          "testo": "17,20 € andata e ritorno da ottobre a marzo, 18,60 € da aprile a settembre; nessuna prenotazione necessaria. Bambini circa 11,70 €. Gratis salendo a piedi.",
+          "min": 17.2,
+          "max": 18.6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Vulcania",
+          "testo": "Da 27 € online fino a circa 32,50 € per l'adulto alla cassa; bambini circa 27 €. Aperto da fine marzo al 1° novembre.",
+          "min": 27,
+          "max": 32.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto a noleggio",
+          "testo": "Utilitaria ritirata a Lione il terzo giorno e riconsegnata a Saint-Exupéry il settimo (5 giorni di noleggio). Kayak: da 22 €/giorno per le economy, media di 32 €/giorno a novembre e 51 €/giorno a luglio; fascia 110–255 € per i 5 giorni, cifra della vettura da dividere per due. Eventuale supplemento per riconsegna in altra sede non verificato.",
+          "min": 110,
+          "max": 255,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante e pedaggi",
+          "testo": "Carburante a 0,129 €/km (parametro del documento) sui soli 136 km dichiarati nella scheda (Lione–Clermont-Ferrand): circa 17,5 €, quindi un minimo, perché gli altri tratti dell'anello non sono quantificati nella scheda. L'A75 è gratuita; sulle autostrade a pedaggio si spendono circa 9,50 € ogni 100 km (non incluso).",
+          "min": 17.5,
+          "max": 17.5,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "6 notti in hotel 2–3 stelle, 50–120 € a notte per la doppia (25–60 € a persona), cioè 21,4–51,4 € a persona per ognuno dei 7 giorni (6 notti su 7). Basi: Le Puy 54–98 $ a notte su Expedia, Clermont-Ferrand da circa 700 ZAR e Vichy media circa 2.100 ZAR su Momondo (conversioni approssimative in euro), Lione 3 stelle da circa 60 a 220 € la doppia (brochure ottobre 2024, indicativa).",
+          "min": 21.4,
+          "max": 51.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo e cena a persona al giorno: pranzo 10–22 € a Lione (media 15 €, Numbeo via combien-coute.net, aggiornato ottobre 2026), media 19 € in Alvernia; cena a tre portate 20–35 € in Alvernia (media 33 €) e 30 € a Lione, 20–50 € la fascia francese. Fascia usata: 10–22 € + 20–35 €, cioè 30–57 € al giorno, 7 giorni. Sono medie indicative, non listini. In Alvernia i piatti caldi si servono di solito da mezzogiorno alle 14 e dalle 19: fuori orario si trova poco.",
+          "min": 30,
+          "max": 57,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Treno Firenze–Lione A/R (alternativa)",
+          "testo": "6h24–7h05 con un cambio a Milano o Torino; da 13 € a tratta prenotando molto in anticipo, 155 € circa per partenze a pochi giorni. Fascia A/R 26–310 €.",
+          "min": 26,
+          "max": 310,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Bologna–Lione (alternativa)",
+          "testo": "Twin Jet, un volo al giorno alle 16:10, circa 1h30: 314 € a tratta nella data vista. Più 20–50 € di treno A/R e 23,20 € di Marconi Express A/R.",
+          "min": 314,
+          "max": 314,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "A persona: tram, volo, Rhônexpress, ingressi, alloggio e pasti. Della vettura, da dividere per due: noleggio e carburante ed eventuali pedaggi.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Lione e altre città hanno zone a basse emissioni: serve il bollino Crit'Air, che costa circa 5 € e va ordinato online con largo anticipo. Le auto straniere senza bollino rischiano multe da 68 a 375 €; con un'auto a noleggio francese verificare che sia già incollato. Sulle autostrade a pedaggio senza barriere (free flow) si paga online entro 72 ore."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Dal 1° novembre al 31 marzo in alcuni comuni di montagna sono obbligatori pneumatici invernali o catene a bordo: chiederli al noleggio se si viaggia in quei mesi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Panoramique des Dômes a novembre circola solo da mercoledì a domenica, è chiuso per manutenzione dal 16 al 20 novembre 2026 e il 25 dicembre. Vulcania apre da fine marzo al 1° novembre (date 2027 non ancora pubblicate), Lemptégy chiude la stagione il 1° novembre 2026. Il Musée Bargoin di Clermont è chiuso per restauro."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il trenino del Puy de Dôme non si prenota, tranne le aperture serali del giovedì di luglio e agosto. Vulcania costa meno comprando online. Il volo Volotea ha una sola frequenza al giorno: verificare i giorni operativi sul sito della compagnia prima di fissare le date."
+        }
+      ],
+      "note": "Il fine settimana a Clermont-Ferrand tram e bus sono gratuiti dal sabato mattina al lunedì all'alba: conviene far cadere di sabato o domenica la giornata in città e lasciare l'auto in hotel. Al Puy de Dôme salire a piedi per il Chemin des Chèvres e scendere col trenino: si vede il Nid de la Poule da vicino e si paga meno. A Le Puy dormire nella città alta permette di salire alla cattedrale prima dei gruppi e di vedere i pellegrini che partono all'alba sul GR65. A Vichy le acque delle sorgenti hanno sapori molto diversi tra loro: al Hall des Sources si assaggiano una accanto all'altra. In alternativa al volo c'è il treno via Milano o Torino (da 6h24), che arriva a Lione Part-Dieu: comodo per chi vuole evitare l'aeroporto, ma costa un giorno di viaggio in più tra andata e ritorno.",
+      "fonti": [
+        "https://www.omio.it/voli/firenze/lione-7qerj",
+        "https://www.omio.it/voli/lione/firenze-w4r2z",
+        "https://www.omio.it/treni/firenze/lione",
+        "https://www.omio.it/treni/milano/lione",
+        "https://www.virail.it/voli-bologna-lione",
+        "https://siviaggia.it/notizie/riparte-treno-milano-parigi-2025/510623/",
+        "https://linkparis.com/guides/auvergne-volcanoes/",
+        "https://loudavymkrokem.cz/en/auvergne-france-volcanoes/",
+        "https://www.oneroadtrip.com/itineraries/fr-63-puy-de-dome.html",
+        "https://www.franciaturismo.net/alvernia-rodano-alpi/clermont-ferrand/",
+        "https://en.wikipedia.org/wiki/Puy_de_D%C3%B4me",
+        "https://www.agendaviaggi.com/vulcani-alvernia-francia-da-scoprire/",
+        "https://www.momondo.co.za/hotels/auvergne-france.ksp",
+        "https://www.expedia.com/Puy-En-Velay.d553248635988765788.Destination-Travel-Guides",
+        "https://inauvergnerhonealpes.com/wp-content/uploads/2024/09/hotels-in-lyon-and-aura-vineyards-oct-2024-gb.pdf",
+        "https://www.kayak.it/Autonoleggi-economici-Lione.32643.cars.ksp",
+        "https://www.combien-coute.net/restaurant/france/lyon/",
+        "https://www.combien-coute.net/cout-de-la-vie/auvergne/",
+        "https://www.combien-coute.net/restaurant-menu/france/"
+      ],
+      "aggiuntaIl": "2026-11-08",
+      "coordinate": {
+        "lat": 45.7772,
+        "lon": 3.087
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Con un bimbo di 4 anni il trenino del Puy de Dôme (circa 11,70 € il biglietto bambino) e Vulcania sono il pezzo forte; i 268 gradini di Aiguilhe e i trasferimenti in auto sono più faticosi."
       }
     },
     {

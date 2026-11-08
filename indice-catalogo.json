@@ -848,6 +848,11 @@
    1
   ],
   [
+   "bagno-di-romagna-1g",
+   "Bagno di Romagna e la Foresta della Lama",
+   1
+  ],
+  [
    "camogli-e-san-fruttuoso-1g",
    "Camogli e San Fruttuoso",
    1
@@ -958,6 +963,11 @@
    1
   ],
   [
+   "montelupo-fiorentino-ed-empoli-1g",
+   "Montelupo Fiorentino ed Empoli",
+   1
+  ],
+  [
    "monteriggioni-e-colle-di-val-d-elsa-1g",
    "Monteriggioni e Colle di Val d'Elsa",
    1
@@ -1028,6 +1038,11 @@
    1
   ],
   [
+   "san-casciano-dei-bagni-e-sarteano-1g",
+   "San Casciano dei Bagni e Sarteano",
+   1
+  ],
+  [
    "sarzana-e-lerici-1g",
    "Sarzana e Lerici",
    1
@@ -1045,6 +1060,11 @@
   [
    "sestola-e-monte-cimone-1g",
    "Sestola e il Monte Cimone",
+   1
+  ],
+  [
+   "sestri-levante-e-chiavari-1g",
+   "Sestri Levante e Chiavari",
    1
   ],
   [
@@ -1110,6 +1130,11 @@
   [
    "bergamo-2g",
    "Bergamo",
+   2
+  ],
+  [
+   "bobbio-e-val-trebbia-2g",
+   "Bobbio e la Val Trebbia",
    2
   ],
   [
@@ -1273,6 +1298,11 @@
    2
   ],
   [
+   "rovereto-e-vallagarina-2g",
+   "Rovereto e la Vallagarina",
+   2
+  ],
+  [
    "salerno-e-paestum-2g",
    "Salerno e Paestum",
    2
@@ -1285,6 +1315,11 @@
   [
    "sulmona-e-scanno-2g",
    "Sulmona e Scanno",
+   2
+  ],
+  [
+   "teramo-e-civitella-del-tronto-2g",
+   "Teramo, Civitella del Tronto e Atri",
    2
   ],
   [
@@ -1580,6 +1615,11 @@
   [
    "alto-adige-occidentale-7g",
    "Alto Adige occidentale: Merano, Val Venosta e Ortles",
+   7
+  ],
+  [
+   "alvernia-e-lione-7g",
+   "Alvernia e Lione: Clermont-Ferrand, Puy de Dôme, Le Puy-en-Velay e Vichy",
    7
   ],
   [

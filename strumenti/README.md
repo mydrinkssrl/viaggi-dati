@@ -64,3 +64,16 @@ doppioni.
   nuove + 8 completamenti dei pasti in tre ondate, ~75 ricerche. Totale notte: 45 mete.
   Le schede già pubblicate vanno spostate fuori da `out/` (es. `pubblicate/`) prima
   di rifare `unisci.py`, altrimenti il validatore le segna come doppioni.
+
+## Nota dalla run dell'8 novembre 2026
+- Primo turno: 38 agenti (30 da 7-14 giorni con opus, 6 da 3 giorni e 2 da 2 con
+  sonnet) in cinque ondate da 8, tetto 5 WebSearch ciascuno: 37 schede complete al
+  primo colpo, una sola (alvernia-e-lione-7g) senza pasti/alloggio. Chiedere nel
+  prompt «una delle prime ricerche a hotel/pasti con prezzi» ha quasi eliminato i
+  completamenti. Pubblicate subito (commit ef898d8, catalogo a 444).
+- Secondo turno (`send_later` dopo 3 minuti): 7 mete da 1-2 giorni + il
+  completamento dei pasti di Alvernia, tutte OK in un'unica ondata. Totale notte: 45.
+- Le schede da 1 giorno chiamano la voce pasti «Pranzo»: `controlla.py` (in
+  /home/claude/run) deve cercare anche quella parola.
+- `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si
+  attacca, pubblicato solo su `viaggi-dati`.
