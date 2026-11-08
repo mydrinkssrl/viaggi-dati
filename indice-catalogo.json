@@ -1133,6 +1133,11 @@
    2
   ],
   [
+   "conegliano-e-colline-del-prosecco-2g",
+   "Conegliano, Valdobbiadene e le colline del Prosecco",
+   2
+  ],
+  [
    "cortina-d-ampezzo-e-il-cadore-2g",
    "Cortina d'Ampezzo e il Cadore",
    2
@@ -1273,6 +1278,11 @@
    2
   ],
   [
+   "saluzzo-e-il-monviso-2g",
+   "Saluzzo, Staffarda e il Monviso",
+   2
+  ],
+  [
    "sulmona-e-scanno-2g",
    "Sulmona e Scanno",
    2
@@ -1348,8 +1358,18 @@
    3
   ],
   [
+   "bristol-e-bath-3g",
+   "Bristol, Bath e Stonehenge",
+   3
+  ],
+  [
    "bucarest-3g",
    "Bucarest",
+   3
+  ],
+  [
+   "cadice-e-jerez-3g",
+   "Cadice, Jerez e la Costa de la Luz",
    3
   ],
   [
@@ -1370,6 +1390,11 @@
   [
    "danzica-3g",
    "Danzica",
+   3
+  ],
+  [
+   "dresda-e-lipsia-3g",
+   "Dresda, Lipsia e la Svizzera sassone",
    3
   ],
   [
@@ -1433,6 +1458,11 @@
    3
   ],
   [
+   "mykonos-e-delos-3g",
+   "Mykonos e Delos",
+   3
+  ],
+  [
    "norimberga-e-ratisbona-3g",
    "Norimberga e Ratisbona",
    3
@@ -1483,6 +1513,11 @@
    3
   ],
   [
+   "sardegna-est-golfo-di-orosei-3g",
+   "Sardegna est: Golfo di Orosei, Cala Gonone e Dorgali",
+   3
+  ],
+  [
    "sofia-plovdiv-3g",
    "Sofia e Plovdiv",
    3
@@ -1490,6 +1525,11 @@
   [
    "stoccolma-3g",
    "Stoccolma",
+   3
+  ],
+  [
+   "tangeri-e-chefchaouen-3g",
+   "Tangeri e Chefchaouen",
    3
   ],
   [
@@ -1530,6 +1570,11 @@
   [
    "alpi-francesi-annecy-chamonix-e-grenoble-7g",
    "Alpi francesi: Annecy, Chamonix e Grenoble",
+   7
+  ],
+  [
+   "alpi-marittime-e-verdon-7g",
+   "Costa Azzurra e Alpi Marittime: Nizza, Mentone, Mercantour e Gole del Verdon",
    7
   ],
   [
@@ -1583,6 +1628,11 @@
    7
   ],
   [
+   "cantabria-e-rioja-7g",
+   "Cantabria e La Rioja: Santander, Picos de Europa, Burgos e Logroño",
+   7
+  ],
+  [
    "castiglia-toledo-segovia-salamanca-e-avila-7g",
    "Castiglia: Toledo, Segovia, Salamanca e Ávila",
    7
@@ -1595,6 +1645,16 @@
   [
    "champagne-e-lorena-7g",
    "Champagne e Lorena: Reims, Nancy e Metz",
+   7
+  ],
+  [
+   "cicladi-occidentali-7g",
+   "Cicladi occidentali: Milos, Sifnos, Serifos e Kimolos",
+   7
+  ],
+  [
+   "cilento-e-campania-interna-7g",
+   "Cilento e Campania interna: Paestum, Padula, Irpinia e Sannio",
    7
   ],
   [
@@ -1633,8 +1693,28 @@
    7
   ],
   [
+   "epiro-7g",
+   "Epiro: Ioannina, Zagori, gole di Vikos e Parga",
+   7
+  ],
+  [
+   "estremadura-7g",
+   "Estremadura: Cáceres, Mérida, Trujillo e Monfragüe",
+   7
+  ],
+  [
+   "faer-oer-7g",
+   "Isole Fær Øer",
+   7
+  ],
+  [
    "finlandia-e-lapponia-7g",
    "Finlandia e Lapponia",
+   7
+  ],
+  [
+   "franconia-7g",
+   "Franconia e Strada Romantica: Würzburg, Rothenburg, Bamberga e Norimberga",
    7
   ],
   [
@@ -1683,6 +1763,11 @@
    7
   ],
   [
+   "irlanda-del-nord-e-donegal-7g",
+   "Irlanda del Nord e Donegal: Belfast, Giant's Causeway e la Wild Atlantic Way",
+   7
+  ],
+  [
    "isole-della-dalmazia-hvar-brac-korcula-e-vis-7g",
    "Isole della Dalmazia: Hvar, Brač, Korčula e Vis",
    7
@@ -1713,6 +1798,11 @@
    7
   ],
   [
+   "lombardia-darte-7g",
+   "Lombardia d'arte: Bergamo, Brescia, Mantova, Cremona e Pavia",
+   7
+  ],
+  [
    "lussemburgo-e-le-ardenne-7g",
    "Lussemburgo e le Ardenne",
    7
@@ -1733,8 +1823,18 @@
    7
   ],
   [
+   "maremma-e-amiata-7g",
+   "Maremma e Monte Amiata: Argentario, Pitigliano, Saturnia e Grosseto",
+   7
+  ],
+  [
    "marocco-atlantico-7g",
    "Marocco atlantico: Essaouira, Agadir e l'Anti-Atlante",
+   7
+  ],
+  [
+   "marocco-del-sud-7g",
+   "Marocco del Sud: Ouarzazate, Valle del Draa, Merzouga e gole del Dades",
    7
   ],
   [
@@ -1765,6 +1865,11 @@
   [
    "pirenei-andorra-lourdes-e-val-d-aran-7g",
    "Pirenei: Andorra, Lourdes e Val d'Aran",
+   7
+  ],
+  [
+   "portogallo-centrale-7g",
+   "Portogallo centrale: Coimbra, Aveiro, Serra da Estrela, Óbidos e Nazaré",
    7
   ],
   [
@@ -1803,6 +1908,11 @@
    7
   ],
   [
+   "sporadi-7g",
+   "Sporadi: Skiathos, Skopelos e Alonissos",
+   7
+  ],
+  [
    "svezia-stoccolma-uppsala-e-gotland-7g",
    "Svezia: Stoccolma, Uppsala e Gotland",
    7
@@ -1815,6 +1925,11 @@
   [
    "tenerife-e-la-gomera-7g",
    "Canarie: Tenerife e La Gomera",
+   7
+  ],
+  [
+   "trentino-occidentale-7g",
+   "Trentino occidentale: Madonna di Campiglio, Dolomiti di Brenta, Val di Non e Val di Sole",
    7
   ],
   [
@@ -1838,6 +1953,16 @@
    7
   ],
   [
+   "valle-daosta-completa-7g",
+   "Valle d'Aosta completa: Courmayeur, Cervinia, Gran Paradiso e i castelli",
+   7
+  ],
+  [
+   "vallese-e-lemano-7g",
+   "Vallese e Lemano: Ginevra, Losanna, Zermatt e il ghiacciaio dell'Aletsch",
+   7
+  ],
+  [
    "veneto-completo-7g",
    "Veneto completo: Padova, Vicenza, Verona e le Dolomiti bellunesi",
    7
@@ -1850,6 +1975,16 @@
   [
    "antille-francesi-14g",
    "Antille francesi: Guadalupa e Martinica",
+   14
+  ],
+  [
+   "antille-olandesi-14g",
+   "Antille olandesi: Aruba, Curaçao e Bonaire",
+   14
+  ],
+  [
+   "arabia-saudita-14g",
+   "Arabia Saudita: Riad, AlUla, Gedda e il Mar Rosso",
    14
   ],
   [
@@ -1888,8 +2023,18 @@
    14
   ],
   [
+   "brasile-del-nord-14g",
+   "Brasile del Nord: Amazzonia, Belém e i Lençóis Maranhenses",
+   14
+  ],
+  [
    "brasile-rio-iguazu-e-salvador-14g",
    "Brasile: Rio, Iguazú e Salvador",
+   14
+  ],
+  [
+   "canada-atlantico-14g",
+   "Canada atlantico: Nuova Scozia, Terranova e Isola del Principe Edoardo",
    14
   ],
   [
@@ -1928,6 +2073,11 @@
    14
   ],
   [
+   "groenlandia-14g",
+   "Groenlandia: Ilulissat, Nuuk e la costa occidentale",
+   14
+  ],
+  [
    "guatemala-e-belize-14g",
    "Guatemala e Belize",
    14
@@ -1940,6 +2090,11 @@
   [
    "india-del-sud-kerala-e-tamil-nadu-14g",
    "India del Sud: Kerala e Tamil Nadu",
+   14
+  ],
+  [
+   "india-orientale-14g",
+   "India orientale: Calcutta, Odisha, Darjeeling e Sikkim",
    14
   ],
   [
@@ -1993,6 +2148,16 @@
    14
   ],
   [
+   "montagne-rocciose-usa-14g",
+   "Stati Uniti: Montagne Rocciose, Yellowstone, Grand Teton e Colorado",
+   14
+  ],
+  [
+   "new-england-14g",
+   "New England: Boston, Cape Cod, Maine, Vermont e New Hampshire",
+   14
+  ],
+  [
    "nuova-zelanda-isola-del-nord-14g",
    "Nuova Zelanda: Isola del Nord",
    14
@@ -2013,8 +2178,18 @@
    14
   ],
   [
+   "porto-rico-e-isole-vergini-14g",
+   "Porto Rico e Isole Vergini",
+   14
+  ],
+  [
    "repubblica-dominicana-14g",
    "Repubblica Dominicana",
+   14
+  ],
+  [
+   "senegal-14g",
+   "Senegal: Dakar, Saint-Louis, Casamance e il delta del Saloum",
    14
   ],
   [
@@ -2030,6 +2205,16 @@
   [
    "taiwan-14g",
    "Taiwan",
+   14
+  ],
+  [
+   "uruguay-e-buenos-aires-14g",
+   "Uruguay e Buenos Aires: Montevideo, Colonia del Sacramento e Punta del Este",
+   14
+  ],
+  [
+   "yunnan-e-guangxi-14g",
+   "Cina del Sud-Ovest: Yunnan e Guangxi",
    14
   ],
   [
