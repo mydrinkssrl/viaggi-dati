@@ -57514,6 +57514,226 @@
         "adatta": "no",
         "nota": "Con un bimbo di 4 anni non è adatto: si fanno tappe di 8–9 ore di strada, si dorme in tenda in zone malariche, i safari a piedi hanno un'età minima e i tour di gruppo di solito non accettano bambini piccoli."
       }
+    },
+    {
+      "id": "carpi-1g",
+      "nome": "Carpi",
+      "sottotitolo": "Emilia-Romagna, la città dei Pio con una delle piazze rinascimentali più grandi d'Italia e il Museo al Deportato",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. con cambio a Bologna o Modena (circa 18 collegamenti al giorno, solo alcuni diretti secondo Omio); la stazione di Carpi è a pochi minuti a piedi dal centro. In auto circa 117 km via A1/A22: è più comodo il treno, perché il centro ha zone a traffico limitato.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Da 1h07 (treno più veloce) a circa 1h30 di media; con cambi si può arrivare a 2h20 totali. Circa 117 km.",
+      "durataViaggioMinuti": 110,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: clima mite e piazza godibile all'aperto; luglio e agosto sono caldi e afosi, tipici della Pianura Padana.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 41,
+      "costoMax": 76,
+      "costoNota": "Ingressi ai musei non inclusi nel totale: le fonti trovate sono datate o discordanti, vedi la voce dedicata.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro storico è piccolo e pianeggiante: Piazza dei Martiri, il Duomo, la chiesa di Santa Maria in Castello (la Sagra) e il Palazzo dei Pio con i suoi tre percorsi museali si coprono a piedi in una giornata, con una sosta lunga a pranzo. Il Museo al Deportato richiede da solo una visita attenta e rende l'idea di dormire inutile: si rientra a Firenze in serata con i molti treni via Bologna.",
+      "cosaVedere": [
+        "Palazzo dei Pio (Piazza dei Martiri 68): il castello-palazzo signorile dei Pio, oggi sede di tre percorsi museali coordinati: Museo del Palazzo, Museo della Città e Museo al Deportato.",
+        "Museo al Deportato politico e razziale: dedicato alla memoria della deportazione, con le parole degli ultimi messaggi dei condannati sulle pareti; è la visita più intensa della giornata e va fatta con calma.",
+        "Piazza dei Martiri e i portici: una delle piazze rinascimentali più ampie dell'Emilia, ottima per il caffè di metà mattina e per capire l'impianto della città dei Pio.",
+        "Duomo e Cattedrale di Santa Maria Assunta, a due passi dalla piazza, con la facciata e l'interno rinascimentale legati ai Pio.",
+        "Pranzo con i tortellini in brodo e i salumi modenesi in una trattoria del centro: è la voce di spesa maggiore e vale il tempo che le si dedica."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Biglietti da circa 13-14 € a tratta, media di circa 19 € acquistando il giorno stesso (Omio): 26-38 € A/R per persona.",
+          "min": 26,
+          "max": 38,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Musei di Palazzo dei Pio",
+          "testo": "Le fonti trovate indicano 5 € intero e 3 € ridotto, ma sono datate (liste museali non aggiornate al 2026) e alcune mostre hanno biglietto a parte: verificare sul sito del museo prima di partire. Non incluso nel totale.",
+          "tipo": "persona"
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Tortellini in brodo 12-16 €; pasto completo in trattoria 25-40 € con bevande (stime Sluurpy), pizzeria o locali economici 10-20 €.",
+          "min": 15,
+          "max": 38,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "In treno non servono permessi; chi arriva in auto trova un centro storico con zone a traffico limitato e deve cercare parcheggio fuori dalle mura (non verificato)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Le fonti trovate danno orari del Palazzo dei Pio discordanti e datati (apertura piena giovedì, sabato e domenica 10-13 e 15-19, altri giorni solo mattina o su appuntamento): controllare prima di scegliere il giorno. Preferire un fine settimana."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per visitare fuori dai giorni di apertura piena si può chiedere un appuntamento al +39 059 649955; per i giorni principali non risulta prenotazione obbligatoria."
+        }
+      ],
+      "note": "Il Museo al Deportato ha una visita di circa un'ora e il Campo di Fossoli, poco fuori città, era il campo di transito da cui partivano i convogli: chi vuole approfondire può abbinare il campo con un secondo giorno, ma per la giornata singola conviene restare nel centro. Il martedì-mercoledì-venerdì il palazzo apre solo la mattina secondo le fonti trovate: puntare a un fine settimana per non rischiare chiusure. Gli orari dei treni di ritorno via Bologna vanno controllati prima di cena.",
+      "fonti": [
+        "https://www.omio.it/viaggi/firenze/carpi",
+        "https://www.omio.it/viaggi/carpi/firenze",
+        "https://calcolopercorso.it/it/distanza/Firenze/Carpi",
+        "https://museionline.info/musei/musei-di-palazzo-dei-pio",
+        "https://www.visitmodena.it/en/discover-modena/art-and-culture/museums-archives-and-libraries/museums-in-the-area/palazzo-dei-pio-museums",
+        "https://www.sluurpy.it/carpi/emiliana",
+        "https://www.voloscontato.it/ristoranti/carpi-dove-mangiare-bene-spendendo-poco.php"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 44.7825,
+        "lon": 10.878
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "La piazza e i portici vanno bene, ma il Museo al Deportato è un luogo di memoria difficile da vivere con un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "ancona-e-loreto-2g",
+      "nome": "Ancona e Loreto",
+      "sottotitolo": "Marche, il porto dorico con il Duomo sul colle e il santuario mariano della Santa Casa a un quarto d'ora di treno",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. con cambio a Bologna (circa 3h-3h30 totali, collegamenti frequenti secondo Omio); da Ancona a Loreto regionale di 13-21 minuti. Non serve l'auto.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Da 2h52 (collegamento più veloce) a circa 3h-3h30 di media Firenze-Ancona; Ancona-Loreto 13-21 minuti in regionale.",
+      "durataViaggioMinuti": 200,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre: mare e colline gradevoli; ad ottobre gli hotel di Ancona costano meno (media 76 € a notte), a luglio di più (135 €).",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 100,
+      "costoMax": 230,
+      "costoNota": "Ingresso a Casa Leopardi, alla Mole e ai musei di Ancona non inclusi: prezzi non verificati per il 2026.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Ancona ha un centro raccolto tra il porto, il Duomo di San Ciriaco e i musei di Palazzo Ferretti e della Mole: un giorno pieno. Loreto è a 13-21 minuti di treno e il santuario con il Museo Pontificio occupa la mattina del secondo giorno, con il ritorno a Firenze nel pomeriggio. Il ritmo è tranquillo, senza correre.",
+      "cosaVedere": [
+        "Duomo di San Ciriaco, sul colle Guasco sopra il porto: stile romanico-bizantino (XI-XIII secolo), su un antico tempio ellenistico, con vista su porto e mare; ingresso gratuito, orari spezzati.",
+        "Museo Archeologico Nazionale delle Marche, a Palazzo Ferretti (Via Ferretti 6): preistoria e protostoria della regione, dal Paleolitico all'età del Ferro.",
+        "Mole Vanvitelliana: il lazzaretto pentagonale settecentesco sul porto, oggi sede di mostre e del Museo Tattile Omero.",
+        "Basilica della Santa Casa a Loreto: santuario mariano con ingresso gratuito (secondo una guida), aperto circa dalle 6:15 alle 20:00.",
+        "Museo Pontificio Santa Casa: aperto tutti i giorni 10-13 e 15-18 secondo italia.it, con biglietto intero di 6 € indicato da Museionline.",
+        "Stoccafisso all'anconetana e brodetto in una trattoria del centro: Gambero Rosso segnala 13 Cannelle, Da Nordio e Trattoria del Piano."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte ad Ancona: hotel 2 stelle in media 74 € (Momondo), B&B da circa 62 €, hotel 3 stelle da circa 70 € (Kayak), strutture vicino al centro 90-133 € (Volagratis). Fascia usata: 62-110 € a camera, quindi 31-55 € a persona.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze-Ancona A/R",
+          "testo": "Offerte da 10 € a tratta, media 22 € (Omio); Ancona-Firenze minimo 22,70 € per un'altra fonte. Fascia A/R 20-46 €.",
+          "min": 20,
+          "max": 46,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Ancona-Loreto A/R",
+          "testo": "Regionale da circa 2 a 4,24 € a tratta: 4-9 € A/R.",
+          "min": 4,
+          "max": 9,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Pontificio Santa Casa",
+          "testo": "Intero 6 € (Museionline, da verificare); la basilica è gratuita.",
+          "min": 0,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio, 1 notte",
+          "testo": "62-110 € a camera doppia: 31-55 € a persona.",
+          "min": 31,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti (circa 3)",
+          "testo": "Da 15 a 38 € l'uno: locali economici 15-20 €, pasto completo di pesce 28-38 € (stime Sluurpy).",
+          "min": 45,
+          "max": 114,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": null,
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Dalla stazione di Ancona il centro è raggiungibile a piedi o in bus; da Loreto stazione al santuario il percorso non è stato verificato (collina): controllare a piedi o bus locale."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Museo Pontificio ha orario spezzato (10-13 e 15-18); la basilica è aperta dalla mattina presto. Controllare le chiusure dei musei di Ancona, non trovate nelle fonti."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria trovata per Duomo e Santa Casa; per Casa Leopardi a Recanati (tel. +39 071 7573380) conviene chiamare."
+        }
+      ],
+      "note": "Recanati con Casa Leopardi (martedì-domenica circa 9-16:30, chiuso il lunedì secondo le fonti; biglietto non incluso nell'Infinito Recanati) è vicina a Loreto ma il collegamento non è stato verificato: tenerla come estensione, non come tappa fissa. Prendere il treno del mattino da Firenze: il percorso via Bologna è lungo e conviene arrivare presto per godere il porto. Il museo di Loreto riapre alle 15, utile per il rientro.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/ancona",
+        "https://www.omio.it/treni/ancona/firenze",
+        "https://www.omio.it/treni/ancona/loreto-tyd7n",
+        "https://www.virail.it/treni-ancona-loreto",
+        "https://www.kayak.it/Hotel-a-Ancona.466.hotel.ksp",
+        "https://www.momondo.it/hotel/ancona",
+        "https://www.sluurpy.it/ancona/stoccafisso",
+        "https://www.gamberorosso.it/ristoranti/stoccafisso-anconetana-ancona/",
+        "https://www.museionline.info/marche-musei-monumenti/duomo-di-ancona",
+        "https://www.museionline.info/marche-musei-monumenti/museo-archeologico-nazionale-delle-marche",
+        "https://www.museionline.info/marche-musei-monumenti/museo-antico-tesoro-della-santa-casa",
+        "https://www.italia.it/it/marche/loreto/musei/museo-pontificio-santa-casa-loreto"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 43.6158,
+        "lon": 13.5189
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Porto e passeggiate vanno bene, ma 3 ore di treno da ciascun lato sono lunghe con un bimbo di 4 anni."
+      }
     }
   ]
 }
