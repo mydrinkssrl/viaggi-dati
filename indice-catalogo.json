@@ -898,6 +898,11 @@
    1
   ],
   [
+   "citta-della-pieve-e-panicale-1g",
+   "Città della Pieve e Panicale",
+   1
+  ],
+  [
    "citta-di-castello-1g",
    "Città di Castello",
    1
@@ -988,6 +993,11 @@
    1
   ],
   [
+   "peccioli-lari-e-casciana-terme-1g",
+   "Peccioli, Lari e Casciana Terme",
+   1
+  ],
+  [
    "pescia-e-collodi-1g",
    "Pescia e Collodi (Parco di Pinocchio)",
    1
@@ -1040,6 +1050,16 @@
   [
    "san-casciano-dei-bagni-e-sarteano-1g",
    "San Casciano dei Bagni e Sarteano",
+   1
+  ],
+  [
+   "san-leo-e-montefeltro-1g",
+   "San Leo, Pennabilli e il Montefeltro",
+   1
+  ],
+  [
+   "santarcangelo-e-verucchio-1g",
+   "Santarcangelo di Romagna e Verucchio",
    1
   ],
   [
@@ -1128,6 +1148,11 @@
    2
   ],
   [
+   "belluno-e-feltre-2g",
+   "Belluno, Feltre e le Dolomiti bellunesi",
+   2
+  ],
+  [
    "bergamo-2g",
    "Bergamo",
    2
@@ -1145,6 +1170,11 @@
   [
    "brescia-2g",
    "Brescia",
+   2
+  ],
+  [
+   "bressanone-e-val-disarco-2g",
+   "Bressanone, Novacella e la Val d'Isarco",
    2
   ],
   [
@@ -1205,6 +1235,11 @@
   [
    "gorizia-e-il-collio-2g",
    "Gorizia e il Collio",
+   2
+  ],
+  [
+   "grado-aquileia-e-palmanova-2g",
+   "Grado, Aquileia e Palmanova",
    2
   ],
   [
@@ -1538,6 +1573,11 @@
    3
   ],
   [
+   "pescara-chieti-e-majella-3g",
+   "Pescara, Chieti e il Parco della Majella",
+   3
+  ],
+  [
    "riga-e-jurmala-3g",
    "Riga e Jūrmala",
    3
@@ -1660,6 +1700,11 @@
   [
    "aragona-7g",
    "Aragona: Saragozza, Teruel e i Pirenei aragonesi",
+   7
+  ],
+  [
+   "arcipelago-toscano-7g",
+   "Arcipelago Toscano: Elba, Giglio, Capraia e Pianosa",
    7
   ],
   [
@@ -1878,6 +1923,11 @@
    7
   ],
   [
+   "isole-del-quarnaro-7g",
+   "Isole del Quarnaro: Krk, Cres, Lussino, Rab e Pag",
+   7
+  ],
+  [
    "isole-della-dalmazia-hvar-brac-korcula-e-vis-7g",
    "Isole della Dalmazia: Hvar, Brač, Korčula e Vis",
    7
@@ -1955,6 +2005,11 @@
   [
    "montenegro-7g",
    "Montenegro",
+   7
+  ],
+  [
+   "nord-della-francia-7g",
+   "Nord della Francia: Lilla, Amiens, Arras e la Baia della Somme",
    7
   ],
   [
@@ -2138,6 +2193,16 @@
    14
   ],
   [
+   "argentina-del-nord-ovest-14g",
+   "Argentina del Nord-Ovest e Mendoza: Salta, Jujuy, Córdoba e Mendoza",
+   14
+  ],
+  [
+   "australia-del-nord-14g",
+   "Australia: Territorio del Nord e Centro Rosso: Darwin, Kakadu, Alice Springs e Uluru",
+   14
+  ],
+  [
    "australia-la-costa-est-14g",
    "Australia: la costa est",
    14
@@ -2240,6 +2305,11 @@
   [
    "giappone-del-sud-kyushu-hiroshima-e-okinawa-14g",
    "Giappone del Sud: Kyushu, Hiroshima e Okinawa",
+   14
+  ],
+  [
+   "grandi-laghi-usa-14g",
+   "Stati Uniti: Grandi Laghi e Midwest: Chicago, Milwaukee, Detroit e il Michigan",
    14
   ],
   [

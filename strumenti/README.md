@@ -77,3 +77,22 @@ doppioni.
   /home/claude/run) deve cercare anche quella parola.
 - `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si
   attacca, pubblicato solo su `viaggi-dati`.
+
+## Nota dalla run del 9 novembre 2026
+- Primo turno: 38 agenti in cinque ondate da 8 (30 da 7-14 giorni con opus, 6 da 3
+  giorni e 2 da 2 con sonnet), tetto 5 WebSearch ciascuno: 37 schede valide e un solo
+  SKIP (Ajaccio e Corsica del Sud in 3 giorni: nessun volo diretto, traghetto più
+  5 ore di guida). Sei schede con voci vettura/trasporti senza numeri (carburante,
+  pedaggi, treni interni) sono state tenute in `pending/` e completate nel secondo
+  turno, perché `unisci.py` non sovrascrive una scheda con lo stesso `aggiuntaIl`.
+- Il commit ee2959f riporta per errore «4 da 3, 12 da 7, 13 da 14»: le 31 mete
+  pubblicate sono 2 da 2 giorni, 5 da 3, 15 da 7 e 9 da 14.
+- Secondo turno (`send_later` dopo 3 minuti): 6 completamenti (sonnet, 3 WebSearch,
+  COMPLETA.md) + 8 mete nuove (una sostituta da 3 giorni, 3 da 2, 4 da 1) in due ondate,
+  tutte valide. Totale notte: 45 mete nuove, catalogo a 497.
+- `aggiorna_indice.py` (in /home/claude/run) ricostruisce il campo `extra` dell'indice
+  da `mete-extra.json` e aggiunge gli .SKIP a `scartate`.
+- Il validatore esclude per parola anche a durate ammesse (es. «Milano» a 3 giorni,
+  «Venezia» nel nome di Chioggia): scegliere nomi senza quelle parole.
+- `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si
+  attacca, pubblicato solo su `viaggi-dati`.

@@ -1389,6 +1389,117 @@
       }
     },
     {
+      "id": "citta-della-pieve-e-panicale-1g",
+      "nome": "Città della Pieve e Panicale",
+      "sottotitolo": "Umbria, due borghi di mattoni e colline sul confine con la Toscana, patria e opera del Perugino",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto: A1 Firenze–Chiusi-Chianciano e poi circa 20 minuti di strada verso Città della Pieve (130 km, pedaggio 8,20 € a tratta). Il treno si ferma a Chiusi-Chianciano Terme, ma da lì servono bus locali poco frequenti verso i due borghi: con due borghi da collegare l'auto è la scelta pratica. Panicale dista circa 15 km da Città della Pieve.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h15-1h20 in auto (130 km); in treno fino a Chiusi-Chianciano e poi bus, tempi molto più lunghi.",
+      "durataViaggioMinuti": 80,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: luce buona sulle colline e temperature adatte a camminare per i vicoli in salita; luglio e agosto sono caldi.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 40,
+      "costoMax": 65,
+      "costoNota": "Parcheggio non incluso: non ho trovato una tariffa verificata.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Città della Pieve ha un centro raccolto che si gira in mezza giornata: l'oratorio con l'Adorazione dei Magi del Perugino, la cattedrale e i vicoli di mattoni rossi. Panicale è a un quarto d'ora d'auto e si percorre in un'ora o poco più, con il Perugino nella chiesa di San Sebastiano e la vista sul Trasimeno. Due borghi piccoli, nessuna grande coda: si fa bene in un giorno, senza dormire.",
+      "cosaVedere": [
+        "Oratorio di Santa Maria dei Bianchi a Città della Pieve: ospita l'Adorazione dei Magi del Perugino, l'opera chiave per capire il pittore nato qui. Ingresso gratuito con offerta libera.",
+        "Il centro di Città della Pieve in mattoni: il paese è costruito in laterizio rosato e la luce della sera lo fa sembrare di terracotta; vale perdersi nei vicoli.",
+        "Palazzo della Corgna e la cattedrale: il palazzo nobiliare e il duomo, che nello stesso giro permettono di vedere come il paese si sia sviluppato attorno alla piazza.",
+        "Chiesa di San Sebastiano a Panicale: contiene il Martirio di San Sebastiano affrescato dal Perugino nel 1505, firmato e datato.",
+        "Piazza Umberto I a Panicale: con la fontana quattrocentesca e il Teatro Cesare Caporali, piccolo teatro seicentesco con tendone dipinto.",
+        "Belvedere sul Trasimeno: Panicale è sul crinale a 430 m e dai bordi del paese si vede il lago, ottimo per chiudere la giornata."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Pedaggio A1 A/R",
+          "testo": "8,20 € a tratta da Firenze a Città della Pieve, 16,40 € A/R per l'auto.",
+          "min": 16,
+          "max": 17,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Circa 260 km A/R più i 15 km tra i due borghi, a 0,129 €/km: circa 35 €.",
+          "min": 34,
+          "max": 36,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Oratorio dei Bianchi gratuito (offerta libera), chiesa di San Sebastiano gratuita.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Da 15-20 € in pizzeria o street food fino a 25-40 € per un pasto completo in ristorante; a Panicale da 8-18 € a 20-40 € a seconda del locale.",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Pedaggio e carburante sono della vettura (circa 50 € in totale, divisi in due), ingressi e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "I centri storici hanno accessi limitati: si lascia l'auto nei parcheggi fuori dalle mura e si sale a piedi. Non ho verificato tariffe e posti."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "L'oratorio dei Bianchi risulta aperto da martedì a domenica, 10-12 e 15:30-17:30; la chiesa di San Sebastiano a Panicale da giovedì a domenica, 10:30-13 e 15:30-17:30."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione richiesta per le chiese; conviene confermare gli orari con una telefonata (Panicale 075 837433, Bianchi 0578 298840) perché le chiese minori cambiano spesso."
+        }
+      ],
+      "note": "Organizza la giornata attorno alle aperture: San Sebastiano a Panicale è aperta solo da giovedì a domenica, quindi la giornata ideale è tra giovedì e domenica, quando sono aperti entrambi i siti. Le pause delle chiese sono lunghe (pranzo 12-15:30): usa quell'intervallo per mangiare. Dopo Panicale si può scendere a fare un salto sul Trasimeno, a pochi chilometri.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Citta-della-Pieve/",
+        "https://www.rome2rio.com/s/Pisa/Paciano",
+        "https://umbriatourism.it/-/oratorio-di-santa-maria-dei-bianchi",
+        "https://museionline.info/umbria-musei-monumenti/oratorio-di-santa-maria-dei-bianchi",
+        "https://www.museionline.info/tipologie-museo/chiesa-di-san-sebastiano-panicale",
+        "https://www.voloscontato.it/guide-per-viaggiatori/cosa-vedere-e-cosa-fare-a-panicale-guida-turistica-alla-scoperta-della-terrazza-sul-trasimeno.php",
+        "https://www.voloscontato.it/ristoranti/panicale-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.sluurpy.it/citta-della-pieve/ristorante"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 42.9533,
+        "lon": 12.0033
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Vicoli in salita e visite d'arte brevi: con un bimbo di 4 anni funziona per una giornata tranquilla, ma c'è poco da fare per lui."
+      }
+    },
+    {
       "id": "citta-di-castello-1g",
       "nome": "Città di Castello",
       "sottotitolo": "Umbria, la città dell'Alta Valle del Tevere dove Alberto Burri ha lasciato il suo museo più grande",
@@ -3578,6 +3689,115 @@
       "aggiuntaIl": "2026-08-21"
     },
     {
+      "id": "peccioli-lari-e-casciana-terme-1g",
+      "nome": "Peccioli, Lari e Casciana Terme",
+      "sottotitolo": "Toscana, Valdera pisana: borghi sulle colline tra torri, castello dei Vicari e acque termali",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto: da Firenze con la FI-PI-LI (gratuita) fino all'uscita Pontedera e poi su per Peccioli; da qui Lari e Casciana Terme sono a pochi minuti l'una dall'altra (Peccioli-Lari circa 17 km, 20 min). Senza auto il giro non è praticabile in giornata: i bus locali sono lenti (Peccioli-Lari circa 1h49).",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h10-1h20 in auto da Firenze a Peccioli (stima sul percorso FI-PI-LI + uscita Pontedera, non verificata su fonte); Peccioli-Lari 20 min.",
+      "durataViaggioMinuti": 75,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: colline verdi o vendemmia, temperature miti. Luglio e agosto sono caldi e molte sale museali hanno aperture ridotte.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 29,
+      "costoMax": 54,
+      "costoNota": "Chilometri totali stimati (circa 220 km tra andata/ritorno e spostamenti tra i borghi) con i parametri del documento: 0,129 €/km. La distanza esatta Firenze-Peccioli non è stata verificata su fonte.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "I tre borghi sono vicinissimi (Peccioli-Lari circa 17 km): al mattino Peccioli con il suo museo archeologico e le terrazze panoramiche, a pranzo una braceria o trattoria a Lari, nel pomeriggio il Castello dei Vicari (visita di 45-60 minuti, aperto fino alle 19 solo nei festivi) e una passeggiata a Casciana Terme. Tre centri piccoli e a ritmo lento: una giornata basta senza correre, ma non c'è materia per due.",
+      "cosaVedere": [
+        "Peccioli, Torre rossa e Museo Archeologico: reperti etruschi e romani, ingresso gratuito, utile per capire il territorio prima di girarlo.",
+        "Peccioli, terrazza panoramica di via Bastioni e Castellaccia: il paese sta in cresta e da qui si vede tutta la Valdera.",
+        "Peccioli, Pieve di San Verano con museo di arte sacra e campanile di 42 m, simbolo del paese.",
+        "Peccioli, MACCA, museo d'arte contemporanea a cielo aperto: opere sparse nel territorio comunale, anche nel Giardino Sonoro di Ghizzano.",
+        "Lari, Castello dei Vicari: fortezza del Trecento in cima al borgo, con visite guidate (4 € intero, 3 € ridotto).",
+        "Casciana Terme: stazione termale storica, passeggiata nel centro e, se si vuole, pranzo in una braceria locale."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante)",
+          "testo": "Circa 220 km totali (A/R da Firenze più giro tra i borghi) a 0,129 €/km: circa 28 €; FI-PI-LI gratuita, nessun pedaggio.",
+          "min": 28,
+          "max": 28,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Musei di Peccioli",
+          "testo": "Museo Archeologico a ingresso gratuito; altri musei da verificare con l'ufficio turistico.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Castello dei Vicari, Lari",
+          "testo": "4 € intero, 3 € ridotto.",
+          "min": 3,
+          "max": 4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Braceria a Casciana Terme Lari: 25-40 € a persona bevande incluse; locali più economici 15-20 €.",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Il carburante (circa 28 €) è della vettura e si divide per due viaggiatori (14 € a testa); ingressi e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il Castello dei Vicari di Lari apre lun-ven 10:30-13:00 e sabato, domenica e festivi 10:30-19:00: meglio andarci nel weekend."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Museo Archeologico di Peccioli ha orari ridotti (mar 9-13, mer 15-19, sab-dom 10-13 e 14-19) e non risulta aperto lunedì, giovedì e venerdì: verificare prima."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Servono l'auto e parcheggi vicino ai centri storici; i borghi sono in collina con vie strette."
+        }
+      ],
+      "note": "Il giro funziona meglio sabato o domenica, quando museo e castello sono aperti nel pomeriggio. Consiglio da sapere: a Lari si trovano bracerie dove mangiare carne alla griglia a 25-40 € bevande incluse; prenotare nel weekend. I bus locali non permettono di fare il giro in un giorno, quindi senza auto la meta non regge.",
+      "fonti": [
+        "https://www.terredipisa.it/en/territory/peccioli/",
+        "https://www.fondarte.peccioli.net/pdf/CartadeiServiziallegatoB.pdf",
+        "https://www.museionline.info/tipologie-museo/castello-dei-vicari",
+        "https://www.sluurpy.it/casciana-terme-lari/braceria",
+        "https://www.rome2rio.com/s/Peccioli/Lari",
+        "https://it.wikivoyage.org/wiki/Peccioli"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 43.5436,
+        "lon": 10.7186
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Il Parco Preistorico di Peccioli con i dinosauri a grandezza naturale piace ai bimbi di 4 anni; il resto è passeggiata tranquilla."
+      }
+    },
+    {
       "id": "pescia-e-collodi-1g",
       "nome": "Pescia e Collodi (Parco di Pinocchio)",
       "sottotitolo": "Toscana (Valdinievole), la città dei fiori e il borgo di Pinocchio con il suo parco e il giardino barocco",
@@ -4830,6 +5050,237 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Vasche e borghi piacciono, ma l'accesso alle terme libere è a piedi su sentiero e il resto è poco pensato per un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "san-leo-e-montefeltro-1g",
+      "nome": "San Leo, Pennabilli e il Montefeltro",
+      "sottotitolo": "Emilia-Romagna, la fortezza sullo sperone di roccia e il borgo dei giardini poetici di Tonino Guerra",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "In auto: da Firenze si risale verso Cesena (circa 137 km, 1h18 fino a Cesena) e poi si sale in Valmarecchia verso San Leo passando da Sogliano al Rubicone; da San Leo a Pennabilli sono pochi chilometri sulla stessa valle. Il treno non serve: le stazioni più vicine a San Leo (Savignano sul Rubicone, Gambettola) sono a oltre 20 km in linea d'aria e senza bus comodi in giornata.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h45 in auto (stima: 137 km fino a Cesena in 1h18 più il tratto di salita in valle, circa 190 km totali).",
+      "durataViaggioMinuti": 165,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: luce buona sulla valle, orari lunghi della fortezza e temperature adatte a camminare tra i giardini di Pennabilli. In pieno inverno la fortezza è aperta solo nel fine settimana e c'è nebbia o gelo sullo sperone.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "costoMin": 48,
+      "costoMax": 84,
+      "costoNota": "Il chilometraggio (circa 430 km A/R con la deviazione a Pennabilli) è una stima: solo il tratto Firenze-Cesena (137 km, pedaggio 1,40 €) è verificato. Il pranzo va da 10 € (panino/piadina) a 40 € (ristorante di fascia alta).",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "San Leo e Pennabilli distano pochi chilometri l'una dall'altra. La mattina basta per la fortezza di San Leo (Rocca, cella di Cagliostro, Duomo e Pieve nel borgo, tutto a piedi in un paio d'ore) e il pomeriggio per Pennabilli, dove i luoghi di Tonino Guerra (Orto dei Frutti Dimenticati, Santuario dei Pensieri) e il Piccolo Tibet si girano in 2-3 ore. Il tragitto lungo però comprime la giornata: non c'è margine per altre tappe, ma con una sola notte in meno resta una gita piena e non di corsa.",
+      "cosaVedere": [
+        "Fortezza di San Leo: la rocca rinascimentale di Francesco di Giorgio Martini su uno sperone a picco, con museo d'armi e la cella dove morì Cagliostro nel 1795; il panorama sulla Valmarecchia è il motivo principale.",
+        "Borgo di San Leo: Pieve preromanica del X secolo e Duomo romanico del XII secolo, entrambi vicino a Piazza Dante, più il Palazzo Mediceo.",
+        "Orto dei Frutti Dimenticati di Pennabilli: oltre cento varietà di alberi da frutto quasi scomparsi, creato da Tonino Guerra vicino alla piazza principale.",
+        "Santuario dei Pensieri: un prato cinto da antiche mura con sette steli che Guerra chiamava specchi opachi per la mente, parte del museo diffuso I Luoghi dell'Anima.",
+        "Piccolo Tibet sopra Pennabilli: chorten, mulini di preghiera e la campana gemella di quella del convento di Lhasa, con un belvedere che molti collegano allo sfondo della Gioconda.",
+        "Mateureka, il museo del calcolo in piazza Garibaldi, su quattro piani, utile come pausa al coperto se piove."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante e pedaggi)",
+          "testo": "Circa 430 km A/R con deviazione Pennabilli, 0,129 €/km di carburante (circa 55 €) più 1,40 € di pedaggio per tratta sul tratto Firenze-Cesena (verificato); chilometri totali stimati.",
+          "min": 55,
+          "max": 62,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Fortezza di San Leo - ingresso",
+          "testo": "9-11 € intero (7 € ridotto nella fonte più vecchia, 11 € in quella più recente); gratuito fino a 17 anni.",
+          "min": 9,
+          "max": 11,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Navetta Piazza Dante-Rocca",
+          "testo": "1 € a tratta, 2 € A/R, utile per non fare la salita a piedi.",
+          "min": 1,
+          "max": 2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 10 € in forno o piadineria a Pennabilli, circa 20 € a persona nella maggior parte dei ristoranti di San Leo e Pennabilli, circa 40 € nel ristorante più caro (Il Piastrino).",
+          "min": 10,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura, divisi per due viaggiatori; ingresso, navetta e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "L'accesso in auto al centro storico di San Leo è limitato: si parcheggia nel piazzale all'ingresso del paese e si va a piedi (pochi minuti); la navetta da Piazza Dante porta alla Rocca."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Nei mesi freddi la fortezza apre solo sabato, domenica e festivi (10-17:45, ultimo ingresso 17:00 secondo la fonte più datata); in primavera-estate 10:30-18:45 nei feriali e 10-19:45 nei festivi. Verificare gli orari aggiornati: telefono +39 0541 926967."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per la fortezza (biglietti anche online), ma nei weekend di primavera e per eventi come Artisti in Piazza a Pennabilli (inizio giugno) c'è più afflusso."
+        }
+      ],
+      "note": "Non tentare di fare tutto a ritmo da tour: la visita guidata organizzata da Rimini dura 9-18:30 con pranzo incluso, e anche in auto propria conviene partire presto da Firenze. Il dettaglio utile: la strada più scenografica è quella da Cesena per Sogliano al Rubicone, ma richiede più tempo del percorso dal lato Rimini. A Pennabilli salite al belvedere della campana tibetana a fine giornata, quando la luce sulla valle è migliore. Non è fattibile in treno in modo ragionevole in giornata.",
+      "fonti": [
+        "https://moveo.telepass.com/san-leo/",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Cesena/",
+        "https://museionline.info/emilia-romagna-musei-monumenti/fortezza-di-san-leo",
+        "https://www.visitromagna.it/en/aspass/pickup/11005-san-leo-e-pennabilli-l-anima-poetica-del-montefeltro",
+        "https://www.idealista.it/news/node/392383",
+        "https://www.voloscontato.it/guide-per-viaggiatori/visitare-pennabilli-guida-turistica-ed-informazioni.php",
+        "https://www.nostrofiglio.it/famiglia/viaggi/san-leo-con-i-bambini-cosa-vedere-nella-fortezza-sullo-sperone-di-roccia",
+        "https://www.sluurpy.it/san-leo/ristoranti",
+        "https://www.sluurpy.it/pennabilli/ristoranti",
+        "https://www.percorsokm.it/it/come-arrivare-a-San_Leo"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 43.8963,
+        "lon": 12.343
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Fortezza gratuita fino a 17 anni e scenografica, ma molte scale, salite e tre ore di auto all'andata rendono la giornata lunga per un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "santarcangelo-e-verucchio-1g",
+      "nome": "Santarcangelo di Romagna e Verucchio",
+      "sottotitolo": "Emilia-Romagna, due borghi malatestiani sulle colline dietro Rimini: rocca malatestiana sulla Valmarecchia",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. con cambio (non esiste un diretto): Regionale fino a Santarcangelo di Romagna passando per Bologna e la linea adriatica, oppure Frecciarossa fino a Rimini e Regionale per Santarcangelo. Da Santarcangelo a Verucchio (circa 17 minuti, 7-10 km) c'è il bus Start Romagna linea 163, ma con una sola corsa al giorno secondo Rome2Rio: conviene prenotare un taxi (circa 30-40 € a corsa per due) o valutare l'auto.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 2h30 in media (da 1h29 con il Frecciarossa a oltre 2h30 con i Regionali), con un cambio.",
+      "durataViaggioMinuti": 150,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: la Rocca di Verucchio è aperta tutti i giorni da aprile a settembre (e il giovedì sera fino alle 21:30 a luglio-agosto), il clima è mite. Da ottobre a marzo la rocca apre solo sabato, domenica e festivi, quindi la gita va fatta nel weekend.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 54,
+      "costoMax": 129,
+      "costoNota": "Prezzo del bus Verucchio-Santarcangelo indicato in dollari da Rome2Rio (2-4), trattato come 2-4 € a tratta. Il taxi (30-40 € a corsa) è un'alternativa non inclusa nella somma.",
+      "dipendenzaAuto": "auto-opzionale",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Santarcangelo ha un centro piccolo, da girare in 2-3 ore tra vicoli e trattorie; Verucchio sta a 17 minuti e richiede altre 3 ore tra rocca, museo e pranzo. Due borghi compatti, poche attrazioni a pagamento e nessun trasferimento lungo rendono la giornata piena ma non di corsa. Il vincolo vero è il viaggio: circa 2h30 ciascun verso, quindi la visita effettiva dura 6-7 ore e il weekend è obbligato fuori stagione.",
+      "cosaVedere": [
+        "Rocca Malatestiana di Verucchio: la fortezza dei Malatesta a picco sulla roccia, con la Sala Magna, le antiche prigioni e dalla torre un panorama sulla Valmarecchia fino all'Adriatico.",
+        "Museo Civico Archeologico di Verucchio: nell'ex convento di Sant'Agostino, i corredi della civiltà villanoviana, con troni di legno e ambre.",
+        "Collegiata di San Martino a Verucchio: custodisce un crocifisso del XIV secolo attribuito al Maestro di Verucchio e uno quattrocentesco di Catarino e Nicolò di Pietro.",
+        "Pieve di San Martino in Rafaneto: chiesa romanica del X secolo ai piedi della rocca, tappa tranquilla lungo la strada.",
+        "Centro storico di Santarcangelo di Romagna: vicoli in salita, il centro medievale e le trattorie dove assaggiare passatelli e piadina."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R Firenze-Santarcangelo",
+          "testo": "Da 16 € a tratta in Regionale (prenotando in anticipo), prezzo medio indicato 34 €, fino a 57 € a tratta per il Frecciarossa: circa 32-68 € A/R, con un cambio.",
+          "min": 32,
+          "max": 68,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Bus Santarcangelo-Verucchio A/R",
+          "testo": "Linea 163 Start Romagna, 2-4 € a tratta, una sola corsa al giorno secondo Rome2Rio: verificare l'orario, altrimenti taxi.",
+          "min": 4,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rocca e Museo Archeologico di Verucchio",
+          "testo": "Biglietto integrato Rocca + Museo 7,50 €; rocca da sola 5,50 € intero; con visite guidate integrate 13 € (tariffe dalla pagina ufficiale, aggiornata nel 2022: verificare).",
+          "min": 7.5,
+          "max": 13,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Piadina romagnola 5-8 €, passatelli in brodo 10-13 €; cena/pasto completo in trattoria 25-38 €, fino a circa 40 € nei locali di livello.",
+          "min": 10,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Taxi Santarcangelo-Verucchio",
+          "testo": "Circa 30-40 € a corsa, 17 minuti, alternativa al bus con una sola corsa quotidiana.",
+          "min": 30,
+          "max": 40,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Treno, bus, ingressi e pranzo sono a persona. Il taxi è una voce di confronto per la coppia e non rientra nel totale.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Rocca di Verucchio: da aprile a settembre aperta tutti i giorni 10-13 e 15-18:30 (agosto fino alle 19; giovedì di luglio e agosto fino alle 21:30). Da ottobre a metà dicembre e a marzo solo sabato, domenica e festivi (10-13 e 14:30-18); da gennaio a febbraio solo il weekend 10-17."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Il bus 163 Verucchio-Santarcangelo ha una sola corsa al giorno: pianifica l'andata e il ritorno, o prenota un taxi."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria segnalata per la rocca; le visite guidate (8 € alla rocca, 13 € integrate con il museo) si prenotano tramite l'ufficio IAT di Verucchio, tel. 0541 670552."
+        }
+      ],
+      "note": "Il treno non è diretto e il tempo vero è di oltre 2h30 per tratta: partire con il primo Regionale utile e cercare un Frecciarossa fino a Rimini se il budget regge. Gli orari della rocca sono quelli di una pagina ufficiale aggiornata nel 2022: telefona all'ufficio IAT prima di partire. A pranzo, a Santarcangelo il filtro economico va sotto i 15 € (piadina e pizza), il livello medio sta sui 20 € e i locali migliori sui 40 €.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/santarcangelo-di-romagna-6h59o",
+        "https://www.sluurpy.it/santarcangelo-di-romagna/ristoranti",
+        "https://cultura.gov.it/luogo/rocca-malatestiana",
+        "https://travel.thewom.it/italia/emilia-romagna/verucchio.html",
+        "https://www.rome2rio.com/s/Verucchio/Santarcangelo"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 44.0,
+        "lon": 12.43
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Borghi in salita e viaggio di oltre 2h30 a tratta con un cambio sono pesanti per un bimbo di 4 anni, ma la rocca può divertirlo."
       }
     },
     {
@@ -6954,6 +7405,136 @@
       }
     },
     {
+      "id": "belluno-e-feltre-2g",
+      "nome": "Belluno, Feltre e le Dolomiti bellunesi",
+      "sottotitolo": "Veneto, due città di pietra e portici ai piedi del Parco Nazionale delle Dolomiti Bellunesi",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. verso Belluno, di norma con uno o due cambi (tipicamente Bologna e/o Venezia Mestre, poi Regionale sulla linea Venezia-Belluno); da Belluno a Feltre c'è un Regionale diretto quasi ogni ora. In auto è possibile (A1 e A27) ma richiede una lunga tratta e in città non serve: il treno è la scelta più riposante.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 4h15 in media in treno con cambi (i collegamenti migliori scendono a 2h30-2h40 secondo Omio, i peggiori arrivano a 6h30); Belluno-Feltre 30-38 minuti in Regionale (28 km).",
+      "durataViaggioMinuti": 253,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre per camminare nel Parco e visitare le città senza folla; luglio-agosto è piena stagione (e il Palio di Feltre ad agosto riempie i posti letto). Da dicembre a marzo il clima è freddo e i sentieri di quota sono innevati, ma le città restano godibili.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 195,
+      "costoMax": 322,
+      "costoNota": "Prezzi del treno rilevati per il 10 novembre 2026 su Omio, con ampia variabilità: prenotando in anticipo si scende anche a 10 € a tratta. Alloggio e pasti sono moltiplicati per 2 giorni (un solo pernottamento effettivo, il secondo importo copre margine e extra).",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Belluno e Feltre distano solo 28 km e 30-38 minuti di treno: il centro di Belluno (Piazza Duomo, Via Mezzaterra, Palazzo Fulcis) si vede bene in mezza giornata, Feltre con le sue tre piazze e i musei in un'altra mezza. Tra le due si riesce a infilare una passeggiata breve nel Parco, ma non un trekking vero. Due giorni bastano per le due città con calma; chi vuole davvero camminare sulle Vette Feltrine o in Val Canzoi deve aggiungere un terzo giorno.",
+      "cosaVedere": [
+        "Piazza Duomo a Belluno: la Cattedrale di San Martino, il Palazzo dei Rettori veneziano e la fontana di San Gioatà formano il cuore della città, gratis e sempre accessibili.",
+        "Palazzo Fulcis (Museo Civico di Belluno): storia e personaggi della città in un palazzo settecentesco; intero 8 €, ridotto 5 €, circa un'ora di visita.",
+        "Le porte medievali di Belluno (Porta Dojona, Porta Rugo) e Piazza dei Martiri: un anello a piedi di meno di un'ora che mostra il tessuto antico a ridosso del Piave.",
+        "Piazza Maggiore a Feltre: la piazza rinascimentale con il Castello di Alboino, la Torre dell'Orologio (ottimo belvedere sul centro) e l'area archeologica sotto la piazza.",
+        "Museo Civico di Feltre in Palazzo Villabruna: dipinti di Gentile Bellini, Cima da Conegliano e Palma il Giovane, con reperti romani e mobili dal Quattrocento; il biglietto da 10 € copre anche Galleria Rizzarda, Museo Diocesano e torri del castello.",
+        "Duomo di Feltre con cripta e il vicino Santuario dei Santi Vittore e Corona (circa 5 km, in Anzù, risale all'anno 1000) per un assaggio di sacro arroccato sulla valle.",
+        "Anello del Rio Musil (circa 5 km) da Feltre fino alla fabbrica di birra Pedavena: la passeggiata più comoda per sentire il Parco senza equipaggiamento da montagna."
+      ],
+      "itinerario": null,
+      "alloggio": "A Belluno i B&B partono da circa 70 € a notte per due (Gioz87, B&B Al Palasport 90 €) e gli alberghi 3 stelle da 88-104 € (Albergo Delle Alpi e Albergo Cappello e Cadore da 88 €). Conviene dormire a Belluno centro, collegato a Feltre con 13 treni al giorno; in alta stagione e nei weekend di Palio i prezzi salgono sensibilmente. Stima a persona: 35-52 € a notte.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze-Belluno A/R",
+          "testo": "21-34 € a tratta per il 10 novembre (da 10 € con prenotazione anticipata), cioè circa 42-68 € A/R a persona.",
+          "min": 42,
+          "max": 68,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Belluno-Feltre A/R",
+          "testo": "Regionale da 5-6 € a tratta, 13 corse al giorno, 28 km.",
+          "min": 10,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Palazzo Fulcis",
+          "testo": "8 € intero, 5 € ridotto.",
+          "min": 5,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Musei di Feltre",
+          "testo": "Biglietto cumulativo 10 € intero, 8 € ridotto (Museo Civico, Rizzarda, Diocesano, torri).",
+          "min": 8,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "B&B da circa 70 € e 3 stelle da 88-104 € a notte per due: 35-52 € a persona.",
+          "min": 35,
+          "max": 52,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 10-17 € (cucina di strada) o 15-33 € in pizzeria; cena 18-30 € in trattoria tipica bellunese (rilevazione del 2019, ritoccare per l'inflazione).",
+          "min": 30,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona: la scheda non prevede l'auto, quindi nessuna quota della vettura.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Belluno e Feltre si gira a piedi; la stazione di Belluno è in piano rispetto alla città alta ma richiede una salita di 10-15 minuti verso Piazza Duomo."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Palazzo Fulcis: lun-ven 9:30-12:30 e 15:30-18:30, sab-dom e festivi 10-18:30. Museo Civico di Feltre aperto venerdì-domenica e festivi 10:30-18, chiuso il lunedì, altri giorni su prenotazione."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il MIM di Belluno nel weekend è visitabile solo su prenotazione; per il Museo Civico di Feltre nei giorni feriali conviene telefonare (0439 885241). Nessuna prenotazione per il Parco."
+        }
+      ],
+      "note": "Il Museo Civico di Feltre è aperto soltanto da venerdì a domenica: se possibile fate coincidere Feltre con uno di quei giorni, altrimenti prenotate. Pedavena, a pochi chilometri da Feltre, ha la storica fabbrica di birra e un'osteria dove si mangia bene: l'anello del Rio Musil ci arriva a piedi. Verificate sempre gli orari dei treni su Trenitalia: le coincidenze da Firenze cambiano e in giornata il viaggio può superare le 4 ore.",
+      "fonti": [
+        "https://www.bed-and-breakfast.it/en/belluno?prezzo=1",
+        "https://www.trivago.it/belluno-94714/hotel",
+        "https://www.omio.it/treni/firenze/belluno-cdxtu",
+        "https://www.omio.it/treni/belluno/feltre-eno87",
+        "https://www.travel365.it/belluno-cosa-vedere.htm",
+        "https://www.voloscontato.it/guide-per-viaggiatori/10-cose-da-vedere-a-feltre-il-borgo-verticale-situato-nel-parco-nazionale-delle-dolomiti-bellunesi.php",
+        "https://www.museionline.info/veneto-musei-monumenti/museo-civico-di-feltre",
+        "https://www.dolomiti.it/it/parchi-e-riserve-naturali/parco-nazionale-delle-dolomiti-bellunesi",
+        "https://www.voloscontato.it/ristoranti/belluno-dove-mangiare-bene-spendendo-poco.php"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 46.1397,
+        "lon": 12.2167
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Città tranquille e pedonali ma viaggio lungo con cambi e musei poco pensati per un bimbo di 4 anni; meglio l'anello del Rio Musil e la birreria di Pedavena."
+      }
+    },
+    {
       "id": "bergamo-2g",
       "nome": "Bergamo",
       "sottotitolo": "Lombardia, Città Alta e mura venete UNESCO",
@@ -7393,6 +7974,136 @@
         "https://www.accessibilitacentristorici.it/ztl/lombardia/brescia/parcheggio_brescia.html"
       ],
       "aggiuntaIl": "2026-10-05"
+    },
+    {
+      "id": "bressanone-e-val-disarco-2g",
+      "nome": "Bressanone, Novacella e la Val d'Isarco",
+      "sottotitolo": "Alto Adige, la più antica città tirolese con il suo palazzo vescovile e l'abbazia agostiniana lì accanto",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. via Bologna e Bolzano/Verona con cambio (nessun collegamento diretto affidabile: le fonti sono discordanti, verificare gli orari su Trenitalia/Italo prima di partire); Bressanone ha stazione sulla linea del Brennero e dalla stazione il centro è a pochi minuti a piedi. In auto: A1 + A22 del Brennero, con pedaggi non verificati qui.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 4h15 in treno con cambio (3h56 il collegamento più veloce secondo Omio)",
+      "durataViaggioMinuti": 255,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre per passeggiate, giardino dell'abbazia (aperto maggio-ottobre) e Plose; novembre è il mese più economico per l'alloggio ma il giardino è chiuso. Dicembre è affollato per i mercatini di Natale.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        8,
+        12
+      ],
+      "costoMin": 220,
+      "costoMax": 400,
+      "costoNota": "Alloggio calcolato su una notte per persona (metà di una doppia); i prezzi hotel sono istantanee di Kayak e variano molto con la stagione.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro storico di Bressanone si gira a piedi in mezza giornata (Duomo, chiostro, vie porticate) e l'Hofburg richiede un paio d'ore. Il secondo giorno basta per l'abbazia di Novacella, a circa 10 km, tra museo, biblioteca e vigneti, con il tempo per una salita alla Plose o una passeggiata. Con una sola giornata il viaggio di oltre 4 ore da Firenze lascerebbe troppo poco; due giorni permettono un ritmo tranquillo.",
+      "cosaVedere": [
+        "Hofburg (Palazzo Vescovile): residenza dei principi vescovi con il museo diocesano e la collezione di presepi, aperto tutti i giorni 10-17 da ottobre a maggio.",
+        "Duomo e chiostro di Bressanone: ingresso gratuito al Duomo, con il chiostro affrescato da visitare con calma.",
+        "Centro storico e portici: la città più antica del Tirolo si gira a piedi, con le case a portico e i lungofiume dell'Isarco.",
+        "Abbazia di Novacella (Neustift): museo, chiesa, biblioteca e chiostro in 1h30-2h; il giardino è aperto solo maggio-ottobre.",
+        "Vigneti dell'abbazia con degustazione: Sylvaner, Müller Thurgau e Kerner, solo su prenotazione.",
+        "Plose: cabinovia da Bressanone per una vista sulle Dolomiti, utile nelle giornate limpide."
+      ],
+      "itinerario": null,
+      "alloggio": "Hotel 3 stelle a Bressanone: da circa 102 a 301 € a notte per camera nelle ultime due settimane rilevate da Kayak, con tariffe di partenza intorno a 118-134 €; media del mese di novembre circa 153 €. Per due persone si può contare su circa 100-200 € a notte per camera, cioè 51-100 € a persona. Dormire in centro o vicino alla stazione evita l'auto.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R Firenze-Bressanone",
+          "testo": "Da 31 € a tratta, prezzo tipico 44-46 € a tratta secondo Omio (A/R circa 62-92 €), con cambio.",
+          "min": 62,
+          "max": 92,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Hotel 3 stelle 102-301 € a camera a notte (Kayak); stima 100-200 € per camera, quindi 51-100 € a persona, per una notte.",
+          "min": 25,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "20-40 € a persona per pasto in trattorie e pizzerie; due pasti al giorno.",
+          "min": 40,
+          "max": 80,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Hofburg",
+          "testo": "13 € intero, 5 € ridotto, gratis fino a 7 anni.",
+          "min": 13,
+          "max": 13,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Abbazia di Novacella",
+          "testo": "Museo con audioguida 13 €; museo + giardino 16 €. Visita guidata 18 €; vigneti con degustazione 25 €.",
+          "min": 13,
+          "max": 25,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cabinovia Plose (facoltativa)",
+          "testo": "20 € una corsa, 30 € andata e ritorno.",
+          "min": 0,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona; non ci sono costi di vettura perché il mezzo consigliato è il treno. Il trasferimento a Novacella (circa 10 km) non ha un prezzo verificato.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "L'abbazia di Novacella (museo) è chiusa la domenica; chiuso anche 8, 12, 25 e 26 dicembre 2026 e 6 gennaio 2027. Orario lunedì-sabato 10-17."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il giardino dell'abbazia è aperto solo da maggio a ottobre, lunedì-sabato."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Visite guidate dell'abbazia alle 11:00 e 14:30 e degustazione nei vigneti solo su prenotazione (0472 694951)."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "La Hofburg è aperta tutti i giorni; chiusa solo a Pasqua e il 24-25 dicembre."
+        }
+      ],
+      "note": "Pianificare l'abbazia in un giorno feriale: la domenica è chiusa e le visite guidate partono solo alle 11 e alle 14:30, quindi conviene arrivare in tarda mattinata. Se si pernotta in una struttura convenzionata, chiedere la Brixen Card, che di solito include i mezzi pubblici altoatesini e una corsa A/R in cabinovia sulla Plose. Gli orari dei treni da Firenze vanno controllati: le fonti sono discordanti su cambi e diretti.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/bressanone-brixen-bfywb",
+        "https://www.kayak.it/Hotel-a-Bressanone.41679.hotel.ksp",
+        "https://www.dolomiti.it/it/musei/castello-vescovile",
+        "https://www.suedtirolerland.it/it/cultura-e-territorio/musei-e-mostre/museo-dell-abbazia-di-novacella/",
+        "https://siviaggia.it/informazioni-utili/abbazia-novacella-visita/593449/",
+        "https://www.travel365.it/guida-bressanone.htm"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 46.7167,
+        "lon": 11.6556
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Ingresso gratuito all'abbazia fino a 14 anni e all'Hofburg fino a 7, centro piccolo e pedonale."
+      }
     },
     {
       "id": "bruxelles-2g",
@@ -8935,6 +9646,127 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Castello e Transalpina piacciono a un bimbo di 4 anni, ma quasi quattro ore di auto per tratta e le cantine pesano."
+      }
+    },
+    {
+      "id": "grado-aquileia-e-palmanova-2g",
+      "nome": "Grado, Aquileia e Palmanova",
+      "sottotitolo": "Friuli-Venezia Giulia, l'isola-laguna di Grado, la capitale romana di Aquileia e la città stellata veneziana di Palmanova",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno veloce da Firenze S.M.N. a Venezia Mestre (circa 2h, cambio), poi treno Regionale Venezia Mestre–Cervignano-Aquileia-Grado (circa 1h05–1h15). Da Cervignano si raggiunge Aquileia (circa 8 km) e Grado con bus locale o taxi; Palmanova ha una propria stazione sulla linea Cervignano–Udine, a pochi minuti di treno da Cervignano. In auto da Firenze sono oltre 400 km via A1 e A4: praticabile, ma pesante e non verificato nei costi.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 3h15–4h30 porta a porta in treno con cambio a Mestre e ultimo tratto in bus fino a Grado o Aquileia.",
+      "durataViaggioMinuti": 270,
+      "periodoMiglioreTesto": "Maggio, giugno e settembre-ottobre: mare e laguna godibili, meno folla di luglio-agosto, quando Grado è presa d'assalto dai bagnanti. Da novembre a marzo Grado è quasi chiusa ma Aquileia e Palmanova si visitano bene.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 214,
+      "costoMax": 433,
+      "costoNota": "Il bus Cervignano–Aquileia–Grado e gli eventuali taxi non hanno una tariffa verificata e non sono inclusi. Le fasce del treno Firenze–Mestre vanno dal Regionale (da 22 € a tratta) alla media di tutti i treni (43 €).",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Aquileia è a 10 km da Grado e a 18 km da Palmanova: sono tre tappe molto diverse ma vicine. Due giorni bastano per una mezza giornata piena ad Aquileia (basilica con cripte, battistero, foro, porto fluviale, museo), una serata e una mattina nelle calli di Grado, e una sosta a Palmanova per le mura e la piazza esagonale. In un giorno solo si correrebbe senza vedere nulla con calma; con tre si dilaterebbe. Dormire a Grado o Aquileia evita le ore morte dei treni.",
+      "cosaVedere": [
+        "Basilica di Santa Maria Assunta ad Aquileia: pavimento musivo del IV secolo tra i più vasti dell'Occidente cristiano, con le due cripte (affreschi e scavi con passerella di vetro).",
+        "Battistero, Sud Halle e Domus-Palazzo episcopale: il resto del complesso basilicale, con altri mosaici romani e paleocristiani.",
+        "Foro romano, Decumano di Aratria Galla e porto fluviale: le tracce della grande città romana, tra colonne ricostruite e un sentiero alberato lungo il fiume.",
+        "Museo Archeologico Nazionale di Aquileia: la collezione di reperti romani della città, gratuito la prima domenica del mese.",
+        "Centro storico di Grado (l'Isola del Sole): calli, campielli e basilica di Sant'Eufemia, da girare a piedi sul lungomare e nella laguna.",
+        "Palmanova: città fortezza veneziana a pianta stellata del 1593, con piazza Grande esagonale e le porte monumentali sui bastioni."
+      ],
+      "itinerario": null,
+      "alloggio": "Circa 60–120 € a notte per due in B&B/hotel a Grado, Aquileia e dintorni (Cervignano, Fiumicello), con media attorno a 82 € (30–60 € a persona). Conviene dormire a Grado per la cena e la passeggiata serale, o ad Aquileia se si vuole più quiete e prezzi più bassi.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze–Venezia Mestre A/R",
+          "testo": "Regionale da 22 € a tratta (2h29, circa 3 corse al giorno); media di tutti i treni 43 € a tratta, quindi 44–86 € A/R.",
+          "min": 44,
+          "max": 86,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Mestre–Cervignano-Aquileia-Grado A/R",
+          "testo": "Regionale circa 11–13 € a tratta, Frecciarossa circa 24 €; 20–48 € A/R.",
+          "min": 20,
+          "max": 48,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "60–120 € a notte per due in B&B/hotel nella zona di Grado e Aquileia.",
+          "min": 30,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Cena completa a Grado 30–48 € a persona, trattorie €€ circa 20 € a persona; stima giornaliera pranzo più cena.",
+          "min": 40,
+          "max": 80,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi Aquileia",
+          "testo": "Complesso basilicale 10 € (basilica da sola 5 €); Museo Archeologico 9 € intero, 2 € ridotto.",
+          "min": 10,
+          "max": 19,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona: il viaggio è consigliato senza auto.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Aquileia non ha stazione: la più vicina è Cervignano, a circa 8 km. Serve bus locale o taxi, da pianificare prima di partire (orari non verificati)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Basilica lun-ven 10-19, sab 10-18:30, dom 12-19; museo archeologico chiuso il lunedì; museo paleocristiano aperto solo il sabato mattina (08:30-13:30)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "I biglietti della basilica si comprano alla biglietteria o online sul sito della basilica; nessuna prenotazione obbligatoria, ma in alta stagione e nei weekend conviene anticipare."
+        }
+      ],
+      "note": "Non cercare di fare tutto il primo giorno: Aquileia vuole mezza giornata piena e il blog consiglia l'audioguida perché in basilica mancano i pannelli esplicativi. Il parcheggio Ugo Pellis ad Aquileia era gratuito, utile se si noleggia un'auto per muoversi tra le tre tappe. Il primo giorno arriva tardi: conviene partire presto da Firenze e vedere Aquileia al pomeriggio.",
+      "fonti": [
+        "https://www.bed-and-breakfast.it/en/grado",
+        "https://www.omio.it/treni/stazione-di-cervignano-aquileia-grado/stazione-di-venezia-mestre-q3mqi",
+        "https://www.omio.com/trains/venice/grado-sgdwj",
+        "https://www.omio.it/treni/mestre/firenze",
+        "https://www.sluurpy.it/grado/ristoranti",
+        "https://www.travel365.it/aquileia-cosa-vedere.htm",
+        "https://www.montagnadiviaggi.it/2021/11/aquileia-cosa-vedere-quanto-tempo-per-visitare.html",
+        "https://it.wikivoyage.org/wiki/Aquileia",
+        "https://museopertutti.org/wp-content/uploads/2024/10/BASILICA-AQUILEIA-LR-LINK-NO-LOGO.pdf"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 45.6767,
+        "lon": 13.3939
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Grado e la spiaggia piacciono a un bimbo di 4 anni, ma Aquileia e le cripte sono lunghe e poco interattive."
       }
     },
     {
@@ -19193,6 +20025,146 @@
       }
     },
     {
+      "id": "pescara-chieti-e-majella-3g",
+      "nome": "Pescara, Chieti e il Parco della Majella",
+      "sottotitolo": "Abruzzo adriatico, la città di D'Annunzio sul mare, la Chieti romana e i primi contrafforti della Majella",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Auto propria: circa 450 km da Firenze, con A1 e poi A24/A25 verso l'Adriatico, pedaggio di 37,60 € a tratta. Il treno esiste (Regionale, Intercity, Frecciarossa con uno o due cambi) ma costa tra 35 e 98 € a tratta e impiega da quasi 4 a 8 ore: per la Majella l'auto serve comunque, mentre Pescara e Chieti si collegano bene tra loro in treno regionale.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 4h20-4h40 in auto (450-457 km); 4-8 ore in treno a seconda del tipo di treno e dei cambi.",
+      "durataViaggioMinuti": 270,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre: mare ancora praticabile o già tranquillo a Pescara e sentieri della Majella aperti. Agosto è il mese più caro (B&B a Pescara intorno a 132 € a notte) e dicembre il più caro per gli hotel (media 144 €); in inverno le quote alte della Majella e le strade che vi salgono possono essere chiuse dalla neve.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        8,
+        12
+      ],
+      "costoMin": 288,
+      "costoMax": 460,
+      "costoNota": "Stima con auto in due. Non incluse le entrate ai musei e il parcheggio, per i quali non ho trovato tariffe 2026 verificate. L'alloggio è calcolato su 2 notti (3 giorni) e già riportato al giorno.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Pescara e Chieti distano una quindicina di chilometri e si coprono bene in un giorno ciascuna senza correre: una giornata per il lungomare, il centro e la casa natale di D'Annunzio, una per il museo archeologico con il Guerriero di Capestrano e il centro storico di Chieti. Il terzo giorno resta per la Majella, che con le sue valli, i borghi e gli eremi richiede tempi lunghi di guida: in tre giorni si assaggia il parco e si tocca un solo versante, senza pretendere di esaurire una montagna. Con 4h30 di viaggio all'andata, meno di tre giorni significherebbe passare più tempo in strada che sul posto.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Partenza presto da Firenze, arrivo a Pescara in tarda mattinata. Sistemazione e pranzo in zona centro. Pomeriggio sul Ponte del Mare, il ponte ciclopedonale sul fiume che collega porto e spiaggia, e lungomare fino alla Pineta Dannunziana, la pineta intitolata al poeta. Visita alla Fontana Nave di Cascella in piazza e al Museo delle Genti d'Abruzzo per capire tradizioni e cultura della regione. Cena a base di pesce o arrosticini."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Mattina a Pescara con la casa natale di Gabriele D'Annunzio in Corso Manthonè (museo piccolo, un'ora basta) e la Cattedrale di San Cetteo. Poi si sale a Chieti, a pochi chilometri: al Museo Archeologico Nazionale d'Abruzzo in Villa Comunale si vede il Guerriero di Capestrano, del VI secolo a.C., simbolo dell'Italia preromana, con la Dama di Capestrano e l'Ercole di Alba Fucens. Resto del pomeriggio nel centro storico di Chieti, sul crinale con vista verso mare e montagna. Rientro a dormire a Pescara o in zona Chieti."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Giornata sulla Majella. In auto verso il versante di Caramanico Terme, porta del parco, tra gole e pareti calcaree; se la strada è aperta si può salire verso il Blockhaus, da cui si vedono nelle giornate limpide Chieti e Pescara e la costa. Pranzo in un paese del parco con piatti di montagna. Nel pomeriggio rientro con calma verso Firenze (circa 4h30), tenendo conto che a fine giornata il traffico sulle A24/A1 può rallentare. Chi preferisce può invece fermarsi la sera e ripartire il mattino dopo."
+        }
+      ],
+      "alloggio": "Pescara è la base più comoda: da qui Chieti si raggiunge in pochi chilometri e la Majella in 1h-1h30 d'auto. Fasce verificate: hotel a 3 stelle intorno a 72 € a notte in media annua, con marzo a 64 € in media e dicembre a 144 €; B&B a Pescara intorno a 82 € a notte in media, circa 72 € ad aprile e circa 132 € ad agosto. Per due persone in camera doppia conviene mettere in conto 65-110 € a notte a seconda del mese; il 38 % dei B&B include la colazione. In alternativa si può dormire a Chieti, più tranquilla e con meno traffico di lungomare.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Circa 900 km A/R da Firenze più 100-200 km di spostamenti locali tra Pescara, Chieti e Majella, a 0,129 €/km (1,98 €/l, 6,5 l/100 km).",
+          "min": 129,
+          "max": 142,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi autostradali",
+          "testo": "37,60 € a tratta Firenze-Pescara via A1, A24 e A25 (75,20 € A/R); eventuali pedaggi locali non verificati.",
+          "min": 75,
+          "max": 75,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "65-110 € a notte per due in hotel a 3 stelle o B&B a Pescara (2 notti su 3 giorni): 22-37 € a persona al giorno su base 3 giorni.",
+          "min": 22,
+          "max": 37,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Cena o pranzo completo a Chieti circa 25-40 € a persona con bevande; opzioni economiche 15-20 €, locali di fascia alta da 50 €. Stima di 40-80 € al giorno con due pasti.",
+          "min": 40,
+          "max": 80,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "Regionale 35-49 €, Intercity 46-54 €, Frecciarossa 70-98 € a tratta Firenze-Pescara; con andata e ritorno si va da circa 70 a circa 196 € a persona. Non entra nella somma.",
+          "min": 70,
+          "max": 196,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingressi musei",
+          "testo": "Museo Archeologico Nazionale d'Abruzzo e Casa natale di D'Annunzio: nessuna tariffa 2026 verificata (il solo dato trovato, 2 € per la casa natale, è del 2009).",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono costi della vettura, divisi per due viaggiatori; alloggio e pasti sono a persona. Il totale non comprende ingressi e parcheggi.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico di Chieti è sulla collina sopra la stazione e Pescara ha zone a traffico limitato: verificare ZTL e parcheggi vicino all'albergo prima di partire."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Le strade che salgono al Blockhaus e verso le quote alte della Majella possono essere chiuse per neve fuori stagione: controllare l'apertura prima di impostare il terzo giorno."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Orari dei musei 2026 non verificati. Per la Casa natale di D'Annunzio la fonte, del 2009, indica apertura tutti i giorni 9-14: confermare per telefono (085 60391) prima della visita."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per cene nei locali più noti di Pescara, ad esempio Ittico, la prenotazione è possibile via TheFork e consigliata nei weekend."
+        }
+      ],
+      "note": "La scheda è più adatta a chi vuole una destinazione fuori dai circuiti classici che a chi cerca una meta vicina: 4h30 di guida per ogni tratta pesano. Un consiglio che si ricava dal posto: Pescara e Chieti stanno su una linea ferroviaria regionale, quindi il secondo giorno si può lasciare l'auto in albergo e fare Chieti in treno, evitando il parcheggio in salita. Piatti da cercare: arrosticini, pasta alla chitarra e a Pescara lo spaghetto al sugo di tonno. Questa scheda non si sovrappone alle mete già in catalogo di Gran Sasso/L'Aquila e Abruzzo e Molise a 7 giorni, perché lavora sul versante adriatico e sulla Majella.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/pescara",
+        "https://www.unipolmove.it/calcola-pedaggio/Pescara/Firenze/",
+        "https://distanzechilometriche.net/firenze-pescara/",
+        "https://www.momondo.it/hotel/pescara",
+        "https://www.likibu.com/it/appartamenti-affitto-vacanze/pescara/bed-breakfast",
+        "https://www.sluurpy.it/chieti/ristorante",
+        "https://en.wikipedia.org/wiki/Museo_Archeologico_Nazionale_d%27Abruzzo",
+        "https://www.lonelyplanet.com/points-of-interest/museo-archeologico-nazionale-d-abruzzo-villa-frigerj/1138727",
+        "https://www.wildtrips.net/citta/Pescara-Italia-cosa-visitare.htm",
+        "https://www.disabili.com/tempo-libero/turismo-accessibile/sp-musei-2009-abrdannunzio/",
+        "https://www.viaggiando-italia.it/abruzzo-chieti-e-pescara-fotografate-dal-blockhaus-majella/",
+        "https://www.italia.it/it/abruzzo/pescara/dove-mangiare/ittico"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 42.35,
+        "lon": 14.17
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Lungomare, spiaggia e pineta di Pescara vanno bene per un bimbo di 4 anni, ma 4h30 di auto per tratta e la giornata in montagna sono impegnative."
+      }
+    },
+    {
       "id": "riga-e-jurmala-3g",
       "nome": "Riga e Jūrmala",
       "sottotitolo": "Lettonia, capitale anseatica e Art Nouveau con una mezza giornata di spiaggia e ville in legno sul Baltico",
@@ -23494,6 +24466,191 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Il Monasterio de Piedra (13,50 € dai 4 anni) e la navetta di Ordesa sono perfetti per un bimbo di 4 anni, ma le Pasarelas di Alquézar, il sentiero fino alla Cola de Caballo e le tappe in auto da 2–3 ore sono pesanti a quell'età."
+      }
+    },
+    {
+      "id": "arcipelago-toscano-7g",
+      "nome": "Arcipelago Toscano: Elba, Giglio, Capraia e Pianosa",
+      "sottotitolo": "Toscana, quattro isole del Parco Nazionale in una settimana, tra porti di Livorno, Piombino e Porto Santo Stefano",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Auto propria fino ai porti e traghetti per le isole. Si parte da Firenze verso Livorno sulla FI-PI-LI (gratuita) e si lascia l'auto al porto: il Toremar per Capraia impiega 2h45 e sull'isola l'auto è inutile. Al rientro si scende a Piombino (circa 90 km da Livorno) per la gita del Parco a Pianosa (nave dedicata alle 8:30) e per il traghetto con auto per Portoferraio (Toremar, Moby, Blu Navy: 40–60 minuti, fino a 40 corse al giorno in estate). Ultima tappa da Piombino lungo l'Aurelia fino a Porto Santo Stefano: si lascia l'auto e si prende il Toremar per il Giglio (circa 1 ora). Chi vuole fare a meno dell'auto può usare il treno Firenze–Piombino Marittima (2h30–3h), ma perde comodità all'Elba e il collegamento con l'Argentario.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 4h45 porta a porta fino a Capraia (auto fino a Livorno, imbarco, 2h45 di traghetto). Per l'Elba: treno Firenze–Piombino 2h30–3h oppure auto, più 40–60 minuti di traversata Piombino–Portoferraio. Giglio: circa 1 ora di traghetto da Porto Santo Stefano.",
+      "durataViaggioMinuti": 285,
+      "periodoMiglioreTesto": "Maggio, giugno e settembre: mare già (o ancora) balneabile, traghetti frequenti e soprattutto le uniche date 2026 delle visite guidate del Parco a Pianosa (weekend da fine aprile a giugno e fino al 20 settembre). Agosto è il mese più caro e affollato: sul Giglio il traghetto costa in media più del doppio che a giugno. Da novembre a marzo le corse per Capraia e Giglio si diradano e molte strutture chiudono.",
+      "mesi": [
+        5,
+        6,
+        9
+      ],
+      "mesiDaEvitare": [
+        8,
+        11,
+        12,
+        1,
+        2
+      ],
+      "costoMin": 674,
+      "costoMax": 1150,
+      "costoNota": "Carburante escluso dal totale: i 0,129 €/km non sono applicabili perché mancano chilometraggi verificati per Firenze–Livorno e Piombino–Porto Santo Stefano (verificati solo Livorno–Piombino 103 km, pedaggio 9 € evitabile, e Piombino–Grosseto 75,5 km). Parcheggi: tariffe di Livorno e Piombino «a partire da», Porto Santo Stefano circa 10–15 € al giorno. Esclusi ingressi ai musei napoleonici e cabinovia del Monte Capanne, non verificati. L'alloggio è calcolato su 6 notti spalmate sui 7 giorni. Prezzi Booking in dollari convertiti in euro (cambio circa 0,86).",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Quattro isole con porti di partenza diversi (Livorno per Capraia, Piombino per Elba e Pianosa, Porto Santo Stefano per il Giglio) richiedono almeno una notte su ciascuna isola minore e tre giorni all'Elba, che misura 224 km² e ha due versanti molto diversi. Pianosa si visita solo in giornata con la nave del Parco (circa 6 ore sull'isola), Capraia ha un solo paese e sentieri che chiedono un giorno pieno, il Giglio si gira in un giorno e mezzo. In sette giorni si vede tutto senza correre, con un margine se il mare è grosso.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza presto da Firenze verso Livorno sulla FI-PI-LI, auto lasciata al porto e traghetto Toremar per Capraia (2h45; le corse non sono tutti i giorni, controllare il calendario). Pomeriggio tra il porto e il paese, salita al Forte di San Giorgio che domina la baia e tramonto sulla Torre del Porto. Cena di pesce in paese e notte a Capraia."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina sul sentiero che sale allo Stagnone, l'unico laghetto naturale dell'arcipelago, tra macchia e vedute sulla Corsica; in alternativa giro dell'isola in barca dal porto per vedere Cala Rossa e le scogliere vulcaniche. Traghetto pomeridiano per Livorno, si riprende l'auto e si scende a Piombino (circa 90 km). Notte a Piombino, vicino al porto."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Pianosa con la gita del Parco: ritrovo alle 7:45, nave alle 8:30 da Piombino, circa 6 ore sull'isola con Guida Parco tra il paese dell'ex colonia penale, la villa romana dei Bagni di Agrippa o un trekking ad anello, sosta bagno a Cala San Giovanni. Rientro a Piombino verso le 19 e traghetto serale con l'auto per Portoferraio (40–60 minuti). Notte a Portoferraio."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: Portoferraio, la città di Napoleone: fortezze medicee, Villa dei Mulini sopra il porto e Villa di San Martino nella campagna. Nel pomeriggio verso l'Elba orientale: Rio nell'Elba e le miniere di ferro, poi Porto Azzurro e cena a Capoliveri, il borgo sul colle con i vicoli lastricati. Notte all'Elba (Portoferraio o Porto Azzurro)."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: Elba occidentale. Mattina a Marciana Alta e salita al Monte Capanne, la vetta dell'isola, a piedi o con la cabinovia, da cui si vedono Corsica, Capraia e Pianosa insieme. Pomeriggio al mare sulla costa sud-ovest, Fetovaia o Cavoli, sabbia chiara e acqua bassa. Rientro passando per Marina di Campo. Notte all'Elba."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: traghetto del mattino Portoferraio–Piombino con l'auto, poi lungo l'Aurelia fino all'Argentario. Auto lasciata a Porto Santo Stefano e Toremar per il Giglio (circa 1 ora). Pomeriggio al Giglio Porto e salita in bus a Giglio Castello, il borgo fortificato sulla cima dell'isola. Notte al Giglio."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: mattina a Campese, la spiaggia più lunga dell'isola con la torre medicea, o un bagno alle Cannelle vicino al porto. Traghetto di metà giornata per Porto Santo Stefano, si riprende l'auto e rientro a Firenze nel pomeriggio, senza autostrade a pagamento se si passa da Grosseto e Siena."
+        }
+      ],
+      "alloggio": "All'Elba gli hotel 3 stelle su Booking partono da circa 74–96 € a notte per due (Marina di Campo, Porto Azzurro, Marciana Marina, Portoferraio, prezzi da 86–112 $), ma in alta stagione un hotel di fascia media difficilmente scende sotto i 100 € la doppia. Per due persone conviene mettere in conto 75–150 € a notte. Dove dormire: Portoferraio per la comodità dei traghetti, Porto Azzurro o Capoliveri per l'Elba orientale. A Capraia e al Giglio l'offerta è piccola: prenotare per primi questi due pernottamenti, poi costruire il resto. Per la notte del giorno 2 basta un hotel vicino al porto di Piombino.",
+      "costiDettaglio": [
+        {
+          "voce": "Traghetto Livorno–Capraia A/R",
+          "testo": "Toremar, circa 27,39 € a tratta a persona (tariffa indicativa), 2h45 di traversata. Auto lasciata a Livorno.",
+          "min": 55,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Gita a Pianosa",
+          "testo": "Pacchetto del Parco da Piombino con traghetto A/R, ingresso all'area protetta e Guida Parco: 65 € (50 € 5–12 anni); trekking con guida GAE e sosta bagno 77 €.",
+          "min": 65,
+          "max": 77,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traghetto Piombino–Portoferraio, passeggero A/R",
+          "testo": "Da 11–13 € a tratta in bassa stagione fino a 15–30 € in estate (Toremar, Moby, Blu Navy).",
+          "min": 24,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traghetto Piombino–Portoferraio, auto A/R",
+          "testo": "Auto da circa 40 € a tratta; in alta stagione auto e passeggeri superano i 100 € a tratta. Prenotare il posto auto in estate.",
+          "min": 80,
+          "max": 140,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traghetto Porto Santo Stefano–Giglio A/R",
+          "testo": "Toremar, da 21 a 36 € a tratta a persona secondo data e anticipo; ad agosto il prezzo medio sale molto.",
+          "min": 42,
+          "max": 72,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "75–150 € a notte per due in B&B o hotel 3 stelle, 6 notti: circa 32–64 € al giorno a persona spalmato sui 7 giorni.",
+          "min": 32,
+          "max": 64,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo veloce o take-away 10–15 €, trattoria 15–30 €, ristorante vista mare 30–50 €: per pranzo e cena circa 30–50 € al giorno a persona.",
+          "min": 30,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Carburante e pedaggi",
+          "testo": "Giro Firenze–Livorno–Piombino–Porto Santo Stefano–Firenze su FI-PI-LI, Aurelia e Siena–Grosseto senza autostrade a pagamento. Tratte verificate: Livorno–Piombino circa 103 km in autostrada (pedaggio 9,00 €) oppure 86–88 km gratuiti sull'Aurelia; Piombino–Grosseto 75,5 km senza pedaggio. Firenze–Livorno e Piombino–Porto Santo Stefano non verificati: il carburante (0,129 €/km) non entra nel totale.",
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggi ai porti",
+          "testo": "Livorno 2 giorni (Capraia): parcheggi del porto da 1,83 € al giorno. Piombino 1 giorno (Pianosa): da 2,72 € al giorno. Porto Santo Stefano 2 giorni (Giglio): circa 10 € al giorno, 10–15 € secondo un forum 2024. Livorno e Piombino sono tariffe «a partire da» (variano con date e struttura).",
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false,
+          "min": 27,
+          "max": 35
+        }
+      ],
+      "ripartizione": "A persona: tutti i biglietti passeggero dei traghetti, la gita a Pianosa, alloggio (camera doppia divisa in due) e pasti. Della vettura, da dividere in due: il passaggio dell'auto sul traghetto per l'Elba, i parcheggi (il carburante non è incluso) ai porti di Livorno e Porto Santo Stefano.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "A Capraia e al Giglio l'auto non serve e d'estate il Comune può vietarla ai non residenti: lasciarla ai porti di Livorno e Porto Santo Stefano. Pianosa è area protetta a numero chiuso, si sbarca solo con visite organizzate."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Le visite del Parco a Pianosa 2026 si prenotano online dal 2 marzo sul portale del Parco e partono solo in alcune date: 26 aprile, domeniche di maggio, weekend di giugno, 5-6, 12-13 e 20 settembre. Fissare prima questa data e costruire l'itinerario attorno."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Livorno–Capraia non parte tutti i giorni (da 3 a 7 giorni a settimana secondo il mese): controllare il calendario Toremar per l'andata e il ritorno. Il mare grosso può cancellare le corse per le isole minori."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "In estate prenotare in anticipo il posto auto sul traghetto per l'Elba e presentarsi all'imbarco almeno un'ora prima; in agosto le tariffe per il Giglio raddoppiano rispetto a giugno."
+        }
+      ],
+      "note": "L'ordine Capraia, Pianosa, Elba, Giglio segue la costa da nord a sud e permette di rientrare da Porto Santo Stefano via Grosseto e Siena senza ripassare da Livorno. Se la data di Pianosa non coincide, c'è un collegamento Aquavision da Marina di Campo (45 minuti, una corsa al giorno) da usare durante i giorni all'Elba, invertendo il giorno 3 con il 5. Sul traghetto per l'Elba può essere vietato tornare in garage durante la traversata: tenere a portata di mano costume e acqua. All'Elba gli autobus sono pochi fuori stagione, ed è proprio questo il motivo per portare l'auto solo qui. Dalla vetta del Capanne, nelle giornate di tramontana, si contano tutte le isole del viaggio: è il momento giusto per salirci, non con la foschia d'agosto. Un caffè costa ancora 1–1,50 €, e le trattorie dell'interno (Marciana, Poggio, Capoliveri) costano meno di quelle sul porto.",
+      "fonti": [
+        "https://www.ferryhopper.com/it/ferry-routes/direct/piombino-portoferraio",
+        "https://www.sicurauto.it/news/attualita-e-curiosita/traghetto-per-lisola-delba-con-lauto-consigli-utili-e-costi/",
+        "https://www.ferryhopper.com/it/ferry-routes/direct/livorno-capraia",
+        "https://siviaggia.it/notizie/tour-guidati-isola-pianosa-toscana-2026/577320/amp/",
+        "https://openferry.com/it/routes/santo-stefano-giglio",
+        "https://www.booking.com/threestars/region/it/elba.html",
+        "https://calcolopercorso.it/it/distanza/Livorno/Piombino",
+        "https://calcolopercorso.it/it/distanza/Piombino/Grosseto",
+        "https://www.parkingmycar.it/parcheggio-porto-livorno",
+        "https://www.parkingmycar.it/parcheggio-porto-piombino",
+        "https://in3giorni.com/faq/come-arrivare-allisola-del-giglio-in-macchina",
+        "https://community.ricksteves.com/travel-forum/italy/long-term-parking-in-porto-santo-stefano"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 42.78,
+        "lon": 10.25
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Elba e Giglio sono ottime con un bimbo di 4 anni (spiagge basse a Fetovaia e Campese), ma le 2h45 di traghetto per Capraia e la lunga giornata a Pianosa (7:45–19:30, sotto il sole) sono pesanti; per Pianosa i bambini 0–4 anni non pagano il trekking."
       }
     },
     {
@@ -31965,6 +33122,237 @@
       }
     },
     {
+      "id": "isole-del-quarnaro-7g",
+      "nome": "Isole del Quarnaro: Krk, Cres, Lussino, Rab e Pag",
+      "sottotitolo": "Croazia, Golfo del Quarnaro: anello in auto e traghetto tra cinque isole, dal ponte di Krk alle saline di Pag",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Auto propria: A1 Firenze–Bologna, A13 e A4 fino a Trieste, poi attraverso la Slovenia (serve la vignetta elettronica, settimanale 16 €) verso Fiume/Rijeka e il ponte di Krk, che è senza pedaggio dal 2020. Tra le isole si passa con i traghetti Jadrolinija e Rapska Plovidba: Valbiska–Merag (Krk–Cres, 25 minuti), Valbiska–Lopar (Krk–Rab, stagionale), Mišnjak–Stinica (Rab–terraferma, 15–20 minuti) e Prizna–Žigljen (terraferma–Pag, 15 minuti).",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Firenze–Trieste 409 km in circa 3h54 di autostrada; poi il tratto sloveno e croato fino a Fiume e al ponte di Krk (l'aeroporto di Rijeka, sull'isola, è a circa 27 km dal centro di Fiume). In pratica una giornata intera di viaggio, soste comprese.",
+      "durataViaggioMinuti": 390,
+      "periodoMiglioreTesto": "Giugno e settembre sono i mesi giusti: mare già caldo, tutte le linee di traghetto attive (la Valbiska–Lopar corre solo da fine maggio a fine settembre) e prezzi degli alloggi più bassi del 20–40 % rispetto al picco. Maggio e ottobre vanno bene per camminare e visitare, meno per il bagno. Luglio e agosto si possono fare ma con code ai traghetti e prezzi al massimo; in inverno molte strutture chiudono e le corse si diradano.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        8,
+        12,
+        1,
+        2
+      ],
+      "costoMin": 567,
+      "costoMax": 1076,
+      "costoNota": "Prezzi in euro (la Croazia usa l'euro). Carburante croato e pedaggi croati sono ora inclusi; il chilometraggio di Rab, Pag, Krk interna e del ritorno via Senj non ha una fonte e il massimo del carburante è una stima. Il prezzo della benzina (1,42–1,43 €/l) è di febbraio 2026. Le tariffe Jadrolinija sono quelle ufficiali 2026; quelle Rapska Plovidba (Rab) e i prezzi di alloggi e pasti sono stime 2026 di guide aggiornate.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Cinque isole collegate da un ponte e quattro traghetti brevi: ognuna ha un capoluogo da girare a piedi in mezza giornata e uno o due luoghi fuori città (Vrbnik e Baška su Krk, Lubenice e Osor su Cres, Veli Lošinj, Lopar su Rab, le saline e Novalja su Pag). Con sette giorni si dorme in tre basi (Krk, Lussino, Rab o Pag), si passa un traghetto al giorno al massimo e resta tempo per il bagno. In meno giorni si salta un'isola; in più si comincia a ripetere.",
+      "cosaVedere": [
+        "Krk città e Vrbnik: le mura e la cattedrale romanica di Krk (ingresso libero, campanile 2–3 €), poi Vrbnik arroccato su uno sperone a picco sul mare, patria del bianco Žlahtina.",
+        "Baška e la Tavoletta di Baška: la spiaggia lunga di ghiaia sotto le montagne brulle e la chiesetta di Santa Lucia a Jurandvor, dove sta la copia della lapide glagolitica (3–5 €).",
+        "Lubenice e Osor su Cres: un borgo di pietra su una rupe alta sul mare, con la spiaggia di San Ivan raggiungibile solo a piedi o in barca; Osor è la cittadina medievale sul canale che separa Cres da Lussino.",
+        "Mali e Veli Lošinj: il porto lungo e i palazzi dei capitani a Mali Lošinj, il Museo dell'Apoxyomenos (10–15 €) costruito attorno a una sola statua bronzea greca ripescata in mare, e la passeggiata costiera fino al porticciolo di Veli Lošinj.",
+        "Rab città: i quattro campanili allineati sulla penisola della città vecchia, da vedere dal mare o dal sentiero del parco Komrčar; a nord, le spiagge di sabbia di Lopar.",
+        "Pag: il paesaggio lunare di pietra bianca, le saline accanto a Pag città, il formaggio paški sir e il merletto di Pag; a nord Novalja e la spiaggia di Zrće."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza presto da Firenze, A1–A13–A4 fino a Trieste (409 km, circa 4 ore), vignetta slovena già acquistata online, poi Fiume e il ponte di Krk. Base a Krk città o Malinska; passeggiata serale sulle mura di Krk e cena in konoba."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Krk. Mattina a Vrbnik (vicoli, terrazza sul mare, degustazione di Žlahtina), poi Baška: bagno nella baia e visita della chiesa di Santa Lucia a Jurandvor con la Tavoletta di Baška. Rientro a Krk città per il castello dei Frankopan (5–7 €)."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: traghetto Valbiska–Merag (25 minuti, 20,70 € l'auto). Su Cres salita a Lubenice e, se si hanno gambe, discesa alla spiaggia di San Ivan (sentiero ripido, la risalita è faticosa). Pomeriggio a Osor, sul ponte girevole del canale, e arrivo a Mali Lošinj per la notte."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: Lussino senza auto. Museo dell'Apoxyomenos al mattino, poi la passeggiata lungo costa da Mali a Veli Lošinj tra pini e baie, pranzo sul porticciolo di Veli e bagno a Čikat al pomeriggio."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: risalita di Cres con sosta a Cres città (porto veneziano, loggia), traghetto Merag–Valbiska e, in stagione, traghetto Valbiska–Lopar per Rab (circa 1h45). Sera nella città vecchia di Rab. Fuori stagione la linea per Lopar non corre: si attraversa il ponte e si scende lungo la costa fino a Stinica."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: mattina a Rab città con salita ai campanili, poi traghetto Mišnjak–Stinica e breve tratto di costa fino a Prizna per il traghetto su Pag (15 minuti). Pomeriggio tra le saline e Pag città, sera a Novalja o nel capoluogo con formaggio paški sir e agnello."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: rientro. Traghetto Žigljen–Prizna, poi la costiera verso Senj e Fiume e da lì Slovenia, Trieste e Firenze. È la giornata di guida più lunga: partire col primo traghetto utile e mettere in conto 8 ore o più."
+        }
+      ],
+      "alloggio": "Su Krk un appartamento medio costa 70–150 € a notte a giugno e settembre e 120–180 € a luglio e agosto; un 3 stelle 90–180 €; stanze e appartamenti semplici (sobe) 40–70 € in mezza stagione. A Lussino gli appartamenti economici partono da 60–80 € in mezza stagione (spesso 100 € in agosto) e un 3 stelle a Mali o Veli Lošinj costa 120–160 €. Dormire a Krk città o Malinska (2 notti), Mali Lošinj (2 notti), Rab città (1 notte) e Pag o Novalja (1 notte). Nel conto: 60–160 € a notte per due, 6 notti.",
+      "costiDettaglio": [
+        {
+          "voce": "Pedaggi italiani A/R",
+          "testo": "Firenze–Trieste 32,10 € a tratta, quindi 64,20 € andata e ritorno (A1 Firenze–Bologna compresa).",
+          "min": 64,
+          "max": 64,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante Firenze–Trieste A/R",
+          "testo": "818 km a 0,129 €/km (benzina 1,98 €/l, 6,5 l/100 km): circa 106 €.",
+          "min": 106,
+          "max": 106,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante Trieste–Krk e tra le isole",
+          "testo": "Benzina in Croazia 1,42–1,43 €/l (nafta.hr, febbraio 2026; il dato di novembre non è verificato), a 6,5 l/100 km sono circa 0,093 €/km. Chilometraggio verificato: Trieste–Krk 122 km (rome2rio), Merag–Mali Lošinj 66 km (imediteran), da contare due volte (andata e ritorno su Cres), più il rientro Krk–Trieste (122 km): 376 km, circa 35 €. Il massimo (56 €) è una stima per circa 600 km totali con Rab, Pag e le strade interne di Krk e Cres, tratti di cui non ho una distanza con fonte.",
+          "min": 35,
+          "max": 56,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Vignetta Slovenia",
+          "testo": "E-vignetta settimanale classe 2A 16 €: copre esattamente i 7 giorni consecutivi del viaggio.",
+          "min": 16,
+          "max": 16,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi croati",
+          "testo": "Autostrada A7 Rupa–Rijeka 1,10 € a tratta per l'auto (fuel-prices.eu, controllata a novembre 2026), quindi circa 2,20 € tra andata e ritorno; il ritorno da Pag via Senj usa strade statali. Il ponte di Krk è gratuito dal 15 giugno 2020. Le tariffe ufficiali HAC (hac.hr) non sono state lette direttamente.",
+          "min": 2,
+          "max": 2,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traghetto auto Valbiska–Merag A/R",
+          "testo": "20,70 € a tratta per un'auto fino a 5 m, tariffa Jadrolinija 2026 uguale tutto l'anno.",
+          "min": 41,
+          "max": 41,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traghetto auto Valbiska–Lopar",
+          "testo": "20,40 € in bassa stagione, 33,30 € dal 29 maggio al 27 settembre 2026 (auto fino a 5 m).",
+          "min": 20,
+          "max": 33,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traghetto auto Mišnjak–Stinica",
+          "testo": "Circa 18–22 € per un'auto standard (stima 2026 Rapska Plovidba).",
+          "min": 18,
+          "max": 22,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traghetto auto Prizna–Žigljen A/R",
+          "testo": "12,20 € a tratta in bassa stagione, 18,10 € in alta (29.05–27.09): 24–36 € andata e ritorno.",
+          "min": 24,
+          "max": 36,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traghetti, biglietti passeggero",
+          "testo": "Valbiska–Merag circa 4,40 € a tratta (×2), Valbiska–Lopar 4,80–6,20 €, Mišnjak–Stinica 3,50–4 €, Prizna–Žigljen 2,50–4,30 € a tratta (×2).",
+          "min": 22,
+          "max": 28,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "60–160 € a notte per due in appartamento o 3 stelle; 6 notti ripartite sui 7 giorni, a persona.",
+          "min": 26,
+          "max": 69,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo marenda o pizzeria 8–15 €, cena in konoba 18–35 € a persona (bevande escluse).",
+          "min": 26,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Museo dell'Apoxyomenos 10–15 €, castello dei Frankopan a Krk 5–7 €, chiesa della Tavoletta di Baška 3–5 €.",
+          "min": 18,
+          "max": 27,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Sono della vettura, e quindi divisi per due, carburante, pedaggi italiani, vignetta slovena e i biglietti auto dei traghetti. Sono a persona i biglietti passeggero dei traghetti (Jadrolinija li fa pagare a parte rispetto all'auto), alloggio, pasti e ingressi.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Isole raggiungibili solo in traghetto (tranne Krk, col ponte, e Pag, col ponte a sud): in luglio e agosto conviene essere all'imbarco almeno un'ora prima, e le code al confine sloveno-croato nei weekend estivi sono lunghe."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La linea Valbiska–Lopar (Krk–Rab) è stagionale, circa da fine maggio a fine settembre; fuori stagione Rab si raggiunge solo da Stinica e le corse delle altre linee si diradano a 4–6 al giorno in inverno."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Vignetta slovena elettronica da comprare online prima del confine (si può fissare l'inizio fino a 30 giorni dopo l'acquisto). Gli alloggi di Lussino e Rab in alta stagione vanno prenotati con anticipo."
+        }
+      ],
+      "note": "Fate il giro in questo verso (Krk, Cres-Lussino, Rab, Pag) e non al contrario: la Valbiska–Lopar dura quasi due ore e ha poche partenze, meglio prenderla quando non c'è fretta. Su Cres la strada è stretta e in cresta: guidate di giorno e attenzione alle pecore. A Lubenice si parcheggia sotto il borgo e si entra a piedi; la discesa alla spiaggia di San Ivan è ripida e senza ombra, servono scarpe chiuse e acqua. A Pag comprate il formaggio direttamente in caseificio, costa meno che sul lungomare. Il ponte di Krk è gratuito ma nei sabati di luglio e agosto si intasa: partire presto.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Trieste/",
+        "https://www.sicurauto.it/news/codice-della-strada/vignetta-slovenia-2026-proroga-costi-validita-e-multa/",
+        "https://www.jadrolinija.hr/hr/putovanje/valbiska_krk_-_merag_cres",
+        "https://www.jadrolinija.hr/download/5654f58094b9dae6edf30d60ab644891",
+        "https://www.jadrolinija.hr/download/215ccb6d596679819c4920191e648122",
+        "https://www.jadrolinija.hr/download/b65b8c092fb6807891140d4d195acf82",
+        "https://bookiscout.com/hr/guides/krk-ferry-connections",
+        "https://bookiscout.com/hr/guides/rab-ferry-connections",
+        "https://bookiscout.com/en/guides/krk-prices",
+        "https://bookiscout.com/en/guides/krk-cost-guide",
+        "https://bookiscout.com/guides/losinj-cost-guide",
+        "https://bookiscout.com/guides/rijeka-prices",
+        "https://nafta.hr/nove-cijene-goriva-u-hrvatskoj-za-ovaj-tjedan-03-02-2026/",
+        "https://www.fuel-prices.eu/tolls/croatia/",
+        "https://avtokampi.si/novice/otok-krk-brez-placila-mostine",
+        "https://www.rome2rio.com/s/Trieste/Krk",
+        "https://www.imediteran.com/en/arrival-on-island-losinj"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 44.95,
+        "lon": 14.6
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Traghetti brevi, spiagge di ghiaia e sabbia (Lopar, Baška) e cittadine pedonali vanno bene a 4 anni; pesano il primo e l'ultimo giorno di auto e la discesa a San Ivan, da saltare."
+      }
+    },
+    {
       "id": "isole-della-dalmazia-hvar-brac-korcula-e-vis-7g",
       "nome": "Isole della Dalmazia: Hvar, Brač, Korčula e Vis",
       "sottotitolo": "Croazia, Dalmazia centrale: quattro isole dell'arcipelago di Spalato girate in catamarano, dalla Grotta Azzurra di Biševo alla Korčula murata",
@@ -34977,6 +36365,192 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Lago in barca, Perast e il Lago Nero vanno benissimo a 4 anni; i 1.350 gradini della fortezza e la scalinata del mausoleo no, e le giornate con 3 ore di tornanti vanno spezzate."
+      }
+    },
+    {
+      "id": "nord-della-francia-7g",
+      "nome": "Nord della Francia: Lilla, Amiens, Arras e la Baia della Somme",
+      "sottotitolo": "Hauts-de-France, città fiamminghe, gotico piccardo, memoria della Grande Guerra e la baia delle foche",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Tram T2 fino a Peretola, volo diretto Air France Firenze–Parigi Charles de Gaulle (tutti i giorni, circa 1h50) e dalla stazione TGV dell'aeroporto un TGV INOUI diretto per Lille-Europe (49–51 minuti, una quindicina di corse al giorno): non serve passare dal centro di Parigi. Da Pisa non esistono voli diretti per Lilla (solo con scalo, ad esempio a Tolosa, da 170 € A/R in su), quindi Parigi resta la porta d'ingresso più comoda. Sul posto ci si muove con i TER regionali tra Lilla, Arras e Amiens; l'auto a noleggio serve al massimo per il giorno sulla Baia della Somme.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 1h50 di volo Firenze–Parigi CDG più 50 minuti di TGV CDG–Lille-Europe; con tram, controlli e coincidenza circa 5h30 porta a porta.",
+      "durataViaggioMinuti": 330,
+      "periodoMiglioreTesto": "Da aprile a ottobre: è la stagione in cui le barche degli Hortillonnages di Amiens escono tutti i giorni e le giornate sono lunghe per la baia. Luglio è anche il mese in cui gli hotel di Lilla costano meno; marzo il più caro. Gennaio da evitare: la Carrière Wellington di Arras chiude per circa tre settimane e il clima è grigio.",
+      "mesi": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1
+      ],
+      "costoMin": 659,
+      "costoMax": 1220,
+      "costoNota": "Totale con TER Lilla–Arras e Lilla–Amiens (tariffe da 2–7 € in anticipo fino alla media di 13–26 € a tratta, rilevate su SNCF Connect e Omio). Restano fuori dal totale, perché non verificati: il tratto TER Amiens–Abbeville/Noyelles-sur-Mer A/R, l'ingresso del Palais des Beaux-Arts di Lilla e l'eventuale noleggio auto per la Baia della Somme (aggiungere un margine). Hortillonnages e Wellington sono verificati. L'alloggio è calcolato su 6 notti spalmate su 7 giorni con le fasce degli hotel 3 stelle di Lilla, usate anche per Amiens.",
+      "dipendenzaAuto": "auto-opzionale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Sono quattro tappe vere, non quattro foto: Lilla da sola chiede due giorni pieni tra Vieux-Lille, Grand'Place e i musei; Arras merita un giorno intero per le due piazze fiamminghe, le Boves sotto il municipio e la Carrière Wellington; Amiens ne vuole un altro tra la cattedrale più grande di Francia e gli Hortillonnages in barca. La Baia della Somme è un giorno a parte, con i suoi orari di marea. Con due basi (Lilla e Amiens) si cambia albergo una sola volta e i trasferimenti sono brevi, così una settimana basta senza correre.",
+      "cosaVedere": [
+        "Vieux-Lille e la Grand'Place: case fiamminghe in mattoni e pietra, la Vieille Bourse con i librai sotto i portici e le vie di negozi del Seicento.",
+        "Palais des Beaux-Arts di Lilla: una delle collezioni più ricche di Francia fuori Parigi, con i plastici in rilievo delle piazzeforti di Vauban nel sotterraneo.",
+        "Arras: la Grand'Place e la Place des Héros, due piazze barocche quasi intatte, il beffroi patrimonio UNESCO e le Boves, le cave scavate sotto la città.",
+        "Carrière Wellington ad Arras: le gallerie sotterranee dove nel 1917 si nascosero migliaia di soldati del Commonwealth prima dell'offensiva, visitate con guida a 11 °C.",
+        "Cattedrale di Notre-Dame di Amiens: il più vasto edificio gotico di Francia, con il portale occidentale scolpito e il labirinto sul pavimento della navata.",
+        "Hortillonnages di Amiens: orti galleggianti su canali in piena città, da girare in barca a fondo piatto per 45 minuti.",
+        "Baia della Somme: estuario di sabbia e prati salmastri tra Saint-Valery-sur-Somme e Le Crotoy, con le foche sui banchi a bassa marea."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: tram T2 per Peretola, volo diretto Air France su Parigi CDG e TGV dalla stazione dell'aeroporto fino a Lille-Europe in 50 minuti. Lasciati i bagagli, primo giro serale tra Grand'Place, Place du Théâtre e il cortile della Vieille Bourse, poi cena in un estaminet del Vieux-Lille con carbonnade flamande e birra locale."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina al Palais des Beaux-Arts (contare almeno tre ore, la sezione dei plastici di Vauban nel seminterrato è il pezzo che manca negli altri musei). Pomeriggio a piedi nel Vieux-Lille: rue de la Monnaie, l'Hospice Comtesse, la cattedrale della Treille con la facciata moderna, fino alla Citadelle e al parco lungo la Deûle."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: gita in giornata ad Arras con il TER regionale. Mattina sulle due piazze fiamminghe e salita al beffroi del municipio, poi la discesa nelle Boves sotto la Place des Héros. Nel pomeriggio la Carrière Wellington, a piedi dal centro: visita guidata di un'ora con 17 persone al massimo, meglio prenotata. Rientro a Lilla per cena."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: cambio di base. TER da Lilla ad Amiens, valigie in albergo vicino alla stazione o nel quartiere Saint-Leu. Pomeriggio dedicato alla cattedrale di Notre-Dame: facciata, navata, il labirinto e le sculture policrome delle stalli del coro. Sera nel quartiere Saint-Leu, tra canali e vecchie case basse, dove si concentrano i locali lungo il quai Bélu."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: mattina agli Hortillonnages, imbarco al 54 boulevard Beauvillé (a una ventina di minuti a piedi dal centro): 45 minuti in barca, un'ora e un quarto in tutto. Pomeriggio alla Maison de Jules Verne, che ad Amiens visse e fu consigliere comunale, o al Musée de Picardie, poi passeggiata lungo la Somme e il parco della Hotoie."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: Baia della Somme. Treno per Abbeville o Noyelles-sur-Mer e da lì Saint-Valery-sur-Somme, con la città alta murata, il quartiere dei pescatori e la passeggiata sulla diga verso il faro; chi preferisce l'autonomia noleggia un'auto per la giornata e aggiunge Le Crotoy e la punta di Le Hourdel, dove a bassa marea si vedono le foche. Controllare la tabella delle maree prima di partire. Rientro ad Amiens."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: ultima mattina ad Amiens (mercato o di nuovo la cattedrale con la luce del mattino), poi TER per Lilla e TGV da Lille-Europe a Parigi CDG per il volo serale su Firenze. Tenere almeno due ore e mezza di margine tra l'arrivo del TGV e il volo."
+        }
+      ],
+      "alloggio": "A Lilla un hotel 3 stelle costa 53–133 € a notte per la camera (media 85 €); i 2 stelle stanno intorno ai 63 €. I mesi più cari sono marzo e i periodi di fiere, il più economico luglio. Dormire nel Vieux-Lille o tra Grand'Place e la stazione Lille-Flandres: tutto a piedi, ma gli alberghi attaccati alle due stazioni sono mediamente più cari. Ad Amiens conviene la zona tra la stazione e il quartiere Saint-Leu, a pochi passi dalla cattedrale; per l'alloggio di Amiens sono state usate le stesse fasce di Lilla. Nella Baia della Somme si può fare una notte a Saint-Valery al posto dell'ultima ad Amiens, se si va in auto.",
+      "costiDettaglio": [
+        {
+          "voce": "Tram T2 per Peretola A/R",
+          "testo": "3,40 € A/R a persona (parametro del documento).",
+          "min": 3.4,
+          "max": 3.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Firenze–Parigi CDG A/R",
+          "testo": "Air France diretto, circa 1h50, tutti i giorni: 119 € A/R come minimo rilevato, di solito 134–214 €; novembre è il mese più economico (media 161 €).",
+          "min": 119,
+          "max": 214,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "TGV Parigi CDG–Lille-Europe A/R",
+          "testo": "Da 15 € a tratta comprando presto, media intorno ai 42–49 €: 30–98 € A/R. Diretto, 49–51 minuti, circa 14–16 treni al giorno.",
+          "min": 30,
+          "max": 98,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treni regionali TER interni",
+          "testo": "Lilla–Arras A/R 6–26 € (da 2–3 € a tratta, media 13 €); Lilla→Amiens e Amiens→Lilla 7–26 € a tratta (media circa 26 €), cioè 14–52 € per le due corse. Totale 20–78 € a persona. Non incluso: Amiens–Abbeville/Noyelles-sur-Mer A/R, per cui non ho trovato una tariffa diretta (Noyelles–Lilla è 19–34 €).",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false,
+          "min": 20,
+          "max": 78
+        },
+        {
+          "voce": "Carrière Wellington (Arras)",
+          "testo": "Tariffa unica 10,20 €, 7,20 € con il Lille City Pass; visita guidata di un'ora.",
+          "min": 10.2,
+          "max": 10.2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Hortillonnages in barca (Amiens)",
+          "testo": "11 € adulti, 7 € bambini 3–10 anni, gratis sotto i 3; solo da aprile a ottobre (0 € fuori stagione, perché non si fa).",
+          "min": 0,
+          "max": 11,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "53–133 € a notte per la camera in hotel 3 stelle (fasce di Lilla), cioè 26,50–66,50 € a persona: 6 notti su 7 giorni fanno 23–57 € a persona al giorno.",
+          "min": 23,
+          "max": 57,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo in ristorante 12–25 € (media 16 €) e cena di tre portate intorno ai 33 €: 45–58 € a persona al giorno.",
+          "min": 45,
+          "max": 58,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona: il viaggio si fa senza auto, quindi non ci sono costi di vettura da dividere. L'alloggio è la metà del prezzo della camera doppia. Un eventuale noleggio auto per la Baia della Somme andrebbe diviso per due ed è escluso dal totale.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Lilla, Arras e Amiens si girano a piedi dalle stazioni; l'imbarcadero degli Hortillonnages è a una ventina di minuti a piedi dal centro di Amiens, con parcheggio in strada gratuito ma scarso. Per la Baia della Somme senza auto si dipende dagli orari dei treni regionali."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Carrière Wellington aperta tutti i giorni 10–12.30 e 13.30–18, chiusa il 25 dicembre, il 1° gennaio e dal 3 al 21 gennaio. Le barche degli Hortillonnages partono solo da aprile a ottobre, con pausa a pranzo e stop in caso di temporale."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Hortillonnages prenotabili solo online: in alta stagione 3–4 giorni prima. Alla Carrière Wellington le visite sono a gruppi di 17 persone al massimo, meglio prenotare soprattutto nel weekend. Il TGV da CDG costa molto meno comprato in anticipo."
+        }
+      ],
+      "note": "Il Lille City Pass vale anche fuori città: con il pass la Carrière Wellington di Arras scende da 10,20 a 7,20 €, quindi conviene comprarlo se si fanno i musei di Lilla e Arras negli stessi giorni. Nella Carrière la temperatura è di 11 °C tutto l'anno con l'80 % di umidità: portare un maglione anche ad agosto. Agli Hortillonnages i posti migliori sono sulle prime barche del mattino, quando l'acqua è ferma e i canali sono silenziosi; la pioggia normale non ferma le partenze. Per il ritorno, il TGV ferma direttamente sotto il Terminal 2 di Charles de Gaulle: niente RER né cambi a Parigi. Volendo allungare, da Lilla Bruxelles e Gand sono vicine, ma rompono il ritmo della settimana: meglio tenerle per un altro viaggio.",
+      "fonti": [
+        "https://www.momondo.it/volo/firenze/aeroporto-di-parigi-charles-de-gaulle-cdg",
+        "https://www.momondo.it/volo/lilla/pisa",
+        "https://www.omio.fr/trains/aeroport-paris-charles-de-gaulle/gare-de-lille-europe-lmixi",
+        "https://www.combien-coute.net/hotel3/france/lille/",
+        "https://www.combien-coute.net/restaurant/france/lille/",
+        "https://www.momondo.fr/hotel/lille",
+        "https://www.citypass.lillemetropole.fr/en/48-carriere-wellington",
+        "https://www.explorearras.com/fr/visiter/carriere-wellington.html",
+        "https://www.leshortillonnages-amiens.com/visite-guidee-en-barque/tarifs/",
+        "https://www.lecrin-spa-amiens.fr/idees-sejour/hortillonnages-amiens-tarifs-horaires",
+        "https://en.wikipedia.org/wiki/Amiens_station",
+        "https://www.sncf-connect.com/fr-be/train/trajet/arras/lille",
+        "https://www.omio.fr/trains/lille/arras",
+        "https://www.sncf-connect.com/train/trajet/lille/amiens",
+        "https://www.omio.fr/trains/lille/amiens",
+        "https://www.omio.fr/trains/noyelles-sur-mer/lille-1qxpf"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 50.6292,
+        "lon": 3.0573
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni la barca degli Hortillonnages (7 €, giubbotto obbligatorio) e la baia con le foche funzionano, ma musei e una giornata intera di gallerie e cattedrali sono pesanti: alleggerire Lilla e Arras."
       }
     },
     {
@@ -42211,6 +43785,472 @@
       }
     },
     {
+      "id": "argentina-del-nord-ovest-14g",
+      "nome": "Argentina del Nord-Ovest e Mendoza: Salta, Jujuy, Córdoba e Mendoza",
+      "sottotitolo": "Argentina, le quebradas colorate delle Ande, il sale delle Salinas Grandes, i vigneti di Cafayate e Mendoza e la Córdoba dei gesuiti",
+      "durataGiorni": 14,
+      "mezzoConsigliato": "Volo con uno scalo da Firenze Peretola (FLR) a Buenos Aires Ezeiza (EZE): Delta, Lufthansa, ITA Airways, KLM, Aerolíneas Argentinas, British Airways, Air France o Iberia, con cambio in Europa o negli USA. A Peretola si arriva col tram T2. In Argentina si vola, perché le distanze sono enormi: Aeroparque–Salta, Salta–Mendoza e Córdoba–Aeroparque sono diretti JetSmart, Mendoza–Córdoba diretto Aerolíneas Argentinas. A Salta si noleggia un'auto per sette giorni per Jujuy e Cafayate; a Mendoza e Córdoba bastano piedi, taxi ed escursioni organizzate.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 17h30 di volo con uno scalo fino a Buenos Aires, poi il trasferimento da Ezeiza ad Aeroparque e circa 2 ore di volo fino a Salta: una giornata intera, sulle 24 ore porta a porta.",
+      "durataViaggioMinuti": 1440,
+      "periodoMiglioreTesto": "Aprile-maggio e settembre-novembre: nel Nord-Ovest è stagione secca, le giornate sono tiepide e le strade di montagna sono percorribili, mentre a Mendoza è autunno con le vigne rosse oppure primavera. Da evitare gennaio e febbraio, che sono la stagione delle piogge estive sulla Quebrada: frane e guadi possono chiudere le strade per Humahuaca e il Hornocal. Giugno-agosto resta possibile, ma in quota le notti sono gelide.",
+      "mesi": [
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 1693,
+      "costoMax": 2664,
+      "costoNota": "Prezzi in dollari convertiti a 1 $ ≈ 0,86 €, pesos argentini a circa 1.400 per dollaro (1 € ≈ 1.630 ARS), voli interni in pesos cileni (comparatore impostato sul Cile) a 1 € ≈ 1.100 CLP. Il totale comprende l'ingresso del MAAM (≈10 €). Non sono compresi, perché senza fonte verificata: carburante (circa 0,08–0,09 €/km, chilometri non verificati), trasferimento Ezeiza–Aeroparque, gli altri ingressi del Nord-Ovest e le degustazioni a Mendoza. Il peso argentino è molto instabile: i prezzi locali vanno ricontrollati prima di partire. L'app conta alloggio e pasti su 14 giorni, ma le notti effettive in hotel sono 12.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il Nord-Ovest da solo chiede una settimana: da Salta a Purmamarca, Tilcara e Humahuaca ci sono giornate intere di strada di montagna, le Salinas Grandes stanno oltre la Cuesta de Lipán e Cafayate è dall'altra parte, in fondo alla Quebrada de las Conchas. Ogni tappa ha 2-3 cose che valgono una sosta lunga, e la quota obbliga a salire per gradi. Mendoza (bodegas, Valle de Uco, alta montagna dell'Aconcagua) chiede tre giorni pieni e Córdoba uno. Con i quattro voli interni, 14 giorni sono il minimo per vedere tutto senza correre; con meno si deve tagliare Córdoba o Cafayate.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: tram T2 per Peretola e volo serale con uno scalo verso Buenos Aires Ezeiza; notte in volo."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: arrivo a Ezeiza al mattino, trasferimento ad Aeroparque (calcolare almeno un'ora di strada) e volo diretto di circa 2 ore per Salta. Prima sera tranquilla in Plaza 9 de Julio, tra la cattedrale e il Cabildo, con le prime empanadas salteñas."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Salta. Al mattino il MAAM, il museo d'alta montagna con i bambini inca del Llullaillaco, poi la chiesa di San Francisco con il campanile rosso e oro e la teleferica al Cerro San Bernardo per vedere la città dall'alto. Nel pomeriggio si ritira l'auto a noleggio."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: da Salta a Purmamarca per la via bassa, passando da San Salvador de Jujuy (si sale di quota per gradi). Nel pomeriggio il Paseo de los Colorados, il sentiero ad anello tra le rocce rosse sotto il Cerro de los Siete Colores, che al tramonto si accendono. Notte a Purmamarca."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: Salinas Grandes salendo i tornanti della Cuesta de Lipán: la distesa bianca abbagliante, con le vasche dove si estrae il sale. Chi regge bene la quota può fare un anello più lungo verso San Antonio de los Cobres e la Quebrada del Toro, la strada del Tren a las Nubes, che passa per l'Abra de Potrerillos a 4.170 m. Rientro a Purmamarca."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: risalita della Quebrada de Humahuaca, patrimonio UNESCO: Maimará e la Paleta del Pintor, il Pucará de Tilcara (fortezza preincaica ricostruita), il monolito del Tropico del Capricorno a Huacalera e la chiesetta di Uquía. Notte a Tilcara o Humahuaca."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: al mattino la Serranía del Hornocal sopra Humahuaca, la montagna dei 14 colori, che col sole basso del pomeriggio è al suo meglio: si può spostare la visita al pomeriggio e fare prima il centro di Humahuaca. Poi si torna verso Salta lungo la Quebrada; notte a Salta."
+        },
+        {
+          "giorno": 8,
+          "testo": "Giorno 8: da Salta a Cafayate attraverso la Quebrada de las Conchas: El Sapo, El Fraile, Los Castillos, El Obelisco e le due gole da percorrere a piedi, la Garganta del Diablo e l'Anfiteatro, dove l'eco è perfetta. Notte a Cafayate."
+        },
+        {
+          "giorno": 9,
+          "testo": "Giorno 9: Cafayate e le sue bodegas di Torrontés, il bianco aromatico dei Valles Calchaquíes; nel pomeriggio rientro a Salta per la Quebrada, con la luce opposta rispetto all'andata. Riconsegna dell'auto la sera."
+        },
+        {
+          "giorno": 10,
+          "testo": "Giorno 10: volo diretto Salta–Mendoza. Pomeriggio in città: Plaza Independencia, il Parque General San Martín e una cena lunga, che a Mendoza comincia dopo le nove."
+        },
+        {
+          "giorno": 11,
+          "testo": "Giorno 11: bodegas di Luján de Cuyo e Maipú, la culla del Malbec. Conviene un tour con autista o una bici a noleggio a Maipú, così si degusta senza dover guidare."
+        },
+        {
+          "giorno": 12,
+          "testo": "Giorno 12: escursione di alta montagna lungo la strada per il Cile: il Potrerillos, Uspallata, il Puente del Inca e il belvedere sull'Aconcagua (6.961 m). In alternativa una giornata nel Valle de Uco, tra vigneti d'autore e le Ande innevate sullo sfondo."
+        },
+        {
+          "giorno": 13,
+          "testo": "Giorno 13: volo diretto Mendoza–Córdoba. Pomeriggio alla Manzana Jesuítica (patrimonio UNESCO): l'università, la chiesa della Compañía di Gesù con la volta a carena di nave e il Colegio de Monserrat, poi il Paseo del Buen Pastor la sera."
+        },
+        {
+          "giorno": 14,
+          "testo": "Giorno 14: mattina in centro a Córdoba (cattedrale e Cabildo), poi volo per Aeroparque, trasferimento a Ezeiza e volo notturno verso l'Europa: si atterra a Firenze la mattina del giorno 15."
+        }
+      ],
+      "alloggio": "Nel Nord-Ovest una camera doppia costa sui 51 $ a notte in un 2 stelle e sui 97 $ in un 3 stelle (dati di dicembre 2025), cioè 44–83 € a camera, 22–42 € a persona. Dormire a Salta nel centro storico intorno a Plaza 9 de Julio; a Purmamarca e Tilcara nelle hosterías di adobe (a Purmamarca si sta sotto il Cerro de los Siete Colores, Tilcara ha più ristoranti); a Cafayate vicino alla piazza, tra le bodegas. A Mendoza la zona più comoda è tra Plaza Independencia e la calle Aristides Villanueva, a Córdoba Nueva Córdoba o il centro accanto alla Manzana Jesuítica. Mendoza tende a costare più di Salta: tenersi verso il massimo della fascia.",
+      "costiDettaglio": [
+        {
+          "voce": "Tram T2 per Peretola",
+          "testo": "3,40 € A/R a persona tra Firenze centro e l'aeroporto.",
+          "min": 3.4,
+          "max": 3.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo A/R Firenze–Buenos Aires",
+          "testo": "1.010–1.519 $ A/R con uno scalo su Expedia (Delta il più economico, poi Lufthansa, ITA Airways, KLM, Aerolíneas Argentinas, British Airways, Air France): circa 870–1.305 €. Gennaio è il mese più economico; circa 17h30 di viaggio.",
+          "min": 870,
+          "max": 1305,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Voli interni (4 tratte)",
+          "testo": "Tariffe minime viste su Skyscanner, tasse incluse: Aeroparque–Salta 25.687 CLP (≈23 €), Salta–Mendoza 26.757 CLP (≈24 €), Mendoza–Córdoba 42.436 CLP (≈39 €), Córdoba–Aeroparque 23.938 CLP (≈22 €). Su Opodo Mendoza–Córdoba con Aerolíneas costa 90–119 €. Su JetSmart il bagaglio in stiva si paga a parte.",
+          "min": 108,
+          "max": 190,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto 7 giorni a Salta",
+          "testo": "33–35 $ al giorno per una utilitaria (VW Gol, Fiat Cronos), 58–80 $ per un SUV su Kayak all'aeroporto di Salta; con 7 giorni da 33 a 58 $ al giorno sono circa 199–349 €.",
+          "min": 199,
+          "max": 349,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Nafta súper YPF a 1.999 pesos/litro a Buenos Aires (La Nación, 30 aprile 2026), gasoil 2.065; al cambio ufficiale di circa 1.400 pesos per dollaro (Banco Nación, 30 aprile 2026) e 0,86 €/$ sono circa 1,23 €/litro, nell'interno di solito un po' di più. Con un'utilitaria da 6,5 l/100 km sono circa 0,08–0,09 €/km, meno del parametro europeo di 0,129 €/km. I chilometri dei circuiti Salta–Cafayate–Humahuaca e Mendoza–Valle de Uco non sono stati verificati con una fonte, quindi la voce non entra nel totale; a Mendoza comunque non serve l'auto.",
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "51–97 $ a notte per una doppia tra 2 e 3 stelle, cioè 44–83 € a camera: 22–42 € a persona.",
+          "min": 22,
+          "max": 42,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 5–10 $, cena di tre portate 20–22 $ (in un ristorante economico si spende sugli 8 $): circa 21–28 € al giorno a persona, colazione in hotel.",
+          "min": 21,
+          "max": 28,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi e degustazioni",
+          "testo": "MAAM di Salta: 16.000 pesos per gli stranieri (≈10 €), aperto martedì-domenica 11–19, chiuso il lunedì: unico importo verificato e unico a entrare nel totale. Pucará de Tilcara, Hornocal, Salinas Grandes e teleferica hanno ingressi in pesos non verificati. Degustazioni a Mendoza: l'unica rilevazione trovata è di giugno 2024 (visita con 4 vini 32.000–41.000 pesos, da influencer) e non è attendibile per il 2026. Trasferimento Ezeiza–Aeroparque: nessun prezzo verificato.",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false,
+          "min": 10,
+          "max": 10
+        },
+        {
+          "voce": "Alternativa: tour guidato del Nord-Ovest",
+          "testo": "10 giorni Salta–Cafayate–Purmamarca–Humahuaca–Iruya con guida e hotel 3 stelle da 2.420 $ a persona (≈2.081 €), voli esclusi: sostituisce l'auto ma copre solo il Nord-Ovest.",
+          "min": 2081,
+          "max": 2081,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "A persona: tram, voli intercontinentali e interni, alloggio (camera doppia divisa per due), pasti, ingressi. Della vettura, da dividere a metà: noleggio dell'auto a Salta e carburante.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Quota: l'Abra de Potrerillos tocca 4.170 m e le Salinas Grandes stanno sopra i 3.400 m. Si sale per gradi (Salta, poi Purmamarca), si mangia leggero e non si beve alcol il giorno della salita. La pista per il Hornocal è sterrata: con un'utilitaria va fatta piano o con un 4x4 locale da Humahuaca."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Nella stagione delle piogge (dicembre-marzo, il picco tra gennaio e febbraio) le frane possono interrompere la Ruta 9 nella Quebrada e la strada della Quebrada de las Conchas: controllare lo stato delle strade la sera prima."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "I voli interni vanno prenotati insieme al volo intercontinentale, con margine tra Ezeiza e Aeroparque, che sono due aeroporti diversi. A Mendoza molte bodegas ricevono solo su prenotazione, soprattutto nel Valle de Uco e durante la Vendimia di marzo."
+        }
+      ],
+      "note": "La Serranía del Hornocal va vista nel primo pomeriggio, quando il sole illumina in pieno le 14 strisce di colore: al mattino è in controluce e sembra grigia. Al Cerro de los Siete Colores vale il contrario, il momento migliore è la prima mattina dal belvedere sopra Purmamarca. Le empanadas salteñas (piccole, con patata e carne tagliata a coltello) sono diverse da quelle di Buenos Aires: le migliori sono nelle peñas di Salta, dove a cena si suona folklore dal vivo. Con un giorno in più si può aggiungere Cachi attraverso la Cuesta del Obispo e il Parque Nacional Los Cardones, rientrando a Cafayate per la Ruta 40. Portare dollari in contanti e informarsi sul cambio del momento: in Argentina può fare una grande differenza sui prezzi locali. Chi non vuole guidare in quota può affidarsi alle escursioni di giornata da Salta (Cafayate, Humahuaca, Salinas Grandes), che però partono all'alba e tornano a sera.",
+      "fonti": [
+        "https://www.expedia.com/lp/voli/flr/eze/firenze-a-buenos-aires",
+        "https://www.espanol.skyscanner.com/rutas/sla/ar/ciudad-de-salta-a-argentina.html",
+        "https://www.espanol.skyscanner.com/rutas/mdz/ar/mendoza-a-argentina.html",
+        "https://www.espanol.skyscanner.com/rutas/cor/ar/cordoba-a-argentina.html",
+        "https://www.opodo.es/vuelos/aerolinea/AR/aerolineas-argentinas/MDZ/mendoza/COR/cordoba/",
+        "https://www.kayak.com/Salta-Gen-Belgrano-Airport-Car-Rentals.SLA.cap.ksp",
+        "https://www.whereandwhen.net/budget/argentina/salta/",
+        "https://nomad.watch/cities/AR/salta/costs",
+        "https://www.tourradar.com/t/248665",
+        "https://www.tourradar.com/t/11050",
+        "https://www.tur.com/en/salta-164/cafayate-humahuaca-salias-grandes-y-cerro-de-los-7-colores-3088",
+        "https://www.lanacion.com.ar/economia/cual-es-el-precio-de-la-nafta-hoy-jueves-30-de-abril-nid30042026/",
+        "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-este-jueves-30-de-abril/",
+        "https://maam.gob.ar/el-museo/"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": -24.79,
+        "lon": -65.41
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni sono pesanti i voli lunghi e i passi sopra i 4.000 m: meglio la via bassa per Purmamarca e niente Abra de Potrerillos. Città, quebradas e vigneti vanno invece bene."
+      }
+    },
+    {
+      "id": "australia-del-nord-14g",
+      "nome": "Australia: Territorio del Nord e Centro Rosso: Darwin, Kakadu, Alice Springs e Uluru",
+      "sottotitolo": "Northern Territory, Australia: dalle zone umide tropicali del Top End al deserto rosso di Uluṟu e Kata Tjuṯa",
+      "durataGiorni": 14,
+      "mezzoConsigliato": "Volo da Bologna (treno Firenze–Bologna A/R 20–50 € e Marconi Express 23,20 € A/R) a Darwin (DRW) con uno scalo: nessun diretto, le tariffe più basse trovate sono Singapore Airlines all'andata e Turkish Airlines al ritorno. In alternativa da Roma Fiumicino con Qatar, Etihad, Singapore o Hainan più Jetstar/Qantas. Sul posto due noleggi auto separati: uno a Darwin per Litchfield e Kakadu, uno ad Alice Springs per West MacDonnell, Kings Canyon e Uluṟu; tra Darwin e Alice Springs si vola con Qantas (circa 2h10) invece di guidare 1.500 km di Stuart Highway.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 24–27 ore di volo con uno scalo tra Darwin e l'Italia (Rome2rio indica 24h06–27h27 su Fiumicino), più treno e navetta per l'aeroporto di Bologna: circa 30 ore porta a porta. Darwin–Alice Springs in volo circa 2h10; in auto sarebbero quasi 14 ore.",
+      "durataViaggioMinuti": 1800,
+      "periodoMiglioreTesto": "Da maggio a settembre: nel Top End è la stagione secca (la tariffa \"dry season\" di Kakadu vale dal 15 maggio al 31 ottobre), le strade e le cascate sono accessibili e i coccodrilli si concentrano nei billabong; nel Centro Rosso sono i mesi più freschi (a luglio medie di 11 °C, minime intorno ai 3 °C, quindi notti fredde). Da evitare dicembre–febbraio: monsone e allagamenti a Kakadu, punte di 36 °C ad Alice Springs.",
+      "mesi": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "mesiDaEvitare": [
+        12,
+        1,
+        2
+      ],
+      "costoMin": 3181,
+      "costoMax": 5171,
+      "costoNota": "Prezzi in dollari australiani, statunitensi e rupie (comparatori) convertiti con 1 AUD ≈ 0,57 €, 1 USD ≈ 0,86 € e circa 103 ₹ per 1 €: verificare il cambio. Alloggio e pasti sono moltiplicati per 14 giorni anche se le notti in Australia sono 11–12: il margine compensa in parte le escursioni guidate (crociera di Yellow Water, tour culturali) che non sono conteggiati. Il carburante è calcolato su circa 1.624 km. Esclusi assicurazione extra del noleggio e ETA (visto elettronico) per l'Australia.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il Territorio del Nord è enorme: Darwin e Alice Springs distano circa 1.500 km, Uluṟu è a quasi un giorno di strada da Alice, e Kakadu da solo copre un'area grande come una regione italiana. Con 14 giorni, togliendo due giorni di volo intercontinentale, restano cinque giorni pieni nel Top End (Darwin, Litchfield, tre giorni a Kakadu) e sei nel Centro Rosso (Alice, West MacDonnell, Kings Canyon, due giorni tra Uluṟu e Kata Tjuṯa). È il minimo per non guidare ogni giorno all'alba e al tramonto: meno giorni obbligano a scegliere tra tropico e deserto, di più servono solo per aggiungere Katherine o l'Arnhem Land.",
+      "cosaVedere": [
+        "Kakadu National Park: arte rupestre aborigena di Ubirr e Burrungkuy (Nourlangie), le zone umide di Yellow Water con coccodrilli e uccelli acquatici, e il Bowali Visitor Centre per capire il paese Bininj/Mungguy.",
+        "Litchfield National Park: cascate e pozze (Florence Falls, Wangi Falls) e i termitai magnetici, a portata di giornata da Darwin.",
+        "Darwin: il lungomare, il mercato serale al tramonto di Mindil Beach in stagione secca e i musei sulla guerra nel Pacifico e sul ciclone Tracy.",
+        "Alice Springs e West MacDonnell Ranges: gole rosse con pozze d'acqua come Simpsons Gap, Standley Chasm, Ellery Creek Big Hole e Ormiston Gorge, lungo la strada che segue il Larapinta Trail.",
+        "Kings Canyon (Watarrka): il Rim Walk sul bordo del canyon, con pareti di arenaria a strapiombo e il Garden of Eden, da fare la mattina presto.",
+        "Uluṟu: l'alba dalla piattaforma Talinguru Nyakunytjaku, il Base Walk intorno al monolito e il Mala Walk guidato dai ranger, che racconta i luoghi sacri Aṉangu.",
+        "Kata Tjuṯa: le cupole rosse a ovest di Uluṟu, con la Valley of the Winds e la Walpa Gorge, spesso più spettacolari del monolito stesso."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: treno Firenze–Bologna e Marconi Express per l'aeroporto, volo con uno scalo (Singapore, Doha, Istanbul o Abu Dhabi secondo la compagnia) verso Darwin. Si passa la notte in volo."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: arrivo a Darwin, giornata leggera per smaltire il fuso orario. Passeggiata sull'Esplanade e al Waterfront, tramonto a Mindil Beach con il mercato serale se è giorno di apertura."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: ritiro dell'auto a noleggio e giornata a Litchfield, il parco più vicino a Darwin: termitai magnetici, Florence Falls, Buley Rockhole e Wangi Falls. Bagno solo dove i cartelli lo permettono. Rientro a Darwin."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: Arnhem Highway verso Kakadu, sosta alle zone umide di Mamukala. Acquisto del pass (online o al Bowali Visitor Centre) e pomeriggio a Ubirr: arte rupestre e tramonto sulla pianura alluvionale dall'alto della roccia. Notte a Jabiru."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: Bowali Visitor Centre al mattino, poi Burrungkuy (Nourlangie) con i dipinti dell'Uomo Fulmine e il sentiero di Nanguluwurr. Tramonto dal Gunwarrdehwarrde lookout. Notte a Jabiru o Cooinda."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: crociera all'alba su Yellow Water a Cooinda (coccodrilli, jabiru, aquile di mare), poi il Warradjan Cultural Centre. Nel pomeriggio, a stagione avanzata, la pozza di Maguk o Gunlom se le piste sono aperte."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: rientro a Darwin in mattinata, riconsegna dell'auto e volo Qantas per Alice Springs (circa 2h10). Notte ad Alice."
+        },
+        {
+          "giorno": 8,
+          "testo": "Giorno 8: Alice Springs: Telegraph Station Historical Reserve, Anzac Hill al tramonto e l'Alice Springs Desert Park per fauna e flora del deserto. Ritiro della seconda auto."
+        },
+        {
+          "giorno": 9,
+          "testo": "Giorno 9: West MacDonnell Ranges: Simpsons Gap, Standley Chasm a mezzogiorno quando il sole illumina le pareti, Ellery Creek Big Hole e Ormiston Gorge con il Ghost Gum Walk. Rientro ad Alice o notte a Glen Helen."
+        },
+        {
+          "giorno": 10,
+          "testo": "Giorno 10: trasferimento verso Kings Canyon lungo la Stuart Highway e la Luritja Road, con soste nei roadhouse. Arrivo nel pomeriggio, tramonto sulle pareti del canyon. Notte a Kings Canyon."
+        },
+        {
+          "giorno": 11,
+          "testo": "Giorno 11: Kings Canyon Rim Walk all'alba (mezza giornata, va iniziato presto per evitare il caldo), poi guida verso Yulara e l'Ayers Rock Resort. Tramonto su Uluṟu dall'area di sosta per auto."
+        },
+        {
+          "giorno": 12,
+          "testo": "Giorno 12: alba su Uluṟu da Talinguru Nyakunytjaku, poi Mala Walk con i ranger e Base Walk intorno al monolito, in piano. Cultural Centre nelle ore calde. Notte a Yulara."
+        },
+        {
+          "giorno": 13,
+          "testo": "Giorno 13: Kata Tjuṯa al mattino: Valley of the Winds fino al secondo belvedere e Walpa Gorge. Nel pomeriggio lunga guida di ritorno ad Alice Springs e riconsegna dell'auto."
+        },
+        {
+          "giorno": 14,
+          "testo": "Giorno 14: volo Alice Springs–Darwin e coincidenza intercontinentale per Bologna (arrivo il giorno successivo). In alternativa si può prenotare il rientro da Ayers Rock (Connellan) con scalo a Sydney o Adelaide, risparmiando la lunga strada del giorno 13."
+        }
+      ],
+      "alloggio": "A Darwin i 3 stelle centrali (Vitina Studios, Nightcap at the Cavenagh, The Heritage, Cullen Bay Resort) partono da circa 6.150–8.800 ₹ a notte sui comparatori, cioè 60–86 € la camera; agosto è il mese più caro, maggio il più economico. Ad Alice Springs i 3 stelle come the greet Hotel, Mantra, Elkira Court e Desert Palms stanno tra 109 e 172 AUD (62–98 €). A Kakadu si dorme a Jabiru o a Cooinda Lodge. A Yulara l'unica scelta è l'Ayers Rock Resort: The Outback Hotel e The Lost Camel circa 350 AUD a notte per due (200 €), Emu Walk Apartments 453 AUD, Sails in the Desert 485 AUD (276 €), date di fine novembre 2026. Prenotare Yulara e Kakadu mesi prima per la stagione secca.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo Bologna–Darwin A/R",
+          "testo": "Da 1.500 € A/R (Singapore Airlines all'andata, Turkish Airlines al ritorno, 1 scalo per tratta); altre ricerche danno circa 229.000 ₹ (≈ 2.230 €); sotto Natale si arriva a 2.762 € con Emirates.",
+          "min": 1500,
+          "max": 2230,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno e Marconi Express per l'aeroporto di Bologna",
+          "testo": "Treno Firenze–Bologna A/R 20–50 € più Marconi Express 23,20 € A/R a persona.",
+          "min": 43.2,
+          "max": 73.2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alternativa: volo da Roma Fiumicino",
+          "testo": "992–1.976 € A/R (Hainan, Aegean, Qatar, Etihad più Jetstar, Virgin Australia o Qantas), quasi tutte le offerte tra 1.250 e 1.600 €. Il treno Firenze–Roma va aggiunto a parte.",
+          "min": 992,
+          "max": 1976,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Darwin–Alice Springs A/R",
+          "testo": "Qantas diretto circa 2h10: da circa 182 € solo andata e 360 € A/R; le tariffe indicate arrivano a 551 €.",
+          "min": 360,
+          "max": 551,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alternativa: treno The Ghan Darwin–Alice Springs",
+          "testo": "Circa 23h40 di viaggio, 1.692–1.707 $ (≈ 1.455–1.470 €): un'esperienza a sé, non un modo per risparmiare. Il Greyhound impiega circa 21 ore.",
+          "min": 1455,
+          "max": 1470,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pass Kakadu National Park",
+          "testo": "40 AUD in stagione secca (15 maggio–31 ottobre), 25 AUD dal 1° novembre al 14 maggio: circa 14–23 €, valido 7 giorni. Per le visite tra 1° luglio e 31 ottobre 2026 si paga la tariffa ridotta.",
+          "min": 14,
+          "max": 23,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pass Uluṟu-Kata Tjuṯa National Park",
+          "testo": "Obbligatorio, da comprare online prima dell'ingresso: 38 AUD a adulto per il pass di 3 giorni (annuale 50 AUD, gratis sotto i 18 anni), circa 22 €. Prezzo riportato da una fonte terza per la stagione 2026; la pagina ufficiale non era consultabile.",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false,
+          "min": 22,
+          "max": 22
+        },
+        {
+          "voce": "Noleggio auto (11 giorni, due noleggi)",
+          "testo": "Compatta 51–57 AUD al giorno, media del mercato 145 AUD al giorno ad Alice Springs: per 11 giorni 561–1.595 AUD, circa 320–909 €. In città costa circa il 3 % in meno che in aeroporto.",
+          "min": 320,
+          "max": 909,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Benzina media di luglio 2026: 1,844 AUD/l a Darwin e 2,540 AUD/l ad Alice Springs (Treasury NT), nei roadhouse spesso di più. Percorsi: Darwin–Kakadu–Darwin circa 500 km (250 km per tratta); Alice Springs–Kings Canyon–Uluṟu–Alice Springs circa 1.124 km (330 + 326 + 468). Totale circa 1.624 km a 6,5 l/100 km, cioè 106 litri: circa 245 AUD, 140 €. Il massimo aggiunge circa il 20 % per Litchfield, West MacDonnell e spostamenti dentro i parchi (stima).",
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false,
+          "min": 140,
+          "max": 170
+        },
+        {
+          "voce": "Ayers Rock Resort (2 notti)",
+          "testo": "The Outback Hotel o The Lost Camel 350 AUD a notte per due, Sails in the Desert 485 AUD: 200–276 € la camera, cioè 200–276 € a persona per due notti.",
+          "min": 200,
+          "max": 276,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "3 stelle a Darwin 60–86 € a notte, ad Alice Springs 109–172 AUD (62–98 €): 30–49 € a persona a notte in camera doppia.",
+          "min": 30,
+          "max": 49,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Un pasto in un locale medio circa 16 $ (≈ 14 €) a persona; con colazione e due pasti, più cari nei roadhouse e a Yulara, 28–55 € a persona al giorno.",
+          "min": 28,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "La voce di vettura è il noleggio dell'auto (più carburante, non conteggiato), da dividere in due. Tutto il resto è a persona: voli, navette, pass dei parchi, pasti e la propria metà della camera.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Senza auto il Top End e il Centro Rosso si vedono solo con tour organizzati: le distanze sono enormi e i mezzi pubblici quasi assenti. Alcune piste di Kakadu (come quelle per le cascate più remote) sono solo per 4x4 e restano chiuse fino a stagione secca avanzata: verificare le condizioni sul sito del parco."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "A Kakadu la stagione delle piogge va dal 1° novembre al 14 maggio: allagamenti e strade chiuse rendono inaccessibili molti siti. Uluṟu è aperto tutto l'anno, ma da ottobre a marzo il caldo rende i sentieri faticosi nelle ore centrali."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Pass di Kakadu (7 giorni) e di Uluṟu vanno acquistati prima dell'ingresso, online sul sito di Parks Australia oppure, per Kakadu, a Bowali, Cooinda Lodge, Humpty Doo o Katherine. A Yulara c'è solo l'Ayers Rock Resort: in stagione secca si riempie con mesi di anticipo."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per l'Australia serve un'autorizzazione elettronica di viaggio da richiedere prima della partenza; il noleggio auto conviene prenotarlo in anticipo, perché ad Alice Springs la flotta è limitata."
+        }
+      ],
+      "note": "Il Centro Rosso inganna: di giorno a luglio si sta in maglietta, ma all'alba su Uluṟu si scende verso i 3 °C, quindi servono pile e berretto per le albe. Le cascate del Top End sono più piene a maggio–giugno, mentre a settembre sono più basse ma tutte le piste sono aperte. Nei fiumi e nei billabong del Top End vivono coccodrilli marini: si fa il bagno solo nelle pozze segnalate come sicure, mai nei corsi d'acqua senza cartelli. Fare benzina a ogni roadhouse tra Alice, Kings Canyon e Yulara, perché tra un distributore e l'altro ci sono centinaia di chilometri. Chi vuole risparmiare la strada del ritorno può riconsegnare l'auto a Yulara e volare dall'aeroporto di Ayers Rock (Connellan), pagando però il supplemento per il noleggio di sola andata.",
+      "fonti": [
+        "https://www.skyscanner.ie/routes/drw/blq/darwin-to-bologna-international.html",
+        "https://www.skyscanner.co.in/routes/blq/drw/bologna-international-to-darwin.html",
+        "https://www.skyscanner.ie/routes/fco/drw/rome-fiumicino-to-darwin.html",
+        "https://www.rome2rio.com/s/Darwin/Rome",
+        "https://www.skyscanner.ie/routes/drw/asp/darwin-to-alice-springs.html",
+        "https://www.rome2rio.com/s/Darwin/Alice-Springs-Airport-ASP",
+        "https://kakadu.gov.au/plan/passes/",
+        "https://uluru.gov.au/about/frequently-asked-questions/",
+        "https://www.kayak.com.au/Alice-Springs.35105.guide",
+        "https://www.expedia.com.au/Yulara-Hotels-Desert-Gardens.h67183126.Hotel-Information",
+        "https://www.hotelscombined.in/Place/Darwin.htm",
+        "https://championtraveler.com/price/cost-of-a-trip-to-darwin-no-au",
+        "https://presentationbuilder.internationaltrucks.com/uluru-kata-tjuta-national-park-tickets",
+        "https://www.rexby.com/ru/Cassadvantures/ttd/australias-heart",
+        "https://treasury.nt.gov.au/__data/assets/pdf_file/0004/1627204/fuel-prices-july-2026.pdf",
+        "https://www.australiantraveller.com/nt/darwin/darwin-to-uluru/",
+        "https://www.mightycampers.com/au/en/get-inspired/driving-routes-australia/ultimate-northern-territory-road-trip",
+        "https://kakadunationalparktours.com.au/blog/how-to-get-to-kakadu-national-park/"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": -23.7,
+        "lon": 133.88
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni regge il viaggio solo con pazienza: 30 ore di volo, lunghe tappe in auto e caldo forte; i sentieri brevi, il Desert Park e le crociere vanno bene, i Rim Walk lunghi no."
+      }
+    },
+    {
       "id": "australia-la-costa-est-14g",
       "nome": "Australia: la costa est",
       "sottotitolo": "Australia, Nuovo Galles del Sud e Queensland: Sydney con le Blue Mountains e il Queensland tropicale tra Grande Barriera Corallina e foresta del Daintree",
@@ -47268,6 +49308,249 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Il Giappone è facilissimo con un bimbo (treni puntuali, bagni ovunque, Churaumi e le spiagge di Okinawa sono perfetti), ma con un bambino di 4 anni pesano le quasi 30 ore di volo con 2 scali e il ritmo di sei cambi d'albergo."
+      }
+    },
+    {
+      "id": "grandi-laghi-usa-14g",
+      "nome": "Stati Uniti: Grandi Laghi e Midwest: Chicago, Milwaukee, Detroit e il Michigan",
+      "sottotitolo": "Illinois, Wisconsin e Michigan: grattacieli sul lago, dune giganti, un'isola senza auto e la Motor City",
+      "durataGiorni": 14,
+      "mezzoConsigliato": "Volo da Bologna (BLQ) a Chicago O'Hare (ORD) con uno scalo, di solito a Francoforte o Monaco (United/Lufthansa), oppure più economico via Lisbona, Istanbul o Copenaghen. Da Firenze a BLQ treno fino a Bologna Centrale e Marconi Express. A Chicago si gira con la metropolitana CTA (Blue Line diretta da O'Hare al Loop); Milwaukee si fa in giornata con il treno Amtrak Hiawatha; per il Michigan serve un'auto a noleggio (8 giorni, ritiro e riconsegna a O'Hare).",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 15–16 ore porta a porta: 1h15 da Firenze a BLQ (treno + Marconi Express), voli con uno scalo da circa 12 ore (via Francoforte) fino a oltre 20 ore con le combinazioni più economiche; poi 45 minuti di Blue Line fino al centro.",
+      "durataViaggioMinuti": 930,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre: i traghetti per Mackinac viaggiano a pieno regime da fine aprile a fine ottobre e la maggior parte delle attività dell'isola apre da maggio a ottobre; inizio giugno (Festival dei lillà) e fine settembre-inizio ottobre (foliage) sono più tranquilli dell'estate. Luglio e agosto vanno bene ma sono i mesi più cari e affollati (a Chicago gli hotel toccano le medie più alte a luglio). Da evitare l'inverno: freddo intenso sui laghi e Mackinac servita solo da corse ridotte da St. Ignace.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        3,
+        12
+      ],
+      "costoMin": 2111,
+      "costoMax": 4445,
+      "costoNota": "Prezzi in dollari convertiti in euro con cambio indicativo 1 $ ≈ 0,86 €; alloggio calcolato per 14 notti (in realtà 13). Benzina basata sui prezzi AAA di maggio 2026 (4,78–4,94 $/gal), che possono essere variati. Il Milwaukee Art Museum è al prezzo 2024. Esclusi perché non verificati: pedaggi dell'Illinois, ingresso al Motown Museum e al Sleeping Bear Dunes, mance (18–20 %) e tasse sui pasti (11–12 %).",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Due settimane permettono di separare due viaggi diversi senza correre: cinque giorni di Chicago e Milwaukee interamente a piedi, in metropolitana e in treno (l'Hiawatha fa Chicago-Milwaukee in circa 1h30), poi otto giorni d'auto per il Michigan, dove le distanze sono vere (dune di Sleeping Bear, Traverse City, Mackinac, Detroit sono a 3-5 ore l'una dall'altra). Con 14 giorni si dorme due notti nelle tappe chiave, si dedica un giorno intero a Mackinac senza auto e si arriva a Detroit con il tempo per il DIA e per l'Henry Ford Museum. Meno di così bisogna rinunciare al nord del Michigan.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza da Firenze in treno per Bologna, Marconi Express e volo per Chicago O'Hare con uno scalo. All'arrivo Blue Line fino al Loop, comprando una Ventra da 7 giorni; passeggiata serale lungo il Riverwalk sotto i grattacieli illuminati e prima cena a base di Italian beef o hot dog alla Chicago."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Chicago dell'architettura. Mattina in crociera sul Chicago River, il modo migliore per capire la scuola di Chicago dai ponti mobili alla Marina City; pranzo veloce e pomeriggio a Millennium Park (Cloud Gate, Crown Fountain) e all'Art Institute, con l'impressionismo, Nighthawks di Hopper e American Gothic."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Museum Campus sul lago: Field Museum (il T-rex Sue), Shedd Aquarium e la vista dello skyline dal promontorio dell'Adler Planetarium. Al tramonto si sale su Skydeck della Willis Tower o su 360 Chicago, entrambi inclusi nelle formule CityPASS; cena con deep dish da dividere in due."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: quartieri. Mattina a Hyde Park con la Robie House di Frank Lloyd Wright e il campus dell'University of Chicago; pomeriggio in L verso nord: Wicker Park per i locali e il Wrigley Field se c'è una partita dei Cubs. Sera libera lungo la Lakefront Trail o al Navy Pier."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: gita a Milwaukee con l'Amtrak Hiawatha da Union Station (circa 1h30, stazione nel centro di Milwaukee). Il Milwaukee Art Museum con le ali mobili di Calatrava sul lago, il Riverwalk, il Third Ward dei magazzini in mattoni e, per gli appassionati, l'Harley-Davidson Museum. Rientro a Chicago in serata con uno degli ultimi treni."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: ritiro dell'auto a O'Hare e partenza verso il Michigan girando attorno al lago. Sosta a Saugatuck, borgo di gallerie e dune sabbiose, e notte a Holland, la cittadina olandese con il mulino De Zwaan e le spiagge sul lago Michigan."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: risalita della costa fino al Sleeping Bear Dunes National Lakeshore. La Dune Climb è una salita di sabbia che si fa a piedi nudi, la Pierce Stocking Scenic Drive offre belvedere a picco sul lago dall'alto delle dune; notte a Traverse City."
+        },
+        {
+          "giorno": 8,
+          "testo": "Giorno 8: giornata lenta tra la penisola di Leelanau (il porticciolo di pescatori di Fishtown a Leland, il faro di Grand Traverse) e la Old Mission Peninsula con vigneti e frutteti di ciliegie; sera nel centro di Traverse City."
+        },
+        {
+          "giorno": 9,
+          "testo": "Giorno 9: verso nord fino a Mackinaw City, sotto il ponte sospeso Mackinac Bridge. Parcheggio nel lotto del traghetto e attraversata (16–26 minuti con Shepler's); notte sull'isola, dove le auto sono vietate dal 1898 e si gira a piedi, in bici o in carrozza."
+        },
+        {
+          "giorno": 10,
+          "testo": "Giorno 10: Mackinac Island a pieno: giro in bici dei 13 km della M-185 lungo la costa, Arch Rock a 45 metri sul lago Huron, Fort Mackinac con le salve di cannone e i figuranti, il portico lungo 200 metri del Grand Hotel. Traghetto di rientro nel tardo pomeriggio e notte a Mackinaw City."
+        },
+        {
+          "giorno": 11,
+          "testo": "Giorno 11: lunga tappa di trasferimento verso sud fino a Detroit (si può spezzare con una sosta a Frankenmuth, villaggio bavarese in Michigan). Arrivo nel pomeriggio e passeggiata sul Detroit Riverwalk, con il Canada sull'altra sponda."
+        },
+        {
+          "giorno": 12,
+          "testo": "Giorno 12: Detroit. Mattina al Detroit Institute of Arts per i murales Detroit Industry di Diego Rivera, uno dei cicli d'arte più importanti degli Stati Uniti; pomeriggio a Midtown e al Motown Museum, la casa-studio Hitsville U.S.A.; se è sabato, colazione all'Eastern Market."
+        },
+        {
+          "giorno": 13,
+          "testo": "Giorno 13: mattina a Dearborn all'Henry Ford Museum of American Innovation (la Model T, il bus di Rosa Parks, la limousine di Kennedy), poi rientro a ovest verso Chicago, riconsegna dell'auto a O'Hare e notte vicino all'aeroporto."
+        },
+        {
+          "giorno": 14,
+          "testo": "Giorno 14: volo di rientro da O'Hare verso Bologna con scalo in Europa e arrivo il giorno dopo; Marconi Express e treno per Firenze."
+        }
+      ],
+      "alloggio": "A Chicago un 3 stelle costa in media 209–221 $ a notte, con minimi intorno ai 93 $ a febbraio e settembre e una media di 416 $ a luglio; i budget hotel stanno tra 65 e 130 $, i medio livello in centro tra 170 e 250 $. Alle tariffe si sommano circa il 17–18 % di tasse. Zone comode: Loop e South Loop (vicini a Blue Line e Museum Campus) o River North. In Michigan dormire a Holland, Traverse City, sull'isola di Mackinac (la notte più cara: una sosta confortevole costa 400–600 $ tutto compreso) e a Detroit in Midtown. Per persona, in camera doppia, si calcolano circa 50–125 € a notte.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Bologna-Chicago",
+          "testo": "Da 571 € (TAP via Lisbona) a 645–859 € nella fascia tipica su momondo; nessun volo diretto, i più rapidi via Francoforte (United/Lufthansa).",
+          "min": 571,
+          "max": 859,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Accesso aeroporto di Bologna",
+          "testo": "Treno Firenze-Bologna A/R 20–50 € più Marconi Express A/R 23,20 €.",
+          "min": 43,
+          "max": 73,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Trasporti a Chicago (CTA)",
+          "testo": "Ventra 7 giorni illimitata 25 $ più circa 5 $ di supplemento per salire a O'Hare: circa 30 $.",
+          "min": 26,
+          "max": 26,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Chicago-Milwaukee A/R",
+          "testo": "Amtrak Hiawatha 19–31 $ a tratta secondo anticipo e domanda (circa 1h25–1h40 di viaggio).",
+          "min": 33,
+          "max": 53,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Attrazioni di Chicago",
+          "testo": "Pass C3 a 109 $ per tre attrazioni oppure CityPASS a 144 $ (cinque attrazioni incluso Skydeck, valido 9 giorni) più una crociera architettonica da 40–45 $.",
+          "min": 94,
+          "max": 163,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traghetto per Mackinac Island A/R",
+          "testo": "Arnold Transit 37 $ o Shepler's 39 $ (tariffe 2026), più 3 $ di commissione online.",
+          "min": 34,
+          "max": 36,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Fort Mackinac",
+          "testo": "17 $ adulti; il Grand Hotel chiede 12 $ solo per entrare a vedere il portico.",
+          "min": 15,
+          "max": 15,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Altri ingressi (Milwaukee, Detroit, Dearborn)",
+          "testo": "Milwaukee Art Museum 27 $ (tariffa pubblicata nel 2024), Detroit Institute of Arts 20 $ (non residenti; chiuso il lunedì), Henry Ford Museum 34 $ online (più 9 $ di parcheggio): circa 81 $ in tutto. Motown Museum e pass del Sleeping Bear Dunes non verificati, esclusi dal totale.",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false,
+          "min": 70,
+          "max": 70
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Camera doppia 100–250 $ a notte più 17–18 % di tasse, divisa in due.",
+          "min": 50,
+          "max": 125,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "30–90 $ al giorno a persona: fast casual 12–18 $, cena informale 18–30 $, secondo in ristorante medio 22–38 $, Italian beef o hot dog 6–10 $; più tasse e mancia.",
+          "min": 26,
+          "max": 77,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Noleggio auto 8 giorni",
+          "testo": "A O'Hare da 28–34 $ al giorno per le compatte/economy alle medie di 68 $ al giorno (479 $ a settimana); gennaio il mese più economico, luglio il più caro.",
+          "min": 193,
+          "max": 473,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Benzina e pedaggi",
+          "testo": "Circa 1.700 km di anello Chicago-Michigan-Detroit-Chicago: 110–136 l (6,5–8 l/100 km). Benzina AAA a maggio 2026: Illinois 4,94 $/gal, Michigan 4,83, Indiana 4,78, cioè circa 1,09–1,12 €/l (1 gal = 3,785 l, 1 $ = 0,86 €): 120–153 € di carburante. Indiana Toll Road 4,65–10 $ a tratta sull'intero tratto (circa 8–17 € se usata andata e ritorno). Pedaggi Illinois non verificati; l'Ohio non è sul percorso.",
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false,
+          "min": 128,
+          "max": 170
+        }
+      ],
+      "ripartizione": "Volo, accesso all'aeroporto, metropolitana, treno per Milwaukee, ingressi, traghetto, alloggio (camera doppia divisa) e pasti sono a persona; il noleggio dell'auto, la benzina, i pedaggi e i parcheggi notturni sono della vettura e si dividono a metà.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Mackinac Island è chiusa alle auto dal 1898 e si raggiunge solo in traghetto da Mackinaw City o St. Ignace: il parcheggio giornaliero dei traghetti è gratuito, quello notturno a pagamento. A Chicago in auto non conviene: per i primi cinque giorni bastano CTA e Amtrak."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "I traghetti per Mackinac viaggiano a pieno regime da fine aprile a fine ottobre (in inverno solo corse ridotte da St. Ignace) e quasi tutte le attività dell'isola aprono da maggio a ottobre. L'Hiawatha ha orari diversi nei feriali e nel fine settimana: alcuni treni non circolano la domenica."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Prenotare con anticipo gli hotel di luglio-agosto e la notte sull'isola; il noleggio prenotato circa 80 giorni prima costa fino al 31 % in meno che all'ultimo momento. Per gli USA serve l'ESTA approvato prima della partenza."
+        }
+      ],
+      "note": "Il CityPASS di Chicago vale 9 giorni: attivarlo il giorno 2 copre comodamente tutto il soggiorno in città. A Mackinaw City Shepler's ha un parcheggio giornaliero gratuito in S. Nicolet St. con navetta fino al molo; la bici si porta sul traghetto per 21 $ A/R, ma sull'isola il noleggio è ovunque. Il giro della M-185 va fatto in senso orario la mattina presto, prima che sbarchino i turisti in giornata. Chi preferisce evitare il lungo rientro in auto può tornare da Detroit a Chicago con l'Amtrak Wolverine (tre treni al giorno, 5h25–5h45, circa 38–84 sterline a tratta), ma serve poi un noleggio con riconsegna diversa. Nei ristoranti calcolare sempre l'11–12 % di tasse e il 18–20 % di mancia oltre al prezzo in menu.",
+      "fonti": [
+        "https://www.momondo.it/volo/bologna/ohare-intl-ord",
+        "https://www.kayak.com/Chicago-Hotels_3-stars.Hts.12514.hotel.ksp",
+        "https://thebettervacation.com/chicago/chicago-trip-cost/amp/",
+        "https://www.fox6now.com/news/amtrak-hiawatha-new-fares",
+        "https://www.wanderu.com/en-us/train/us-il/chicago/us-wi/milwaukee/?cur=CHF",
+        "https://travelswithkev.com/amtrak-hiawatha-schedule/",
+        "https://www.omio.co.uk/trains/chicago-il/detroit-mi-8lttt",
+        "https://www.kayak.com/O-Hare-Car-Rentals.N220485.cars.ksp",
+        "https://prod.crainsdetroit.com/node/931981",
+        "https://mymichiganbeach.com/mackinac-island-ferry/",
+        "https://mymichiganbeach.com/mackinac/",
+        "https://www.nprillinois.org/illinois/2026-05-05/illinois-has-the-6th-highest-gas-price-in-the-country",
+        "https://www.sixt.com/rental-guide/toll-roads/usa/indiana/",
+        "https://www.newswire.com/news/itrcc-announces-new-toll-rates-for-indiana-toll-road-customers-22598542",
+        "https://dia.org/visit",
+        "https://www.thehenryford.org/visit/tickets.aspx",
+        "https://www.aol.com/guide-milwaukee-art-museum-including-150706315.html"
+      ],
+      "aggiuntaIl": "2026-11-09",
+      "coordinate": {
+        "lat": 41.88,
+        "lon": -87.63
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Chicago (acquario, Field Museum, spiagge) e Mackinac senza auto sono perfette con un bimbo di 4 anni, ma il volo lungo con scalo e le tappe d'auto di 3–5 ore in Michigan sono pesanti."
       }
     },
     {
