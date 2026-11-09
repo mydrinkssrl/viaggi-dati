@@ -1138,6 +1138,11 @@
    2
   ],
   [
+   "bracciano-e-cerveteri-2g",
+   "Lago di Bracciano e Cerveteri",
+   2
+  ],
+  [
    "brescia-2g",
    "Brescia",
    2
@@ -1155,6 +1160,11 @@
   [
    "caserta-e-la-reggia-2g",
    "Caserta e la Reggia",
+   2
+  ],
+  [
+   "chioggia-e-pellestrina-2g",
+   "Chioggia, Pellestrina e la laguna sud",
    2
   ],
   [
@@ -1358,6 +1368,11 @@
    3
   ],
   [
+   "anversa-malines-e-lovanio-3g",
+   "Anversa, Malines e Lovanio",
+   3
+  ],
+  [
    "barcellona-3g",
    "Barcellona",
    3
@@ -1415,6 +1430,11 @@
   [
    "capri-e-anacapri-3g",
    "Capri e Anacapri",
+   3
+  ],
+  [
+   "colonia-e-dusseldorf-3g",
+   "Colonia e Düsseldorf",
    3
   ],
   [
@@ -1480,6 +1500,11 @@
   [
    "lisbona-3g",
    "Lisbona",
+   3
+  ],
+  [
+   "lussemburgo-e-treviri-3g",
+   "Lussemburgo e Treviri",
    3
   ],
   [
@@ -1568,6 +1593,16 @@
    3
   ],
   [
+   "trani-e-castel-del-monte-3g",
+   "Trani, Castel del Monte, Barletta e Andria",
+   3
+  ],
+  [
+   "val-di-fassa-e-val-di-fiemme-3g",
+   "Val di Fassa, Val di Fiemme e San Martino di Castrozza",
+   3
+  ],
+  [
    "val-pusteria-e-lago-di-braies-3g",
    "Val Pusteria e Lago di Braies",
    3
@@ -1643,8 +1678,23 @@
    7
   ],
   [
+   "baden-wurttemberg-7g",
+   "Baden-Württemberg: Stoccarda, Heidelberg, Tubinga e il Lago di Costanza",
+   7
+  ],
+  [
+   "baleari-minori-7g",
+   "Baleari minori: Minorca, Ibiza e Formentera",
+   7
+  ],
+  [
    "basilicata-completa-matera-dolomiti-lucane-e-maratea-7g",
    "Basilicata completa: Matera, Dolomiti Lucane e Maratea",
+   7
+  ],
+  [
+   "bordeaux-e-aquitania-7g",
+   "Bordeaux e Aquitania: Saint-Émilion, Arcachon e Biarritz",
    7
   ],
   [
@@ -1688,6 +1738,11 @@
    7
   ],
   [
+   "cicladi-centrali-7g",
+   "Cicladi centrali: Naxos, Paros, Antiparos e le Piccole Cicladi",
+   7
+  ],
+  [
    "cicladi-occidentali-7g",
    "Cicladi occidentali: Milos, Sifnos, Serifos e Kimolos",
    7
@@ -1723,6 +1778,11 @@
    7
   ],
   [
+   "egeo-nord-orientale-7g",
+   "Egeo nord-orientale: Samos, Chios e Lesbo",
+   7
+  ],
+  [
    "emilia-romagna-completa-7g",
    "Emilia-Romagna completa: Bologna, Modena, Parma e Ravenna",
    7
@@ -1730,6 +1790,11 @@
   [
    "emirati-arabi-dubai-e-abu-dhabi-7g",
    "Emirati Arabi: Dubai e Abu Dhabi",
+   7
+  ],
+  [
+   "eolie-complete-7g",
+   "Isole Eolie complete: Lipari, Salina, Stromboli, Vulcano, Panarea, Filicudi e Alicudi",
    7
   ],
   [
@@ -1790,6 +1855,11 @@
   [
    "grecia-del-nord-meteore-pelio-e-calcidica-7g",
    "Grecia del Nord: Meteore, Pelio e Calcidica",
+   7
+  ],
+  [
+   "inghilterra-centrale-7g",
+   "Inghilterra centrale: Cotswolds, Oxford, Cambridge e Stratford-upon-Avon",
    7
   ],
   [
@@ -1878,6 +1948,11 @@
    7
   ],
   [
+   "meclemburgo-e-costa-baltica-7g",
+   "Meclemburgo-Pomerania: Rügen, Stralsund, Rostock e Schwerin",
+   7
+  ],
+  [
    "montenegro-7g",
    "Montenegro",
    7
@@ -1885,6 +1960,16 @@
   [
    "norvegia-del-nord-lofoten-tromso-7g",
    "Norvegia del Nord: Lofoten e Tromsø",
+   7
+  ],
+  [
+   "occitania-7g",
+   "Occitania: Tolosa, Carcassonne, Albi e Montpellier",
+   7
+  ],
+  [
+   "oman-7g",
+   "Oman: Mascate, Nizwa, il deserto di Wahiba e Jebel Shams",
    7
   ],
   [
@@ -1905,6 +1990,11 @@
   [
    "pirenei-andorra-lourdes-e-val-d-aran-7g",
    "Pirenei: Andorra, Lourdes e Val d'Aran",
+   7
+  ],
+  [
+   "polonia-del-nord-7g",
+   "Polonia del Nord: Danzica, Malbork, Toruń e i laghi della Masuria",
    7
   ],
   [
@@ -1948,8 +2038,18 @@
    7
   ],
   [
+   "sicilia-centrale-e-meridionale-7g",
+   "Sicilia centrale e meridionale: Agrigento, Piazza Armerina, Caltagirone ed Enna",
+   7
+  ],
+  [
    "sporadi-7g",
    "Sporadi: Skiathos, Skopelos e Alonissos",
+   7
+  ],
+  [
+   "svezia-del-sud-7g",
+   "Svezia del Sud: Göteborg, Malmö, Scania e la costa del Bohuslän",
    7
   ],
   [
@@ -1993,6 +2093,11 @@
    7
   ],
   [
+   "valencia-e-murcia-7g",
+   "Comunità Valenciana e Murcia: Valencia, Alicante, Cartagena e Murcia",
+   7
+  ],
+  [
    "valle-daosta-completa-7g",
    "Valle d'Aosta completa: Courmayeur, Cervinia, Gran Paradiso e i castelli",
    7
@@ -2000,6 +2105,11 @@
   [
    "vallese-e-lemano-7g",
    "Vallese e Lemano: Ginevra, Losanna, Zermatt e il ghiacciaio dell'Aletsch",
+   7
+  ],
+  [
+   "valtellina-e-livigno-7g",
+   "Valtellina: Sondrio, Bormio, Livigno e il Trenino del Bernina",
    7
   ],
   [
@@ -2043,6 +2153,11 @@
    14
   ],
   [
+   "balcani-occidentali-in-auto-14g",
+   "Balcani occidentali in auto: Slovenia, Croazia, Bosnia, Montenegro e Albania",
+   14
+  ],
+  [
    "bhutan-14g",
    "Bhutan",
    14
@@ -2060,6 +2175,11 @@
   [
    "botswana-zimbabwe-e-cascate-vittoria-14g",
    "Botswana, Zimbabwe e le Cascate Vittoria",
+   14
+  ],
+  [
+   "brasile-centrale-14g",
+   "Brasile centrale: Pantanal, Bonito, Brasília e Chapada dos Veadeiros",
    14
   ],
   [
@@ -2093,6 +2213,11 @@
    14
   ],
   [
+   "fiji-14g",
+   "Fiji: Viti Levu, Mamanuca e Yasawa",
+   14
+  ],
+  [
    "filippine-palawan-cebu-e-bohol-14g",
    "Filippine: Palawan, Cebu e Bohol",
    14
@@ -2100,6 +2225,11 @@
   [
    "florida-14g",
    "Florida: Miami, Keys, Everglades e la costa del Golfo",
+   14
+  ],
+  [
+   "ghana-14g",
+   "Ghana: Accra, Cape Coast, Kumasi e il Parco di Mole",
    14
   ],
   [
@@ -2125,6 +2255,11 @@
   [
    "hawaii-14g",
    "Hawaii",
+   14
+  ],
+  [
+   "hong-kong-macao-e-guangdong-14g",
+   "Hong Kong, Macao e Guangdong",
    14
   ],
   [
@@ -2213,6 +2348,11 @@
    14
   ],
   [
+   "piccole-antille-14g",
+   "Piccole Antille: Barbados, Santa Lucia, Grenada e Saint Vincent",
+   14
+  ],
+  [
    "polinesia-francese-14g",
    "Polinesia francese: Tahiti, Moorea e le Isole della Società",
    14
@@ -2225,6 +2365,16 @@
   [
    "repubblica-dominicana-14g",
    "Repubblica Dominicana",
+   14
+  ],
+  [
+   "sao-tome-e-principe-14g",
+   "São Tomé e Príncipe",
+   14
+  ],
+  [
+   "scandinavia-14g",
+   "Scandinavia: Copenaghen, Stoccolma, Oslo e i fiordi",
    14
   ],
   [
@@ -2245,6 +2395,11 @@
   [
    "taiwan-14g",
    "Taiwan",
+   14
+  ],
+  [
+   "texas-e-nuovo-messico-14g",
+   "Texas e Nuovo Messico: Austin, San Antonio, Santa Fe e Big Bend",
    14
   ],
   [
@@ -2424,6 +2579,7 @@
   "pola-e-rovigno-2g",
   "tolosa-e-carcassonne-3g",
   "uganda-e-ruanda-14g",
-  "vieste-e-il-gargano-2g"
+  "vieste-e-il-gargano-2g",
+  "ajaccio-e-corsica-del-sud-3g"
  ]
 }

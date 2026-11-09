@@ -1,0 +1,227 @@
+[
+ [
+  "eolie-complete-7g",
+  "Isole Eolie complete: Lipari, Salina, Stromboli, Vulcano, Panarea, Filicudi e Alicudi",
+  7
+ ],
+ [
+  "arcipelago-toscano-7g",
+  "Arcipelago Toscano: Elba, Giglio, Capraia e Pianosa",
+  7
+ ],
+ [
+  "sicilia-centrale-e-meridionale-7g",
+  "Sicilia centrale e meridionale: Agrigento, Piazza Armerina, Caltagirone ed Enna",
+  7
+ ],
+ [
+  "occitania-7g",
+  "Occitania: Tolosa, Carcassonne, Albi e Montpellier",
+  7
+ ],
+ [
+  "bordeaux-e-aquitania-7g",
+  "Bordeaux e Aquitania: Saint-Émilion, Arcachon e Biarritz",
+  7
+ ],
+ [
+  "nord-della-francia-7g",
+  "Nord della Francia: Lilla, Amiens, Arras e la Baia della Somme",
+  7
+ ],
+ [
+  "valencia-e-murcia-7g",
+  "Comunità Valenciana e Murcia: Valencia, Alicante, Cartagena e Murcia",
+  7
+ ],
+ [
+  "baleari-minori-7g",
+  "Baleari minori: Minorca, Ibiza e Formentera",
+  7
+ ],
+ [
+  "baden-wurttemberg-7g",
+  "Baden-Württemberg: Stoccarda, Heidelberg, Tubinga e il Lago di Costanza",
+  7
+ ],
+ [
+  "meclemburgo-e-costa-baltica-7g",
+  "Meclemburgo-Pomerania: Rügen, Stralsund, Rostock e Schwerin",
+  7
+ ],
+ [
+  "inghilterra-centrale-7g",
+  "Inghilterra centrale: Cotswolds, Oxford, Cambridge e Stratford-upon-Avon",
+  7
+ ],
+ [
+  "svezia-del-sud-7g",
+  "Svezia del Sud: Göteborg, Malmö, Scania e la costa del Bohuslän",
+  7
+ ],
+ [
+  "isole-del-quarnaro-7g",
+  "Isole del Quarnaro: Krk, Cres, Lussino, Rab e Pag",
+  7
+ ],
+ [
+  "cicladi-centrali-7g",
+  "Cicladi centrali: Naxos, Paros, Antiparos e le Piccole Cicladi",
+  7
+ ],
+ [
+  "egeo-nord-orientale-7g",
+  "Egeo nord-orientale: Samos, Chios e Lesbo",
+  7
+ ],
+ [
+  "polonia-del-nord-7g",
+  "Polonia del Nord: Danzica, Malbork, Toruń e i laghi della Masuria",
+  7
+ ],
+ [
+  "valtellina-e-livigno-7g",
+  "Valtellina: Sondrio, Bormio, Livigno e il Trenino del Bernina",
+  7
+ ],
+ [
+  "oman-7g",
+  "Oman: Mascate, Nizwa, il deserto di Wahiba e Jebel Shams",
+  7
+ ],
+ [
+  "hong-kong-macao-e-guangdong-14g",
+  "Hong Kong, Macao e Guangdong",
+  14
+ ],
+ [
+  "texas-e-nuovo-messico-14g",
+  "Texas e Nuovo Messico: Austin, San Antonio, Santa Fe e Big Bend",
+  14
+ ],
+ [
+  "grandi-laghi-usa-14g",
+  "Stati Uniti: Grandi Laghi e Midwest: Chicago, Milwaukee, Detroit e il Michigan",
+  14
+ ],
+ [
+  "piccole-antille-14g",
+  "Piccole Antille: Barbados, Santa Lucia, Grenada e Saint Vincent",
+  14
+ ],
+ [
+  "argentina-del-nord-ovest-14g",
+  "Argentina del Nord-Ovest e Mendoza: Salta, Jujuy, Córdoba e Mendoza",
+  14
+ ],
+ [
+  "brasile-centrale-14g",
+  "Brasile centrale: Pantanal, Bonito, Brasília e Chapada dos Veadeiros",
+  14
+ ],
+ [
+  "ghana-14g",
+  "Ghana: Accra, Cape Coast, Kumasi e il Parco di Mole",
+  14
+ ],
+ [
+  "sao-tome-e-principe-14g",
+  "São Tomé e Príncipe",
+  14
+ ],
+ [
+  "australia-del-nord-14g",
+  "Australia: Territorio del Nord e Centro Rosso: Darwin, Kakadu, Alice Springs e Uluru",
+  14
+ ],
+ [
+  "fiji-14g",
+  "Fiji: Viti Levu, Mamanuca e Yasawa",
+  14
+ ],
+ [
+  "scandinavia-14g",
+  "Scandinavia: Copenaghen, Stoccolma, Oslo e i fiordi",
+  14
+ ],
+ [
+  "balcani-occidentali-in-auto-14g",
+  "Balcani occidentali in auto: Slovenia, Croazia, Bosnia, Montenegro e Albania",
+  14
+ ],
+ [
+  "trani-e-castel-del-monte-3g",
+  "Trani, Castel del Monte, Barletta e Andria",
+  3
+ ],
+ [
+  "colonia-e-dusseldorf-3g",
+  "Colonia e Düsseldorf",
+  3
+ ],
+ [
+  "lussemburgo-e-treviri-3g",
+  "Lussemburgo e Treviri",
+  3
+ ],
+ [
+  "ajaccio-e-corsica-del-sud-3g",
+  "Ajaccio, Bonifacio e la Corsica del Sud",
+  3
+ ],
+ [
+  "val-di-fassa-e-val-di-fiemme-3g",
+  "Val di Fassa, Val di Fiemme e San Martino di Castrozza",
+  3
+ ],
+ [
+  "anversa-malines-e-lovanio-3g",
+  "Anversa, Malines e Lovanio",
+  3
+ ],
+ [
+  "chioggia-e-pellestrina-2g",
+  "Chioggia, Pellestrina e la laguna sud",
+  2
+ ],
+ [
+  "bracciano-e-cerveteri-2g",
+  "Lago di Bracciano e Cerveteri",
+  2
+ ],
+ [
+  "bressanone-e-val-disarco-2g",
+  "Bressanone, Novacella e la Val d'Isarco",
+  2
+ ],
+ [
+  "belluno-e-feltre-2g",
+  "Belluno, Feltre e le Dolomiti bellunesi",
+  2
+ ],
+ [
+  "grado-aquileia-e-palmanova-2g",
+  "Grado, Aquileia e Palmanova",
+  2
+ ],
+ [
+  "san-leo-e-montefeltro-1g",
+  "San Leo, Pennabilli e il Montefeltro",
+  1
+ ],
+ [
+  "citta-della-pieve-e-panicale-1g",
+  "Città della Pieve e Panicale",
+  1
+ ],
+ [
+  "peccioli-lari-e-casciana-terme-1g",
+  "Peccioli, Lari e Casciana Terme",
+  1
+ ],
+ [
+  "santarcangelo-e-verucchio-1g",
+  "Santarcangelo di Romagna e Verucchio",
+  1
+ ]
+]
