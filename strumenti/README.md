@@ -96,3 +96,20 @@ doppioni.
   «Venezia» nel nome di Chioggia): scegliere nomi senza quelle parole.
 - `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si
   attacca, pubblicato solo su `viaggi-dati`.
+
+## Nota dalla run del 10 novembre 2026
+- Primo turno: 38 agenti in cinque ondate da 8 (30 da 7-14 giorni con opus, 6 da 3
+  giorni e 2 da 2 con sonnet), tetto 5 WebSearch ciascuno: 36 schede valide pubblicate
+  subito (commit b76ef31, catalogo a 535), 2 SKIP (Skopje e Ohrid in 3 giorni: 5 giorni
+  reali più bus di 3h e volo Wizz solo serale; Stoccarda, Heidelberg e Tubinga: nessun
+  volo diretto da FLR/PSA/BLQ, 8 ore d'auto) e 2 schede tenute in `pending/` (Molise
+  con pasti non verificati, parchi del Sud-Ovest USA con carburante senza numeri).
+- Secondo turno (`send_later` dopo 3 minuti): 2 completamenti + 7 mete nuove (Bologna
+  completa da 2 giorni, 4 da 1 giorno, 2 sostitute da 3: Cuneo e Valle Maira, Cefalonia
+  e Itaca) in un'unica ondata di 9, più un completamento per Cefalonia (noleggio e
+  traghetto). Totale notte: 45 mete nuove (4 da 1, 5 da 2, 6 da 3, 18 da 7, 12 da 14),
+  catalogo a 544.
+- Alcune voci di costo marginali restano solo testuali (parcheggi, un pedaggio, Pilatus,
+  taxi d'acqua per Spetses, e-Visa India): dichiarate nel testo e fuori dal totale.
+- `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
+  pubblicato solo su `viaggi-dati`.

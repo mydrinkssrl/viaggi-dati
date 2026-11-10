@@ -1140,6 +1140,123 @@
       }
     },
     {
+      "id": "cervia-le-saline-e-cesenatico-1g",
+      "nome": "Cervia, le saline e Cesenatico",
+      "sottotitolo": "Emilia-Romagna, il sale dolce di Cervia e il porto canale disegnato da Leonardo a Cesenatico",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno regionale da Firenze S.M.N. a Cervia-Milano Marittima (circa 30 corse al giorno, quasi sempre con cambio, ad esempio a Bologna o Faenza). Da Cervia a Cesenatico, 10 km a sud, si prosegue con il bus di linea o con un taxi: la stazione di Cesenatico non è sulla stessa linea, quindi controlla gli orari dei bus locali prima di partire. Il primo treno utile parte la mattina presto e l'ultimo di ritorno va scelto in anticipo sul sito del vettore.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 2h40 in treno in media (da 1h59 per la corsa più veloce a quasi 4h con coincidenze lunghe), più il tratto a piedi dalla stazione di Cervia.",
+      "durataViaggioMinuti": 170,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: mare mite, luce lunga e saline in piena attività. Da giugno a settembre ci sono le visite guidate serali al Camillone; luglio e agosto sono affollati e caldi.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 50,
+      "costoMax": 109,
+      "costoNota": "Il biglietto del treno ha una forbice ampia perché la fonte indica 16 € a tratta come prezzo minimo e 30 € come media; il bus tra Cervia e Cesenatico non è incluso perché non ho trovato una tariffa verificata.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Cervia è piatta e compatta: dalla stazione si raggiunge a piedi il MUSA, il centro e il porto canale in meno di mezz'ora. Con il treno si arriva a metà mattina, restano circa tre ore per la città e il lungomare, e due ore per Cesenatico con il porto canale, le barche storiche e il museo. Sono luoghi piccoli e vicini tra loro: 5-6 ore sul posto bastano per vederli senza correre. Chi vuole anche le visite guidate alle saline deve farlo da giugno a settembre.",
+      "cosaVedere": [
+        "MUSA, Museo del Sale (via Nazario Sauro 24): racconta la salina e la raccolta del sale dolce di Cervia dentro l'antico magazzino, con biglietto da 2 €.",
+        "Salina Camillone: la salina ancora lavorata con il metodo tradizionale (presidio Slow Food dal 2004); da metà giugno a settembre si visita con un salinaio, il giovedì e la domenica alle 17.",
+        "Centro storico di Cervia e lungomare: la città legata al sale, con il lungomare, ideale per una passeggiata prima del pranzo.",
+        "Porto canale di Cesenatico: il canale attribuito a Leonardo da Vinci, con le barche d'epoca ormeggiate lungo le banchine, da vedere anche solo camminando lungo i due moli.",
+        "Museo della Marineria di Cesenatico: una sezione galleggiante con barche storiche dell'Adriatico, più la Casa Moretti e l'Antiquarium con lo stesso biglietto da 5 €."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R Firenze-Cervia",
+          "testo": "Da 16 € a tratta (prezzo minimo indicato), 30 € come media: per l'andata e ritorno 32-60 € a persona su Omio.",
+          "min": 32,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "MUSA, Museo del Sale",
+          "testo": "2 € intero, 1 € dai 13 ai 18 anni, gratuito fino a 12 anni e la prima domenica del mese.",
+          "min": 0,
+          "max": 2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Visita guidata Salina Camillone",
+          "testo": "2 € intero, 1 € ridotto, gratuito fino a 12 anni; solo giovedì e domenica dal 18 giugno al 20 settembre 2026.",
+          "min": 0,
+          "max": 2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo della Marineria Cesenatico",
+          "testo": "5 € intero, 3 € ridotto, con Antiquarium e Casa Moretti compresi.",
+          "min": 3,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "15-20 € per un pasto economico (piadina, fritto da asporto), 25-40 € per un pasto completo con bevande in ristorante.",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona: la giornata si fa in treno, senza vettura.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il MUSA si raggiunge a piedi dalla stazione. Il ritrovo per la visita al Camillone è nel parcheggio del Saltpan Visitor Centre, via Bova 61, un po' fuori dal centro."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il MUSA apre il sabato, la domenica e i festivi dal 17 settembre al 31 maggio dalle 14.30 alle 19; in estate (1 giugno-15 settembre) solo la sera, 20.30-24. Il Museo della Marineria di Cesenatico è aperto tutti i giorni a giugno-settembre; per gli altri mesi verifica gli orari al +39 0547 79205."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per il Camillone telefona prima al MUSA (+39 0544 977592) o scrivi a musa@comunecervia.it. Il museo di Cesenatico non richiede prenotazione per i singoli."
+        }
+      ],
+      "note": "Il trucco è invertire l'ordine per l'estate: Cervia al mattino e Cesenatico al tardo pomeriggio, quando il porto canale è meno affollato. Fuori stagione, se il MUSA è chiuso (giorni feriali da settembre a maggio), dedica più tempo al lungomare di Cervia e al lungomare. Il sale dolce di Cervia si compra nei negozi del centro e fa un regalo semplice da portare a casa. Controlla sempre gli orari dei bus tra Cervia e Cesenatico e l'ultimo treno per Firenze: la serata passa in fretta.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/cervia",
+        "https://www.sluurpy.it/cervia/ristorante",
+        "https://www.discovercervia.com/en/discover-the-destination/lifestyle/a-taste-of-excellence",
+        "https://www.turismo.comunecervia.it/en/discover-the-area/art-and-culture/museums-galleries/musa-salt-museum",
+        "https://www.museionline.info/musei/museo-della-marineria-di-cesenatico",
+        "https://www.discovercervia.com/en/events/2026/giugno/guided-tours-of-the-camillone-saltworks"
+      ],
+      "aggiuntaIl": "2026-11-10",
+      "coordinate": {
+        "lat": 44.2617,
+        "lon": 12.3481
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Spiaggia, lungomare e barche del porto canale piacciono a un bimbo di 4 anni; la visita al Camillone è gratuita fino a 12 anni."
+      }
+    },
+    {
       "id": "cesena-e-bertinoro-1g",
       "nome": "Cesena e Bertinoro",
       "sottotitolo": "Emilia-Romagna, la biblioteca UNESCO dei Malatesta e il balcone sulla Romagna",
@@ -1856,6 +1973,124 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Il chiostro e i calanchi si fanno volentieri anche con un bimbo di 4 anni, ma l'abbazia chiede silenzio e il museo di Asciano è piccolo; bene come mezza giornata in auto."
+      }
+    },
+    {
+      "id": "deruta-e-torgiano-1g",
+      "nome": "Deruta e Torgiano",
+      "sottotitolo": "Umbria, la capitale della maiolica e il borgo del vino e dell'olio nella valle del Tevere",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "In auto da Firenze: A1 fino a Valdichiana e poi raccordo per Perugia, uscita verso Deruta (circa 162 km, 6,30 € di pedaggio a tratta). Torgiano dista una decina di chilometri da Deruta, quindi con l'auto le due tappe stanno comode nella stessa giornata. In treno è possibile (Firenze S.M.N. - Perugia e poi regionale per Deruta) ma richiede oltre 3h30 con cambio: sconsigliato per una sola giornata.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h35-1h45 in auto (162 km); circa 3h45 in treno con cambio a Perugia.",
+      "durataViaggioMinuti": 100,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: luce buona per le botteghe, temperature miti e vendemmia o raccolta delle olive in autunno. Luglio e agosto sono caldi nella valle del Tevere.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 52,
+      "costoMax": 81,
+      "costoNota": "Il parcheggio non è incluso nei conti: non ho trovato una tariffa verificata (a Deruta e Torgiano la sosta nei pressi dei musei è in genere gratuita o molto economica, da verificare sul posto).",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Deruta ha un centro piccolo, con il museo e le botteghe lungo la via principale, e Torgiano è a dieci minuti di strada. In una giornata si fa il Museo Regionale della Ceramica (un'ora e mezza abbondante), il giro delle botteghe con una sosta per vedere i decoratori all'opera, il pranzo e il biglietto unico MOO + MUVIT a Torgiano, senza correre. Per un pernottamento non c'è abbastanza da vedere.",
+      "cosaVedere": [
+        "Museo Regionale della Ceramica di Deruta: la storia della maiolica derutese dal Medioevo al Novecento, nell'ex convento di San Francesco; è il modo migliore per capire cosa guardare nelle botteghe.",
+        "Botteghe e laboratori di Deruta: lungo la strada principale si vede dipingere a mano i piatti con i motivi tradizionali (il 'raffaellesco', il 'gallo'); si può comprare direttamente dall'artigiano.",
+        "Centro storico di Deruta: borgo murato con le piastrelle di maiolica sulle facciate e vista sulla valle del Tevere.",
+        "MUVIT - Museo del Vino di Torgiano: un percorso di archeologia del vino, dai reperti etruschi e romani agli oggetti d'uso, ospitato in un palazzo del Seicento.",
+        "MOO - Museo dell'Olivo e dell'Olio: dedicato alla storia della coltivazione dell'ulivo e alla produzione dell'olio, con attrezzi e frantoi d'epoca; stesso biglietto del MUVIT."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto A/R (carburante)",
+          "testo": "324 km A/R a 0,129 €/km, circa 42 € di carburante.",
+          "min": 42,
+          "max": 42,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggio A/R",
+          "testo": "6,30 € a tratta, 12,60 € andata e ritorno.",
+          "min": 13,
+          "max": 13,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Regionale della Ceramica",
+          "testo": "7 € intero, 5 € ridotto.",
+          "min": 5,
+          "max": 7,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "MUVIT + MOO Torgiano",
+          "testo": "Biglietto unico per i due musei: 7 € intero, 5 € ridotto.",
+          "min": 5,
+          "max": 7,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Da circa 15-20 € in locali economici (pizza, bistrot) a 25-40 € per un pasto completo con bevande in trattoria.",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e divisi per due viaggiatori (circa 27 € a persona); ingressi e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Da ottobre a giugno i musei di Torgiano e il museo di Deruta risultano chiusi il lunedì (ottobre-marzo 10-13 e 15-17; aprile-giugno 10-13 e 15-18); da luglio a settembre aperti tutti i giorni. Gli orari vanno confermati per telefono."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Deruta è in salita e in parte pedonale: conviene lasciare l'auto nei parcheggi ai margini. Treno possibile ma lento: la stazione di Deruta è a valle rispetto al borgo."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per i musei; per le visite guidate o i laboratori di pittura su ceramica si chiama in anticipo."
+        }
+      ],
+      "note": "Fate prima Deruta la mattina, quando le botteghe sono aperte e i decoratori al lavoro, e poi Torgiano nel pomeriggio: i musei di Torgiano chiudono presto in autunno e inverno (17:00). Tenete il pranzo leggero a Deruta e assaggiate l'olio o il vino in una delle cantine di Torgiano. Evitate il lunedì tra ottobre e giugno: i musei sono chiusi.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Deruta/",
+        "https://www.rome2rio.com/s/Tuscany/Deruta",
+        "https://www.sluurpy.it/deruta/ristorante",
+        "https://museionline.info/musei/muvit-museo-del-vino-torgiano",
+        "https://museionline.info/musei/museo-della-ceramica-di-deruta",
+        "https://www.museionline.info/musei/moo-museo-dell-olivo-e-dell-olio"
+      ],
+      "aggiuntaIl": "2026-11-10",
+      "coordinate": {
+        "lat": 42.9847,
+        "lon": 12.4184
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Le botteghe di Deruta piacciono, ma i musei di Torgiano sono poco pensati per un bimbo di 4 anni e il viaggio in auto è lungo."
       }
     },
     {
@@ -5038,6 +5273,125 @@
       }
     },
     {
+      "id": "rocchetta-mattei-e-la-valle-del-reno-1g",
+      "nome": "Rocchetta Mattei e la Valle del Reno",
+      "sottotitolo": "Appennino bolognese, il castello eclettico del conte Mattei e la chiesa di Alvar Aalto lungo la Porrettana",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto: A1 Firenze–Bologna fino a Sasso Marconi, poi la SS64 Porrettana verso Riola (Rocchetta Mattei e chiesa di Aalto), Vergato e Porretta Terme. In alternativa treno Firenze–Bologna Centrale e regionale per Riola (dalla stazione la Rocchetta è a circa 1,5 km a piedi o con il bus TPER 963), ma poi il giro tra le tappe richiede orari ben calcolati.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h15–1h30 in auto da Firenze fino a Riola (stima su circa 85 km); in treno 1h–1h15 fino a Bologna più circa 30–40 minuti di regionale per Riola.",
+      "durataViaggioMinuti": 90,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre: la Rocchetta ha più aperture (in estate anche il sabato pomeriggio) e i boschi dell'Appennino sono belli. In pieno inverno c'è il rischio di neve e ghiaccio sulla Porrettana.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "costoMin": 43,
+      "costoMax": 73,
+      "costoNota": "Il costo della vettura (benzina e A1) è diviso per due viaggiatori. Il pedaggio è calcolato sulla tariffa Firenze–Bologna di 8,90 € a tratta, per eccesso: l'uscita di Sasso Marconi costa un po' meno.",
+      "dipendenzaAuto": "auto-opzionale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le quattro tappe sono lungo un'unica strada, la Porrettana, e distano tra loro 5–20 km: Riola e Grizzana Morandi sono quasi attaccate, Vergato è a pochi minuti, Porretta Terme è l'ultima. La Rocchetta si visita solo con guida di poco più di un'ora e solo nei weekend, quindi il resto della giornata basta per la chiesa di Aalto, una passeggiata a Grizzana, il pranzo e una sosta a Porretta. Non serve dormire, ma non è una meta da fare in un giorno feriale.",
+      "cosaVedere": [
+        "Rocchetta Mattei (Grizzana Morandi): il castello costruito dal conte Cesare Mattei, inventore dell'elettromeopatia, con stili neogotico, moresco e medievale mescolati; si visita solo con guida, in gruppi fino a 20 persone, per poco più di un'ora.",
+        "Chiesa della Natività di Maria a Riola: l'unica opera di Alvar Aalto in Italia, in cemento e mattoni con luce zenitale; vale la deviazione anche per chi non è appassionato di architettura.",
+        "Grizzana Morandi: il paese a cui il pittore Giorgio Morandi si legò per le estati in campagna; una passeggiata nel centro basta a capire il paesaggio che dipingeva.",
+        "Vergato: capoluogo della valle, utile per una sosta caffè o per il pranzo, con l'atmosfera di un paese di appennino vero e non turistico.",
+        "Porretta Terme: città termale lungo il Reno, con le sue fonti storiche e il centro lungo il fiume; si chiude il giro con una passeggiata e una crescentina."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "Circa 220 km tra andata e ritorno (A1 fino a Sasso Marconi, SS64 e tappe lungo la valle) a 0,129 €/km, circa 28 € di carburante. Distanza stimata, non verificata km per km.",
+          "min": 28,
+          "max": 28,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto: pedaggio A1",
+          "testo": "8,90 € a tratta Firenze–Bologna, 17,80 € A/R (tariffa usata come tetto: Sasso Marconi è prima di Bologna).",
+          "min": 17.8,
+          "max": 17.8,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rocchetta Mattei",
+          "testo": "10 € intero, 5 € ridotto; visita guidata con prenotazione online obbligatoria.",
+          "min": 5,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "15–20 € nelle opzioni più economiche (crescentine, tigelle, pizzeria), 25–40 € per un pasto completo bevande incluse; stima generale per Porretta Terme.",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Firenze–Bologna A/R (alternativa)",
+          "testo": "Regionale da circa 10 € a tratta, Frecciarossa 33–44 € a tratta in alcune date; il tratto Bologna–Riola/Porretta è un regionale da 5–7 € a tratta.",
+          "min": 30,
+          "max": 100,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggio sono costi della vettura (45,80 € in totale, circa 22,90 € a persona con due viaggiatori); Rocchetta e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "La Rocchetta è aperta solo sabato e domenica: in inverno 10–15, in estate 9:30–13 e 15–17:30. Da novembre, quindi, solo orario invernale. Controllare eventuali chiusure straordinarie prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Prenotazione sempre obbligatoria per la Rocchetta, online sul sito ufficiale (rocchetta-mattei.it/visite), con data e fascia oraria; il biglietto non è rimborsabile, ma si può cambiare il nome via email."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Nessuna ZTL nei paesi della valle. Con il treno, la Rocchetta è a circa 1,5 km (15 minuti a piedi) dalla stazione di Riola oppure raggiungibile con il bus TPER 963; i passaggi tra le altre tappe in treno richiedono orari da controllare in anticipo."
+        }
+      ],
+      "note": "Prenota prima la Rocchetta e costruisci il resto della giornata attorno al suo orario: nel weekend invernale le fasce sono concentrate al mattino, quindi conviene la prima fascia e poi pranzo a Porretta o Vergato. La Porrettana è una strada lenta e curva: a Riola, la chiesa di Aalto è facilmente raggiungibile a piedi dal centro, ma controlla prima se è aperta alle visite fuori dagli orari della messa.",
+      "fonti": [
+        "https://www.bolognawelcome.com/it/luoghi/castelli-e-rocche/rocchetta-mattei",
+        "https://www.idealista.it/news/vacanze/mete-turistiche/2025/09/12/268900-rocchetta-mattei-dove-si-trova-il-castello-delle-meraviglie",
+        "https://www.omio.it/treni/porretta-terme/bologna-sracf",
+        "https://www.omio.it/treni/firenze/bologna",
+        "https://www.sluurpy.it/hotel/porretta-terme",
+        "https://appenninobolognese.cittametropolitana.bo.it/it/locali/ristorante/ristorante-il-bassotto"
+      ],
+      "aggiuntaIl": "2026-11-10",
+      "coordinate": {
+        "lat": 44.2406,
+        "lon": 11.0
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "La visita guidata alla Rocchetta dura oltre un'ora e ha molte scale; per un bimbo di 4 anni è faticosa, ma il castello fiabesco può piacere."
+      }
+    },
+    {
       "id": "san-casciano-dei-bagni-e-sarteano-1g",
       "nome": "San Casciano dei Bagni e Sarteano",
       "sottotitolo": "Toscana (Siena), borghi termali etruschi al confine con Umbria e Lazio",
@@ -6411,6 +6765,109 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Strade in salita e scale, ma il Parco Beverly Pepper è gratuito e aperto per correre; con il passeggino meglio usare l'ascensore."
+      }
+    },
+    {
+      "id": "valdarno-san-giovanni-loro-ciuffenna-e-le-balze-1g",
+      "nome": "Valdarno: San Giovanni Valdarno, Loro Ciuffenna e le Balze",
+      "sottotitolo": "Toscana, la città natale di Masaccio e il borgo sospeso sul canyon con il mulino più antico d'uso in Toscana",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno Regionale da Firenze S.M.N. a San Giovanni Valdarno (circa 30-35 minuti, oltre 30 corse al giorno), poi per Loro Ciuffenna (una decina di km) bus locale o taxi, oppure auto propria se si vuole includere Gropina e le Balze con calma. Senza auto la giornata resta fattibile ma gli orari dei bus vanno controllati prima.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 30-50 minuti in treno fino a San Giovanni Valdarno; 15-20 minuti in più per raggiungere Loro Ciuffenna.",
+      "durataViaggioMinuti": 60,
+      "periodoMiglioreTesto": "Primavera e inizio autunno: sentieri delle Balze e borgo piacevoli, luce bella sulle pareti di sabbia. In inverno è più tranquillo ma le giornate sono corte; luglio e agosto sono caldi.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 29,
+      "costoMax": 62,
+      "costoNota": "Il trasporto locale tra San Giovanni e Loro Ciuffenna (bus o taxi) non ha una tariffa verificata e non è incluso nel totale.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "San Giovanni Valdarno ha un centro piccolo e pianeggiante: Casa Masaccio, il Palazzo d'Arnolfo e il Museo della Basilica si vedono in circa due ore. Loro Ciuffenna è a pochi chilometri e richiede circa mezza giornata per borgo, mulino e un tratto delle Balze. Due soli poli, distanze brevi: si fa con ritmo tranquillo, senza dormire.",
+      "cosaVedere": [
+        "Casa Masaccio a San Giovanni Valdarno: la casa natale del pittore, oggi centro per l'arte contemporanea, a ingresso gratuito.",
+        "Museo della Basilica di Santa Maria delle Grazie: arte sacra della città, biglietto intero 4 €, ridotto 3 €.",
+        "Centro storico di San Giovanni Valdarno: impianto trecentesco pianificato, con Palazzo d'Arnolfo e piazza Cavour da percorrere a piedi.",
+        "Loro Ciuffenna: il paese si sviluppa sopra una gola del torrente Ciuffenna, con case aggrappate alla roccia e vicoli ripidi.",
+        "Mulino ad acqua di Loro Ciuffenna: indicato come il più antico ancora attivo in Toscana, macina farina di castagne ed è visitabile.",
+        "Area naturale protetta delle Balze: pareti sabbiose e pinnacoli tra i torrenti Resco e Ciuffenna, con colori che cambiano con la luce.",
+        "Pieve di San Pietro a Gropina: chiesa romanica sulla Strada dei Sette Ponti con capitelli scolpiti, da aggiungere se si ha l'auto."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Regionale da circa 7 € a tratta (media 8 €): 14-18 € A/R.",
+          "min": 14,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Musei",
+          "testo": "Casa Masaccio gratuita; Museo della Basilica 4 € intero, 3 € ridotto.",
+          "min": 0,
+          "max": 4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "15-20 € in versione economica, 25-40 € per un pasto completo con bevande in un ristorante di Loro Ciuffenna.",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona; senza auto non ci sono voci della vettura.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Loro Ciuffenna ha traffico limitato e salite con scale: il passeggino è scomodo nelle zone alte."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Casa Masaccio secondo la scheda museionline: mar-sab 15-19, dom e festivi 10-19 (lunedì chiuso, dati 2023). Museo della Basilica: gio-dom 10-13 e 15:30-19, chiuso lun-mer (dati 2023)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione indicata; gli orari dei musei vanno confermati per telefono (Casa Masaccio 055 9126283, Museo della Basilica 055 9123735)."
+        }
+      ],
+      "note": "Gli orari dei musei di San Giovanni sono pomeridiani o limitati a giovedì-domenica, quindi conviene farla un sabato o una domenica; la mattina di giovedì-domenica può andare al Museo della Basilica e il pomeriggio a Casa Masaccio. Mettere Loro Ciuffenna all'ora di pranzo. I tempi e i prezzi del trasporto locale tra San Giovanni e Loro Ciuffenna non sono verificati: controlla gli orari bus prima di partire.",
+      "fonti": [
+        "https://www.omio.it/treni/s-giovanni-valdarno/firenze-santa-maria-novella-p4gen",
+        "https://museionline.info/musei/casa-masaccio",
+        "https://museionline.info/musei/museo-della-basilica-di-s-maria-delle-grazie",
+        "https://www.nostrofiglio.it/famiglia/viaggi/case-sospese-e-il-mulino-piu-antico-della-toscana-il-borgo-per-una-gita-con-i-bambini",
+        "https://www.sluurpy.it/loro-ciuffenna/ristorante",
+        "https://visittuscany.com/en/attractions/casa-masaccio"
+      ],
+      "aggiuntaIl": "2026-11-10",
+      "coordinate": {
+        "lat": 43.5686,
+        "lon": 11.5255
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Mulino ad acqua e borgo sospeso piacciono ai bimbi, ma con scale e salite il passeggino è scomodo."
       }
     },
     {
@@ -7976,6 +8433,126 @@
       "bambini": {
         "adatta": "si",
         "nota": "Il Ponte Gobbo e il castello piacciono ai bimbi, ma il ponte ha parapetti bassi e il viaggio in auto è lungo."
+      }
+    },
+    {
+      "id": "bologna-completa-colli-e-san-luca-2g",
+      "nome": "Bologna completa: musei, San Luca e i colli",
+      "sottotitolo": "Emilia-Romagna, due giorni tra musei, portico di San Luca, parchi collinari e Certosa",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. a Bologna Centrale: Frecciarossa/Italo diretti in circa 35-40 minuti, oppure Regionale (da circa 1h26 a 1h44, a volte con cambio). In città ci si muove a piedi e con i bus urbani, che servono anche il Santuario di San Luca; l'auto non serve e il centro è in gran parte ZTL.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 40 minuti in alta velocità, 1h26-1h44 in Regionale; porta a porta circa 1h40 col Regionale.",
+      "durataViaggioMinuti": 100,
+      "periodoMiglioreTesto": "Da aprile a metà giugno e in autunno: giornate adatte a portico, colli e parchi. Luglio e agosto sono caldi; l'inverno è la stagione con gli alloggi più economici (gennaio il mese più basso).",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 174,
+      "costoMax": 332,
+      "costoNota": "Il viaggio comprende 1 notte (alloggio e pasti sono indicati al giorno e moltiplicati per 2 giorni: l'alloggio è la metà della tariffa per camera doppia, quindi il totale corrisponde a una notte). Biglietti di Certosa, parchi e portico non indicati perché non verificati.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il centro storico da solo (già in catalogo in 1 giorno) lascia fuori ciò che qui fa la differenza: il portico di San Luca è lungo circa 4 km con 666 archi e 40-60 minuti solo di salita, quindi mezza giornata con santuario e cupola. Pinacoteca Nazionale, Museo della Storia di Bologna e MAMbo sono tre musei con orari diversi e chiusure diverse, e richiedono almeno una giornata se si vuole vederli con calma. Con una notte si distribuiscono bene: il giorno 1 sui musei, il giorno 2 su San Luca e sui colli, senza correre e con il rientro serale a Firenze in treno.",
+      "cosaVedere": [
+        "Portico e Santuario della Madonna di San Luca: da Porta Saragozza il portico sale per circa 4 km con 666 archi e 15 cappelle fino al santuario a 290 m; la salita richiede 40-60 minuti e la cupola con lanterna è visitabile in orari stabiliti.",
+        "Pinacoteca Nazionale: la grande pittura bolognese da Guido Reni ai Carracci, aperta da martedì a domenica 9-19 (ultimo ingresso 30 minuti prima), chiusa il lunedì.",
+        "Museo della Storia di Bologna: percorso multimediale che racconta la città dagli Etruschi a oggi, con il biglietto che comprende anche la visita storica.",
+        "MAMbo: il museo d'arte moderna e contemporanea, utile come pausa dalla pittura antica, con orari che cambiano nei giorni feriali e nel fine settimana.",
+        "Certosa di Bologna: il grande cimitero monumentale ottocentesco, tra chiostri, tombe scultoree e viali alberati, raggiungibile in autobus dalla città.",
+        "Colli bolognesi, Villa Ghigi e Parco Talon: i parchi collinari fuori città per una passeggiata nel verde e un punto di vista sulla città, da abbinare alla discesa da San Luca."
+      ],
+      "itinerario": null,
+      "alloggio": "Hotel 3 stelle a Bologna intorno a 98 € a notte in media per camera (circa 49 € a persona in doppia); da circa 111 € a notte a gennaio fino a 216 € a settembre per la media di tutte le categorie. Conviene dormire vicino alla stazione o nel quadrilatero del centro per tornare a piedi dai musei.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Regionale da circa 10 € a tratta; Frecciarossa/Italo circa 30-44 € a tratta.",
+          "min": 20,
+          "max": 88,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Musei (Pinacoteca, Museo della Storia, MAMbo)",
+          "testo": "Pinacoteca 8-12 €, Museo della Storia di Bologna 10 €, MAMbo 6 €.",
+          "min": 24,
+          "max": 28,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Hotel 3 stelle circa 98-150 € a notte per camera doppia, cioè circa 25-38 € a persona al giorno su 2 giorni (1 notte).",
+          "min": 25,
+          "max": 38,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pasto economico circa 15-20 €, pasto completo in trattoria 25-40 € bevande incluse; per pranzo e cena 40-70 € al giorno.",
+          "min": 40,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Auto (alternativa)",
+          "testo": "A1 Firenze-Bologna 8,90 € a tratta più circa 26 € di carburante (circa 200 km A/R a 0,129 €/km); parcheggio e ZTL non inclusi.",
+          "min": 44,
+          "max": 44,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Treno, musei, alloggio e pasti sono a persona; l'auto (solo come alternativa di confronto) è una spesa della vettura divisa per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico è in gran parte ZTL: in treno si evita il problema. Bus urbani e il portico a piedi portano a San Luca; il parcheggio vicino al santuario è affollato nei festivi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Pinacoteca Nazionale e MAMbo chiudono il lunedì. Il Museo della Storia ha orari diversi per giorno (a gennaio 2025 il martedì non risultava indicato): verificare prima."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria segnalata per i musei; la Pinacoteca è gratuita la prima domenica del mese e per gli under 18."
+        }
+      ],
+      "note": "Fate i musei il giorno 1 con la Pinacoteca e il Museo della Storia, tenendo il giorno 2 per San Luca e i colli: così evitate il lunedì, quando Pinacoteca e MAMbo sono chiusi. Salite al santuario al mattino presto in primavera e autunno, e valutate il bus per la discesa se le gambe hanno già dato. Prima del viaggio verificate gli orari ufficiali di MAMbo e Museo della Storia, perché i dati trovati sono del 2025.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/bologna",
+        "https://pinacotecabologna.beniculturali.it/it/orari-e-biglietti",
+        "https://thetravelfolk.com/museums-in-bologna/",
+        "https://siviaggia.it/posti-incredibili/santuario-della-madonna-di-san-luca-bologna/583764/",
+        "https://www.momondo.it/hotel/bologna",
+        "https://www.travel365.it/destinazioni/europa/italia/emilia-romagna/bologna/",
+        "https://www.sluurpy.it/bologna/della-casa"
+      ],
+      "aggiuntaIl": "2026-11-10",
+      "coordinate": {
+        "lat": 44.4949,
+        "lon": 11.3426
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il portico di San Luca è una salita lunga per un bimbo di 4 anni (meglio il bus), mentre i parchi sui colli sono adatti."
       }
     },
     {
@@ -17168,6 +17745,160 @@
       }
     },
     {
+      "id": "cefalonia-e-itaca-3g",
+      "nome": "Cefalonia e Itaca",
+      "sottotitolo": "Isole Ionie, Grecia: grotte, lago sotterraneo, borghi sul mare e una puntata a Itaca con il volo diretto Ryanair da Pisa",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto stagionale Ryanair Pisa (PSA) - Cefalonia/Argostoli (EFL), circa 1h55 di volo, operativo da giugno (verificare le date di fine stagione). Da Firenze si raggiunge Pisa in auto lungo la FI-PI-LI (gratuita, 85 km) o in treno più Pisa Mover. Da Bologna non risultano voli diretti per EFL (solo con scalo, 5h45 almeno), da Firenze Peretola non ne ho trovati di verificabili. Sull'isola serve un'auto a noleggio: i trasporti pubblici non reggono il ritmo di tre giorni.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 5 ore porta a porta: ~1h di auto Firenze-Pisa aeroporto, check-in, 1h55 di volo, ritiro auto e trasferimento dall'aeroporto di Argostoli.",
+      "durataViaggioMinuti": 300,
+      "periodoMiglioreTesto": "Giugno e settembre: il volo diretto da Pisa parte da giugno e a luglio-agosto i B&B costano il doppio rispetto all'autunno (media di circa 159 € a notte a luglio, 150 € ad agosto, 119 € a settembre, 71 € a ottobre). Fuori stagione il collegamento diretto da Pisa potrebbe non operare: controllare prima di prenotare.",
+      "mesi": [
+        6,
+        9
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 290,
+      "costoMax": 685,
+      "costoNota": "Totale a persona con 2 viaggiatori che condividono l'auto: include volo, auto a Pisa, alloggio (2 notti), pasti, noleggio auto sull'isola (18-40 € al giorno per 3 giorni, diviso due), ingressi a Melissani e Drogarati e il traghetto A/R per Itaca (opzionale, ma messo nel totale). Il carburante sull'isola non è incluso (nessun dato verificato sulle distanze). Le tariffe del traghetto divergono molto tra le fonti (3-18 € a tratta) e per questo la forbice è larga; noleggio e traghetto sono convertiti in euro da sterline e dollari con cambio approssimativo. L'alloggio è calcolato su 2 notti (per questo il valore giornaliero è un terzo in meno del prezzo a notte).",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 3,
+      "percheDurata": "L'isola ha un lato nord e uno ovest, ma i punti forti stanno in un raggio che si fa in macchina in mezza giornata: Drogarati e Melissani vicino a Sami, Assos e Fiscardo a nord, Myrtos sulla costa ovest. Un tour organizzato di 7-8 ore le tocca tutte in un giorno, quindi con auto propria in due giorni pieni si lavora con calma, con tempo per il bagno e per le soste nei villaggi. Il primo giorno è mezzo perso tra volo e trasferimento, il terzo si chiude con il rientro: Itaca, a 20-30 minuti di traghetto da Sami, resta un'aggiunta opzionale per chi rinuncia a una tappa. Meno di tre giorni non rende il volo, di più si può andare a spiaggia.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: arrivo all'aeroporto di Argostoli con il volo da Pisa (i voli sulla tratta si collocano tra le 9:30 e le 17:10), ritiro dell'auto a noleggio e trasferimento a Sami, base ideale per le grotte e per il traghetto verso Itaca. Passeggiata sul lungomare di Sami e cena in una taverna sul porto."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina presto al Lago Melissani, lago sotterraneo in una grotta crollata che si visita in barca con un barcaiolo, poi la Grotta di Drogarati con le sue sale a stalattiti. Si prosegue verso nord con Fiscardo, l'unico borgo veneziano rimasto integro dopo il terremoto del 1953, e Assos, penisola con castello e case colorate. Rientro a Sami per la sera. Un tour di 7-8 ore tocca le stesse tappe, a conferma che il giro si regge in un giorno."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: mattina libera a scelta. O Itaca: il traghetto Sami-Pisaetos dura 20-30 minuti con corse quotidiane (gli orari divergono tra le fonti, con prime partenze verso le 08:15: da controllare), utile per Vathy e un giro dell'isola di Ulisse. Oppure la spiaggia di Myrtos sulla costa ovest e Argostoli per una visita al lungomare prima del volo di rientro. Restituire l'auto in aeroporto con largo margine."
+        }
+      ],
+      "alloggio": "Una stanza per due costa mediamente 106-107 € a notte nei B&B (Likibu), con picchi a luglio (circa 159 €) e agosto (150 €) e minimi in ottobre (71 €); giugno e settembre stanno a 122 € e 119 €. Gli hotel 3 stelle partono da circa 52 € ad Argostoli e 53 € a Lixouri (Kayak). Esempi: Sami Beach Hotel da 130 €, Mary's Studios a Sami da 70 €, Mouikis Hotel ad Argostoli da 110 €, Romanza Studios ad Assos da 65 €, Fiscardo Bay Hotel da 160 € (tutti prezzi di partenza indicati da Voyagetips, variano per data). Dormire a Sami per le grotte e il traghetto; Argostoli per tornare in aeroporto con meno stress.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Pisa-Cefalonia",
+          "testo": "Ryanair, unica compagnia sul diretto: la migliore offerta A/R trovata costa 59 €, mentre il prezzo medio di tutti i voli (diretti e con scalo) è di 154 € e i voli del mattino fanno in media 126 €.",
+          "min": 59,
+          "max": 154,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto e parcheggio a Pisa aeroporto",
+          "testo": "Circa 22 € di benzina Firenze-Pisa e ritorno più 12-18 € di parcheggio per due giorni (parametri del documento); sulla terza giornata il parcheggio costa qualcosa in più.",
+          "min": 34,
+          "max": 40,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti)",
+          "testo": "Circa 52-160 € a notte per la camera doppia (da hotel 3 stelle ad Argostoli ai B&B in alta stagione), cioè 26-80 € a persona a notte: espresso per 3 giorni sono 17-53 € a persona al giorno.",
+          "min": 17,
+          "max": 53,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Cena in taverna a Cefalonia circa 20-30 € a persona (Apostolis a Skala 25 €, To Petrino a Fiscardo 20 €, Nefeli ad Assos 30 €; pizzeria ad Argostoli 12-25 €, Voloscontato); la media dichiarata dai viaggiatori per un pasto al ristorante è 32 € e per tutti i pasti del giorno 81 € (BudgetYourTrip, convertiti da dollari). Fascia: due pasti da circa 20 € (min) fino a 81 € al giorno (max).",
+          "min": 40,
+          "max": 81,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Noleggio auto sull'isola",
+          "testo": "Utilitaria per 3 giorni (ritiro e riconsegna all'aeroporto): da circa 15-17 £ al giorno per Panda, Micra o Celerio (Discover Cars, Alma Car Hire, circa 18-20 €) a una media di 45 $ al giorno ad agosto (Kayak, circa 39 €); la categoria piccola oscilla tra 10 e 44 $ al giorno. Fascia usata 18-40 € al giorno per auto, divisa per due viaggiatori. Prezzi convertiti in euro con cambio approssimativo (1 £ = 1,15 €; 1 $ = 0,86 €); assicurazione extra e carburante sull'isola non inclusi.",
+          "min": 18,
+          "max": 40,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi grotte (Melissani e Drogarati)",
+          "testo": "Lago Melissani 10 € a persona (bambini a metà prezzo, barca con barcaiolo inclusa); biglietto combinato Melissani più Drogarati 13 €. Estate (maggio-ottobre) 9:00-19:00; in inverno solo giovedì e fine settimana 10:00-16:00 (The World Travel Guy, dati indicati come 2026). Fascia 10-13 € a persona.",
+          "min": 10,
+          "max": 13,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traghetto Sami-Itaca",
+          "testo": "Passeggero a piedi, andata e ritorno Sami-Pisaetos (20-30 minuti, Levante Ferries e Ionion Pelagos): le fonti divergono, da 3-5 € a tratta (Ferryscanner) a una media di 18 € a tratta (Direct Ferries), quindi 6-36 € A/R a persona. Si può andare a piedi e lasciare l'auto a Sami, così non si paga il passaggio dell'auto (indicativamente 5-55 € a tratta secondo le stesse fonti). Bambini fino a 5 anni gratis e 5-10 anni a metà prezzo (Netferry). Confermare la tariffa in fase di prenotazione.",
+          "min": 6,
+          "max": 36,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Volo, alloggio, pasti, ingressi e traghetto (a piedi) sono a persona. Auto e parcheggio a Pisa aeroporto e noleggio a Cefalonia sono della vettura e si dividono per due viaggiatori.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il diretto Pisa-Cefalonia è stagionale (da giugno) e solo Ryanair; da Bologna esiste solo un volo con scalo (5h45 almeno, ITA Airways da circa 102 €). Verificare le date di inizio e fine stagione sul sito della compagnia."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Senza auto a noleggio le tappe sono raggiungibili solo con tour organizzati di 7-8 ore (Drogarati, Melissani, Assos, Fiscardo, Myrtos), che costano più dell'auto."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il traghetto Sami-Itaca (Pisaetos) opera ogni giorno, ma gli orari variano a seconda della fonte e della stagione (prima partenza intorno alle 08:15, 11 corse a settimana da giugno a settembre secondo Ferryscanner, 2 al giorno secondo Direct Ferries): controllare il giorno esatto. Melissani è aperto 9:00-19:00 da maggio a ottobre; in inverno solo giovedì e fine settimana 10:00-16:00. Orari di Drogarati non verificati."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "L'ingresso alla grotta di Melissani non è compreso nei tour organizzati (si paga a parte, 10 € a persona o 13 € con Drogarati); in alta stagione conviene prenotare camera e auto con largo anticipo perché a luglio solo il 29% dei B&B risulta ancora disponibile."
+        }
+      ],
+      "note": "Sami è la scelta giusta come base: a pochi minuti ci sono le due grotte e il molo del traghetto per Itaca, mentre Argostoli è più comoda solo per l'ultima notte prima del volo. Arrivate a Melissani appena aprono, prima dei pullman dei tour, e portate contanti: con i barcaioli si paga sul posto. Da Pisa conviene il volo del mattino, che in media costa circa 126 € contro i 204 € di quelli serali, e lascia mezza giornata utile già all'arrivo. Il costo dipende molto dal mese: a ottobre i B&B costano la metà di luglio, ma il diretto potrebbe non volare più.",
+      "fonti": [
+        "https://www.flightconnections.com/flights-from-efl-to-psa",
+        "https://www.kayak.it/voli/Pisa-San-Giusto-PSA/Cefalonia-zzLHH",
+        "https://www.momondo.it/volo/bologna/cefalonia-regione",
+        "https://www.grecia.info/isole-ionie/cefalonia/voli-cefalonia/",
+        "https://www.likibu.com/it/appartamenti-affitto-vacanze/cefalonia/bed-breakfast",
+        "https://www.kayak.it/Cefalonia-Hotel.f2000473.dr.html",
+        "https://www.voyagetips.com/it/dove-dormire-a-cefalonia/",
+        "https://it.netferry.com/traghetti/da/sami-cefalonia/pisaetos-itaca",
+        "https://lokalee.app/en/tours/kefalonia-highlights-tour-melissani-lake-assos-fiskardo-and-more",
+        "https://activities.easyjet.com/it/kefalonia/wycieczka-nad-jezioro-melissani-i-na-plaze-myrtos-3-499965",
+        "https://www.kayak.com/Argostoli-Cephalonia-Airport-Car-Rentals.EFL.cap.ksp",
+        "https://www.discovercars.com/uk/partners/almacarhire-1756",
+        "https://ferryscanner.com/en/ferry-routes/ferry-sami-kefalonia-ithaca-all-ports",
+        "https://www.directferries.ie/sami_ithaka_ferry.htm",
+        "https://theworldtravelguy.com/melissani-cave-lake/",
+        "https://www.budgetyourtrip.com/greece/kefalonia",
+        "https://www.voloscontato.it/ristoranti/cefalonia-dove-mangiare-bene-spendendo-poco.php"
+      ],
+      "aggiuntaIl": "2026-11-10",
+      "coordinate": {
+        "lat": 38.25,
+        "lon": 20.57
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Volo di meno di due ore e traghetto breve (gratis fino a 5 anni), ma le giornate in auto tra grotte e borghi sono lunghe per un bimbo di 4 anni."
+      }
+    },
+    {
       "id": "colonia-e-dusseldorf-3g",
       "nome": "Colonia e Düsseldorf",
       "sottotitolo": "Renania Settentrionale-Vestfalia (Germania), il Duomo gotico sul Reno e la capitale dell'arte e dell'Altbier a 21 minuti di treno",
@@ -17506,6 +18237,158 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Con un bimbo di 4 anni sono faticosi i bus pieni sui tornanti e le molte scale di Amalfi, Ravello e Positano; il passeggino è scomodo."
+      }
+    },
+    {
+      "id": "cuneo-valle-maira-e-mondovi-3g",
+      "nome": "Cuneo, Valle Maira e Mondovì",
+      "sottotitolo": "Piemonte occidentale: la città porticata di Cuneo come base, una valle occitana fino al confine francese e la Mondovì dei due centri storici",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Auto propria da Firenze: circa 373 km e 3h34 in autostrada, con pedaggio di 36,40 € a tratta (stima Unipol Move). L'auto serve davvero: in Valle Maira i bus oltre Dronero sono rari e le grotte di Bossea e il Santuario di Vicoforte sono fuori dai centri. Base consigliata: Cuneo, da cui Mondovì dista circa 22 km e la Valle Maira si imbocca a Dronero.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h35 in auto (373 km) con pedaggi, escluse soste e code ai caselli.",
+      "durataViaggioMinuti": 215,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre: strade della valle libere dalla neve, locande aperte e temperature miti. Da dicembre a febbraio la parte alta della Valle Maira (Elva, Acceglio) è poco praticabile e molte locande chiudono da novembre a primavera. Le grotte di Bossea restano a circa 9 °C tutto l'anno, quindi sono una buona alternativa nei giorni di pioggia.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        12
+      ],
+      "costoMin": 286,
+      "costoMax": 475,
+      "costoNota": "Costo a persona per 3 giorni e 2 notti con 2 viaggiatori sulla stessa auto. I chilometri locali (Bossea, Valle Maira, Mondovì) sono una mia stima di circa 250-300 km, non una distanza verificata. I prezzi dei pasti vengono da una guida del 2019 e vanno considerati un minimo. Dormendo in locanda in Valle Maira con mezza pensione (80-120 € a persona) la spesa sale.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Tre giorni bastano per fare tre cose diverse senza correre. La Valle Maira è lunga circa 45 km con 17 borghi e per arrivare ad Acceglio da Dronero serve quasi un'ora di strada, quindi occupa una giornata intera da sola, con San Peyre, Elva e la risalita fino al confine. Mondovì ha due centri collegati dalla funicolare, un museo, una chiesa dipinta da Andrea Pozzo e, a pochi chilometri, il Santuario di Vicoforte: mezza giornata piena. Bossea ha visite guidate di 90-100 minuti con orari fissi, che di fatto bloccano un pomeriggio. In due giorni qualcosa va tagliato, in quattro si farebbero tappe lunghe di Valle Maira.",
+      "cosaVedere": [
+        "Cuneo: centro storico porticato con le trattorie piemontesi, ideale per la passeggiata serale e come base per dormire.",
+        "San Peyre a Stroppo: chiesa romanico-gotica del XII-XIII secolo a 1233 m, su uno sperone sopra la valle, con affreschi trecenteschi e quattrocenteschi.",
+        "Elva: la chiesa parrocchiale con l'abside affrescata da Hans Clemer all'inizio del Cinquecento, in fondo a una strada stretta e piena di tornanti.",
+        "Acceglio: ultimo comune della valle, a ridosso della Francia, tra sentieri panoramici e alpeggi, per una passeggiata in quota.",
+        "Mondovì: funicolare disegnata da Giorgetto Giugiaro che sale in poco più di due minuti da Breo a Piazza, poi Piazza Maggiore, la Cattedrale di San Donato e i Giardini del Belvedere con vista sulle Alpi.",
+        "Chiesa della Missione a Mondovì: la falsa cupola dipinta da Andrea Pozzo, un trompe-l'oeil da guardare dal punto giusto.",
+        "Santuario di Vicoforte: cupola ellittica tra le più grandi al mondo, interno affrescato e salita Magnificat fino a 60 metri su 266 gradini.",
+        "Grotte di Bossea: percorso guidato di circa 2 km con dislivello di quasi 200 m, torrente perenne e sale concrezionate, la prima grotta aperta al pubblico in Italia (1874)."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza presto da Firenze, circa 3h35 di autostrada fino alla zona di Cuneo. Pranzo in viaggio o a Frabosa Soprana e visita guidata alle Grotte di Bossea alle 15:00 (nei feriali ci sono solo le 11:00 e le 15:00): 90-100 minuti a circa 9 °C, quindi felpa e giacca impermeabile. Poi a Cuneo per il check-in, passeggiata sotto i portici e cena in una trattoria piemontese del centro."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Valle Maira, tutta in macchina. Da Dronero si sale sul fondovalle fino a Stroppo per la chiesa di San Peyre. Se parti presto aggiungi la deviazione verso Elva per gli affreschi di Hans Clemer. Poi risali verso Acceglio per il pranzo e una camminata breve nei dintorni. In alternativa, se il tempo stringe, scegli una sola delle due mete: Acceglio è lontana da Dronero quasi un'ora. Rientro a Cuneo nel tardo pomeriggio."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: da Cuneo a Mondovì (circa 22 km). Parcheggio gratuito vicino alla stazione bassa della funicolare, salita a Piazza, Piazza Maggiore, Cattedrale, Chiesa della Missione e Giardini del Belvedere. Pranzo in Piazza. Alle 14:30 il Santuario di Vicoforte riapre dopo la pausa di mezzogiorno: giro nella basilica e, se è sabato o domenica e hai prenotato, la salita Magnificat. Poi rientro a Firenze, circa 3h35 dalla zona di Cuneo, con arrivo in serata."
+        }
+      ],
+      "alloggio": "Base consigliata: Cuneo. B&B in città o nei dintorni da 60 a 93 € a notte per due (Dimora della Posta a Mondovì 60 €, Cuneo Guest House 70 €, B&B Cuneo Centro 85 €, Virgula B&B 93 € con colazione). Gli hotel a Cuneo partono da circa 57 € a notte; la media è 66 € a novembre e 124 € a maggio, il mese più caro. In Valle Maira una camera a Dronero parte da circa 80 € e la mezza pensione nelle locande va da 80 a 120 € a persona, ma molte chiudono da novembre alla primavera e le camere sono poche: prenota con anticipo. Per questa scheda calcolo 60-125 € a notte per due, cioè 30-62 € a persona a notte.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Circa 1000-1050 km totali (373 km a tratta più circa 250-300 km locali, stima) a 0,129 €/km: circa 125-140 €.",
+          "min": 125,
+          "max": 140,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi autostradali",
+          "testo": "36,40 € a tratta Firenze-Cuneo, circa 73 € A/R.",
+          "min": 73,
+          "max": 73,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Grotte di Bossea",
+          "testo": "14 € adulto per il percorso completo (9 € per i bambini 3-10 anni); esistono anche percorso breve e aperitivo in grotta, non quotati.",
+          "min": 14,
+          "max": 14,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Santuario di Vicoforte - Magnificat",
+          "testo": "Percorso breve (23 m) 8 €, salita completa alla cupola (60 m) 18 €; minimo 14 anni per la cupola. L'ingresso alla basilica e la funicolare di Mondovì non hanno una tariffa verificata.",
+          "min": 8,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "2 notti a 30-62 € a persona (60-125 € a camera doppia), ripartite sui 3 giorni: 20-42 € al giorno a persona.",
+          "min": 20,
+          "max": 42,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 10-25 € in pizzeria o osteria, cena 25-35 € in trattoria piemontese (listino 2019, probabilmente più alto oggi); totale 35-70 € al giorno.",
+          "min": 35,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono costi della vettura e si dividono per due viaggiatori; ingressi, alloggio e pasti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Parcheggio gratuito vicino alla stazione bassa della funicolare di Mondovì (Breo). La strada per Elva è stretta e a tornanti, quella per Acceglio supera l'ora da Dronero: partire prima delle 9."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Santuario di Vicoforte: dal 2 novembre al 1 aprile 8-12 e 14:30-18, dal 2 aprile al 1 novembre 8-12 e 14:30-19. Le grotte di Bossea chiudono il 25 dicembre e il 1 gennaio; da ottobre a febbraio gli orari possono cambiare, quindi telefona."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Bossea: prenotazione sempre obbligatoria, visite feriali alle 11:00 e 15:00, sabato 10:00, 11:00, 15:00 e 16:30, festivi 10:00, 11:00, 14:30, 16:00 e 17:30."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Magnificat di Vicoforte: prenotazione fortemente consigliata, visite soprattutto nei weekend e nei festivi (tutti i giorni ad agosto), minimo 14 anni per la salita alla cupola."
+        }
+      ],
+      "note": "Il trucco è dividere i giorni per logistica: Bossea al primo pomeriggio del giorno di arrivo, perché la visita delle 15:00 ti lascia il tempo di raggiungere Cuneo per cena, e Mondovì alla fine, così fai Vicoforte alle 14:30 e parti per Firenze senza fretta. In Valle Maira chiedi in anticipo quali locande sono aperte e mangia dove dormi, perché nei borghi spesso c'è un solo posto aperto: raviolàs di toma, polenta concia e agnello con castagne. Se vai a Mondovì nel weekend dell'Epifania c'è il raduno di mongolfiere, ma le strade sono piene. Per il ritorno, valuta di tornare dalla zona di Mondovì senza ripassare per Cuneo.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Cuneo/",
+        "https://www.kayak.it/Hotel-a-Cuneo.20007.hotel.ksp",
+        "https://www.bed-and-breakfast.it/en/cuneo?prezzo=1",
+        "https://www.avygeo.com/it/guide/europa/italia/r-811-valle-maira/dove-dormire",
+        "https://www.finestresullarte.info/viaggi/valle-maira-piemonte-cosa-vedere-10-luoghi-da-scoprire",
+        "https://www.visitcuneese.it/dettaglio-localita/-/d/valle-maira-the-wild-heart-of-the-occitan-alps",
+        "https://travel.thewom.it/italia/piemonte/grotte-di-bossea.html",
+        "https://travel.thewom.it/italia/piemonte/mondovi.html",
+        "https://www.nostrofiglio.it/famiglia/viaggi/mondovi-con-i-bambini-tra-funicolari-panoramiche-e-la-capitale-delle-mongolfiere",
+        "https://www.visitcuneese.it/en/dettaglio-punto-di-interesse/-/d/santuario-basilica-regina-montis-regalis-vicoforte",
+        "https://abbonamentomusei.it/en/notizia/santuario-di-vicoforte-lavventura-magnificat/",
+        "https://www.voloscontato.it/ristoranti/cuneo-dove-mangiare-bene-spendendo-poco.php"
+      ],
+      "aggiuntaIl": "2026-11-10",
+      "coordinate": {
+        "lat": 44.384,
+        "lon": 7.543
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Funicolare e grotte (9 € dai 3 ai 10 anni) piacciono a un bimbo di 4 anni, ma la strada a tornanti per Elva e Acceglio è lunga e la salita Magnificat è vietata sotto i 14 anni."
       }
     },
     {
@@ -20400,6 +21283,166 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Musei gratuiti e Albert Dock piacciono a un bimbo di 4 anni, ma il volo mattutino e il ritmo con treno e stadi sono impegnativi."
+      }
+    },
+    {
+      "id": "molise-termoli-campobasso-e-isernia-3g",
+      "nome": "Molise: Termoli, Campobasso, Isernia e Agnone",
+      "sottotitolo": "Molise, borgo marinaro sull'Adriatico e cuore appenninico tra castelli, rovine romane e fonderie di campane",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Auto propria o a noleggio: Firenze–Bologna sulla A1, poi A14 Adriatica fino all'uscita di Termoli (circa 542 km e 46 € di pedaggio a tratta). In treno non esiste un collegamento diretto affidabile (almeno un cambio, 5–7 ore a tratta) e, una volta in Molise, i centri interni sono serviti male dai mezzi pubblici: l'auto serve comunque per Sepino, Agnone e Isernia.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 5h10 in auto (542 km, A1 + A14); in treno 5h30–7h con almeno un cambio.",
+      "durataViaggioMinuti": 311,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre: temperature miti, borghi senza folla e prezzi dei B&B sulla costa ancora bassi (Termoli a ottobre intorno a 86 € di media). Da evitare agosto, quando Termoli raggiunge i prezzi più alti dell'anno (circa 140 € di media per i B&B), e gennaio–febbraio, freddi e piovosi nell'interno appenninico.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        8
+      ],
+      "costoMin": 327,
+      "costoMax": 446,
+      "costoNota": "Il peso maggiore è la strada: circa 1.380 km complessivi tra A/R da Firenze e spostamenti interni (circa 300 km, stima non verificata). Pasti: 40–60 € al giorno a persona (pranzo semplice 15–20 € più cena 25–40 €, da fasce di Sluurpy e Voloscontato; quest'ultima del 2022). Alloggio calcolato su 2 notti ripartite sui 3 giorni. Il biglietto della Fonderia/Museo Marinelli di Agnone non è stato trovato online e non è incluso nel totale: chiedere allo 0865 78235.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Il Molise si gira bene in tre giorni solo se si accetta un ritmo sostenuto e si rinuncia alle tappe minori. Il viaggio da Firenze pesa: 5 ore e mezza a tratta significano che il primo pomeriggio è già Termoli e l'ultimo giorno finisce col rientro. In mezzo restano due giornate piene per le quattro tappe principali: il borgo vecchio e il castello di Termoli, Campobasso con Castello Monforte e Museo Sannitico, l'area archeologica di Altilia-Saepinum, e infine Agnone con la fonderia di campane e il museo paleolitico di Isernia. Sono tappe di dimensione contenuta, poche ore ciascuna, ma distanziate da strade secondarie di montagna; con due soli pernottamenti non c'è spazio per un'altra tappa e un quarto giorno farebbe respirare l'itinerario.",
+      "cosaVedere": [
+        "Termoli, borgo vecchio: il quartiere medievale su un promontorio sul mare, con il Castello Svevo (XIII secolo, visitabile su richiesta al Comune) e la cattedrale che custodisce le reliquie di San Basso e San Timoteo.",
+        "Lungomare e cucina di Termoli: la costa è il posto giusto per assaggiare il brodetto alla termolese e il pesce dell'Adriatico, in locali come Casa Tornola e Salsedine segnalati dalla stampa di viaggio.",
+        "Campobasso: Castello Monforte (XV secolo) sulla collina sopra la città, la cattedrale della Santissima Trinità e il Museo Sannitico Provinciale per capire il popolo che popolava queste montagne prima di Roma.",
+        "Altilia-Saepinum (Sepino): una città romana con mura, porte (compresa la Porta di Boiano), foro, basilica e terme, ancora in gran parte in piedi e senza folla; il biglietto da 10 € vale anche per il museo.",
+        "Agnone: la Pontificia Fonderia Marinelli, tra le più antiche fonderie di campane ancora attive, con la tecnica della cera persa, e il museo annesso.",
+        "Isernia: il Museo Paleolitico de La Pineta (vicino alla stazione, poco segnalato) con il giacimento di 700.000 anni fa, la cattedrale di San Pietro Celestino e le botteghe del tombolo."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Partenza presto da Firenze e arrivo a Termoli per pranzo (542 km, circa 5h10). Pomeriggio nel borgo vecchio: salita al Castello Svevo (visita su richiesta al Comune, 0875 712381), cattedrale, vicoli e belvedere sul mare. Cena a base di pesce (brodetto) e notte a Termoli."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Mattina da Termoli verso l'interno fino a Campobasso: centro storico, Castello Monforte, cattedrale e Museo Sannitico. Pranzo in osteria con pasta fresca e salumi locali. Primo pomeriggio ad Altilia-Saepinum per foro, basilica e Porta di Boiano (biglietto cumulativo con il museo 10 €). Trasferimento serale verso Agnone o Isernia per la notte."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Mattina ad Agnone alla Pontificia Fonderia Marinelli e al museo della campana, poi Isernia per il Museo Paleolitico (circa 1,5 km dalla stazione) e un giro in cattedrale. Nel pomeriggio rientro a Firenze in auto, con arrivo in serata (5–6 ore stimate): meglio non prenotare impegni la sera."
+        }
+      ],
+      "alloggio": "Per due persone in B&B o hotel 3 stelle contare 55–110 € a notte. Termoli: i B&B partono da circa 71 € e arrivano a 180 €, media 84 € (circa 68 € a gennaio e febbraio, 86 € a ottobre e novembre, 140 € ad agosto). Campobasso è più economica: media circa 59 € a notte per un B&B (da 35 a 184 €). Per la notte tra giorno 2 e 3 conviene scegliere Agnone o Isernia, così la mattina seguente si parte da vicino; sull'interno i prezzi di agriturismi e B&B si collocano tra 45 e 120 € a notte secondo guide generali sul Molise.",
+      "costiDettaglio": [
+        {
+          "voce": "Benzina",
+          "testo": "Circa 1.380 km totali (2 × 542 km Firenze–Termoli più circa 300 km tra Termoli, Campobasso, Sepino, Agnone e Isernia), a 0,129 €/km = 175–185 € per l'intera vettura.",
+          "min": 175,
+          "max": 185,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi autostradali",
+          "testo": "46 € a tratta Firenze–Termoli (A1 + A14), 92 € A/R.",
+          "min": 92,
+          "max": 92,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "55–110 € a notte per due in B&B/3 stelle (Termoli media 84 €, Campobasso media 59 €); la cifra è ripartita su 3 giorni per le 2 notti reali.",
+          "min": 19,
+          "max": 37,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Circa 40–60 € al giorno a persona: pranzo semplice 15–20 € e cena in trattoria 25–40 € con bevande a Termoli (Sluurpy); a Isernia la spesa media nei locali del centro va da 15 a 38 € a persona (Voloscontato, dato 2022).",
+          "min": 40,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Altilia-Saepinum e Museo",
+          "testo": "Biglietto cumulativo da 10 € per area archeologica e museo della città e del territorio.",
+          "min": 10,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Paleolitico di Isernia",
+          "testo": "Biglietto intero 6 €, ridotto 2 €; aperto martedì–domenica 8:15–19:00, chiuso il lunedì.",
+          "min": 6,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "35–102 € a tratta per Firenze–Termoli con almeno un cambio (media circa 56 €), cioè 71–205 € A/R, ma poi mancano i mezzi per l'interno.",
+          "min": 71,
+          "max": 205,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Benzina e pedaggi sono della vettura e si dividono per due viaggiatori; alloggio, pasti e biglietti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "I centri interni (Agnone, Isernia, Sepino) richiedono l'auto; il Museo Paleolitico di Isernia è a circa 1,5 km dalla stazione e poco segnalato."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Castello Svevo di Termoli si visita solo su richiesta al Comune (0875 712381). Gli orari del Museo della città di Sepino non sono riportati online in modo affidabile: telefonare al 0874 790207. Il Museo Paleolitico di Isernia è chiuso il lunedì (martedì–domenica 8:15–19:00). Il Museo Marinelli di Agnone (via D'Onofrio 14) è aperto lun–sab 11:30–13:00 e 15:30–16:30, domenica solo 11:30–13:00 (orari da italia.it, da riverificare); prezzo non reperito, tel. 0865 78235."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per Altilia-Saepinum la prenotazione è facoltativa ma consigliata; per la Fonderia Marinelli di Agnone verificare in anticipo orari e disponibilità delle visite."
+        }
+      ],
+      "note": "Il Molise è un posto da percorrere con tempi dilatati: le strade interne sono strette e lente, quindi conviene non mettere altro in agenda. Un consiglio che si trova solo sapendo il posto: Termoli è molto più cara in agosto rispetto a ottobre, e chi vuole dormire in costa ma fare l'interno può risparmiare scegliendo Campobasso. Per un assaggio del territorio, la stampa di viaggio cita la ventricina di Montenero di Bisaccia, il vino Tintilia e le stracciate di Agnone. Questa meta è poco gettonata tra le gite da Firenze: se il tempo è poco, un'altra regione appenninica meno lontana renderà di più.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Termoli/",
+        "https://www.omio.it/treni/firenze/termoli",
+        "https://www.virail.it/treni-firenze-termoli",
+        "https://www.likibu.com/it/appartamenti-affitto-vacanze/termoli/bed-breakfast",
+        "https://www.likibu.com/it/appartamenti-affitto-vacanze/campobasso/bed-breakfast",
+        "https://www.traveldojo.com/molise/",
+        "https://cultura.gov.it/luogo/parco-archeologico-di-sepino-museo-della-citta-e-del-territorio",
+        "https://museionline.info/molise-musei-monumenti/castello-svevo-di-termoli",
+        "https://www.iviaggidelcavallino.it/viaggio/il-molise-termoli-campobasso-castelpetroso-e-agnone-3/?print=pdf",
+        "https://www.italia.it/it/molise/cosa-fare/itinerario-in-molise-arte-cultura-e-gusto",
+        "https://www.ilfattoquotidiano.it/2026/04/22/molise-viaggio-nella-regione-che-non-esiste-da-trivento-ad-agnone-tra-olio-campane-e-tintilia-la-nostra-guida-in-una-terra-che-resiste-tra-borghi-sospesi-e-antichi-saperi/8344734/",
+        "https://www.lonelyplanet.com/points-of-interest/museo-paleolitico-di-isernia/1139677",
+        "https://www.sluurpy.it/termoli/ristorante",
+        "https://www.voloscontato.it/ristoranti/isernia-dove-mangiare-bene-spendendo-poco.php",
+        "https://cultura.gov.it/luogo/museo-nazionale-del-paleolitico-di-isernia",
+        "https://www.italia.it/pt/molise/agnone/museus/museu-campane-marinelli"
+      ],
+      "aggiuntaIl": "2026-11-10",
+      "coordinate": {
+        "lat": 41.56,
+        "lon": 14.66
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Mare e castello di Termoli piacciono a un bimbo di 4 anni, ma le lunghe tratte in auto (oltre 5 ore all'andata) e i musei interni sono pesanti."
       }
     },
     {
@@ -63197,6 +64240,230 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Sentieri brevi come Hall of Mosses e Marymere Falls e le spiagge piene di tronchi piacciono ai bambini, ma per un bimbo di 4 anni pesano il volo di 15 ore, le 9 ore di fuso e le lunghe tappe in auto."
+      }
+    },
+    {
+      "id": "stati-uniti-parchi-del-sud-ovest-14g",
+      "nome": "Stati Uniti: parchi del Sud-Ovest: Zion, Bryce, Arches, Monument Valley e Grand Canyon",
+      "sottotitolo": "Utah e Arizona, il grande anello in auto da Las Vegas tra canyon, archi di roccia e terra navajo",
+      "durataGiorni": 14,
+      "mezzoConsigliato": "Volo da Firenze Peretola (in tram T2) per Las Vegas con uno scalo, di solito a Londra-Heathrow, Zurigo o Madrid con Iberia, British Airways, American, SWISS o United. Gli stessi vettori partono da Bologna. All'arrivo si noleggia un'auto all'aeroporto Harry Reid e la si riconsegna lì, chiudendo l'anello: niente supplemento di sola andata. Conviene una berlina media o un SUV compatto: i SUV grandi, i camper e i fuoristrada non sono ammessi sulla Valley Drive di Monument Valley.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 15h40–17h di volo con uno scalo (Firenze–Las Vegas), quindi 19–20 ore porta a porta contando tram, imbarco e ritiro dell'auto. Poi circa 3000 km di anello in auto.",
+      "durataViaggioMinuti": 1180,
+      "periodoMiglioreTesto": "Aprile-maggio e settembre-ottobre: giornate miti per camminare e luce bassa sulle rocce. A luglio e agosto si superano spesso i 35 °C (a Monument Valley 31–38 °C di massima) e i temporali monsonici, fino a settembre, provocano piene improvvise che chiudono strade e sentieri. Novembre è tranquillo ma gli orari sono ridotti (Monument Valley 8–17).",
+      "mesi": [
+        4,
+        5,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 1824,
+      "costoMax": 3703,
+      "costoNota": "Dollari convertiti a 1 $ ≈ 0,87 €. Il carburante è incluso (≈ 198–323 € per l'auto, divisi per due, a 3,60–5,20 $/gal su circa 3000 km con 8–9 l/100 km; prezzi AAA 2026 molto volatili). Esclusi ESTA, tour facoltativi (jeep navajo, Antelope Canyon) e assicurazioni del noleggio. Il volo è la voce che pesa e oscilla di più.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Sono cinque parchi nazionali più Monument Valley, distanti fra loro da mezza giornata a una giornata d'auto, e ognuno merita almeno un giorno pieno a piedi: Zion e Bryce due ciascuno, Arches e Canyonlands due da Moab. Con due giorni assorbiti dal volo e dal rientro a Las Vegas, in 14 giorni si fa l'anello con una notte o due per tappa, senza guidare più di qualche ora al giorno e con alba e tramonto sempre sul posto. In una settimana si vedrebbero solo dal finestrino.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: tram T2 per Peretola e volo per Las Vegas con uno scalo (Londra-Heathrow, Zurigo o Madrid). Si atterra la sera dello stesso giorno grazie al fuso: ritiro dell'auto all'aeroporto Harry Reid e notte a Las Vegas, senza programmi."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: partenza presto verso lo Utah, spesa grossa (acqua, colazioni, pranzi al sacco) prima di lasciare la città. Arrivo a Springdale, porta di Zion: nel pomeriggio il Pa'rus Trail lungo il Virgin River e la luce del tramonto sul Watchman dal ponte di Canyon Junction."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Zion Canyon con la navetta gratuita (l'auto privata non entra nella Scenic Drive). Emerald Pools, Riverside Walk fino all'imbocco dei Narrows e, per chi ha vinto la lotteria del permesso, Angels Landing. In inverno l'ultima navetta da Temple of Sinawava parte alle 18:15."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: si esce dal lato est per la Zion–Mount Carmel Highway e il suo tunnel, con sosta al Canyon Overlook Trail (un'ora, vista da cartolina sul canyon). Proseguimento per Bryce Canyon e primo affaccio sull'anfiteatro dei pinnacoli al tramonto da Sunset Point."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: alba a Sunrise Point, poi la discesa tra gli hoodoos: con il Navajo Loop chiuso (Wall Street e Two Bridges) il giro migliore è Queens Garden più il Peekaboo Loop. Nel pomeriggio la strada panoramica fino a Rainbow Point, fermandosi ai belvedere sulla via del ritorno."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: la Scenic Byway 12, una delle strade più belle d'America: Escalante, il crinale dell'Hogback e Boulder. Arrivo a Torrey, base di Capitol Reef, e passeggiata breve fino all'Hickman Bridge."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: Capitol Reef: Scenic Drive fino a Capitol Gorge, i petroglifi Fremont lungo la statale e i frutteti mormoni di Fruita. Nel pomeriggio trasferimento a Moab attraverso il deserto di San Rafael."
+        },
+        {
+          "giorno": 8,
+          "testo": "Giorno 8: Arches, ingresso libero nel 2026 perché la prenotazione a fascia oraria è finita a fine 2025. Delicate Arch al mattino presto (salita esposta al sole, portare 2 litri d'acqua a testa), poi Windows, Double Arch e Devils Garden fino al Landscape Arch."
+        },
+        {
+          "giorno": 9,
+          "testo": "Giorno 9: Canyonlands, distretto di Island in the Sky: Mesa Arch all'alba, Grand View Point e Green River Overlook. Rientro a Moab passando per Dead Horse Point, il belvedere sull'ansa del Colorado."
+        },
+        {
+          "giorno": 10,
+          "testo": "Giorno 10: a sud verso l'Arizona per Bluff, Valley of the Gods e Mexican Hat. Arrivo a Monument Valley e Valley Drive di 17 miglia nel pomeriggio: in inverno l'ultimo ingresso è alle 14:30, in estate alle 16:30. Notte a Goulding's o al View Hotel per vedere le Mittens col buio e all'alba."
+        },
+        {
+          "giorno": 11,
+          "testo": "Giorno 11: alba sulle Mittens dal terrazzo del Visitor Center, poi eventuale tour in jeep con guida navajo nelle zone chiuse alle auto private. Trasferimento a Page e tramonto all'Horseshoe Bend, il meandro del Colorado visto dall'alto."
+        },
+        {
+          "giorno": 12,
+          "testo": "Giorno 12: mattina all'Antelope Canyon, visitabile solo con tour guidato navajo da prenotare con largo anticipo, e sosta sul Lake Powell. Nel pomeriggio si entra al Grand Canyon dal lato est lungo la Desert View Drive, con la torre di Desert View e Lipan Point al tramonto."
+        },
+        {
+          "giorno": 13,
+          "testo": "Giorno 13: South Rim: Mather Point all'alba, Rim Trail a piedi fino a Yavapai Point e navetta lungo la Hermit Road fino a Hermits Rest. Dopo l'alluvione del 29 agosto 2026 i sentieri dentro il canyon sono in parte chiusi: limitarsi al bordo o verificare lo stato del Bright Angel prima di scendere."
+        },
+        {
+          "giorno": 14,
+          "testo": "Giorno 14: rientro a Las Vegas, con sosta facoltativa alla diga di Hoover, riconsegna dell'auto e volo serale; l'arrivo a Firenze è il giorno successivo."
+        }
+      ],
+      "alloggio": "Si dorme nelle cittadine alle porte dei parchi: Springdale (Zion), Bryce Canyon City o Tropic, Torrey (Capitol Reef), Moab (due o tre notti per Arches e Canyonlands), Goulding's o Kayenta (Monument Valley), Page e Tusayan (Grand Canyon). Le camere doppie vanno da 70 a 140 $ a notte nelle cittadine minori. Moab e Springdale sono le più care: a Moab un 2 stelle costa circa 125 $ e un 3 stelle 189 $, e a marzo la media sale fino a 305 $, mentre a gennaio scende a 97 $. Goulding's Lodge parte da circa 123 $ nei periodi tranquilli ma in estate si riempie presto. Gli hotel della South Rim hanno avuto chiusure prolungate nel 2026: meglio Tusayan, appena fuori dall'ingresso sud. Motel con colazione inclusa e frigorifero in camera fanno risparmiare anche sui pasti.",
+      "costiDettaglio": [
+        {
+          "voce": "Accesso all'aeroporto di Firenze",
+          "testo": "Tram T2 per Peretola, 3,40 € andata e ritorno a persona (parametro del documento).",
+          "min": 3.4,
+          "max": 3.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Firenze–Las Vegas A/R",
+          "testo": "Nessun diretto, 1–3 scali. Su momondo il minimo andata e ritorno da Firenze è 762 € (United), con scali a Londra-Heathrow, Zurigo o Madrid. Da Bologna la fascia tipica è 1084–1322 €, con minimo di 747 €.",
+          "min": 762,
+          "max": 1322,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto 13 giorni",
+          "testo": "Ritiro e riconsegna all'aeroporto di Las Vegas. Le medie KAYAK vanno da 39 $ al giorno per un'auto piccola a 63–76 $ per un SUV, più circa il 12 % fra tasse e oneri aeroportuali: in tutto circa 570–1110 $ (≈ 494–963 €). Per un'auto media in bassa stagione si spendono 300–425 $ a settimana di sola tariffa base.",
+          "min": 494,
+          "max": 963,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Circa 3000 km di anello con berlina o SUV a noleggio da 8–9 l/100 km: 240–270 litri, cioè 63–71 galloni (1 gal = 3,785 l). AAA 2026: Utah 4,23 $/gal e Arizona 4,63 $/gal (29 aprile, in piena crisi dei prezzi; prima ≈ 3,59 $ in Arizona), Nevada 5,19 $/gal (settembre). Fascia usata 3,60–5,20 $/gal: 63 gal × 3,60 ≈ 228 $ (≈ 198 €) fino a 71 gal × 5,20 ≈ 371 $ (≈ 323 €). Riempire il serbatoio a Las Vegas costa più che in Utah e Arizona.",
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false,
+          "min": 198,
+          "max": 323
+        },
+        {
+          "voce": "America the Beautiful Non-Resident Annual Pass",
+          "testo": "250 $ (≈ 218 €) per auto. Copre tutto l'equipaggio negli ingressi dei parchi nazionali (Zion, Bryce, Capitol Reef, Arches, Canyonlands, Grand Canyon) e il sovrapprezzo di 100 $ a persona per i non residenti a Zion, Bryce e Grand Canyon.",
+          "min": 218,
+          "max": 218,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Senza pass (alternativa)",
+          "testo": "Solo i sovrapprezzi per non residenti a Zion, Bryce e Grand Canyon costano 3 × 100 $ × 2 persone = 600 $ (≈ 522 €), a cui si aggiungono 20–35 $ di ingresso per auto in ogni parco. Il pass conviene di gran lunga.",
+          "min": 522,
+          "max": 522,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Monument Valley – ingresso",
+          "testo": "Parco tribale navajo, non accetta il pass nazionale: 10 $ a persona (≈ 8,70 €).",
+          "min": 8.7,
+          "max": 8.7,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Monument Valley – Valley Drive",
+          "testo": "15 $ per veicolo (≈ 13 €) per la sterrata di 17 miglia, dal 1° gennaio 2026.",
+          "min": 13,
+          "max": 13,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Camera doppia da 70–140 $ a notte nelle cittadine alle porte dei parchi. A Moab la media è circa 125 $ per un 2 stelle e 189 $ per un 3 stelle; Goulding's a Monument Valley parte da circa 123 $. Calcolando 70–190 $ a camera per 12 notti divise in due, sui 14 giorni fanno ≈ 26–71 € al giorno a persona.",
+          "min": 26,
+          "max": 71,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pasto economico 8–14 $, cena media per due 20–35 $. ViaTravelers stima la spesa giornaliera per il cibo in 18 $ (fascia budget) e 50 $ (fascia media), cioè ≈ 16–44 € al giorno a persona. Colazioni e pranzi al sacco dal supermercato tengono il conto sul minimo.",
+          "min": 16,
+          "max": 44,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Voli, tram, ingresso a Monument Valley, alloggio (camera doppia divisa per due) e pasti sono a persona. Noleggio, carburante, pass nazionale e pedaggio della Valley Drive sono della vettura e vanno divisi per due: il pass da 250 $ copre tutti gli occupanti dell'auto.",
+      "vincoli": [
+        {
+          "categoria": "prenotazioni",
+          "testo": "Angels Landing a Zion richiede un permesso a lotteria: c'è la lotteria stagionale (quella per la primavera 2027 è aperta dal 1° al 20 gennaio) e quella del giorno prima. Fiery Furnace ad Arches richiede un permesso su Recreation.gov, rilasciato 7 giorni prima alle 8 ora locale. Antelope Canyon si visita solo con tour guidato navajo. Arches nel 2026 non ha più la prenotazione a fascia oraria."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "La Zion Canyon Scenic Drive è servita solo dalla navetta. Il tunnel della Mount Carmel Highway ha limitazioni per camper e veicoli alti. A Monument Valley la Valley Drive è sterrata e sabbiosa e vieta camper, moto, van e SUV grandi. Dentro Arches non c'è benzina: fare il pieno a Moab."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "A Bryce il Navajo Loop (Wall Street e Two Bridges) e il Bryce Connector Trail sono chiusi fino a nuovo avviso. A Zion sono chiusi l'Hidden Canyon Trail e l'accesso a Observation Point dal canyon. Al Grand Canyon, dopo la piena del 29 agosto 2026, sono chiusi il North Kaibab Trail, Phantom Ranch e tratti del South Kaibab."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Monument Valley in inverno è aperta 8–17 con ultimo ingresso alla Valley Drive alle 14:30, in estate 7–19 con ultimo ingresso alle 16:30. Chiude a Thanksgiving, Natale e Capodanno. I temporali monsonici, fino a settembre, possono chiudere la strada senza preavviso."
+        }
+      ],
+      "note": "Il pass annuale per non residenti si compra al primo parco, a Zion. Bisogna tenerlo a portata di mano con un documento, perché all'ingresso chiedono la residenza, e a Monument Valley non vale: lì si pagano a parte 10 $ a persona e 15 $ per l'auto. Dormire a Monument Valley invece che a Kayenta cambia il viaggio: le Mittens all'alba dal terrazzo del Visitor Center sono il momento più bello dell'anello. Fare la spesa grossa a Las Vegas o a St. George, perché nei parchi non ci sono negozi e nelle cittadine di accesso i ristoranti sono pochi e cari. Serve l'ESTA prima del volo. Se avanza mezza giornata, il Dead Horse Point State Park vicino a Moab regge il confronto con Canyonlands.",
+      "fonti": [
+        "https://www.momondo.it/volo/firenze/las-vegas",
+        "https://www.momondo.it/volo/bologna/las-vegas",
+        "https://www.kayak.com/Las-Vegas-McCarran-Airport-Car-Rentals.LAS.cap.ksp",
+        "https://www.sdfi.co.kr/news/average-cost-of-a-weekly-car-rental-in-las-vegas.html",
+        "https://www.visitutah.com/plan-your-trip/National-Park-Fee-Changes",
+        "https://roadtrippers.com/magazine/national-park-fees-2026/",
+        "https://rjourney.com/?p=24794",
+        "https://navajonationparks.org/entry-fee/",
+        "https://www.travelerstoday.com/articles/60428/20260717/monument-valley-2026-higher-fees-flash-flood-risks-what-book-first.htm",
+        "https://wereintherockies.com/updates",
+        "https://getcostidea.com/average-hotel-cost-per-night-moab-utah-price-guide/",
+        "https://viatravelers.com/?p=257862",
+        "https://www.deseret.com/politics/2026/04/29/high-gas-prices-amid-iran-war-impact-western-u-s-arizona-california-utah/",
+        "https://www.fox5vegas.com/2026/09/17/gas-prices-jump-another-18-cents-aaa-data-shows/"
+      ],
+      "aggiuntaIl": "2026-11-10",
+      "coordinate": {
+        "lat": 36.91,
+        "lon": -111.46
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni si possono fare i sentieri brevi e i belvedere, e il programma Junior Ranger lo diverte. Pesano però il volo di 16-17 ore, le lunghe tappe in auto e il caldo: Delicate Arch e i sentieri esposti sono da evitare."
       }
     },
     {
