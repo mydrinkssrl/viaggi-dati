@@ -113,3 +113,27 @@ doppioni.
   taxi d'acqua per Spetses, e-Visa India): dichiarate nel testo e fuori dal totale.
 - `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
   pubblicato solo su `viaggi-dati`.
+
+## Nota dalla run dell'11 novembre 2026
+- Primo turno: 40 agenti in cinque ondate da 8 (30 da 7-14 giorni con opus, 6 da 3 giorni e
+  4 da 2 con sonnet), tetto 5 WebSearch ciascuno: 36 schede valide pubblicate subito
+  (commit 7a2b9b2, catalogo a 580), 2 SKIP (Sinai e Mar Rosso: Viaggiare Sicuri sconsiglia
+  Dahab e gli spostamenti nel Sinai; Santiago de Compostela: nessun volo diretto da
+  FLR/PSA/BLQ) e 2 schede tenute in `pending/` (Parma con pasti senza fonte, Zante senza
+  diretto verificato).
+- Secondo turno (`send_later` dopo 3 minuti): 5 mete nuove (Alba da 2, 4 da 1 giorno), i
+  completamenti di Parma (pasti e Torrechiara) e delle Cicladi settentrionali (traghetti
+  interni), più tre ritocchi (Alba, Castelli del Ducato, Amiata). Zante è diventata SKIP
+  (nessun diretto 2026 da Bologna/Pisa). Totale notte: 41 mete nuove (3 da 1, 5 da 2, 4 da 3,
+  17 da 7, 11 da 14), catalogo a 585.
+- Una scheda sonnet (Alba) è uscita senza lettere accentate: controllare `grep -c è` sulle
+  schede da 1-2 giorni prima di pubblicare e far ripassare il testo se manca.
+- I pranzi delle mete da 1 giorno in zone poco coperte (Amiata, Bassa parmense) spesso non
+  hanno un listino verificabile: se restano stime vanno messi come voce testuale fuori dal
+  totale, dichiarati in `costoNota`.
+- Per aggiornare una scheda già pubblicata il validatore la segna come doppione: validarla
+  a parte (togliendo il suo id dall'indice) e sostituirla a mano in `mete-extra.json`.
+- `controlla.py` e `aggiorna_indice.py` ora stanno in `strumenti/` e vanno copiati in
+  /home/claude/run insieme agli altri file.
+- `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
+  pubblicato solo su `viaggi-dati`.

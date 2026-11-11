@@ -259,6 +259,128 @@
       }
     },
     {
+      "id": "brescello-guastalla-e-gualtieri-1g",
+      "nome": "Brescello, Guastalla e Gualtieri: la Bassa reggiana di Don Camillo",
+      "sottotitolo": "Emilia-Romagna, tre borghi sul Po tra il set dei film di Don Camillo, i Gonzaga e il pittore Ligabue",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "In auto: A1 Firenze–Bologna–Modena, poi Reggio Emilia e la statale verso Brescello (circa 194 km, 14,30 € di pedaggio a tratta). Il treno è scomodo: la stazione utile più vicina è Parma (circa 18 km in linea d'aria da Brescello) o Reggio Emilia Mediopadana (circa 22 km), poi servono bus o taxi; tre paesi distanti 10-15 km l'uno dall'altro si fanno davvero solo con l'auto.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h51 in auto (194 km) fino a Brescello; tra Brescello, Guastalla e Gualtieri altri 10-20 minuti per tappa.",
+      "durataViaggioMinuti": 111,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: luce buona sugli argini del Po e temperature miti. In luglio e agosto la Bassa è afosa e zanzarosa; in inverno la nebbia aggiunge atmosfera ma accorcia le giornate.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 54,
+      "costoMax": 76,
+      "costoNota": "Il biglietto di Palazzo Bentivoglio/Salone dei Giganti non è stato verificato e non è incluso: sul sito della Fondazione Ligabue si trovano orari e tariffe aggiornati.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "I tre centri sono piccoli e ravvicinati: Brescello si gira in due ore con il museo, Guastalla con Palazzo Ducale e la piazza ne richiede altre due, Gualtieri con il Salone dei Giganti e le vie di Ligabue un paio. Con circa 2 ore di auto all'andata e al ritorno la giornata è piena ma non frettolosa. Un pernottamento non serve, e aggiungere altre tappe renderebbe la visita di corsa.",
+      "cosaVedere": [
+        "Museo Peppone e Don Camillo a Brescello: cimeli e ricostruzioni dei film con Fernandel e Gino Cervi; il biglietto da 6 € vale anche per il museo Brescello e Guareschi e per il museo archeologico.",
+        "Piazza Matteotti a Brescello: il set originale dei film, con le statue di Don Camillo e Peppone davanti alla chiesa e al municipio.",
+        "Argine del Po a Brescello: pochi minuti a piedi dal paese per vedere il fiume che Guareschi usava come scenario.",
+        "Museo di Palazzo Ducale a Guastalla: gli appartamenti nobili dei Gonzaga (Sala del Camino, Appartamento di Eleonora, Sala Dorata) e la Quadreria Maldotti con circa cinquanta opere; ingresso gratuito.",
+        "Piazza Garibaldi e Piazza Mazzini a Guastalla: la città ideale dei Gonzaga, con la statua di Ferrante I e i portici.",
+        "Palazzo Bentivoglio a Gualtieri: facciate da 100 metri e il Salone dei Giganti alto circa 17 m, affrescato con scene della Gerusalemme Liberata.",
+        "Piazza Bentivoglio e Casa museo di Antonio Ligabue (via Giardino 27) a Gualtieri: il pittore naïf visse qui, e il paese ne custodisce la memoria."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante A/R",
+          "testo": "Circa 388 km A/R a 0,129 €/km (benzina 1,98 €/l, 6,5 l/100 km): circa 50 €.",
+          "min": 50,
+          "max": 50,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A1",
+          "testo": "14,30 € a tratta, 28,60 € A/R.",
+          "min": 28.6,
+          "max": 28.6,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Peppone e Don Camillo",
+          "testo": "6 € intero, 4 € ridotto (6-18 anni, over 65, studenti universitari); gratuito fino a 5 anni. Il biglietto è cumulativo con altri due musei di Brescello.",
+          "min": 4,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo di Palazzo Ducale, Guastalla",
+          "testo": "Ingresso gratuito.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "10-18 € in pizzeria, 17-30 € in osteria o trattoria della zona (Gualtieri, Guastalla).",
+          "min": 10,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi (circa 79 € in tutto) sono della vettura e si dividono per due: circa 39,50 € a persona. Biglietti dei musei e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Museo Peppone e Don Camillo aperto ogni giorno 10-12:30 e 14:30-18. Il Museo di Palazzo Ducale a Guastalla è aperto mer, ven, sab, dom 9:30-12:30 e 15:30-18:30; negli altri giorni solo su prenotazione (tel. 0522 839763)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per Palazzo Bentivoglio e il Salone dei Giganti a Gualtieri orari e tariffe vanno chieste alla Fondazione Ligabue (0522 221853) o alla Pro Loco: non è stato possibile verificarli."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Non è stata verificata alcuna ZTL di rilievo nei tre centri; i ristoranti di Brescello e dintorni segnalano giorni di chiusura (spesso il lunedì), per cui conviene controllare prima di scegliere dove pranzare."
+        }
+      ],
+      "note": "Il giorno ideale per incastrare tutto è sabato o domenica, quando sono aperti sia Palazzo Ducale a Guastalla sia i musei di Brescello. Pranzare a Gualtieri (pizzeria da circa 10 €, osterie 17-30 €) e lasciare Palazzo Bentivoglio al pomeriggio. Brescello propone anche visite guidate sul set dei film: da controllare in anticipo.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Brescello/",
+        "https://www.percorsokm.it/it/come-arrivare-a-Brescello",
+        "https://www.reggioemiliawelcome.it/en/brescello/discover-the-area/art-and-culture/museums-and-galleries/peppone-e-don-camillo-museum",
+        "https://www.museionline.info/musei/guastalla-museo-di-palazzo-ducale",
+        "https://www.voloscontato.it/ristoranti/gualtieri-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.reggioemiliawelcome.it/en/brescello/hotels-and-restaurants/where-to-eat",
+        "https://gualtieri-api.municipiumapp.it/s3/3299/allegati/visitare-gualtieri-ita.pdf",
+        "https://www.reggioemiliawelcome.it/en/gualtieri/discover-the-area/art-and-culture/villas-historical-residences-and-theatres/palazzo-bentivoglio"
+      ],
+      "aggiuntaIl": "2026-11-11",
+      "coordinate": {
+        "lat": 44.9,
+        "lon": 10.52
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il set di Don Camillo e l'argine piacciono, ma Palazzo Ducale e Palazzo Bentivoglio sono visite lunghe per un bimbo di 4 anni, più 2 ore di auto ciascuna via."
+      }
+    },
+    {
       "id": "camogli-e-san-fruttuoso-1g",
       "nome": "Camogli e San Fruttuoso",
       "sottotitolo": "Liguria, il borgo di pescatori dalle case a otto piani e l'abbazia sul mare raggiungibile solo in battello o a piedi",
@@ -878,6 +1000,149 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Il borgo è fiabesco e la Rocca piace, ma la salita al mastio è ripida e il selciato è scomodo con passeggino; con un bimbo di 4 anni vale la pena, in giornata lunga con 2h15 di auto."
+      }
+    },
+    {
+      "id": "castelli-del-ducato-fontanellato-e-soragna-1g",
+      "nome": "I castelli del Ducato: Fontanellato, Soragna e San Secondo",
+      "sottotitolo": "Emilia-Romagna, tre rocche della Bassa parmense a pochi chilometri l'una dall'altra",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto lungo l'A1 Firenze–Parma (uscita Fidenza o Parma) e poi statali verso Fontanellato: circa 213 km e 2h di guida. I tre castelli stanno nella campagna tra Parma e Fidenza e non hanno collegamenti pubblici comodi tra loro, per questo l'auto rende la giornata fattibile. In alternativa treno diretto Firenze–Parma (Intercity o Frecciarossa, 3 diretti al giorno secondo Omio) e poi taxi o auto a noleggio.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h in auto (213 km, A1); 1h44-2h16 in treno diretto fino a Parma più circa 30 minuti di trasferimento a Fontanellato.",
+      "durataViaggioMinuti": 125,
+      "periodoMiglioreTesto": "Marzo-maggio e settembre-novembre: giornate miti e rocche aperte anche il martedì in primavera (Fontanellato). In estate la Bassa è afosa; in pieno inverno c'è nebbia e orari ridotti.",
+      "mesi": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 81,
+      "costoMax": 110,
+      "costoNota": "Pranzo 20-40 €: fascia «€€» di Soragna (pos.do, Italia.it) e un cliente de Al Voltone riporta circa 40 € per un pasto completo con vino; non ho trovato un listino 2026 verificato, quindi resta una stima ragionata. Il biglietto di Fontanellato (10 €) non è confermato sul sito ufficiale (fontanellato.org non mostra i prezzi, rimanda al ticketshop): dato da un articolo di luglio 2025. San Secondo è opzionale (0 se si saltano le sue visite).",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Fontanellato e Soragna distano circa 15 km e ciascuna visita guidata dura circa un'ora: due rocche con pranzo in mezzo riempiono la giornata senza fretta. San Secondo (altri 12 km circa) si aggiunge solo di sabato o domenica, perché la Rocca dei Rossi apre solo nel weekend. Tre castelli in un giorno funzionano solo se si accetta un ritmo serrato; con due si resta tranquilli. La giornata va pianificata sugli orari delle visite guidate, che partono a orari fissi.",
+      "cosaVedere": [
+        "Rocca Sanvitale a Fontanellato: castello quadrato con fossato pieno d'acqua, la Saletta di Diana e Atteone affrescata dal Parmigianino nel 1524 e la Camera Ottica, un dispositivo di specchi e prismi che proietta la piazza sulle pareti, unico in Italia.",
+        "Galleria degli Antenati e teatrino di marionette ottocentesche nella stessa Rocca Sanvitale: 74 ritratti della famiglia Sanvitale e un piccolo teatro in legno che piace anche ai bambini.",
+        "Rocca Meli Lupi a Soragna: sala delle Grottesche affrescata da Cesare Baglione (1580), stucchi dei Bibiena, Galleria dei Poeti e sala del Trono in velluto e dorature; segue il parco all'inglese.",
+        "Rocca dei Rossi a San Secondo Parmense: terza rocca del circuito, aperta solo sabato e domenica, utile per chi vuole completare il trittico dei castelli del Ducato.",
+        "Piazza di Fontanellato e il fossato della Rocca: una passeggiata di 15 minuti prima o dopo la visita guidata."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante A/R",
+          "testo": "213 km per tratta, 426 km A/R a 0,129 €/km, circa 55 €, più circa 3 € per gli spostamenti tra le rocche.",
+          "min": 58,
+          "max": 62,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto: pedaggi A1",
+          "testo": "15,30 € a tratta Firenze–Fontanellato, circa 30,60 € A/R.",
+          "min": 30,
+          "max": 31,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Firenze–Parma A/R (alternativa)",
+          "testo": "Intercity diretto da 24 € e Frecciarossa 47 € a tratta; a Parma serve poi taxi o noleggio per raggiungere le rocche (non incluso).",
+          "min": 48,
+          "max": 94,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rocca Sanvitale (Fontanellato)",
+          "testo": "Circa 10 € intero, 5 € ridotto da 6 a 16 anni, gratis sotto i 6 anni (prezzi indicativi, luglio 2025; il sito ufficiale fontanellato.org rimanda al ticketshop senza elencare i prezzi). Piano terra e Sala del Parmigianino visitabili gratis senza visita guidata.",
+          "min": 10,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rocca Meli Lupi (Soragna)",
+          "testo": "7,50 € intero, 4 € ridotto.",
+          "min": 7.5,
+          "max": 7.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rocca dei Rossi (San Secondo)",
+          "testo": "6 € intero, 3,50 € ridotto; aperta solo sabato e domenica. Opzionale.",
+          "min": 0,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "20-40 € a persona in trattoria con cucina parmense: Al Voltone (Soragna) ha fascia «€€» «prezzo moderato»; un cliente riporta circa 40 € per primo, secondo, contorno, dolce e caffè più vino (stima, nessun listino ufficiale).",
+          "min": 20,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e si dividono per due; biglietti d'ingresso e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Rocca Sanvitale: chiusa il martedì (aperta martedì solo da marzo a maggio); chiusa il 24-25 dicembre e la mattina del 1° gennaio."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Rocca Meli Lupi (Soragna): chiusa il lunedì non festivo; in inverno visite guidate ad orari fissi. Rocca dei Rossi: aperta solo sabato 15-18 e domenica 10-18, dal 14 marzo all'8 dicembre."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Fontanellato e Soragna si visitano con visite guidate a orari fissi (Fontanellato feriali 10:15, 11:45, 14:45, 16:00, più 17:15 da aprile a ottobre; domenica e festivi in base all'affluenza, secondo fontanellato.org; Soragna in inverno 14:00, 15:15, 16:30 nei feriali): conviene verificare e prenotare per telefono o sito."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Parcheggio nelle piazze dei paesi: non ho trovato dati verificati su costi o ZTL, da controllare sul posto."
+        }
+      ],
+      "note": "I castelli del Ducato si incastrano meglio il sabato o la domenica, quando le tre rocche sono aperte e le visite sono più frequenti. Gli orari delle visite guidate vincolano la giornata: se si parte da Firenze alle 7:30, si arriva a Fontanellato per il turno delle 10:15 e si pranza a Soragna prima di quello delle 14:00 o 15:15. In inverno gli orari sono ridotti: verificare sempre per telefono (Fontanellato 0521 829055, Soragna 0524 597964). Il Labirinto della Masone, il labirinto di bambù vicino a Fontanellato, è una variante se si ha tempo.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Fontanellato/",
+        "https://www.omio.it/treni/firenze/parma",
+        "https://www.italia.it/it/emilia-romagna/fontanellato/musei/rocca-di-fontanellato",
+        "https://www.viaggiando-italia.it/rocca-sanvitale/",
+        "https://areademo.beculture.it/en/museums/rocca-di-soragna/",
+        "https://museionline.info/emilia-romagna-musei-monumenti/rocca-meli-lupi",
+        "https://www.museionline.info/emilia-romagna-musei-monumenti/rocca-dei-rossi",
+        "https://pos.do/it/soragna/ristorante/al-voltone",
+        "https://fontanellato.org/en/home"
+      ],
+      "aggiuntaIl": "2026-11-11",
+      "coordinate": {
+        "lat": 44.8985,
+        "lon": 10.1741
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Fossato, Camera Ottica e teatrino di marionette a Fontanellato piacciono a un bimbo di 4 anni; le visite guidate durano circa un'ora e Fontanellato è gratis sotto i 6 anni."
       }
     },
     {
@@ -3323,6 +3588,108 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Fortezza con camminamento e abbazia piacciono a un bimbo di 4 anni, ma sono circa 3h30 di auto tra andata e ritorno e le cantine non lo riguardano."
+      }
+    },
+    {
+      "id": "monte-amiata-1g",
+      "nome": "Monte Amiata: Abbadia San Salvatore, Santa Fiora e Arcidosso",
+      "sottotitolo": "Toscana meridionale, il vulcano spento dei borghi medievali, delle miniere di mercurio e delle sorgenti del Fiora",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto: da Firenze si scende verso Siena e poi si prosegue sulla Cassia/SS2 e sulle strade provinciali dell'Amiata fino ad Abbadia San Salvatore (156 km, circa 1h30). Il pedaggio dichiarato dal calcolatore è di 8,20 € a tratta. Il treno non è pratico: il Monte Amiata non ha una stazione utile e i bus locali sono radi, quindi per toccare tre paesi in una giornata serve l'auto.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h30 in auto (156 km) fino ad Abbadia San Salvatore; Santa Fiora e Arcidosso sono a 20-30 minuti di strada di montagna in più.",
+      "durataViaggioMinuti": 90,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: in autunno castagne e funghi, a luglio-agosto la montagna è fresca ma il Parco Minerario è aperto tutti i giorni. In pieno inverno le strade in quota possono avere neve e catene obbligatorie.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 40,
+      "costoMax": 44,
+      "costoNota": "Il totale comprende solo auto (diviso due) e Parco Museo Minerario: il pranzo (indicativamente 15–35 € a testa) non ha un listino verificato e resta fuori dal totale, come Peschiera, Abbazia, Parco Faunistico e Rocca.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Tre borghi a 15-30 minuti l'uno dall'altro sul versante orientale e meridionale della montagna: ad Abbadia San Salvatore il borgo medievale, la cripta e il Parco Museo Minerario occupano mezza giornata; Santa Fiora, con la Peschiera, e Arcidosso con la rocca aldobrandesca stanno nel pomeriggio. Le visite sono corte e le distanze interne contenute, ma con 3 ore di viaggio complessive il ritmo è già pieno: una giornata ben calibrata, senza bisogno di pernottare, a patto di scegliere cosa saltare.",
+      "cosaVedere": [
+        "Abbazia di San Salvatore e cripta (Abbadia San Salvatore): la cripta precedente all'anno Mille ha oltre trenta colonne tutte diverse con volti scolpiti nei capitelli.",
+        "Borgo medievale di Abbadia San Salvatore: vicoli in pietra scura di trachite tra i meglio conservati della Toscana, ideali per una passeggiata a piedi.",
+        "Parco Museo Minerario (Abbadia): museo multimediale, documentale e discesa nella Galleria Livello VII con il vagoncino dei minatori, per capire l'epoca del cinabro e del mercurio (1899-1972).",
+        "Peschiera di Santa Fiora: la vasca d'acqua cristallina dove nasce il fiume Fiora, con il parco e la chiesetta della Madonna della Neve, a pochi passi dal centro storico.",
+        "Santa Fiora: borgo con la piazza Garibaldi e la Pieve, le robbiane (terrecotte invetriate) nelle chiese e la fonte sotto il paese.",
+        "Arcidosso e la Rocca Aldobrandesca: castello dominante sul paese, con vista sull'Amiata e sulla Maremma."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante e pedaggi",
+          "testo": "312 km A/R tra Firenze e Abbadia a 0,129 €/km, circa 40 €, più 16,40 € di pedaggi (8,20 € a tratta secondo il calcolatore), più circa 5 € per gli spostamenti tra i tre paesi: in tutto circa 62 € per la vettura.",
+          "min": 59,
+          "max": 65,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parco Museo Minerario",
+          "testo": "12 € intero, 10 € ridotto: comprende Museo Multimediale, Museo Documentale e Galleria Livello VII.",
+          "min": 10,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Stima 15-35 € a persona tra pizzeria/osteria e trattoria con pici e carni locali: non verificata, nessuna fonte con prezzi trovata per i tre paesi (le recensioni parlano di costo contenuto senza cifre).",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e si dividono a metà tra i due viaggiatori; biglietti e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Strade di montagna con curve; in inverno possibili neve o obbligo di catene sul versante alto. Non c'è alternativa pratica all'auto per toccare i tre paesi in giornata."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Parco Museo Minerario: dal 15 luglio al 1 novembre aperto tutti i giorni 9:30-12:30 e 15:30-18:30; negli altri periodi secondo una fonte solo su prenotazione, secondo un'altra solo sabato e domenica con gli stessi orari (e chiuso dal lunedì al venerdì). Telefonare prima: 0577 778324."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Fuori stagione prenotare la visita al Parco Minerario; per le grotte e la visita alle sorgenti del Fiora verificare gli orari e i turni guidati sui siti ufficiali."
+        }
+      ],
+      "note": "Il trucco è partire presto e fare Abbadia la mattina, quando il Parco Minerario ha il turno 9:30-12:30; poi pranzare a Santa Fiora o Arcidosso e lasciare la Peschiera al pomeriggio, quando la luce sull'acqua è migliore. Il 24 dicembre ad Abbadia si tengono le Fiaccole di Natale, spettacolari ma con paese pieno e parcheggio difficile. Da Firenze si può rientrare da un percorso diverso per spezzare la guida. Orari e biglietti della Rocca di Arcidosso, del Parco Faunistico e della vetta non sono stati verificati: controllare prima di partire.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Abbadia-San-Salvatore/",
+        "https://www.museionline.info/toscana-musei-monumenti/museo-minerario-di-abbadia-san-salvatore",
+        "https://www.italia.it/it/toscana/abbadia-san-salvatore/luoghi-della-cultura/parco-museo-minerario",
+        "https://www.visittuscany.com/it/idee/quattro-visite-imperdibili-nel-sottosuolo-del-monte-amiata/",
+        "https://www.visittuscany.com/it/idee/i-borghi-storici-del-monte-amiata-tra-abbazie-pievi-e-sapori/",
+        "https://www.visittuscany.com/it/attrazioni/il-parco-museo-minerario-di-abbadia-san-salvatore/",
+        "https://wanderlog.com/list/geoCategory/314512/lunch"
+      ],
+      "aggiuntaIl": "2026-11-11",
+      "coordinate": {
+        "lat": 42.8803,
+        "lon": 11.6772
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Il trenino dei minatori e la galleria affascinano un bimbo di 4 anni, e la Peschiera con il parco è facile; la guida in curva e le 3 ore di auto sono il punto debole."
       }
     },
     {
@@ -7374,6 +7741,131 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Il parco è molto esteso e con poca ombra, con circa 7 ore di viaggio all'andata; un bimbo di 4 anni (ingresso gratuito) regge con soste e passeggino, ma la giornata è lunga."
+      }
+    },
+    {
+      "id": "alba-barolo-e-le-langhe-2g",
+      "nome": "Alba, Barolo e le Langhe",
+      "sottotitolo": "Piemonte, capitale del tartufo e del vino tra colline di vigneti Patrimonio UNESCO",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria da Firenze: A1 fino a Bologna, poi A21 (Piacenza-Alessandria-Asti) e A33 Asti-Cuneo fino ai caselli di Alba Est o Verduno-Alba Ovest, circa 400 km per tratta (402 km e 3h51 senza soste secondo UnipolMove). In alternativa treno Firenze S.M.N. - Torino Porta Susa e cambio per Alba (circa 4h40), ma tra i borghi delle colline senza auto ci si muove male.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 4h10-4h30 in auto; circa 4h40 in treno con cambio a Torino Porta Susa.",
+      "durataViaggioMinuti": 260,
+      "periodoMiglioreTesto": "Settembre-novembre per vendemmia, foglie rosse e Fiera del Tartufo Bianco d'Alba (ottobre-novembre); aprile-giugno per le colline verdi. Gennaio-febbraio la nebbia e le chiusure di musei e cantine penalizzano, luglio-agosto fa caldo e afoso.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "costoMin": 193,
+      "costoMax": 327,
+      "costoNota": "Il viaggio è lungo: con 2 giorni il tempo utile sul posto è di circa un giorno e mezzo. Pedaggio Firenze-Alba 36,50 € a tratta per auto classe A (UnipolMove) e alloggio da medie di comparatore (Momondo, agriturismo.it): sono fasce di mercato, non preventivi, e il prezzo reale dipende dalle date, soprattutto in ottobre e nei sabati. Il treno è solo un confronto e non entra nel totale.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Alba si gira a piedi in mezza giornata (centro compatto, torri medievali, Duomo, vie dello shopping). Il resto del tempo serve per le colline: Barolo, La Morra, Monforte, Serralunga distano 10-20 minuti di auto l'una dall'altra. In una notte e due giorni si fanno Alba, il WiMu di Barolo, una cantina con degustazione e un giro panoramico tra i borghi, senza correre. Con meno tempo il viaggio da Firenze non si ripaga, con più giorni si aggiungono Barbaresco, Bra e Roero.",
+      "cosaVedere": [
+        "Centro storico di Alba: via Maestra, le torri medievali e il Duomo di San Lorenzo, dove il mercato del sabato mattina porta i prodotti delle colline in piazza.",
+        "WiMu, il museo del vino nel Castello Falletti di Barolo: 25 sale su cinque piani, con l'Enoteca Regionale del Barolo nelle cantine per degustazioni guidate.",
+        "Borgo di Barolo e le sue cantine: vicoli stretti, enoteche e produttori che aprono per visita e assaggio, meglio su prenotazione.",
+        "La Morra e il suo belvedere sul Barolo: dalla terrazza si vedono i vigneti a perdita d'occhio e, con la luce giusta, le Alpi.",
+        "Monforte d'Alba e Serralunga d'Alba: borghi di crinale con castello e vini di grande struttura, adatti a una sosta pranzo.",
+        "Tajarin, carne cruda, vitello tonnato e, in stagione, tartufo bianco: una cena in una trattoria di Alba è parte della visita, non solo un pasto."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte ad Alba, dove ci sono hotel, B&B e agriturismi sulle colline (il B&B Hotel Alba, in Corso Asti 5, è un esempio di albergo in città; la colazione a buffet costa 10,50 € a testa). Secondo le medie di Momondo la tariffa più bassa trovata è circa 65 € a notte per camera (B&B Hotel Alba), la media circa 146 €, i 3 stelle circa 115 € e i 4 stelle circa 232 €; luglio è il mese più economico (circa 113 € di media) e ottobre il più caro (circa 197 €); nei giorni feriali si spende meno (mercoledì circa 96 €) che di sabato (circa 216 €). Gli agriturismi di Langhe e Roero hanno un prezzo di partenza da circa 43 € (agriturismo.it). Per questa scheda si usa la fascia 65-197 € a notte per due, cioè 33-99 € a persona per la notte. Nei weekend di ottobre-novembre (Fiera del Tartufo) conviene prenotare con largo anticipo.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante A/R",
+          "testo": "Circa 804 km A/R (402 km a tratta secondo UnipolMove) a 0,129 €/km di carburante (1,98 €/l, 6,5 l/100 km), circa 104 €.",
+          "min": 104,
+          "max": 104,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto: pedaggi A/R",
+          "testo": "Firenze-Alba 36,50 € a tratta per auto classe A (UnipolMove, percorso A1-A21-A33), quindi circa 73 € A/R.",
+          "min": 73,
+          "max": 73,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "65-197 € a notte per due (Momondo: tariffa minima circa 65 €, media di ottobre circa 197 €; 3 stelle in media circa 115 €), 1 notte: 33-99 € a persona, ripartiti sui 2 giorni (17-49 € al giorno).",
+          "min": 17,
+          "max": 49,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo in trattoria o osteria di Alba 15-28 €; cena con menu degustazione di fascia economica 30-45 € (prezzi indicativi da guide, non tutti del 2026). Totale giornaliero 35-70 €.",
+          "min": 35,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "Firenze-Torino Porta Susa-Alba circa 4h40; Rome2rio indica 77-129 USD a tratta (circa 70-120 €, convertiti in euro).",
+          "min": 140,
+          "max": 240,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e si dividono per due; alloggio e pasti sono a persona. Il biglietto del WiMu e le degustazioni in cantina non sono inclusi: vanno aggiunti secondo le scelte.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "WiMu aperto tutti i giorni 10:30-19:00 (ultimo ingresso 18:00); dal 21 novembre al 6 gennaio chiuso il giovedì con ultimo ingresso alle 17:00. Secondo una pagina di dati non aggiornati potrebbe esserci una chiusura invernale da gennaio a fine marzo: controllare su wimubarolo.it."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Visite guidate al WiMu su prenotazione (tel. +39 0173 386697 o sito wimubarolo.it). Le cantine private di norma vogliono prenotazione; in ottobre-novembre, per la Fiera del Tartufo, anche tavoli e camere."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Caselli di Alba Est (circa 1 km dal centro) e Verduno-Alba Ovest sulla A33. Tra i borghi delle colline servono auto e prudenza: strade strette, curve, nebbia in autunno. Chi assaggia vino deve prevedere un autista che non beve."
+        }
+      ],
+      "note": "Il consiglio che pochi danno: partire da Firenze presto e fare tappa a Barolo nel pomeriggio del primo giorno, tenendo Alba per la sera, quando le enoteche del centro sono piene. Il secondo giorno dedicarlo alle colline (La Morra al mattino per la luce, Monforte o Serralunga per il pranzo) e ripartire dopo pranzo per evitare il traffico di rientro sull'A1. Con una guida non bevitrice evitare tre degustazioni in cantina nello stesso pomeriggio. Il prezzo del WiMu non è confermato da una fonte: chiedere al museo.",
+      "fonti": [
+        "https://www.rome2rio.com/s/Florence-Italy/Alba",
+        "https://www.percorsokm.it/it/come-arrivare-a-Alba",
+        "https://stradadelbarolo.it/?p=349",
+        "https://italia.it/en/piemonte/barolo/museums/wimu-museo-del-vino-a-barolo",
+        "https://www.hotel-bb.com/en/hotel/alba",
+        "https://www.voloscontato.it/ristoranti/alba-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.dissapore.com/ristoranti/langhe-20-posti-per-tutte-le-tasche/",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Alba/",
+        "https://www.momondo.it/hotel/alba",
+        "https://www.agriturismo.it/it/agriturismi/langhe_e_roero"
+      ],
+      "aggiuntaIl": "2026-11-11",
+      "coordinate": {
+        "lat": 44.6,
+        "lon": 7.99
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il viaggio di oltre quattro ore e le cantine sono poco adatti a un bimbo di 4 anni, ma i borghi, i panorami e le trattorie vanno bene."
       }
     },
     {
@@ -13280,6 +13772,143 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Percorso A6 e il tratto in piano verso Marina di Alberese vanno bene anche con passeggino, ma i percorsi lunghi per le torri sono troppo faticosi per un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "parma-completa-e-la-food-valley-2g",
+      "nome": "Parma completa e la Food Valley: Torrechiara e i caseifici",
+      "sottotitolo": "Emilia-Romagna, la città ducale di Parma e le colline di Parmigiano e prosciutto con il castello di Torrechiara",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto da Firenze via A1 (circa 155 km, 1h45 senza soste): serve per raggiungere Torrechiara e i produttori nelle colline, che il treno non serve. In alternativa treno Firenze-Parma (Frecciarossa/Intercity con cambio, 1h44 il più veloce; regionali fino a 2h30 e oltre) e per il secondo giorno tour organizzato con minivan dalla stazione.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h45 in auto (155 km); 1h44-2h30 in treno a seconda del convoglio",
+      "durataViaggioMinuti": 120,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: clima mite per il castello e le colline. Da evitare luglio e agosto (afa padana, molti produttori in pausa) e il pieno inverno con nebbia.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8,
+        12,
+        1
+      ],
+      "costoMin": 192,
+      "costoMax": 264,
+      "costoNota": "Il totale comprende carburante e pedaggi (diviso due), alloggio e pasti per 2 giorni e il biglietto del castello (5 €). I pasti derivano dai prezzi dei piatti di trattorie parmensi (alcuni dati del 2024). Le visite ai produttori variano per azienda e non sono incluse (un tour organizzato con treno incluso costa 185 € a persona in 7 ore).",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Parma ha un centro compatto che si gira a piedi: Pilotta, Duomo e Battistero, Teatro Regio e Parco Ducale riempiono bene un giorno, con una pausa lunga a tavola. Il secondo giorno è dedicato alla campagna: il castello di Torrechiara, dove la visita dura al massimo 45 minuti a gruppi da 15 persone, più una visita con degustazione a un caseificio e a un prosciuttificio (circa mezza giornata). Con una sola giornata si dovrebbe scegliere tra città e colline; con tre si ripeterebbe lo stesso schema.",
+      "cosaVedere": [
+        "Battistero e Duomo: il complesso romanico di Parma, con il Battistero in marmo rosa di Verona, è il cuore monumentale della città.",
+        "Complesso della Pilotta: l'enorme palazzo farnesiano che ospita musei e il Teatro Farnese, da vedere con calma.",
+        "Parco Ducale e Oltretorrente: passeggiata nel parco e poi oltre il torrente, il quartiere più autentico e meno turistico.",
+        "Castello di Torrechiara: fortezza quattrocentesca sulla collina, con la Camera d'Oro affrescata; la visita dura circa 45 minuti.",
+        "Caseificio di Parmigiano Reggiano: si assiste alla lavorazione e si degustano due stagionature, di solito al mattino presto.",
+        "Prosciuttificio di Langhirano: si vedono le sale di stagionatura e si assaggia il Prosciutto di Parma con il vino locale."
+      ],
+      "itinerario": null,
+      "alloggio": "B&B e hotel in centro: da 59 a 95 € a notte per una doppia (esempio verificato: B&B Giulia, da 72 € per una notte a metà novembre, a circa 1,2 km dal centro), quindi circa 30-48 € a persona. Zone consigliate: centro storico vicino a Duomo e Battistero oppure Oltretorrente; si sconsiglia di dormire vicino alla stazione.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto Firenze-Parma A/R",
+          "testo": "Circa 310 km A/R: 0,129 €/km di carburante (circa 40 €) più circa 12,40 € di pedaggio A1 per tratta (circa 25 €).",
+          "min": 65,
+          "max": 65,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "Da circa 8-10 € a tratta in regionale fino a circa 41-56 € in Frecciarossa; media circa 19 € a tratta.",
+          "min": 16,
+          "max": 82,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Tour Parmigiano e prosciutto in giornata (alternativa)",
+          "testo": "185 € adulto, 7 ore, con treno da Bologna, minivan, visita e degustazione a caseificio e prosciuttificio.",
+          "min": 185,
+          "max": 185,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "59-95 € a notte per una doppia in B&B o 3 stelle, cioè 30-48 € a persona.",
+          "min": 30,
+          "max": 48,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo leggero con un primo (tortelli d'erbetta 9-12 €) e cena in trattoria (menu degustazione a 32-40 € da Antichi Sapori; alla carta tortelli 10,50 € + tagliata 17,50 € + dolce 5,50 € = 33,50 € senza bevande): circa 47-65 € al giorno a persona, bevande incluse. Cifra ricavata dai prezzi dei piatti pubblicati, non da una media dichiarata.",
+          "min": 47,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Biglietto Castello di Torrechiara",
+          "testo": "Intero 5 €, ridotto 2 € (18-25 anni), gratuito sotto i 18 anni e la prima domenica del mese da ottobre a marzo (sito Direzione regionale Musei Emilia-Romagna).",
+          "min": 5,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e si dividono per due; alloggio, pasti e biglietto del castello sono a persona (alloggio a notte dividendo la doppia per due). Treno e tour sono alternative a persona e non entrano nel totale.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Parma ha una ZTL: conviene lasciare l'auto in un parcheggio fuori dal centro o presso l'alloggio e girare a piedi (non ho verificato tariffe e posizioni dei parcheggi)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Castello di Torrechiara è chiuso il lunedì; orari biglietteria martedì-venerdì 9-14:30, sabato e domenica 11-16:30; chiuso 1 gennaio e 25 dicembre."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per il castello la prenotazione è obbligatoria la domenica e nei festivi, solo per telefono allo 0521 355255 con almeno un giorno di anticipo (gruppi da 15 persone ogni 10 minuti)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Caseificio e prosciuttificio si visitano su prenotazione, tipicamente al mattino; il tour organizzato non parte in alcune date, tra cui 15 agosto e 24-26 dicembre."
+        }
+      ],
+      "note": "Programma i due giorni in modo che il castello cada tra martedì e sabato (lunedì chiuso, domenica a prenotazione obbligatoria) e prenota il caseificio per primo, perché la lavorazione del formaggio si vede solo al mattino. Se non vuoi guidare in campagna, il tour organizzato parte dalla stazione di Parma. Pubblica orari e prezzi dei musei vanno ricontrollati prima di partire.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/parma",
+        "https://www.omio.it/viaggi/firenze/parma",
+        "https://blog.wayro.ai/florence-parma-ultimate-road-trip-guide",
+        "https://www.bolognawelcome.com/it/esperienze/319619/Parma-Cheese---Ham-Experience",
+        "https://cultura.gov.it/luogo/castello-di-torrechiara",
+        "https://www.momondo.it/hotel/parma/B-B-Giulia.mhd6314684.ksp",
+        "https://thetourguy.com/travel-blog/where-to-stay-in-parma",
+        "https://www.tastebologna.net/blog/best-hotels-parma",
+        "https://www.scattidigusto.it/migliori-trattorie-parma",
+        "https://musei.emiliaromagna.beniculturali.it/en/our-museums/castello-di-torrechiara"
+      ],
+      "aggiuntaIl": "2026-11-11",
+      "coordinate": {
+        "lat": 44.6606,
+        "lon": 10.2842
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Città piana e parco sono ok, ma castello a gruppi con visita guidata e caseifici sono poco adatti a un bimbo di 4 anni."
       }
     },
     {
@@ -33492,9 +34121,9 @@
         8,
         12
       ],
-      "costoMin": 541,
-      "costoMax": 1065,
-      "costoNota": "Prezzi in dollari (hotel) convertiti a circa 0,86 €/$. Le tratte brevi Andros–Tinos e Tinos–Syros e i bus aeroporto–porti non hanno una tariffa verificata e non sono nel totale (contare qualche decina di euro in più). Il volo è la tariffa minima osservata: in alta stagione sale. Alloggio e pasti sono moltiplicati per 7 giorni (le notti sono 6).",
+      "costoMin": 554,
+      "costoMax": 1093,
+      "costoNota": "Prezzi in dollari (hotel) convertiti a circa 0,86 €/$. La tratta Tinos–Syros e le corse KTEL aeroporto–Markopoulo–Lavrio non hanno una tariffa verificata: la prima non è nel totale (contare una decina di euro), le seconde sono stimate con la tariffa KTEL verificata per Rafina. Il volo è la tariffa minima osservata: in alta stagione sale. Alloggio e pasti sono moltiplicati per 7 giorni (le notti sono 6).",
       "dipendenzaAuto": "auto-opzionale",
       "pertinenzaStimata": 3,
       "percheDurata": "Sono quattro isole a una-due ore di traghetto l'una dall'altra, ma ognuna merita almeno una giornata vera: Kea per i sentieri e il Leone di Ioulida, Andros per il museo d'arte contemporanea e la rete di sentieri, Tinos per i villaggi del marmo e le colombaie, Syros per Ermoupoli e Ano Syros. Con sei notti (2 a Kea, 2 ad Andros, 1 a Tinos, 1 a Syros) si passa al massimo un trasferimento al giorno, sempre di mattina o a metà giornata, e resta il pomeriggio per vedere. Meno giorni obbligherebbero a togliere un'isola.",
@@ -33568,11 +34197,13 @@
           "perGiorno": false
         },
         {
-          "voce": "Traghetti Andros–Tinos e Tinos–Syros",
-          "testo": "Tratte brevi sulla stessa linea delle Cicladi; tariffa non verificata, esclusa dal totale.",
+          "voce": "Traghetto Andros–Tinos",
+          "testo": "7,50–19 € a tratta a piedi, circa 1h35–1h40 (Fast Ferries, Golden Star, Seajets). La tratta Tinos–Syros (circa 35 minuti) non ha una tariffa verificata e non è nel totale.",
           "tipo": "persona",
           "confronto": false,
-          "perGiorno": false
+          "perGiorno": false,
+          "min": 7.5,
+          "max": 19
         },
         {
           "voce": "Traghetto Syros–Pireo",
@@ -33585,10 +34216,12 @@
         },
         {
           "voce": "Bus aeroporto di Atene–porti",
-          "testo": "KTEL per Markopoulo e Lavrio all'andata, X96 dal Pireo al ritorno; tariffa non verificata, esclusa dal totale.",
+          "testo": "Ritorno con X96 aeroporto–Pireo 5,50 € a corsa (OASA, biglietto valido 90 minuti). All'andata il KTEL Attikis aeroporto–Rafina costa 4 € (non usato nel giro); le tariffe KTEL aeroporto–Markopoulo e Markopoulo–Lavrio non sono state verificate: il massimo include un'ulteriore corsa KTEL a 4 € come riferimento.",
           "tipo": "persona",
           "confronto": false,
-          "perGiorno": false
+          "perGiorno": false,
+          "min": 5.5,
+          "max": 9.5
         },
         {
           "voce": "Musei archeologici",
@@ -33668,9 +34301,13 @@
         "https://goulandris.gr/en/visit/be-andros",
         "https://www.expedia.com/tinos-hotels-cheap-hotels.0-0-d4837-tcheaphotels.travel-guide-filter-hotels",
         "https://championtraveler.com/price/cost-of-a-trip-to-syros-gr",
-        "https://travelthegreekway.com/daily-budget-on-the-greek-islands/"
+        "https://travelthegreekway.com/daily-budget-on-the-greek-islands/",
+        "https://www.ferryscanner.com/en/ferry-routes/ferry-andros-tinos",
+        "https://taxitoathens.com/?p=1026",
+        "https://www.athensairportbus.com/en/timetable/bus-rafina-port.html",
+        "https://www.aia.gr/en/traveller/transportation-airport/public-transportation-airport"
       ],
-      "aggiuntaIl": "2026-11-11",
+      "aggiuntaIl": "2026-11-12",
       "coordinate": {
         "lat": 37.538,
         "lon": 25.163

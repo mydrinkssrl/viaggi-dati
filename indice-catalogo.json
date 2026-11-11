@@ -853,6 +853,11 @@
    1
   ],
   [
+   "brescello-guastalla-e-gualtieri-1g",
+   "Brescello, Guastalla e Gualtieri: la Bassa reggiana di Don Camillo",
+   1
+  ],
+  [
    "camogli-e-san-fruttuoso-1g",
    "Camogli e San Fruttuoso",
    1
@@ -875,6 +880,11 @@
   [
    "castell-arquato-e-vigoleno-1g",
    "Castell'Arquato e Vigoleno",
+   1
+  ],
+  [
+   "castelli-del-ducato-fontanellato-e-soragna-1g",
+   "I castelli del Ducato: Fontanellato, Soragna e San Secondo",
    1
   ],
   [
@@ -975,6 +985,11 @@
   [
    "montalcino-e-sant-antimo-1g",
    "Montalcino e l'Abbazia di Sant'Antimo",
+   1
+  ],
+  [
+   "monte-amiata-1g",
+   "Monte Amiata: Abbadia San Salvatore, Santa Fiora e Arcidosso",
    1
   ],
   [
@@ -1150,6 +1165,11 @@
   [
    "agrigento-e-la-valle-dei-templi-2g",
    "Agrigento e la Valle dei Templi",
+   2
+  ],
+  [
+   "alba-barolo-e-le-langhe-2g",
+   "Alba, Barolo e le Langhe",
    2
   ],
   [
@@ -1375,6 +1395,11 @@
   [
    "parco-della-maremma-e-talamone-2g",
    "Parco della Maremma e Talamone",
+   2
+  ],
+  [
+   "parma-completa-e-la-food-valley-2g",
+   "Parma completa e la Food Valley: Torrechiara e i caseifici",
    2
   ],
   [
@@ -3069,6 +3094,7 @@
   "skopje-e-ohrid-3g",
   "stoccarda-heidelberg-e-tubinga-3g",
   "sinai-e-mar-rosso-7g",
-  "santiago-de-compostela-e-costa-da-morte-3g"
+  "santiago-de-compostela-e-costa-da-morte-3g",
+  "zante-3g"
  ]
 }
