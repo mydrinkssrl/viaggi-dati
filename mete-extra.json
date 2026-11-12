@@ -2575,6 +2575,227 @@
       }
     },
     {
+      "id": "fiesole-e-settignano-1g",
+      "nome": "Fiesole, Monte Ceceri e Settignano",
+      "sottotitolo": "Toscana, le colline di pietra serena sopra Firenze: teatro romano, boschi di cava e borghi di scalpellini",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Bus urbano di Autolinee Toscane (linea 7) da Piazza San Marco o dalla stazione di Santa Maria Novella fino a Piazza Mino da Fiesole, con un normale biglietto urbano di Firenze. Per il rientro si può scendere a piedi o in bus verso Settignano e riprendere un bus urbano per il centro. L'auto non serve e a Fiesole il parcheggio in centro è limitato: resta solo come confronto.",
+      "mezzoCategoria": "bus",
+      "durataViaggioTesto": "Circa 25-30 minuti di bus dal centro di Firenze a Fiesole (tempo indicativo, da verificare sull'orario di Autolinee Toscane, che cambia con il traffico).",
+      "durataViaggioMinuti": 30,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre, quando i sentieri di Monte Ceceri sono asciutti e la vista su Firenze è limpida; a luglio e agosto i boschi danno ombra ma il centro di Fiesole è affollato di gruppi.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 29,
+      "costoMax": 54,
+      "costoNota": "Biglietto bus calcolato come 2 corse urbane a 1,70-2,00 €: una fonte (La Nazione) riporta il rincaro da 1,70 a 2,00 €, ma non è chiaro l'anno, quindi si riporta la fascia. Il pranzo è una stima per persona tratta da Sluurpy (circa 20 € e circa 40 €), non un listino.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Fiesole sta a una trentina di minuti di bus dal centro e tutto quello che conta si raggiunge a piedi: l'area archeologica con museo occupa circa due ore, il parco di Monte Ceceri con le cave di pietra serena un'altra mezza giornata di cammino su sentieri di bosco, e il pranzo lascia spazio a una discesa lenta verso Settignano. Le tappe sono poche e vicine, quindi si cammina senza correre e non serve dormire in collina, ma una giornata è il tempo giusto: in meno si salta Monte Ceceri o il borgo.",
+      "cosaVedere": [
+        "Area archeologica di Fiesole (via Portigiani 1): teatro romano, terme e tempio etrusco-romano su una terrazza con vista sulla valle, con il museo che raccoglie i reperti dal III secolo a.C. al II d.C.",
+        "Piazza Mino da Fiesole e la cattedrale: il cuore del paese, con il Palazzo Pretorio e la salita al panorama sulla città, utile per orientarsi prima delle visite.",
+        "Museo Bandini: collezione di dipinti a fondo oro del Trecento e del Quattrocento raccolta da un canonico settecentesco, piccola e visitabile in poco tempo.",
+        "Parco di Monte Ceceri (44 ettari di bosco ripiantato dagli anni Trenta): cave storiche di pietra serena come Cava Sarti e Cava del Braschi, e Piazzale Leonardo, dove una lapide ricorda gli esperimenti di volo di Leonardo da Vinci.",
+        "Settignano: borgo di scalpellini sulla discesa verso Firenze, con piazza raccolta e vista sulle colline, adatto a chiudere la giornata a piedi."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Bus Autolinee Toscane linea 7 (biglietto urbano)",
+          "testo": "Biglietto urbano di Firenze a 1,70 € (valido 90 minuti) secondo Telepass Moveo, che indica la validità fino a Fiesole; La Nazione riporta il rincaro a 2,00 €. Due corse (andata e ritorno): 3,40-4,00 € a persona.",
+          "min": 3.4,
+          "max": 4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Area archeologica e museo di Fiesole",
+          "testo": "10 € intero, 6 € ridotto (area più museo, secondo museionline.info). Esiste anche un biglietto cumulativo con altri musei, non quotato in fonte. Ingresso gratuito la prima domenica del mese per i musei statali, ma l'area è comunale: da verificare.",
+          "min": 6,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 20 € a persona nella maggior parte dei locali di Fiesole (fascia €€ su Sluurpy), circa 40 € nei ristoranti di fascia alta come Le Cave di Maiano. Stima da fascia di prezzo, non da menu.",
+          "min": 20,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto (confronto)",
+          "testo": "Con i parametri del documento (0,129 €/km di carburante) il costo della vettura per la gita è di pochi euro, ma non c'è una fonte verificata per la distanza né per le tariffe di parcheggio a Fiesole: per questo si consiglia il bus.",
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona (bus, ingressi, pranzo). L'auto è solo un confronto e non entra nel totale.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Fiesole ha parcheggi limitati e conviene arrivare in bus; verificare sul sito di Autolinee Toscane l'orario aggiornato della linea 7."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "L'area archeologica di Fiesole è aperta tutti i giorni dalle 10 alle 19 secondo museionline.info, che consiglia di confermare gli orari direttamente (tel. +39 055 5961293). Controllare gli orari invernali."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione risulta obbligatoria per l'area archeologica; per il pranzo conviene prenotare nei fine settimana, perché diversi locali (ad esempio Bistrot al 5) aprono a pranzo solo venerdì, sabato e domenica."
+        }
+      ],
+      "note": "Dato che molti ristoranti di Fiesole a pranzo sono aperti solo nel fine settimana, controlla i giorni di apertura prima di scegliere la data. Nei boschi di Monte Ceceri porta scarpe con suola scolpita: le cave hanno tratti sdrucciolevoli quando piove. Se vuoi unire la visita ai giardini (Villa Bardini, Gamberaia), qui non sono inclusi perché non ho verificato prezzi e orari 2026. Prima di partire controlla il prezzo del biglietto bus aggiornato, perché c'è stato un rincaro.",
+      "fonti": [
+        "https://moveo.telepass.com/biglietti-mezzi-firenze/",
+        "https://www.lanazione.it/firenze/cronaca/stangata-sui-trasporti-biglietti-piu-cari-per-tram-e-bus-spiraglio-per-gli-studenti-i01r3ni7",
+        "https://www.museionline.info/toscana-musei-monumenti/area-archeologica-di-fiesole",
+        "https://www.sluurpy.it/fiesole/ristoranti",
+        "https://florence-on-line.com/food-drink/fiesole/bistrot-al-5.html",
+        "https://www.visittuscany.com/it/attrazioni/il-parco-di-montececeri/"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 43.8057,
+        "lon": 11.2935
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Teatro romano e passeggiata facili, ma i sentieri di Monte Ceceri e le cave richiedono attenzione con un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "firenzuola-e-passo-della-futa-1g",
+      "nome": "Firenzuola e il Passo della Futa",
+      "sottotitolo": "Toscana, Appennino tosco-emiliano: la città-fortezza della pietra serena e il grande cimitero militare germanico sul passo",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria da Firenze lungo la SS65 della Futa (Fiesole, Cafaggiolo, bivio di Santa Lucia a Barberino di Mugello, poi la salita fino al passo a 903 m): nessun pedaggio sulla SS65. Senza auto la giornata non è praticabile con comodità, perché passo, cimitero e Badia di Moscheta sono fuori dai centri abitati.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 67 km da Firenze fino alla cima del Passo della Futa, percorribili in meno di un'ora; Firenzuola e la Badia di Moscheta si raggiungono con un tratto ulteriore (km e tempi non verificati).",
+      "durataViaggioMinuti": 75,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: strada asciutta, boschi appenninici verdi o in foliage. La Badia di Moscheta è aperta da marzo a novembre, solo nel fine settimana; in inverno il passo (903 m) può avere neve e ghiaccio.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [],
+      "costoMin": 24,
+      "costoMax": 49,
+      "costoNota": "Il carburante è calcolato sui soli 67 km fino al passo (134 km A/R, 0,129 €/km): le deviazioni a Firenzuola e a Moscheta aggiungono km non verificati. Il biglietto del Museo della Pietra Serena non è stato trovato su fonti ufficiali e non è incluso nel totale; la visita al cimitero è gratuita secondo quanto indicato dal richiedente, ma le fonti consultate non riportano la tariffa.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Il paesaggio è fatto di tre soste distanti pochi chilometri sulla stessa strada: il cimitero militare della Futa (la sosta più lunga, per l'estensione e il silenzio del luogo), il borgo-fortezza di Firenzuola con il suo museo ospitato nei fossati e nelle cantine del forte, e la Badia di Moscheta nel bosco. Con circa un'ora e un quarto di guida all'andata, restano tre-quattro ore di visita effettiva e un pranzo senza fretta: più di una giornata sarebbe troppo per queste tre tappe, meno ti costringerebbe a saltarne una.",
+      "cosaVedere": [
+        "Cimitero militare germanico della Futa: è il più grande dei dodici cimiteri militari tedeschi in Italia, con circa 33.000 caduti; realizzato dal Volksbund all'inizio degli anni Sessanta e aperto al pubblico il 28 giugno 1969, si visita camminando lungo i terrazzamenti fino alla cripta con la tomba comune.",
+        "Passo della Futa (903 m): da qui in avanti si vedono ancora le tracce delle fortificazioni del 1944 (postazioni, ricoveri, fossato anticarro) e il lungo muro fatto costruire dal granduca Leopoldo I per riparare i viandanti da vento e bufere di neve.",
+        "Museo della Pietra Serena a Firenzuola: ricavato nelle cantine e nel fossato della Fortezza, accanto ai bastioni quattrocenteschi di Antonio da Sangallo il Vecchio, racconta in sei sezioni come si estrae e si lavora la pietra che ha costruito Firenze.",
+        "Badia di San Pietro a Moscheta: abbazia vallombrosana nel bosco (fondata nel 1034 secondo la tradizione), con portale a sesto acuto e chiostro porticato trecentesco; oggi ospita il Museo del Paesaggio Storico dell'Appennino."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "67 km fino al Passo della Futa, 134 km A/R a 0,129 €/km (circa 17 €); la SS65 non ha pedaggi. I km per Firenzuola e Moscheta non sono verificati e non sono contati.",
+          "min": 17,
+          "max": 17,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cimitero militare germanico della Futa",
+          "testo": "Ingresso gratuito (indicazione del richiedente; le fonti consultate non riportano una tariffa).",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo della Pietra Serena",
+          "testo": "Prezzo del biglietto non verificato: le pagine consultate non lo riportano. Con il biglietto intero si ottiene una riduzione negli altri musei del circuito, valida un anno.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Badia di Moscheta (Museo del Paesaggio Storico dell'Appennino)",
+          "testo": "Ingresso gratuito.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 15-20 € nei locali più economici, 25-40 € per un pasto completo con bevande a Firenzuola (stima generale di un portale di recensioni, aggiornamento non certo).",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Il carburante è della vettura e si divide per due viaggiatori (circa 8,50 € a testa); ingressi e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nessun pedaggio sulla SS65 della Futa; la strada è di montagna, con curve e salita fino ai 903 m del passo."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Badia di Moscheta è aperta da marzo a novembre: sabato 15-18, domenica e festivi 11-18. Verificare per telefono (055 8144900) prima di partire. Gli orari del Museo della Pietra Serena e del cimitero non sono stati trovati."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per il Museo della Pietra Serena la Pro Loco indica i contatti 055 8199477, 055 8199459/434, 331 4446654 oppure firenzuolaproloco@gmail.com: conviene chiamare per accordarsi sull'apertura."
+        }
+      ],
+      "note": "Il consiglio che nessuna guida dà in evidenza: la Badia di Moscheta ha orari limitatissimi (sabato pomeriggio e domenica), quindi la giornata funziona solo nel fine settimana; nei feriali resti con cimitero e museo. Il pranzo si trova a Firenzuola o lungo la Futa: tra i locali citati dalla Gazzetta del Gusto ci sono lo Chalet della Raticosa (piatti toscani, panini e piadine per un pasto rapido) e la Trattoria Bar Bibo di Traversa (salumi di Cinta Senese, tortelli di patate, gnudi, tagliata).",
+      "fonti": [
+        "https://gazzettadelgusto.it/dove-mangiare/dove-mangiare-sulla-strada-della-futa/?print=pdf",
+        "https://www.sluurpy.it/firenzuola/economico",
+        "https://www.visittuscany.com/en/attractions/pietra-serena-museum-in-firenzuola/",
+        "https://www.clone.mugellotoscana.it/en/tradition/museums-in-mugello/museo-diffuso/29-conoscere/musei/79-museo-della-pietra-serena.html",
+        "https://www.italia.it/it/toscana/passo-della-futa",
+        "https://www.volksbund.de/fileadmin/redaktion_BG/Mediathek/Geschichts-_und_Erinnerungstafeln/Futa-Pass_2009.pdf",
+        "https://www.insella.it/da-sapere/passo-della-futa-moto-litinerario-completo-171927",
+        "https://www.museionline.info/tipologie-museo/badia-di-san-pietro-a-moscheta"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 44.12,
+        "lon": 11.38
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Strada di curve per un bimbo di 4 anni e cimitero militare poco adatto; meglio il borgo e il bosco della Badia."
+      }
+    },
+    {
       "id": "foligno-bevagna-e-montefalco-1g",
       "nome": "Foligno, Bevagna e Montefalco",
       "sottotitolo": "Umbria, tre città a pochi chilometri l'una dall'altra: un palazzo trecentesco, un borgo medievale intatto e la terra del Sagrantino",
@@ -5759,6 +5980,124 @@
       }
     },
     {
+      "id": "rufina-pontassieve-e-chianti-rufina-1g",
+      "nome": "Rufina, Pontassieve e il Chianti Rufina",
+      "sottotitolo": "Toscana, la più piccola e più fresca sottozona del Chianti, a mezz'ora da Firenze lungo la Valdisieve",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno Regionale da Firenze Santa Maria Novella o Campo di Marte a Rufina, sulla linea Firenze–Pontassieve–Borgo San Lorenzo–Faenza (circa 16 corse dirette al giorno). Da Rufina la Villa di Poggio Reale e il Museo della Vite e del Vino sono a pochi passi dal centro; per le cantine più lontane (Nipozzano, Selvapiana, Grignano) conviene un taxi o un transfer prenotato con la cantina. In alternativa l'auto, circa 20 km da Firenze.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 37 minuti in treno Regionale (20 km); con trasferimenti a piedi da casa e in paese circa 1 ora porta a porta.",
+      "durataViaggioMinuti": 60,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: le vigne sono verdi in primavera e in vendemmia, e nell'alta Valdisieve le temperature restano più miti che a Firenze. Luglio e agosto sono caldi e molte cantine riducono le visite.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 50,
+      "costoMax": 73,
+      "costoNota": "Il totale somma treno, una visita con degustazione e pranzo leggero in cantina e il museo; non include taxi o transfer tra Rufina e le cantine fuori paese, di cui non ho trovato tariffe verificate.",
+      "dipendenzaAuto": "auto-opzionale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Rufina è un paese piccolo: il Museo della Vite e del Vino nelle cantine di Villa di Poggio Reale si visita in meno di un'ora. Una cantina con degustazione dura circa 2 ore, pranzo leggero compreso, e le cantine stanno a distanze diverse dalla stazione. Una cantina, il museo e una passeggiata a Pontassieve riempiono una giornata senza correre. Un secondo giorno non serve, a meno di voler visitare più tenute.",
+      "cosaVedere": [
+        "Museo della Vite e del Vino, nelle cantine sotterranee di Villa di Poggio Reale: botti, attrezzi di vigna e una parete di fiaschi dal Settecento al Novecento, più la copia di un bando granducale del 1716 che definì le zone del vino toscano.",
+        "Villa di Poggio Reale, sopra il paese: la villa che ospita il museo, con la sua enoteca dei vini del territorio.",
+        "Una cantina del Chianti Rufina con degustazione, per esempio Travignoli o Fattoria di Grignano: visita alle cantine di fermentazione e affinamento e assaggio di più vini accompagnato da salumi e formaggi.",
+        "Castello di Nipozzano (Pelago), tenuta Frescobaldi con castello dell'XI secolo e vigne di Chianti Rufina: visita guidata e degustazione da prenotare dal sito dell'azienda.",
+        "Pontassieve, a una fermata di treno da Rufina: il centro sul fiume Sieve, utile per una passeggiata dopo la cantina."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R Firenze–Rufina",
+          "testo": "4-5 € a tratta in Regionale, circa 37 minuti; 8-10 € a persona andata e ritorno.",
+          "min": 8,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto A/R (confronto)",
+          "testo": "Circa 40 km A/R a 0,129 €/km di carburante, circa 5 € per la vettura; pedaggi non previsti sulla statale. Parcheggio in paese e costo dei trasferimenti non verificati.",
+          "min": 5,
+          "max": 5,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo della Vite e del Vino",
+          "testo": "3 € intero, 1,50 € ridotto (dato di una scheda aggiornata al 2021: confermare con il museo).",
+          "min": 1.5,
+          "max": 3,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Visita e degustazione in cantina con light lunch",
+          "testo": "Da 40 € a persona (Fattoria di Grignano, dal lunedì al venerdì, circa 2 ore, da prenotare 5 giorni prima) a 60 € a persona (Travignoli, tutti i giorni, 6 vini e light lunch incluso). Il light lunch di salumi, formaggi e bruschette sostituisce il pranzo.",
+          "min": 40,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo alternativo in trattoria",
+          "testo": "Su Tripadvisor Rufina ha locali economici (pizzerie, bar) e altri di fascia medio-alta (Il Ritrovo, Da Marino, Osteria Al 12), ma non ho trovato importi verificati in euro, quindi non entra nel totale.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci del totale sono a persona; l'auto è indicata solo come confronto (circa 5 € di carburante, da dividere per 2 viaggiatori).",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il Museo della Vite e del Vino risulta aperto sabato e domenica 10-20, negli altri giorni solo su prenotazione (dato del 2021: telefonare allo 055 8395708)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Le esperienze in cantina vanno prenotate: almeno 5 giorni prima per Fattoria di Grignano, almeno 1 giorno prima per Travignoli. Nipozzano non è prenotabile dalla pagina consultata: si prenota dal sito Frescobaldi."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Le cantine fuori Rufina non sono tutte raggiungibili a piedi dalla stazione: chiedere alla cantina un transfer o prenotare un taxi."
+        }
+      ],
+      "note": "Fare in modo che il treno dell'andata e quello del ritorno siano compatibili con l'orario della degustazione (Grignano parte alle 11, 12 o 13; Travignoli alle 11 o alle 14). Dalla stessa linea si scende a Pontassieve prima di Rufina: se avanza tempo, si torna a Firenze con una sosta lì. Controllare gli orari aggiornati su Trenitalia prima di partire; sono corse da regionale e nel fine settimana possono essere meno frequenti.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/rufina-or5u3",
+        "https://museionline.info/musei/museo-della-vite-e-del-vino",
+        "https://www.winedering.com/it/wine-tasting-light-lunch-at-fattoria-di-grignano-in-chianti-rufina_d2093_travel?gift=1",
+        "https://www.winedering.com/it/special-tasting-and-light-lunch-at-travignoli-in-chianti-rufina_d1997_travel?gift=1",
+        "https://www.winetourism.com/it/azienda-vinicola/castello-di-nipozzano/",
+        "https://www.tripadvisor.it/Restaurants-g1180071-Rufina_Tuscany.html"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 43.82,
+        "lon": 11.47
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il treno è breve e il museo è piccolo, ma la degustazione dura circa 2 ore tra cantine e adulti; per un bimbo di 4 anni conviene scegliere una cantina con spazio all'aperto."
+      }
+    },
+    {
       "id": "san-casciano-dei-bagni-e-sarteano-1g",
       "nome": "San Casciano dei Bagni e Sarteano",
       "sottotitolo": "Toscana (Siena), borghi termali etruschi al confine con Umbria e Lazio",
@@ -7135,6 +7474,129 @@
       }
     },
     {
+      "id": "umbertide-e-montone-1g",
+      "nome": "Umbertide e Montone",
+      "sottotitolo": "Umbria, due borghi dell'Alta Valle del Tevere: la rocca di Umbertide e il borgo medievale di Montone",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria: A1 da Firenze fino al casello di Arezzo, poi la E45 (gratuita) verso Umbertide, circa 133 km per tratta. Senza auto il treno non aiuta: la meta è pensata per chi ha la macchina, anche perché Montone si raggiunge solo su strada, con una salita di una quindicina di minuti da Umbertide.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h15-1h50 in auto per circa 133-135 km, a seconda del traffico sull'A1 e dei tratti statali.",
+      "durataViaggioMinuti": 95,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: clima mite e borgo piacevole da girare a piedi. In pieno luglio-agosto fa caldo, mentre l'inverno è freddo e Montone può essere nebbioso.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 35,
+      "costoMax": 68,
+      "costoNota": "Il biglietto della Rocca di Umbertide e quello del complesso di San Francesco a Montone non sono stati trovati con prezzo verificato, quindi non sono compresi nel totale. Il pedaggio di 4,30 € è stato letto come tratta singola ed è raddoppiato per l'A/R.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Umbertide e Montone distano circa 15 km, quindi si visitano entrambe in una giornata senza fretta. Umbertide richiede circa due ore: Rocca, Museo di Santa Croce e il centro lungo il Tevere. Montone richiede un'altra mezza giornata tra vicoli, chiese e il complesso museale di San Francesco. Con il viaggio di circa un'ora e mezza per tratta non serve pernottare, ma bisogna scegliere il giorno giusto perché i musei hanno aperture ridotte.",
+      "cosaVedere": [
+        "Rocca di Umbertide (Centro per l'Arte Contemporanea): fortezza trecentesca nel cuore del paese, oggi sede di mostre d'arte contemporanea, con la torre e il cortile da visitare.",
+        "Museo civico di Santa Croce, in Piazza San Francesco: nell'ex chiesa del Trecento custodisce la Deposizione dalla Croce di Luca Signorelli (1516), una tela di Pomarancio e la sezione archeologica sul territorio dagli Umbri ai Romani.",
+        "Galleria Rometti, dentro lo stesso museo: raccoglie le ceramiche della bottega umbertidese fondata nel 1927, un'arte ancora viva nella zona.",
+        "Borgo di Montone: abitato medievale a cerchi concentrici, definito un monumento a cielo aperto, patria del condottiero Braccio da Montone (Fortebracci). Basta camminare tra le mura e le piazzette.",
+        "Chiesa e complesso museale di San Francesco (XIV secolo): affreschi di scuola umbra e due opere di Bartolomeo Caporali della fine del Quattrocento, la Madonna della Misericordia e il Sant'Antonio.",
+        "Pieve di San Gregorio: la chiesa più antica del borgo, costruita intorno all'anno Mille in stile romanico-bizantino."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Carburante A/R",
+          "testo": "Circa 270 km A/R (133 km per tratta) più la deviazione Umbertide-Montone: a 0,129 €/km sono circa 35-39 €.",
+          "min": 35,
+          "max": 39,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggio A1 fino ad Arezzo, E45 gratuita",
+          "testo": "4,30 € a tratta secondo il calcolatore di pedaggio, quindi circa 8,60 € A/R; la E45 non ha pedaggio.",
+          "min": 8,
+          "max": 9,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo civico di Santa Croce",
+          "testo": "5 € intero, 3 € ridotto.",
+          "min": 3,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rocca di Umbertide e complesso di San Francesco a Montone",
+          "testo": "Prezzo del biglietto non verificato nelle fonti consultate: controllare direttamente prima di partire.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Spesa media a persona a Montone: 10-18 € in pizzeria, 18-35 € in trattoria o agriturismo, fino a 40 € all'Antica Osteria.",
+          "min": 10,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi (circa 43-48 € in tutto) sono della vettura e si dividono per due; ingressi e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il tratto di E45 è gratuito; il pedaggio si paga solo sull'A1 da Firenze ad Arezzo. Montone è in salita e il centro è pedonale nelle parti alte: conviene lasciare l'auto nei parcheggi all'ingresso del borgo (non trovata una fonte sui parcheggi)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Rocca di Umbertide apre da martedì a domenica, 10.30-12.30 e 16.30-18.30. Il Museo di Santa Croce è aperto venerdì 14.30-18.30, sabato, domenica e festivi 10.30-13.00 e 14.30-18.30."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il complesso museale di San Francesco a Montone apre solo da venerdì a domenica, 10.30-13.00 e 16.00-18.30; da lunedì a giovedì è chiuso."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria trovata; gli orari variano, quindi telefonare prima ai musei (Santa Croce 075 9419400, San Francesco 075 9306535)."
+        }
+      ],
+      "note": "Scegliete un sabato o una domenica: è l'unico giorno in cui sono aperti insieme il Museo di Santa Croce di Umbertide e il complesso di San Francesco a Montone. Il consiglio è di fare Umbertide in mattinata e salire a Montone per pranzo, così vedete il museo di San Francesco con l'orario pomeridiano. Gli orari sono quelli indicati dalle fonti, non sempre aggiornati: confermateli prima di mettervi in viaggio.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Umbertide/",
+        "https://distanzechilometriche.net/firenze-umbertide/",
+        "https://www.voloscontato.it/ristoranti/montone-dove-mangiare-bene-spendendo-poco.php",
+        "https://museionline.info/umbria-musei-monumenti/rocca-di-umbertide",
+        "https://www.museionline.info/musei/museo-di-santa-croce",
+        "https://www.italia.it/it/umbria/montone/luoghi-della-cultura/complesso-museale-di-san-francesco-a-montone",
+        "https://www.touringclub.it/destinazioni/montone"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 43.3047,
+        "lon": 12.3436
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Montone e la Rocca si girano bene a piedi, ma i musei sono piccoli e le salite del borgo stancano un bimbo di 4 anni."
+      }
+    },
+    {
       "id": "valdarno-san-giovanni-loro-ciuffenna-e-le-balze-1g",
       "nome": "Valdarno: San Giovanni Valdarno, Loro Ciuffenna e le Balze",
       "sottotitolo": "Toscana, la città natale di Masaccio e il borgo sospeso sul canyon con il mulino più antico d'uso in Toscana",
@@ -8137,6 +8599,269 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Con un bimbo di 4 anni l'ingresso è gratuito (sotto i 18) e i castelli piacciono, ma 9–10 ore totali in auto sono pesanti e Fénis/Verrès non sono adatti a passeggini."
+      }
+    },
+    {
+      "id": "appennino-reggiano-e-canossa-2g",
+      "nome": "Appennino reggiano: Pietra di Bismantova, Castelnovo ne' Monti e Canossa",
+      "sottotitolo": "Emilia-Romagna, la montagna-castello di Dante e i castelli di Matilde tra Reggio Emilia e il crinale",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria da Firenze: A1 fino a Reggio Emilia (casello a circa 165 km, con pedaggio di 8,90 € a tratta per Firenze–Bologna e 4,90 € per Bologna–Reggio Emilia) e poi la statale 63 verso Castelnovo ne' Monti, circa 200 km complessivi a tratta. Senza auto i collegamenti nell'Appennino sono lenti e radi, e i castelli di Canossa e Rossena restano scomodi da raggiungere.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h30 in auto (circa 200 km, tempo e distanza stimati sul percorso A1 + SS63, non verificati su una fonte).",
+      "durataViaggioMinuti": 150,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: sentieri asciutti, aria limpida e panorami fino alle Alpi. In piena estate la Pietra è afosa nelle ore centrali; in inverno possono esserci neve e ghiaccio sul sentiero, e i castelli riducono le aperture.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "costoMin": 84,
+      "costoMax": 109,
+      "costoNota": "Totale a persona senza pasti: non ho trovato fonti con menù e prezzi verificati per Castelnovo ne' Monti o Canossa, quindi la voce è solo testuale e va aggiunta al budget per due pranzi e una cena. Benzina calcolata con 0,129 €/km su circa 480 km; pedaggio A1 verificato per entrambi i tratti (Firenze–Bologna 8,90 € e Bologna–Reggio Emilia 4,90 € a tratta, 27,60 € A/R). I 200 km totali restano una stima non verificata. Per il castello di Rossena nessuna fonte riporta un prezzo di ingresso: la voce è solo testuale e non entra nel totale.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "La Pietra di Bismantova si sale in 1h30-2h tra andata e ritorno e occupa una mezza giornata con la sosta all'Eremo. Il resto del primo giorno basta per Castelnovo ne' Monti, il paese di base. Canossa e il vicino castello di Rossena distano circa 30-40 km di strade di collina e riempiono un secondo giorno senza fretta. Tre tappe vere in due giorni, con una notte in zona: un solo giorno costringerebbe a tagliare i castelli, tre sarebbero troppi per un'area così raccolta.",
+      "cosaVedere": [
+        "Pietra di Bismantova: un enorme blocco di arenaria alto 1.041 m, isolato nel paesaggio, che Dante ricorda nel Purgatorio; il sentiero 697 porta in cima in circa un'ora e dall'orlo la vista spazia dall'Appennino alle Alpi con aria limpida.",
+        "Eremo di Bismantova: l'eremo benedettino ai piedi della parete, a 200 m dal parcheggio, con affreschi del Quattrocento; ingresso libero, aperto sabato e domenica dalle 9 alle 19.",
+        "Anello \"Al gir d'la Preda\": circa 16 km su asfalto alla base della Pietra, adatto a bici o a una passeggiata se non si vuole salire in cima.",
+        "Castello di Canossa: la rupe dove nel 1077 Enrico IV attese il perdono del papa, con il Museo nazionale Naborre Campanini; visita su prenotazione, chiuso il lunedì.",
+        "Castello di Rossena: fortezza del X secolo costruita a difesa di Canossa, con 21 stanze, affreschi seicenteschi e terrazze panoramiche sulle colline; apre soprattutto nei fine settimana.",
+        "Castelnovo ne' Monti: il paese di base dell'Appennino reggiano, dove cenare con i tortelli e la cucina di montagna dopo la salita."
+      ],
+      "itinerario": null,
+      "alloggio": "Circa 70-120 € a notte per due in B&B e piccole strutture nei dintorni di Castelnovo ne' Monti (a 10-23 km dal paese: Villa Minozzo, Casina, Viano), con esempi a 85 € (La Volpara, Villa Minozzo) e 120 € (Costalevata, Casina). Gli aggregatori mostrano anche hotel e agriturismi da circa 60 a 105 € a notte per camera (convertiti da sterline). Dormire a Castelnovo ne' Monti o a Casina aiuta a restare vicini sia alla Pietra sia a Canossa.",
+      "costiDettaglio": [
+        {
+          "voce": "Benzina",
+          "testo": "Circa 200 km a tratta più 80 km di spostamenti locali tra Pietra, Canossa e Rossena, quindi circa 480 km totali a 0,129 €/km.",
+          "min": 62,
+          "max": 62,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A1",
+          "testo": "Firenze–Bologna 8,90 € a tratta più Bologna–Reggio Emilia 4,90 € a tratta (classe A, UnipolMove), quindi 13,80 € a tratta e 27,60 € A/R, arrotondati a 28 €.",
+          "min": 28,
+          "max": 28,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Una notte in B&B/piccola struttura, 70-120 € per due, cioè 35-60 € a persona.",
+          "min": 35,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Non quantificati: non ho trovato un listino o una fascia verificata per pranzo e cena a Castelnovo ne' Monti o Canossa (Ristoro di Dante risulta di fascia media «€€» su italia.it, senza cifre; la fascia 20–40 € di Foodle per Il Capolinea è solo una media nazionale stimata, non un prezzo verificato). Da aggiungere al budget per due pranzi e una cena.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Castello di Canossa",
+          "testo": "4 € intero, solo su prenotazione.",
+          "min": 4,
+          "max": 4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Castello di Rossena",
+          "testo": "Nessun prezzo di ingresso trovato (museionline.info non ne riporta; visita guidata, tel. 0522 878974): non incluso nel totale.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Benzina e pedaggi sono della vettura e si dividono per due; alloggio, pasti e ingressi sono a persona (alloggio contato come metà camera doppia).",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "L'auto è indispensabile: gli spostamenti tra Pietra di Bismantova, Canossa e Rossena sono su strade di collina. Ai piedi della Pietra c'è un parcheggio con area camper; dal parcheggio alla base del sentiero servono circa 20 minuti a piedi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Castello di Canossa chiuso il lunedì, aperto 10-16 (biglietteria chiude 30 minuti prima). Castello di Rossena aperto sabato e domenica 15-17, chiuso da lunedì a venerdì. Eremo di Bismantova aperto sabato e domenica 9-19."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Canossa si visita solo su prenotazione (Associazione Matilde di Canossa, tel. 366 8969303). Per Rossena conviene verificare orari e prenotazione prima di partire, tel. FAI 02 4676151."
+        }
+      ],
+      "note": "Il dato da sapere: Rossena apre quasi solo nel fine settimana, quindi conviene fare la gita di sabato-domenica, con Pietra e Eremo il sabato e i castelli la domenica (Canossa 10-16 e Rossena 15-17). Il sentiero alla cima non è adatto ai passeggini e alcuni tratti sono ripidi: portare scarpe con buona suola. Prezzo di Rossena e pasti non sono verificati: tenere un margine nel budget.",
+      "fonti": [
+        "https://www.viaggiando-italia.it/hai-gia-visitato-il-castello-di-canossa-ecco-gli-orari-il-prezzo-del-biglietto-e-come-raggiungerlo/",
+        "https://www.italia.it/it/emilia-romagna/reggio-emilia/castello-di-rossena",
+        "https://travel.thewom.it/italia/emilia-romagna/castello-eccentrico-appennino.html",
+        "https://www.museionline.info/emilia-romagna-musei-monumenti/eremo-di-bismantova",
+        "https://www.viaggiapiccoli.com/trekking-alla-pietra-di-bismantova/",
+        "https://www.bed-and-breakfast.it/en/budget-bb-castelnovo-ne-monti",
+        "https://uk.hotels.com/de710211/hotels-castelnovo-ne-monti-italy",
+        "https://www.italia.it/en/emilia-romagna/castelnovo-ne--monti/where-to-eat/ristoro-di-dante",
+        "https://www.sluurpy.it/castelnovo-ne-monti",
+        "https://fondoambiente.it/luoghi/castello-di-rossena",
+        "https://museionline.info/emilia-romagna-musei-monumenti/castello-di-rossena",
+        "https://www.unipolmove.it/calcola-pedaggio/Bologna/Reggio-Emilia/"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 44.4,
+        "lon": 10.4
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il sentiero 697 per la Pietra è fattibile con un bimbo di 4 anni in circa un'ora, ma ripido in alcuni tratti e senza passeggino; i castelli sono tranquilli."
+      }
+    },
+    {
+      "id": "asti-e-monferrato-astigiano-2g",
+      "nome": "Asti, Canelli e Nizza Monferrato",
+      "sottotitolo": "Piemonte, il cuore del vino astigiano tra città barocca, cantine sotterranee Unesco e colline del Monferrato",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria da Firenze: A1 fino a Bologna, poi A21 Piacenza–Torino–Brescia con uscita ad Asti (376 km e circa 3h35 per tratta secondo il calcolatore UnipolMove). L'auto serve soprattutto per muoversi tra Asti, Nizza e Canelli, dove i treni locali sono radi. In alternativa il treno: nessun diretto Firenze–Asti utile, si passa con uno o due cambi (di solito via Torino o Genova) e i tempi vanno da circa 4 a oltre 6 ore.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h35 in auto (376 km); 4–6 ore e più in treno con uno o due cambi.",
+      "durataViaggioMinuti": 215,
+      "periodoMiglioreTesto": "Fine aprile–giugno per le colline verdi e settembre–ottobre per vendemmia, tartufo e colori d'autunno. Evitare luglio e agosto (caldo afoso e molte cantine ridotte) e i weekend di fine settembre (Douja d'Or e Festival delle Sagre, alloggi più cari).",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 200,
+      "costoMax": 306,
+      "costoNota": "Auto propria: 376 km per tratta (UnipolMove), 33,90 € di pedaggio a tratta e carburante calcolato a 0,129 €/km; totale vettura circa 165 € A/R diviso per due. Alloggio: una notte in camera doppia 47–129 € divisa per due.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Asti ha un centro raccolto che si gira a piedi in mezza giornata (Cattedrale, Collegiata di San Secondo, Palazzo Mazzetti), mentre Canelli e Nizza Monferrato distano circa 25 e 30 minuti d'auto e hanno ciascuna una visita principale. Due giorni bastano per una cantina sotterranea con degustazione, un museo e due pasti piemontesi senza correre. Il viaggio è lungo (oltre 3 ore e mezza), perciò un solo giorno non sarebbe sensato, e un terzo sarebbe già dedicato solo a esplorare altre colline.",
+      "cosaVedere": [
+        "Cattedrali sotterranee di Canelli (Bosca, Unesco): gallerie in mattoni del XIX secolo scavate nel tufo, dove riposano migliaia di bottiglie di spumante. La visita guidata dura circa 1h15 e finisce con degustazione.",
+        "Palazzo Mazzetti ad Asti: palazzo settecentesco con sale storiche, pinacoteca e microsculture di Bonzanigo, il museo civico più importante della città.",
+        "Cattedrale di Santa Maria Assunta e Collegiata di San Secondo ad Asti: gotico lombardo con un grande ciclo di affreschi; San Secondo è il santo patrono del Palio.",
+        "Centro storico di Asti lungo Corso Alfieri: torri medievali e piazze dove si corre il Palio, ideale per una passeggiata prima di cena.",
+        "Nizza Monferrato: paese della Barbera, con piazza del Comune e belvedere sui vigneti; buona sosta per un calice e un aperitivo.",
+        "Canelli: cittadina dello spumante con le storiche cantine Gancia e Coppo lungo la via principale."
+      ],
+      "itinerario": null,
+      "alloggio": "Camera doppia in B&B o hotel ad Asti: circa 47–129 € a notte per due secondo Momondo (ottobre mese più economico, intorno a 67 €; settembre il più caro, circa 129 €). Conviene dormire ad Asti, vicino alla stazione e al centro, oppure a Nizza Monferrato per essere più vicini alle cantine.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto propria (vettura)",
+          "testo": "376 km per tratta: carburante circa 97 € A/R (0,129 €/km) più pedaggi 33,90 € a tratta (67,80 € A/R), totale circa 165 € per la vettura, da dividere per due.",
+          "min": 165,
+          "max": 165,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno (confronto)",
+          "testo": "Nessun diretto: uno o due cambi, circa 4–6 ore e più per tratta. Le tariffe dipendono dalla data e non è stata trovata una fascia A/R verificata; Omio indica un esempio di 29 € per un Intercity Notte.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Una notte in camera doppia: 47–129 € per due (Momondo), cioè circa 24–65 € a persona.",
+          "min": 24,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cattedrali sotterranee Bosca",
+          "testo": "28 € a persona (visita guidata di 1h15 con degustazione di tre spumanti); gratis sotto i 18 anni.",
+          "min": 28,
+          "max": 28,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Palazzo Mazzetti",
+          "testo": "10 € intero, 8 € ridotto secondo Museionline; Abbonamento Musei riporta 5 € e 3 €, quindi conviene verificare prima.",
+          "min": 5,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Al giorno: pranzo 10–20 € (locale economico o medio) e cena 20–40 €; una cena completa in trattoria costa 30–42 € vino escluso. Bagna cauda 16–22 €, agnolotti del plin 14–18 €.",
+          "min": 30,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Le voci della vettura (carburante e pedaggi, circa 165 €) sono divise a metà tra i due viaggiatori. Alloggio, ingressi e pasti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Asti ha una ZTL: conviene lasciare l'auto in un parcheggio ai margini (tariffe non verificate) e girare a piedi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Palazzo Mazzetti è aperto tutti i giorni 10–19 (ultimo ingresso 18). Le Cattedrali Bosca fanno visite solo il pomeriggio (15:00, 16:30, 17:00, 17:45)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Visita alle Cattedrali sotterranee: prenotare almeno un giorno prima (cancellazione gratuita fino a un giorno prima)."
+        }
+      ],
+      "note": "Programma suggerito: primo giorno arrivo a metà mattina ad Asti, centro storico, pranzo, Palazzo Mazzetti e cena in trattoria; secondo giorno mattina a Nizza Monferrato, pranzo a Canelli e nel pomeriggio la visita delle cattedrali sotterranee, con rientro la sera (circa 3h35). Ottobre è il mese più economico per l'alloggio ma settembre costa quasi il doppio: prenotare con anticipo. Le visite alle cattedrali sono solo di pomeriggio: organizzare di conseguenza la mattina.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Asti/",
+        "https://www.omio.it/treni/firenze/asti",
+        "https://www.winedering.com/it/boscas-underground-cathedrals-visit-and-tasting_d3230_travel",
+        "https://www.momondo.it/hotel/asti",
+        "https://www.sluurpy.it/asti/ristoranti",
+        "https://www.museionline.info/piemonte-musei-monumenti/museo-civico-di-palazzo-mazzetti",
+        "https://abbonamentomusei.it/en/spazio_espositivo/museo-civico-e-pinacoteca-di-palazzo-mazzetti/"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 44.9,
+        "lon": 8.206
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Le cattedrali sono gratis sotto i 18 anni ma durano 75 minuti con degustazione; il viaggio in auto di 3h35 per tratta è lungo per un bimbo di 4 anni."
       }
     },
     {
@@ -11808,6 +12533,154 @@
       }
     },
     {
+      "id": "jesi-fabriano-e-camerino-2g",
+      "nome": "Jesi, Fabriano e Camerino",
+      "sottotitolo": "Marche interne: Lotto a Jesi, la carta filigranata di Fabriano e il borgo universitario di Camerino",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria: da Firenze circa 208 km fino a Fabriano (circa 2 ore), con pedaggio di 6,30 € a tratta secondo il calcolatore UnipolMove. Fabriano, Jesi e Camerino sono sparse nell'entroterra e i collegamenti pubblici tra l'una e l'altra sono lenti, quindi l'auto è lo strumento giusto per fare le tre tappe in due giorni.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2 ore in auto fino a Fabriano (208 km, 6,30 € di pedaggio a tratta)",
+      "durataViaggioMinuti": 120,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: temperature gradevoli per passeggiare nei centri storici. In piena estate si sale di prezzo (a Jesi gli alberghi passano da circa 61 € a giugno a circa 140 € ad agosto) e in inverno l'entroterra appenninico di Fabriano e Camerino è freddo.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 152,
+      "costoMax": 222,
+      "costoNota": "Il totale comprende ingressi, una notte, i pasti (34-62 € a persona al giorno per 2 giorni) e la vettura (carburante e pedaggi Firenze-Fabriano A/R più 86 km tra Fabriano e Jesi) divisa in due. Non include i chilometri verso Camerino, per i quali non ho trovato una fonte. Le fasce dei pasti sono medie per locale dei portali Sluurpy e Voloscontato, non menù verificati uno a uno.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Le tre città stanno in un triangolo di spostamenti brevi e ciascuna ha una visita principale di 1-2 ore: il Museo della Carta di Fabriano, la Pinacoteca di Jesi con le sale di Lorenzo Lotto e la galleria di Palazzo Pianetti, il centro di Camerino con la pinacoteca civica. Con una notte nel mezzo si fa tutto senza correre: Jesi la mattina del primo giorno, Fabriano nel pomeriggio, Camerino il secondo giorno. Un solo giorno non basta per via delle due ore di guida all'andata e dei musei con orari spezzati; con tre giorni si finirebbe per allungare il brodo.",
+      "cosaVedere": [
+        "Pinacoteca civica di Jesi a Palazzo Pianetti: le opere che Lorenzo Lotto dipinse per chiese e confraternite jesine, tra cui la Deposizione del 1512 e la Pala di Santa Lucia del 1532.",
+        "Galleria di Palazzo Pianetti a Jesi: circa 76 metri di sala rococò con stucchi pastello e affreschi su tempo, stagioni, zodiaco e continenti, la galleria settecentesca più lunga d'Italia dopo quella della Reggia di Venaria.",
+        "Museo della Carta e della Filigrana di Fabriano: la storia della carta di Fabriano, dalle filigrane alla lavorazione artigianale, in un museo che spiega perché questa città è un riferimento mondiale per il settore.",
+        "Pinacoteca civica di Camerino: dopo il sisma del 2016 le collezioni sono esposte provvisoriamente nell'edificio Venanzina Pennesi in via Macario Muzio 2.",
+        "Palazzo Ducale di Camerino: residenza dei Da Varano, oggi sede universitaria, con il cortile quadrangolare quattrocentesco e la Sala degli Sposi affrescata; ingresso indicato come gratuito, ma conviene verificare l'apertura prima di andare."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte a Jesi o a Fabriano. A Jesi, secondo Momondo, si parte da 54 € a notte (Ospitalità Il Prato, 3 stelle) e i B&B stanno tra 63 € e 76 € (Juliette Jesi B&B 63 €, Il Quadrifoglio 72 €, La Luna dal Borgo 76 €). Il prezzo medio varia con la stagione: circa 61 € a giugno e 140 € ad agosto. Per due persone in camera doppia ho considerato 54-76 €, cioè 27-38 € a persona.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante A/R Firenze-Fabriano",
+          "testo": "208 km a tratta, 416 km A/R; a 0,129 €/km (1,98 €/l, 6,5 l/100 km) sono circa 54 € per la vettura. Gli spostamenti tra Fabriano e Jesi sono nella voce a parte.",
+          "min": 54,
+          "max": 54,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A/R",
+          "testo": "6,30 € a tratta, 12,60 € A/R (UnipolMove).",
+          "min": 12.6,
+          "max": 12.6,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Spostamenti Fabriano-Jesi A/R",
+          "testo": "Circa 43 km e 38 minuti a tratta (Rome2rio), 86 km A/R: a 0,129 €/km sono circa 11,10 € per la vettura. Il tratto verso Camerino non è incluso perché non ho trovato una fonte sui chilometri.",
+          "min": 11.1,
+          "max": 11.1,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo della Carta e della Filigrana",
+          "testo": "12 € intero, 5 € sotto i 18 anni.",
+          "min": 12,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pinacoteca civica di Jesi",
+          "testo": "5 € intero, 3 € ridotto.",
+          "min": 3,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pinacoteca civica di Camerino",
+          "testo": "4 € intero, 3 € ridotto.",
+          "min": 3,
+          "max": 4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio, una notte",
+          "testo": "54-76 € a notte per due a Jesi (hotel 3 stelle o B&B), cioè 27-38 € a persona.",
+          "min": 27,
+          "max": 38,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 10-20 € (locali a € e a €€ secondo Sluurpy, spesa media 10-33 € a Jesi secondo Voloscontato) e cena completa 24-42 € (Fabriano 24-38 €, Jesi 26-42 €, Sluurpy): 34-62 € a persona al giorno. Le fasce di pranzo sono ricavate dalle fasce di spesa media per locale, non da menù del pranzo.",
+          "min": 34,
+          "max": 62,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono costi della vettura e vanno divisi per due viaggiatori; ingressi, alloggio e pasti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il Museo della Carta di Fabriano è aperto da martedì a domenica, 9:30-13:30 e 15:00-18:00, chiuso il lunedì; la Pinacoteca di Jesi è aperta martedì-domenica 10-19. Le fonti consigliano di verificare gli orari prima della visita."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "A Camerino gli orari della pinacoteca e di Palazzo Ducale non sono riportati nelle fonti consultate: telefonare prima (pinacoteca: 0737 402310)."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Ho verificato solo il tratto Firenze-Fabriano; per ZTL e parcheggi a Jesi, Fabriano e Camerino non ho una fonte, quindi controllare sul posto."
+        }
+      ],
+      "note": "Il lunedì è la trappola: il Museo della Carta di Fabriano e la Pinacoteca di Jesi sono chiusi, quindi conviene partire martedì per avere i musei principali aperti entrambi i giorni, o comunque in giorni da martedì a domenica. Il Palazzo Ducale di Camerino è oggi sede universitaria e la pinacoteca è in sede provvisoria post-sisma: controllare l'accesso prima. I prezzi dei pasti sono fasce medie dei portali, quindi dipendono dal locale.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Fabriano/",
+        "https://www.museionline.info/marche-musei-monumenti/museo-della-carta-e-della-filigrana",
+        "https://www.museionline.info/marche-musei-monumenti/pinacoteca-civica-di-jesi",
+        "https://www.museionline.info/marche-musei-monumenti/pinacoteca-civica-di-camerino",
+        "https://www.museionline.info/marche-musei-monumenti/palazzo-ducale-camerino",
+        "https://www.momondo.it/hotel/jesi",
+        "https://www.voloscontato.it/ristoranti/jesi-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.sluurpy.it/jesi/ristoranti",
+        "https://www.sluurpy.it/fabriano/ristoranti",
+        "https://www.rome2rio.com/s/Jesi/Fabriano"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 43.5226,
+        "lon": 13.2436
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Due ore di auto all'andata e musei d'arte e di storia della carta: con un bimbo di 4 anni funziona meglio il Museo della Carta, il resto è più da adulti."
+      }
+    },
+    {
       "id": "lago-d-iseo-e-franciacorta-2g",
       "nome": "Lago d'Iseo e Franciacorta",
       "sottotitolo": "Lombardia, l'isola lacustre senz'auto di Monte Isola e le cantine delle bollicine a due passi dal lago",
@@ -14328,6 +15201,146 @@
       }
     },
     {
+      "id": "rieti-e-terminillo-2g",
+      "nome": "Rieti, il Terminillo e Leonessa",
+      "sottotitolo": "Lazio, il centro d'Italia con i santuari francescani della Valle Santa e la montagna dei reatini",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria: A1 da Firenze fino a Orte (tratto dal km 300,9 al km 491, circa 190 km di autostrada), poi la superstrada Terni–Rieti fino a Rieti. Senza auto il treno non conviene: la linea per Rieti richiede cambi e non arriva ai santuari né al Terminillo, che si raggiungono solo in auto (circa 15-20 km da Rieti).",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h in auto da Firenze (circa 275 km: 1h54 fino a Orte sull'A1, poi circa 1h tra superstrada Terni–Rieti e Salaria; tempo stimato dai due tratti).",
+      "durataViaggioMinuti": 180,
+      "periodoMiglioreTesto": "Da aprile a giugno e a settembre-ottobre per il centro e i santuari; da dicembre a metà marzo per lo sci al Terminillo (stagione indicativa 13 dicembre–15 marzo, aperture variabili); in autunno e inverno a Leonessa si trova il tartufo nero.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        12,
+        1,
+        2
+      ],
+      "mesiDaEvitare": [],
+      "costoMin": 166,
+      "costoMax": 252,
+      "costoNota": "Totale a persona con 2 viaggiatori: alloggio (1 notte), pasti (2 giorni), ingressi e metà delle spese dell'auto (carburante e pedaggio A1). Distanza Firenze–Rieti ricavata sommando Firenze–Orte (circa 200 km) e Orte–Rieti (circa 74 km, dal percorso Arezzo–Rieti): circa 275 km, quindi circa 550 km A/R più circa 60 km tra Terminillo e Leonessa. Pedaggio Firenze–Orte 14,20 € a tratta per la classe A (il casello di partenza è indicato solo come Firenze). Skipass del Terminillo non incluso (listino non trovato).",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Rieti ha un centro piccolo che si gira in mezza giornata (piazza, Duomo, Ponte Romano, Rieti Sotterranea, Museo Civico). La seconda giornata basta per i due santuari francescani di Greccio e Fonte Colombo, a circa 15 km dalla città, e per salire al Terminillo (circa 20 km, 30 minuti) o fino a Leonessa. Più giorni sono superflui, meno di due obbligano a scegliere tra città e dintorni.",
+      "cosaVedere": [
+        "Piazza Vittorio Emanuele II, il Duomo con la cripta e il Palazzo Papale: il cuore medievale della città, con ingresso libero alla piazza.",
+        "Rieti Sotterranea: visita guidata sotto via Roma, con i piloni romani del viadotto del III secolo a.C. che sollevava la Salaria dalle piene del Velino; parte da piazza Cavour e richiede prenotazione.",
+        "Museo Civico con Teatro Flavio Vespasiano e Sala Consiliare: un solo biglietto per tre luoghi.",
+        "Santuario di Greccio, dove nel 1223 san Francesco allestì il primo presepe vivente, con il Museo Internazionale del Presepio.",
+        "Santuario di Fonte Colombo, il «Sinai francescano» dove Francesco dettò la Regola definitiva; sentiero sterrato, servono scarpe adatte e circa 2 ore.",
+        "Terminillo: la montagna di Rieti (circa 2.000 m), con impianti invernali e sentieri d'estate; calcola circa 4 ore.",
+        "Leonessa: borgo montano noto per il tartufo nero autunno-invernale, adatto a una cena tipica."
+      ],
+      "itinerario": null,
+      "alloggio": "A Rieti un B&B o appartamento per due costa circa 65-80 € a notte (esempi trovati: Il Giardino di Mary 65 € con colazione e parcheggio, B&B Stella Polare 75 €). Gli hotel in città vanno indicativamente da 80 a 160 $ a notte secondo Booking. Conviene dormire in centro a Rieti, da cui partono sia i santuari sia il Terminillo.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "Circa 275 km da Firenze a Rieti, quindi circa 550 km A/R più circa 60 km per Terminillo e Leonessa: 570–610 km a 0,129 €/km, cioè 74–79 € di carburante per la vettura.",
+          "min": 74,
+          "max": 79,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto: pedaggio A1",
+          "testo": "Firenze–Orte sull'A1 costa 14,20 € a tratta in classe A, quindi 28,40 € A/R; la superstrada Terni–Rieti non ha pedaggio.",
+          "min": 28.4,
+          "max": 28.4,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "65-80 € a notte per due in B&B a Rieti, quindi 33-40 € a persona per una notte.",
+          "min": 33,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo e cena in trattoria o pizzeria: 18-35 € a pasto a persona (pizzeria 18 €, trattorie 22-25 €, ristoranti 30-35 €), quindi 36-70 € al giorno.",
+          "min": 36,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi Rieti",
+          "testo": "Rieti Sotterranea 10 € a persona (gruppi sotto 25 persone, 7 € sopra); Museo Civico + Teatro Flavio Vespasiano 8 € intero, 6 € ridotto.",
+          "min": 10,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Santuari di Greccio e Fonte Colombo",
+          "testo": "Il santuario di Greccio è a ingresso libero; per Fonte Colombo non è indicato alcun biglietto. Il Museo del Presepio non ha un prezzo verificato.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Impianti del Terminillo",
+          "testo": "Cinque impianti (Carbonaie, Cardito Sud, funivia Terminilluccio, Tappeto Togo, Terminilluccio), stagione indicativa 13 dicembre–15 marzo. Prezzo dello skipass non verificato: telefono 0746 261129.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Alloggio, pasti e ingressi sono a persona (alloggio diviso per due, una notte; pasti per due giorni). Carburante (74–79 €) e pedaggio A1 (28,40 € A/R) sono della vettura e vengono divisi per due: circa 51–54 € a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il Terminillo e i santuari si raggiungono solo in auto; d'inverno controllare strada e catene per la salita al Terminillo."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il santuario di Greccio è aperto ogni giorno 9-18 (fino alle 19 in luglio e agosto); il Museo del Presepio è aperto da martedì a domenica con pausa a metà giornata. Gli impianti del Terminillo sono chiusi fuori stagione."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Rieti Sotterranea si visita solo su prenotazione, a gruppi."
+        }
+      ],
+      "note": "Telefona prima per Rieti Sotterranea e per il Museo del Presepio: orari e giorni cambiano. Il Terminillo è una meta soprattutto da dicembre a marzo; se vai senza neve, dedica la seconda giornata ai santuari e a Leonessa. In autunno a Leonessa chiedi il tartufo nero nei ristoranti. Verifica gli orari aggiornati: le fonti avvertono che prezzi e orari cambiano spesso.",
+      "fonti": [
+        "https://www.travel365.it/rieti-cosa-vedere.htm",
+        "https://geosabina.it/en/other-municipalities/rieti-underground/",
+        "https://www.italia.it/es/lacio/rieti/rieti-subterranea",
+        "https://www.bed-and-breakfast.it/en/budget-bb-rieti",
+        "https://booking.com/city/it/rieti.html",
+        "https://peakvisor.com/ski/italy/rieti/terminillo/live",
+        "https://www.telepass.com/it/privati/servizi/telepedaggio/a1-milano-napoli",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Orte/",
+        "https://distanzechilometriche.net/arezzo-rieti/"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 42.4045,
+        "lon": 12.8567
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Greccio con il presepe e il Terminillo sono adatti a un bimbo di 4 anni, ma Rieti Sotterranea e il sentiero di Fonte Colombo sono poco comodi."
+      }
+    },
+    {
       "id": "riva-del-garda-e-malcesine-2g",
       "nome": "Riva del Garda e Malcesine",
       "sottotitolo": "Trentino e Veneto, l'alto Garda tra la rocca di Riva, il castello di Malcesine e la funivia sul Monte Baldo",
@@ -16068,6 +17081,149 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Centro pedonale e Tempietto gratuito sotto gli 8 anni, ma il viaggio è di quasi 4 ore ciascun senso e i musei sono lunghi per un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "varese-e-il-sacro-monte-2g",
+      "nome": "Varese, il Sacro Monte e il Lago di Varese",
+      "sottotitolo": "Lombardia, la città giardino ai piedi delle Prealpi con il Sacro Monte UNESCO, Villa Panza e il lago",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno: Frecciarossa/Intercity da Firenze S.M.N. fino a Milano e regionale Trenord per Varese (circa 52 minuti da Milano Porta Garibaldi, un treno ogni 30 minuti circa, 57 km). In alternativa auto propria: circa 345 km per tratta via A1 e A8/A9, utile solo se si vuole salire in auto al Campo dei Fiori.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 3h15-3h45 in treno con un cambio a Milano (collegamento più veloce 3h14 secondo Omio, media 3h43); in auto circa 3h30 per 345 km.",
+      "durataViaggioMinuti": 230,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: parchi di Villa Panza in fioritura o foliage, aria limpida dal Sacro Monte sulle Alpi. In pieno inverno Villa Panza e il Castello di Masnago hanno orari ridotti e le giornate sono corte.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        12
+      ],
+      "costoMin": 171,
+      "costoMax": 314,
+      "costoNota": "Stime indicative per due persone: i prezzi dei pasti e della funicolare non sono stati confermati su una fonte ufficiale 2026 (per la funicolare solo l'aumento di 1,60 € riportato dalla stampa locale). Il treno cambia ogni giorno con la disponibilità.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Varese è compatta: il centro si gira a piedi in mezza giornata e il Sacro Monte si raggiunge con bus più funicolare. Il primo giorno bastano per il Sacro Monte (14 cappelle lungo la via sacra, un'ora e mezza di salita lenta più il borgo di Santa Maria del Monte) e il centro storico con il Castello di Masnago; il secondo giorno si dedica a Villa Panza con parco e collezione (almeno 2-3 ore) e al lago con la ciclabile o la sosta alla Schiranna. Con una notte il ritmo resta tranquillo, senza correre da un museo all'altro.",
+      "cosaVedere": [
+        "Sacro Monte di Varese (UNESCO): via sacra di 14 cappelle seicentesche con gruppi di statue e affreschi che raccontano i misteri del Rosario, fino al santuario di Santa Maria del Monte con vista sulle Alpi.",
+        "Funicolare del Sacro Monte: impianto storico in stile liberty che sale dal Vellone alla vetta, un modo scenografico per arrivare in alto.",
+        "Villa e Collezione Panza (FAI): villa settecentesca con una delle maggiori raccolte di arte americana minimalista e ambientale, con installazioni di James Turrell e Dan Flavin, più il parco.",
+        "Castello di Masnago: castello medievale con affreschi gotici e il Museo Civico d'Arte Moderna e Contemporanea, piccolo e visitabile in un'ora.",
+        "Centro storico: Basilica di San Vittore con il campanile del Bernascone, Palazzo Estense con i giardini e piazza Podestà.",
+        "Lago di Varese e Schiranna: passeggiata o pista ciclabile lungo la riva, canottaggio e sguardo sul Monte Rosa nelle giornate limpide."
+      ],
+      "itinerario": null,
+      "alloggio": "Un'unica notte. Hotel a Varese in media circa 101 € a notte in settimana e 117 € nel weekend (Kayak); le 3 stelle partono da circa 60-73 € e i più cari arrivano a circa 147 €. Agosto è il mese più economico (circa 79 €), maggio il più caro (circa 159 €). Zone: centro storico vicino alla stazione, comodo senza auto; Santa Maria del Monte per la vista ma con cene limitate agli alberghi; Schiranna per stare sul lago.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze-Varese A/R",
+          "testo": "Da circa 35 a 64 € a tratta con un cambio a Milano (35 € il prezzo più basso per il 13 novembre, media 64 € su Omio), quindi 70-128 € A/R.",
+          "min": 70,
+          "max": 128,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto propria (confronto)",
+          "testo": "Circa 690 km A/R per circa 90 € di carburante a 0,129 €/km, a cui vanno aggiunti i pedaggi autostradali A1/A8 non verificati; non conviene sul treno se si sale a piedi.",
+          "min": 90,
+          "max": 90,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Una notte a 60-117 € per camera doppia in hotel 3 stelle (Kayak), cioè 30-59 € a persona.",
+          "min": 30,
+          "max": 59,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Stima 25-50 € a persona al giorno tra pranzo e cena, dalla trattoria al ristorante tipico (non verificata su fonte).",
+          "min": 25,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Funicolare del Sacro Monte",
+          "testo": "Circa 1,60 € a corsa secondo la stampa locale, stima 3,20 € A/R, da verificare presso il gestore.",
+          "min": 3.2,
+          "max": 3.2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Villa e Collezione Panza (FAI)",
+          "testo": "15 € intero (visita libera con parco e mostra), 19 € con visita guidata; solo parco 5 €; iscritti FAI 5 €.",
+          "min": 15,
+          "max": 19,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Castello di Masnago",
+          "testo": "5 € intero, 3 € ridotto; gratuito fino a 18 anni.",
+          "min": 3,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Con il treno tutto è a persona. Se si usa l'auto propria, carburante e pedaggi sono della vettura e si dividono per due.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Villa Panza: martedì-domenica 10-18 (ultimo ingresso 17:15), chiusa il lunedì non festivo e il 25 dicembre."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Castello di Masnago: chiuso il lunedì; martedì-giovedì 9:30-12:30, venerdì-sabato 9:30-12:30 e 14-18, domenica 14-18."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "La funicolare nel 2024 funzionava giovedì-domenica e festivi, dalle 10 alle 18:10 circa: controllare il calendario del gestore e i fermi per maltempo."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Biglietti Villa Panza online su ticket.fondoambiente.it; il ristorante Luce va prenotato entro il giorno prima."
+        }
+      ],
+      "note": "Un trucco che si scopre solo sul posto: a Villa Panza il parcheggio interno costa 3 € ma conviene arrivare con il bus, e il parco da solo costa 5 € per chi vuole solo passeggiare. Verificare gli orari invernali della funicolare prima di organizzare il giorno del Sacro Monte, perché il fermo per maltempo è frequente. Dal 9 al 15 novembre 2026 Villa Panza ha la settimana della sicurezza, con possibili prove di evacuazione. Il lago si abbina bene a una pausa di pomeriggio.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/varese",
+        "https://www.trenord.it/linee-e-orari/tratte/milano-varese/",
+        "https://www.omio.it/treni/milano/varese",
+        "https://fondoambiente.it:443/luoghi/villa-e-collezione-panza/visita",
+        "https://abbonamentomusei.it/en/spazio_espositivo/castello-di-masnago-museo-civico-darte-moderna-e-contemporanea/",
+        "https://www.kayak.it/Hotel-a-Varese.28742.hotel.ksp",
+        "https://www.avygeo.com/it/guide/europa/italia/3725-varese/dove-dormire",
+        "https://www.varesenews.it/2024/12/il-biglietto-della-funicolare-non-e-piu-integrato-col-bus-urbano-la-notizia-finisce-in-consiglio-comunale/2120229/?output=pdf",
+        "https://www.varesenews.it/2024/01/dal-25-gennaio-potenziato-il-servizio-della-funicolare-del-sacro-monte-di-varese/1824997/?output=pdf"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 45.8206,
+        "lon": 8.8251
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Parco di Villa Panza e lago sono adatti a un bimbo di 4 anni (under 5 gratis a Villa Panza), ma la salita della via sacra è lunga per le gambe piccole."
       }
     },
     {
@@ -18576,6 +19732,177 @@
       }
     },
     {
+      "id": "campi-flegrei-3g",
+      "nome": "Campi Flegrei: Pozzuoli, Baia, Cuma e la Solfatara",
+      "sottotitolo": "Campania, il supervulcano abitato a ovest di Napoli: anfiteatro romano, terme imperiali, la città sommersa di Baia e la prima colonia greca d'Italia",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Frecciarossa o Italo da Firenze S.M.N. a Napoli Centrale (circa 2h40-2h59, 29 corse al giorno Frecciarossa e 18 Italo), poi metropolitana linea 2 o treno regionale da Napoli Centrale/Garibaldi a Pozzuoli Solfatara. In loco ci si muove con la Cumana (EAV, da Montesanto, un treno ogni 20 minuti, fermate Pozzuoli, Arco Felice, Lucrino, Fusaro) e con i bus EAV: per Cuma si scende a Fusaro e si prende il bus Miseno-Fusaro fino al capolinea «Cuma Scavi». L'auto non serve e per due persone è la scelta meno comoda: traffico, parcheggi a pagamento e treni locali frequenti la rendono solo un confronto.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 2h40-2h59 di alta velocità fino a Napoli Centrale, più 15-30 minuti di metro/regionale fino a Pozzuoli e i trasferimenti: circa 4 ore porta a porta.",
+      "durataViaggioMinuti": 240,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: si cammina bene nei siti all'aperto (Cuma, Anfiteatro, Terme di Baia) e la barca con il fondo trasparente sul parco sommerso ha le partenze della domenica fino a fine ottobre. In luglio e agosto i siti sono esposti al sole e le giornate sono afose; in inverno gli orari dei siti si accorciano (chiusura attorno alle 16:30-17:30) e le giornate di tre giorni pieni diventano strette.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 227,
+      "costoMax": 478,
+      "costoNota": "Totale a persona con due viaggiatori, 2 notti e 3 giorni di pasti (30-60 € al giorno a persona, da Sluurpy). Il biglietto della barca di Civitatis è 33,66 US$, convertito in circa 31 € al cambio di novembre 2026.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Le tappe stanno tutte in una fascia costiera tra Pozzuoli e Cuma, collegata da Cumana e bus, e ogni sito richiede 1,5-3 ore: Cuma con l'acropoli e l'Antro della Sibilla da sola occupa 2-3 ore (la visita è limitata a 120 minuti), l'Anfiteatro Flavio e il Rione Terra una mattina, le Terme di Baia con il Castello e il Museo un'altra mezza giornata. Con tre giorni si fanno una località al giorno senza correre e resta il tempo per la barca sul parco sommerso e per il lago d'Averno. In un giorno solo si sacrificherebbero Baia o Cuma; in due giorni si salta la barca o il pernottamento rilassato.",
+      "cosaVedere": [
+        "Anfiteatro Flavio di Pozzuoli: un grande anfiteatro romano con i sotterranei dell'arena ancora percorribili; è il sito più scenografico del centro di Pozzuoli ed è a pochi minuti a piedi dalla fermata Pozzuoli Solfatara.",
+        "Rione Terra e il porto di Pozzuoli: la cittadella antica sul promontorio, con le strade romane sotto la cattedrale; si abbina a una passeggiata sul lungomare e alla vista del Tempio di Serapide, simbolo del bradisismo.",
+        "Parco archeologico di Cuma: la prima colonia greca d'Occidente, con l'acropoli, il Tempio di Apollo e l'Antro della Sibilla Cumana, un lungo corridoio trapezoidale scavato nel tufo (ingresso limitato a 25 persone).",
+        "Terme di Baia: lo storico centro di svago dei Romani, un complesso di sale termali e ville su terrazze affacciate sul golfo, con mosaici e ambienti a cupola.",
+        "Castello Aragonese di Baia e Museo Archeologico dei Campi Flegrei: ospitati nella fortezza sul promontorio, con ascensore, raccolgono i reperti di Baia, Cuma e Pozzuoli; il sabato d'estate il museo apre fino alle 22:00.",
+        "Parco sommerso di Baia in barca: circa un'ora, di cui 50 minuti di navigazione, su un'imbarcazione con il fondo trasparente per vedere dall'alto ville, mosaici e statue romane sommerse dal bradisismo; partenza dal Molo di Baia.",
+        "Lago d'Averno e Arco Felice: il cratere-lago che i Romani credevano l'ingresso degli Inferi, e l'arco in laterizio sulla strada antica per Cuma; mezza giornata aggiuntiva a piedi con la Cumana come appoggio."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Frecciarossa o Italo da Firenze a Napoli Centrale (circa 2h50), poi metro linea 2 o regionale fino a Pozzuoli Solfatara. Check-in in centro a Pozzuoli, pranzo sul porto, Anfiteatro Flavio nel primo pomeriggio e passeggiata lungo il Rione Terra e il lungomare fino al tramonto."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: in mattinata Cumana fino a Fusaro e bus Miseno-Fusaro fino a «Cuma Scavi»: acropoli, Antro della Sibilla e Tempio di Apollo (2-3 ore). Pomeriggio sul lago d'Averno e sull'Arco Felice, poi rientro a Pozzuoli in Cumana."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Cumana fino a Baia al mattino. Terme di Baia, poi salita al Castello Aragonese con il Museo Archeologico dei Campi Flegrei. Alle 12:15 o alle 15:30 la barca sul Parco sommerso dal Molo di Baia. Rientro a Pozzuoli, metro fino a Napoli Centrale e treno serale per Firenze."
+        }
+      ],
+      "alloggio": "A Pozzuoli centro, a pochi minuti da porto, Cumana e metro: B&B a 60-66 € a notte per due (Casa Adele da 60 €, Flegrea House da 66 € nella ricerca di bed-and-breakfast.it); sul comparatore Momondo (dati di novembre 2026) il prezzo medio a notte è di circa 41 € per un 3 stelle e circa 102 € per un 4 stelle, con Dimora Flegrea Room & Breakfast a 53 € e Diamonds Rooms and Spa a 65 €. Ottobre è il mese più economico (circa 41 €), dicembre il più caro (circa 145 €). Per due notti si calcolano 56-100 € a persona dividendo la camera doppia. Chi cerca prezzi ancora più bassi trova camere a Napoli a 35-45 €, ma a 9-13 km da Pozzuoli.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno alta velocità Firenze-Napoli Centrale A/R",
+          "testo": "Frecciarossa da 30 €, Italo da 16 € a tratta come tariffa minima; prezzo medio di tutti i treni 51 € a tratta; le corse dirette last-minute arrivano a 70 € (Italo) e 86 € (Frecciarossa). A/R da 32 € in prenotazione anticipata fino a circa 120 €.",
+          "min": 32,
+          "max": 120,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Trasporti locali (metro/regionale Napoli-Pozzuoli, Cumana, bus EAV)",
+          "testo": "Regionale Napoli-Pozzuoli da 3 € a tratta; Cumana 1,50 € fino a Dazio, 2 € fino a Lucrino, 2,60 € fino a Torregaveta. Stima per 3 giorni: A/R Napoli-Pozzuoli più 6-8 corse locali (Cuma, Averno, Baia).",
+          "min": 15,
+          "max": 27,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingressi ai siti archeologici (Circuito Flegreo)",
+          "testo": "Circuito Flegreo 10 € intero (5 € ridotto 18-25 anni): vale 3 giorni e comprende Cuma, Terme di Baia, Anfiteatro Flavio e Museo Archeologico; i biglietti singoli costano 5 € l'uno (circa 20 € per i quattro siti). Gratuito sotto i 18 anni e la prima domenica del mese.",
+          "min": 10,
+          "max": 20,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parco sommerso di Baia in barca con fondo trasparente",
+          "testo": "24 € adulti, 18 € bambini (circa un'ora, partenza dal Molo di Baia); su Civitatis a partire da 33,66 US$ (circa 31 €) per circa 50 minuti.",
+          "min": 24,
+          "max": 31,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio, 2 notti",
+          "testo": "56-100 € a persona per 2 notti: camera doppia a Pozzuoli tra circa 56 e 100 € a notte (B&B 60-66 €, 4 stelle circa 102 € di media).",
+          "min": 56,
+          "max": 100,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti (pranzo e cena)",
+          "testo": "Pranzo 10-20 € (panino, pizza o trattoria economica: fascia «sotto i 15 €» e circa 15-20 € per i locali più economici) e cena 20-40 € (circa 20 € a persona nelle trattorie e pizzerie di fascia media; 25-40 € per una cena completa di pesce con bevande), per un totale di 30-60 € a persona al giorno per 3 giorni.",
+          "min": 30,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Auto come confronto",
+          "testo": "Firenze-Napoli in auto, con pedaggio A1 e carburante a 0,129 €/km, non è conveniente rispetto al treno per due persone in questa tratta; a Pozzuoli e Baia il parcheggio è a pagamento. Costi della vettura non verificati.",
+          "min": null,
+          "max": null,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Solfatara di Pozzuoli",
+          "testo": "Chiusa ai visitatori dal 2017 e non visitabile nel 2026: nessuna data ufficiale di riapertura. Non è inclusa nel totale.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci incluse nel totale sono a persona; con il treno non c'è nessuna voce della vettura. L'alloggio è la quota a persona di una camera doppia condivisa; i pasti sono al giorno a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "La Solfatara di Pozzuoli è chiusa dal 2017: l'area è stata dissequestrata il 20 febbraio 2025 ma non esiste ancora una data ufficiale di riapertura, e il 13 luglio 2026 un incendio ha danneggiato la collina. Non la includiamo nell'itinerario."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Il livello di allerta vulcanica è giallo e l'attività sismica continua: controlla gli aggiornamenti dell'Ente Parco e della Protezione Civile prima di partire. L'Antro della Sibilla ammette massimo 25 persone alla volta e la visita a Cuma ha un limite di 120 minuti."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Parco di Cuma è aperto tutti i giorni tranne il martedì (9:00-19:00 in estate, ultimo ingresso 18:00; chiude prima nelle altre stagioni); per le Terme di Baia una fonte indica apertura da martedì a domenica 9:00-17:00. Gli orari variano tra i siti: verifica sul sito del Parco prima di fissare le date e metti Cuma e Baia in giorni diversi."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "A Cuma la biglietteria è chiusa dal 2026: si compra online sul portale e sull'app Musei Italiani o ai totem POS all'ingresso. Per la barca sul Parco sommerso conviene prenotare online (le partenze di domenica sono alle 10:30, 12:15 e 15:30 fino a fine ottobre; per le 15:30 solo via WhatsApp)."
+        }
+      ],
+      "note": "Un viaggio da venerdì a domenica funziona meglio di uno infrasettimanale: la barca ha le partenze la domenica e il Circuito Flegreo conviene perché vale tre giorni. Il consiglio che si impara sul posto: la Cumana non ferma a Cuma; si scende a Fusaro e si prende il bus Miseno-Fusaro fino al capolinea, e conviene partire presto da Pozzuoli per non perdere il bus. Se la barca non è attiva (dopo ottobre le partenze sono incerte), usa il pomeriggio per il Tempio di Serapide e il lungomare. La prima domenica del mese l'ingresso ai siti del Parco è gratuito, ma si riempie. Evita il lunedì e il martedì per non trovare siti chiusi. Il bradisismo è un fatto di tutti i giorni: leggi i bollettini ufficiali prima di partire e lasciati guidare dalle indicazioni dell'Ente Parco.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/napoli",
+        "https://www.fanpage.it/napoli/cumana-di-napoli-orari-mappa-fermate-e-prezzi/",
+        "https://www.omio.it/treni/pozzuoli/napoli-zimoy",
+        "https://www.napolike.it/campi-flegrei-guida-archeologica",
+        "https://www.napolike.it/cuma-come-visitarla",
+        "https://www.napolike.it/solfatara-pozzuoli-come-visitarla",
+        "https://en.cronachedellacampania.it/2025/02/solfatara-dissequestrata-lente-parco-esprime-soddisfazione/",
+        "https://www.museionline.info/campania-musei-monumenti/parco-archeologico-di-baia",
+        "https://www.viaggiapiccoli.com/parco-sommerso-di-baia-barca/",
+        "https://www.civitatis.com/it/napoli/semisommergibile-parco-sommerso-baia/",
+        "https://www.momondo.it/hotel/pozzuoli",
+        "https://www.bed-and-breakfast.it/en/pozzuoli?prezzo=1",
+        "https://www.sluurpy.it/pozzuoli/ristoranti",
+        "https://www.sluurpy.it/pozzuoli/economico"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 40.8236,
+        "lon": 14.1203
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "La barca con il fondo trasparente è pensata anche per i più piccoli (18 € per i bambini), ma Cuma e le Terme di Baia hanno tratti lunghi di sterrato e gradini, e l'Antro della Sibilla è un corridoio buio."
+      }
+    },
+    {
       "id": "capri-e-anacapri-3g",
       "nome": "Capri e Anacapri",
       "sottotitolo": "Campania, l'isola del Golfo di Napoli: il lato mondano di Capri e quello più quieto di Anacapri, con ville romane, sentieri sul mare e Grotta Azzurra",
@@ -19287,6 +20614,181 @@
       "bambini": {
         "adatta": "si",
         "nota": "Elafonisi ha acqua bassa e sabbia, la Fortezza e il porto sono facili con un bimbo di 4 anni; evita la Gola di Samaria e le lunghe ore in auto senza soste."
+      }
+    },
+    {
+      "id": "cluj-napoca-turda-e-alba-iulia-3g",
+      "nome": "Cluj-Napoca, Turda e Alba Iulia",
+      "sottotitolo": "Transilvania, Romania: la capitale universitaria, la miniera di sale più scenografica d'Europa e la cittadella a stella di Alba Carolina",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Wizz Air Bologna (BLQ) – Cluj-Napoca (CLJ), circa 1h50 e circa 7 voli a settimana, preceduto da treno Firenze–Bologna e Marconi Express fino all'aeroporto. In loco si resta senza auto: da Cluj bus per Turda (circa 35 minuti) e bus o treno per Alba Iulia (circa 2 ore).",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 5h30 porta a porta da Firenze: treno per Bologna e Marconi Express, volo di 1h50, trasferimento dall'aeroporto di Cluj al centro.",
+      "durataViaggioMinuti": 330,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre: giornate miti, adatte sia alla città sia alla cittadella all'aperto. A luglio e agosto i voli costano di più (da circa 76 € e 93 € a/r da Bologna contro i circa 50 € di gennaio); inverno freddo, ma la Salina è al coperto e a dicembre ci sono i mercatini.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 232,
+      "costoMax": 434,
+      "costoNota": "Prezzi in lei convertiti in euro al cambio indicativo di 1 € = 5,1 lei (tasso approssimato, non verificato su fonte). Le tariffe dei bus sono in euro sulla fonte (Obilet) o in dollari su Rome2rio e arrotondate in euro. Voli: fascia a/r da Bologna, bagaglio in stiva escluso. Alloggio = 2 notti, già sommate nel min/max.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Cluj ha un centro compatto che si gira a piedi in mezza giornata, e le due escursioni sono a distanza gestibile con mezzi pubblici: Turda è a circa 35 minuti di bus e la Salina si visita in circa un'ora, Alba Iulia è a circa 2 ore ma la cittadella copre una giornata piena tra musei, porte e cattedrale. Tre giorni consentono una tappa per giorno senza correre; con due giorni una delle due escursioni salterebbe, con quattro il programma si dilaterebbe.",
+      "cosaVedere": [
+        "Piazza Unirii e la chiesa gotica di San Michele a Cluj: il cuore della città, con il monumento a Mattia Corvino e i caffè di una delle città universitarie più vive della Romania.",
+        "Salina Turda: si scende con 172 gradini in una miniera di sale con volte enormi, un lago sotterraneo dove si va in barca e un anfiteatro scavato nel sale.",
+        "Gole di Turda (Cheile Turzii), a pochi chilometri dalla città: canyon calcareo con sentieri facili, da fare solo con bel tempo e un mezzo per raggiungerle.",
+        "Cittadella Alba Carolina ad Alba Iulia: fortezza a stella del Settecento con porte monumentali e un percorso che si fa a piedi, ingresso gratuito.",
+        "Cattedrale dell'Incoronazione (ortodossa) e il Museo Nazionale dell'Unione ad Alba Iulia: il luogo dove nel 1918 fu proclamata l'unione della Transilvania con la Romania.",
+        "Museo Principia: i resti dell'accampamento romano della Legio XIII Gemina, che racconta la città prima della fortezza."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: volo da Bologna, arrivo a Cluj e check-in in zona centro o Gării. Pomeriggio a piedi tra Piazza Unirii, San Michele, la città vecchia e i caffè; cena in un ristorante di cucina transilvana."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: bus dalla stazione di Cluj a Turda (circa 35 minuti, 3 corse al giorno dell'operatore principale più altri operatori). Salina Turda al mattino, aperta 9-17: conviene arrivare all'apertura per avere meno folla. Pranzo a Turda e rientro a Cluj nel pomeriggio, serata libera in città."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: bus (circa 2 ore, 18 partenze al giorno) per Alba Iulia, partendo presto. Cittadella: giro delle porte e della cattedrale, poi Museo dell'Unione e Principia. Rientro a Cluj nel tardo pomeriggio e volo serale per Bologna, se l'orario di quel giorno lo permette (verificare prima di prenotare); altrimenti conviene scambiare i giorni 2 e 3 o aggiungere una notte."
+        }
+      ],
+      "alloggio": "A Cluj-Napoca una camera doppia in B&B o hotel 3 stelle costa circa 55-95 € a notte (fasce di un budget generale sulla Romania; su Booking le soluzioni più economiche partono da circa 30-40 $, gli hotel di fascia alta da circa 90-155 $). Le zone Mărăști e Gării costano il 30-40% in meno rispetto a Piazza Unirii. Per questo itinerario conviene fare base a Cluj per 2 notti e tornarci ogni sera.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo Bologna–Cluj A/R",
+          "testo": "Wizz Air, volo diretto circa 7 a settimana, durata 1h50. Fascia a/r da Bologna 50-93 € a persona (da circa 50 € a gennaio a circa 93 € ad agosto); bagaglio in stiva non incluso.",
+          "min": 50,
+          "max": 93,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Accesso aeroporto di Bologna",
+          "testo": "Treno Firenze–Bologna A/R 20-50 € più Marconi Express 23,20 € A/R a persona.",
+          "min": 43,
+          "max": 73,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti)",
+          "testo": "55-95 € a notte per una doppia in 3 stelle o B&B a Cluj, cioè 55-95 € a persona per 2 notti (già sommate: non moltiplicare per i giorni).",
+          "min": 55,
+          "max": 95,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Menù del giorno a pranzo 5-9 €, ristorante informale 8-15 €, ristorante di fascia media 15-30 €: circa 15-35 € al giorno a persona.",
+          "min": 15,
+          "max": 35,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Bus Cluj–Turda A/R",
+          "testo": "Circa 2 $ (circa 2 €, 10 lei) a tratta, 35 minuti; stima a/r 4-8 € a seconda dell'operatore.",
+          "min": 4,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Bus Cluj–Alba Iulia A/R",
+          "testo": "7,53-11,85 € a tratta in bus (circa 2 ore, 18 corse al giorno); in treno CFR circa 12-14 $ a tratta, 2h15. A/R in bus: 15-24 €.",
+          "min": 15,
+          "max": 24,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Trasporti urbani a Cluj",
+          "testo": "Biglietto singolo CTP 3,50 lei (circa 0,70 €); stima di 3-7 corse nel viaggio.",
+          "min": 2,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Salina Turda",
+          "testo": "75 lei intero (circa 15 €) sul sito ufficiale; nel 2025 era 70 lei nei feriali e 85 lei nei weekend (circa 14-17 €). Bambini 3-18 anni 48 lei, sotto i 3 anni gratis.",
+          "min": 14,
+          "max": 17,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alba Carolina: ingressi",
+          "testo": "Porte, cattedrale ed esterni gratuiti. Palazzo dei Principi 20 lei, Museo Principia 15 lei, biglietto combinato Museo Unione + Museikon + Sala Unirii 35 lei (tariffe aprile 2025). A seconda di cosa si visita: 20-70 lei, circa 4-14 €.",
+          "min": 4,
+          "max": 14,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutto a persona: nessuna voce della vettura, perché non serve l'auto. Il noleggio a Cluj è facoltativo (circa 62 miglia fino ad Alba Iulia, 1h10 di guida) ma non è incluso nel totale.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Salina Turda aperta tutti i giorni 9-17, ultimo ingresso circa 16:00-16:20. Museo dell'Unione e Principia (Alba Iulia) chiusi il lunedì; aperti martedì-domenica 10-18 e 10-17."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Biglietti Salina Turda acquistabili online sul sito ufficiale per saltare la fila nei weekend; nessuna prenotazione obbligatoria per la cittadella di Alba Carolina."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "La biblioteca Batthyaneum di Alba Iulia non è aperta ai visitatori singoli, solo a gruppi con autorizzazione scritta."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Il volo diretto Bologna–Cluj è operato da un solo vettore (Wizz Air) con circa 7 voli a settimana: confermare giorni e orari prima di fissare le date."
+        }
+      ],
+      "note": "Il biglietto della Salina Turda vale tutto il giorno ma l'intero complesso si visita in circa un'ora: non serve fermarsi mezza giornata, e abbinare Turda al pranzo a Cluj o alle gole libera il pomeriggio. Ad Alba Iulia le tariffe dei musei sono di aprile 2025: verificarle prima di partire. Il treno per Alba Iulia è lento (circa 2h15, a volte 3 ore): il bus è più veloce. Per un volo del mattino da Bologna prenotare con anticipo il treno da Firenze. Non abbiamo una tariffa verificata per taxi o bus dall'aeroporto di Cluj al centro, quindi non è nel totale.",
+      "fonti": [
+        "https://www.skyscanner.ie/routes/blq/clj/bologna-international-to-cluj-napoca.html",
+        "https://www.romanianfriend.com/blog/romania-budget-travel-costs",
+        "https://www.salinaturda.eu/en/?p=13074",
+        "https://actualdecluj.ro/cel-ma-vizitat-obiectiv-turistic-din-cluj-scumpeste-tarifele-de-intrare-un-bilet-s-a-scumpit-la-85-de-lei-in-weekend/",
+        "https://www.bzi.ro/cat-dureaza-sa-vizitezi-salina-turda-ce-poti-vizita-si-ce-program-are-5192213",
+        "https://alba24.ro/turist-la-alba-iulia-ce-poti-vedea-gratis-si-ce-poti-vedea-contra-cost-in-cetatea-alba-carolina-principalele-atractii-1078893.html",
+        "https://www.rome2rio.com/s/Cluj-Napoca/Alba-Iulia-Station",
+        "https://www.rome2rio.com/s/Cluj-Napoca-Station/Turda",
+        "https://www.obilet.com/en/bus-ticket/kalosvar-alba_iulia",
+        "https://nomad.watch/cities/RO/cluj-napoca/costs",
+        "https://www.booking.com/budget/city/ro/cluj-napoca.html?aid=375653"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 46.7712,
+        "lon": 23.6236
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "La Salina e i trasferimenti brevi vanno bene per un bimbo di 4 anni (sotto i 3 anni gratis, 3-18 anni 48 lei), ma la giornata ad Alba Iulia con 2 ore di bus a tratta e il volo sono impegnativi."
       }
     },
     {
@@ -21738,6 +23240,176 @@
       }
     },
     {
+      "id": "kos-e-nisyros-3g",
+      "nome": "Kos e Nisyros",
+      "sottotitolo": "Dodecaneso, Grecia: l'isola di Ippocrate con il suo Asklepieion e, a mezz'ora di mare, il cratere vulcanico di Nisyros",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair Bologna (BLQ)–Kos (KGS), circa 2h30, operato solo in estate (circa giugno–settembre) e con pochi voli a settimana (circa 3, partenze tra le 13:50 e le 19:35). Da Firenze si raggiunge Bologna in treno e poi l'aeroporto con il Marconi Express. Da Firenze Peretola o da Pisa non risultano voli diretti per Kos nelle fonti consultate: l'alternativa sono voli con scalo, non verificati qui.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 6h30 porta a porta: treno Firenze–Bologna e Marconi Express, anticipo in aeroporto, 2h30 di volo e trasferimento da Kos Airport alla città di Kos (stima).",
+      "durataViaggioMinuti": 390,
+      "periodoMiglioreTesto": "Giugno e settembre: sono i mesi in cui il volo diretto da Bologna costa di meno (da 79 € A/R) e le escursioni in barca sono regolari, con meno caldo e meno folla di luglio e agosto. In agosto il volo sale a 187 € e l'isola è affollata; fuori stagione il volo diretto non c'è.",
+      "mesi": [
+        6,
+        9
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 331,
+      "costoMax": 629,
+      "costoNota": "Prezzi in USD e GBP delle fonti convertiti in euro con cambio indicativo (1 USD circa 0,86 €, 1 GBP circa 1,15 €). Il noleggio di un'utilitaria per 3 giorni (62–88 € per la vettura, divisi per due viaggiatori) è incluso nel totale, carburante escluso: resta facoltativo, perché con bus, taxi e il bus del tour si può farne a meno. Le tariffe aeree sono 'da' e variano molto con la data.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Kos è lunga circa 45 km ma tutto ciò che conta per una prima visita sta in pochi chilometri dalla città: il castello dei Cavalieri (Neratzia), l'agorà antica, la Casa Romana e l'Asklepieion, a circa 4 km. Il volo arriva nel tardo pomeriggio, quindi in tre giorni restano un giorno intero per Nisyros (circa 7 ore tra traghetto e vulcano), una mattina per l'Asklepieion e il centro, e le sere in città. Meno di tre giorni costringerebbe a scegliere tra vulcano e archeologia; di più servirebbe per le spiagge dell'isola.",
+      "cosaVedere": [
+        "Asklepieion di Kos: il santuario di Asclepio su terrazze sovrapposte a circa 4 km dalla città, la scuola medica legata a Ippocrate, con vista sul mare verso la costa turca.",
+        "Cratere Stefanos di Nisyros: il grande cratere vulcanico (circa 260 m di diametro) con fumarole e odore di zolfo, che si può percorrere a piedi sul fondo.",
+        "Mandraki, il capoluogo di Nisyros: case bianche, vicoli stretti e il monastero di Panagia Spiliani sopra il paese.",
+        "Castello dei Cavalieri di Neratzia a Kos città: fortezza medievale sul porto, a un passo dal platano di Ippocrate.",
+        "Casa Romana e agorà antica: la villa romana con mosaici e le rovine dell'agorà sono nel centro di Kos, visitabili a piedi."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: volo da Bologna a Kos con arrivo nel tardo pomeriggio. Trasferimento in città e sistemazione. Passeggiata serale al porto, ai piedi del castello di Neratzia, e cena in una taverna del centro."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: escursione a Nisyros (barca da Kardamena, circa 09:30; la barca tradizionale in genere opera lunedì–giovedì, da verificare per la data scelta). Si arriva a Mandraki verso le 10:20, poi bus o taxi fino al cratere Stefanos. Pranzo a Mandraki e rientro a Kardamena alle 16:30 circa. Cena a Kos o Kardamena."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: mattina all'Asklepieion (aperto 08:00-18:00 d'estate, chiuso il martedì), poi Casa Romana, agorà e museo archeologico con il biglietto cumulativo. Pranzo veloce e rientro in aeroporto per il volo di ritorno, che di sera dipende dal giorno della settimana: controllare l'orario."
+        }
+      ],
+      "alloggio": "Per due persone in bassa e media stagione (fuori luglio-agosto) conviene contare circa 45–85 € a notte in appartamento o hotel 3 stelle: Trip.com e HotelsCombined indicano appartamenti a partire da circa 50–60 € e 3 stelle intorno a 40–60 € fuori stagione, mentre un sito di prezzi medi indica 3 stelle a 60–80 € circa. In agosto i prezzi salgono molto (la media di tutte le strutture supera i 300 £). Dormire a Kos città o nella zona del porto permette di muoversi a piedi; chi parte da Kardamena è più comodo per la barca per Nisyros, ma più lontano da Asklepieion e centro.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Bologna–Kos",
+          "testo": "Ryanair diretto: da 79 € A/R a giugno e settembre, da 89 € a luglio, da 187 € ad agosto (Skyscanner). Il prezzo varia con la data.",
+          "min": 79,
+          "max": 187,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Accesso all'aeroporto di Bologna",
+          "testo": "Treno Firenze–Bologna A/R 20–50 € (secondo il tipo di treno) più Marconi Express 23,20 € A/R, dai parametri del documento.",
+          "min": 43,
+          "max": 73,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti)",
+          "testo": "45–85 € a notte per camera doppia, cioè circa 22–43 € a persona a notte: totale per 2 notti. Valori per bassa e media stagione, in agosto molto di più.",
+          "min": 45,
+          "max": 85,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Un pasto locale costa circa 15–20 € a persona e una cena di tre portate in un buon ristorante 30–40 € (The World Travel Index); pranzo veloce più cena danno circa 30–60 € al giorno a persona.",
+          "min": 30,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Escursione barca a Nisyros",
+          "testo": "Traversata Kardamena–Mandraki da 20 € a persona, più 10 € per bus e tour del vulcano (bambini 4-12 anni 5 €); altre agenzie con trasferimento in hotel stanno intorno ai 30 € come cifra segnalata, da confermare.",
+          "min": 30,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingresso vulcano di Nisyros",
+          "testo": "5 € a persona da pagare in contanti sul posto, non incluso nel biglietto della barca.",
+          "min": 5,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingresso Asklepieion",
+          "testo": "8 € il biglietto standard secondo il sito ufficiale dei musei archeologici; un altro sito riporta 15 €. Il cumulativo di 3 giorni per museo, Asklepieion e Casa Romana è 15 €.",
+          "min": 8,
+          "max": 15,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto (3 giorni)",
+          "testo": "Utilitaria a circa 24–34 USD al giorno a giugno e settembre (DiscoverCars, medie mensili), cioè 72–102 USD per 3 giorni, circa 62–88 € per la vettura (cambio 1 USD circa 0,86 €). Carburante escluso. Sull'isola il noleggio costa in genere 20–30 € al giorno secondo The World Travel Index.",
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false,
+          "min": 62,
+          "max": 88
+        }
+      ],
+      "ripartizione": "Volo, trasferimenti, alloggio diviso per due, pasti, escursione e ingressi sono a persona. Il noleggio auto per 3 giorni è una voce della vettura, divisa per due viaggiatori.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il volo diretto Ryanair BLQ–Kos è stagionale (circa giugno–settembre) e con circa 3 voli a settimana: il viaggio di 3 giorni va costruito sulle date dei voli. Nel 2026 la rotta risulta con schedulazione dal 2 giugno."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Nisyros non ha aeroporto: si raggiunge solo via mare da Kardamena o dal porto di Kos. La barca dell'escursione parte da Kardamena alle 09:30 e rientra alle 16:30 circa, circa 7 ore in tutto."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "L'Asklepieion è chiuso il martedì e nei giorni festivi principali (1 gennaio, 25 marzo, Pasqua ortodossa, 1 maggio, 25-26 dicembre); orario estivo 08:00-18:00, invernale 08:30-15:30 (ultimo ingresso 20 minuti prima)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "L'escursione mattutina a Nisyros risulta in programma dal lunedì al giovedì: se il volo arriva di venerdì o sabato conviene verificare le alternative con altre agenzie."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Prenotare la barca per Nisyros con qualche giorno di anticipo in giugno e settembre; il biglietto dell'Asklepieion si compra all'ingresso o online."
+        }
+      ],
+      "note": "Il consiglio che vale: scegli il giorno del volo in base all'escursione a Nisyros (solo lunedì-giovedì) e al martedì di chiusura dell'Asklepieion, non il contrario, perché i voli diretti sono pochi. Un volo domenica–martedì (come la tariffa da 79 € di giugno trovata su Skyscanner) lascia il lunedì per Nisyros, ma il martedì l'Asklepieion è chiuso: in tal caso visitalo la domenica sera solo se l'arrivo lo consente, altrimenti sposta la visita archeologica sulla Casa Romana e sull'agorà. Al vulcano porta scarpe chiuse e acqua: sul fondo del cratere fa caldo e c'è odore di zolfo. Il biglietto cumulativo da 15 € (3 giorni) conviene solo se vedi anche museo e Casa Romana.",
+      "fonti": [
+        "https://www.skyscanner.de/routen/blq/kgs/bologna-nach-kos.html",
+        "https://zbordirect.com/en/low-cost/from-italy/to-greece/bologna-kos",
+        "https://www.flightconnections.com/flights-from-blq-to-kgs",
+        "https://www.exas.gr/excursions/8-morning-excursion-to-nisyros",
+        "https://www.kos4all.com/kos-tours/kos-excursion-to-volcano-nisyros",
+        "https://archaeologicalmuseums.culture.gov.gr/en/museum/5df34af3deca5e2d79e8c145",
+        "https://greece-moments.com/en/asclepieion-kos/",
+        "https://championtraveler.com/price/cost-of-a-trip-to-kos-island-gr/",
+        "https://www.hotelscombined.co.uk/Place/Kos_Island.htm",
+        "https://www.trip.com/hotels/star3/city/gr/kos.html",
+        "https://www.nz.kayak.com/Kos.7696.guide",
+        "https://www.discovercars.com/greece/kos/kgs?a_aid=Nomadrame2026",
+        "https://www.kayak.com/Cheap-Kos-Car-Rentals.7696.cars.ksp",
+        "https://theworldtravelindex.com/de/europa/griechenland/kos/ist-kos-teuer"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 36.893,
+        "lon": 27.288
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Volo di 2h30 e traversata in barca di circa un'ora gestibili, ma l'escursione al cratere di Nisyros è lunga (7 ore) e calda per un bimbo di 4 anni; l'Asklepieion è facile, il castello e la Casa Romana vanno bene."
+      }
+    },
+    {
       "id": "la-maddalena-e-costa-smeralda-3g",
       "nome": "Sardegna nord: La Maddalena e Costa Smeralda",
       "sottotitolo": "Sardegna, Gallura: le spiagge e i borghi della Costa Smeralda più le isole dell'arcipelago di La Maddalena, in tre giorni con auto a noleggio",
@@ -22694,6 +24366,241 @@
       }
     },
     {
+      "id": "maiorca-palma-e-tramuntana-3g",
+      "nome": "Maiorca: Palma, la Serra de Tramuntana e Sóller",
+      "sottotitolo": "Baleari, Spagna: capitale gotica, trenino d'epoca e strade a picco sulla Serra de Tramuntana",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair Pisa–Palma (circa 1h35–1h40); da Firenze si raggiunge Pisa in treno con il Pisa Mover. In alternativa volo diretto da Bologna (1h50). Da Firenze Peretola non ci sono voli diretti, solo con scalo. A Palma si va a piedi e con il bus aeroportuale; per un giorno si noleggia l'auto per la Tramuntana, mentre Sóller si raggiunge con lo storico trenino.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 4h30 porta a porta da Firenze: treno + Pisa Mover fino all'aeroporto, volo di circa 1h40, bus fino al centro di Palma. Il volo Pisa–Palma è diretto solo alcuni giorni a settimana: controlla il calendario Ryanair.",
+      "durataViaggioMinuti": 270,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre: tariffe più basse di luglio-agosto (le settimane di settembre sono già care) e mare, sentieri e strade percorribili. Il Tren de Sóller chiude dal 23 novembre 2026 all'1 febbraio 2027: in quel periodo il programma va adattato con auto o bus.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8,
+        12,
+        1
+      ],
+      "costoMin": 300,
+      "costoMax": 655,
+      "costoNota": "Voli e alloggio variano molto con data e stagione: la fascia bassa è bassa stagione con volo Ryanair in offerta, quella alta è alta stagione. Tutti i prezzi sono in euro.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Palma è compatta: Cattedrale, Almudaina, Bellver e il mercato di Santa Catalina si fanno in una giornata a piedi. Il secondo giorno basta per Sóller e il Port con il trenino (55 minuti, 27 km). Il terzo si dedica alla costa nord-occidentale: Valldemossa, Deià e i belvedere di Banyalbufar sono a 18–50 km da Palma ma la Ma-10 è lenta e tortuosa, quindi un giorno intero sta bene. Meno giorni obbligherebbero a scegliere; di più si va verso Alcúdia e le calette.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Palma. Arrivo la mattina, bus A1 dall'aeroporto e passeggiata nel centro storico. Visita della Cattedrale La Seu (chiude la domenica; ingresso base circa 10 €), poi il Palazzo dell'Almudaina e i vicoli verso Santa Catalina per il pranzo al mercato. Nel pomeriggio il Castell de Bellver (4 €, gratis la domenica) per la vista su baia e porto; cena di tapas in centro."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Sóller e Port de Sóller. Dalla stazione di Palma parte il Tren de Sóller, che impiega circa 55 minuti per 27 km, passando per Bunyola e attraversando la Tramuntana. A Sóller si visita la piazza, la chiesa e si fa un giro tra gli aranceti; poi il tram storico (10 € a tratta) fino al Port per pranzo sul lungomare. Rientro in treno nel pomeriggio, con il biglietto combinato Palma–Port–Palma a 40 €."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Valldemossa e Deià in auto. Ritiro dell'auto la mattina (circa 30–70 € al giorno) e partenza verso Valldemossa: Real Cartuja (circa 12 €, in feriale dalle 10), vicoli fioriti e un'ensaimada. Poi la Ma-10 fino a Deià e ai belvedere di Banyalbufar, con soste per le foto sulla costa. Rientro a Palma, riconsegna dell'auto all'aeroporto e volo di ritorno."
+        }
+      ],
+      "alloggio": "A Palma, zona Santa Catalina o centro storico (La Lonja, Sant Miquel): 3 stelle e B&B da circa 60–80 € a notte per camera doppia in bassa stagione (stima per 3 stelle) fino a 120–160 € in alta stagione; un esempio reale è l'Hotel Amic Horizonte da 65 €. Per la sera prima del trenino meglio dormire in centro. Tassa turistica 0,28–2,20 € a notte a persona.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo PSA–Palma A/R",
+          "testo": "Ryanair diretto Pisa–Palma, circa 1h35–1h40: A/R da 40 € fino a circa 107 € a seconda di data e bagaglio (tariffe più basse in autunno-inverno e primavera). Prezzi indicativi trovati su comparatore.",
+          "min": 40,
+          "max": 107,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Firenze–aeroporto di Pisa",
+          "testo": "Treno + Pisa Mover: 30,40 € A/R a persona (parametro del documento).",
+          "min": 30.4,
+          "max": 30.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Bus aeroporto–Palma",
+          "testo": "Linea EMT A1/A2 circa 5 € a corsa: 5–10 € A/R (nel 2026 il trasporto urbano EMT risulta gratuito con alcune tessere, quindi la fascia può scendere).",
+          "min": 5,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio 2 notti",
+          "testo": "Hotel 3 stelle/B&B a Palma: circa 60–80 € a notte in bassa stagione fino a 120–160 € in alta, per camera doppia; 2 notti = 60–160 € a persona (coppia che condivide la camera).",
+          "min": 60,
+          "max": 160,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Tassa turistica",
+          "testo": "Tassa di soggiorno 2026 alle Baleari: 0,28–2,20 € a notte a persona in hotel 3 stelle (secondo stagione), i minori di 16 anni non pagano.",
+          "min": 1,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Menù del giorno a pranzo 15–20 €, cena in locale turistico medio 30–50 €; su 3 giorni 30–70 € al giorno a persona tra tapas, pranzo di menù e una cena.",
+          "min": 30,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Tren de Sóller + tram",
+          "testo": "Palma–Sóller A/R 30 €, tram Sóller–Port de Sóller 10 € a tratta; biglietto combinato Palma–Port–Palma 40 €. Treno chiuso dal 23 novembre 2026 all'1 febbraio 2027.",
+          "min": 30,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cattedrale di Palma (La Seu)",
+          "testo": "Circa 10 € l'ingresso base; fino a circa 25 € con accesso alle terrazze.",
+          "min": 10,
+          "max": 25,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Real Cartuja di Valldemossa",
+          "testo": "Circa 12–12,50 € (la cella di Chopin è a parte).",
+          "min": 12,
+          "max": 13,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Almudaina e Castell de Bellver",
+          "testo": "Palazzo dell'Almudaina 8 €; Castell de Bellver 4 € (gratis la domenica): visite facoltative.",
+          "min": 0,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto 1 giorno",
+          "testo": "Citycar o berlina dall'aeroporto di Palma circa 30–50 € al giorno in bassa stagione, fino a 70 € (SUV) in alta.",
+          "min": 30,
+          "max": 70,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Circa 110–120 km sul giro Palma–Valldemossa–Deià–Banyalbufar–Palma a 0,129 €/km.",
+          "min": 14,
+          "max": 16,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Confronto: bus TIB invece dell'auto",
+          "testo": "Bus TIB Palma–Valldemossa circa 5,40 € con carta, 9 € in contanti; Palma–Sóller 5,40 €: A/R 11–18 € a persona, ma orari rigidi.",
+          "min": 11,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Confronto: auto fino a Pisa",
+          "testo": "Circa 22 € di benzina + 12–18 € di parcheggio per 2 giorni (parametro del documento).",
+          "min": 34,
+          "max": 40,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Confronto: volo BLQ–Palma A/R",
+          "testo": "Ryanair diretto Bologna–Palma, 1h50: A/R da 63 € a 92 € circa; più treno A/R 20–50 € e Marconi Express 23,20 € A/R a persona.",
+          "min": 106,
+          "max": 165,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Confronto: volo FLR–Palma A/R",
+          "testo": "Da Firenze nessun volo diretto: con scalo (Barcellona con Vueling o Zurigo con SWISS) circa 112–153 € A/R, 7 ore circa di viaggio.",
+          "min": 112,
+          "max": 153,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Le voci della vettura sono noleggio e carburante del giorno 3, divise per due viaggiatori; tutte le altre voci (voli, trasferimenti, alloggio, pasti, trenino, ingressi, tassa turistica) sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il Tren de Sóller e il tram sono chiusi dal 23 novembre 2026 all'1 febbraio 2027 (il tram dal 23 novembre al 22 dicembre, con navetta bus): senza trenino il giorno 2 si fa in bus TIB (circa 5,40 €)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Cattedrale chiude la domenica; da aprile a novembre è aperta lun–ven 10–17:15 e sabato 10–14:15 (secondo l'ente di vendita biglietti, da riconfermare). La Cartuja di Valldemossa apre lun–ven 10–17 e sabato 10–16."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Alcune corse del treno (10:00 da Palma, 16:00 da Sóller) si prenotano alla biglietteria; il treno delle 10:10 è il più affollato, meglio salire presto in alta stagione."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "La Ma-10 è stretta e tortuosa, con autobus che incrociano: noleggiare un'auto piccola e guidare piano. Il parcheggio sotterraneo a Palma costa circa 2–3 € l'ora."
+        }
+      ],
+      "note": "Il volo da Pisa è il più comodo, ma non è giornaliero: verifica i giorni prima di prenotare l'alloggio. Un trucco: il treno delle 10:10 (indicato da altre fonti) è il più affollato; meglio quello delle 10:30 dell'orario ufficiale, e controlla gli orari aggiornati prima di partire. Tra i due giorni di visite, tieni sempre una scheda con gli orari di riconsegna dell'auto, perché il volo di ritorno non è giornaliero.",
+      "fonti": [
+        "https://www.momondo.it/volo/pisa/palma-di-maiorca",
+        "https://www.momondo.it/volo/palma-di-maiorca/bologna",
+        "https://www.momondo.it/volo/toscana/palma-di-maiorca",
+        "https://trendesoller.com/eng/timetable",
+        "https://www.nomadotravel.app/es/guides/rent-a-car-in-mallorca",
+        "https://www.gotripzi.com/destinations/palma-de-mallorca-es/cost",
+        "https://tripprof.com/en/blog/mallorca-trip-cost-breakdown/",
+        "https://www.hotelsviva.com/en/w/mallorca-travel-prices-2026-complete-budget-guide",
+        "https://www.travelsupermarket.com/en-gb/blog/guides/how-to-do-majorca-on-a-budget/",
+        "https://nomad.watch/cities/ES/palma-de-mallorca/costs",
+        "https://esaexperience.musement.com/es/mallorca/real-cartuja-de-valldemossa-ticket-5-108277",
+        "https://www.musement.com/us/majorca/entrance-to-palma-cathedral-la-seu-5-178019/"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 39.77,
+        "lon": 2.715
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il trenino e il tram divertono un bimbo di 4 anni, ma la Ma-10 con tante curve e i lunghi spostamenti in auto sono faticosi."
+      }
+    },
+    {
       "id": "manchester-e-liverpool-3g",
       "nome": "Manchester e Liverpool",
       "sottotitolo": "Inghilterra del Nord, due città di calcio, musica e archeologia industriale a 45 minuti di treno l'una dall'altra",
@@ -22859,6 +24766,189 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Musei gratuiti e Albert Dock piacciono a un bimbo di 4 anni, ma il volo mattutino e il ritmo con treno e stadi sono impegnativi."
+      }
+    },
+    {
+      "id": "marsala-mozia-e-mazara-3g",
+      "nome": "Marsala, Mozia e Mazara del Vallo",
+      "sottotitolo": "Sicilia occidentale, tra saline dello Stagnone, isola fenicia di Mozia, cantine di Marsala e il Satiro danzante",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair Pisa (PSA) – Trapani Birgi (TPS), circa 1h20, raggiunto da Firenze con treno regionale per Pisa Centrale e Pisa Mover; in alternativa volo Bologna (BLQ) – Trapani, circa 1h30, operato più giorni a settimana. A Trapani Birgi si ritira un'auto a noleggio: Marsala dista una ventina di minuti e serve per spostarsi tra imbarcadero di Mozia, saline e Mazara del Vallo.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 5h30 porta a porta: treno Firenze–Pisa e Pisa Mover, volo PSA–TPS di circa 1h20, ritiro auto e 20 minuti di strada fino a Marsala.",
+      "durataViaggioMinuti": 330,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: da aprile a ottobre l'isola di Mozia ha orari lunghi (fino alle 18:30), il mare dello Stagnone è piacevole e il caldo è sopportabile. Luglio e agosto sono i mesi più cari (a Marsala l'hotel medio ad agosto sfiora i 200 € a notte) e più caldi. Da novembre a marzo Mozia chiude alle 13.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 355,
+      "costoMax": 609,
+      "costoNota": "Il totale comprende volo, accesso aeroporto di Pisa, alloggio per 2 notti, pasti (3 giorni), Mozia con barca, una degustazione alle Cantine Florio, noleggio auto (diviso per due) e carburante. Il Museo del Satiro danzante resta fuori dal totale perché non ho trovato un prezzo verificato. Il noleggio è uno snapshot di Kayak, senza assicurazioni extra; i prezzi dei pasti vengono da una guida del 2025.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Marsala, Mozia e Mazara stanno in un fazzoletto di circa 25 km di costa: il centro di Marsala si gira in mezza giornata, Mozia con il museo Whitaker richiede una mattina intera (la traversata dura solo 5-10 minuti), Mazara del Vallo con la casbah, il porto peschereccio e il museo del Satiro danzante occupa un'altra giornata. Tre giorni permettono anche una cantina e il tramonto sulle saline senza correre; con due si salta una delle tre tappe, con quattro si finisce a ripetersi.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: arrivo a Trapani Birgi, ritiro dell'auto e trasferimento a Marsala (circa 20 minuti). Passeggiata nel centro storico, Piazza della Repubblica e il Duomo. Nel pomeriggio costeggia la laguna dello Stagnone lungo la Via del Sale, tra saline e mulini a vento, e fermati al tramonto sull'acqua bassa: è l'ora migliore per le fotografie. Cena in zona porto."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina all'isola di Mozia. Imbarco da Salina Infersa (6 km da Marsala) con Mozia Line o Arini e Pugliese, traversata di 5-10 minuti, ingresso con museo Whitaker incluso: il pezzo forte è il Giovinetto di Mozia, statua in marmo del V secolo a.C. Calcola circa un'ora e mezza e rientra a Marsala per pranzo. Nel pomeriggio visita guidata con degustazione alle Cantine Florio (aperte lunedì-sabato 9-13 e 15-18, chiuse la domenica) per capire il Marsala vergine."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: mattina a Mazara del Vallo (circa 22 km da Marsala). Passeggia nella casbah, tra i vicoli con le maioliche e le porte decorate, poi sul porto peschereccio e sul lungomare. Il Museo del Satiro danzante in Piazza Plebiscito custodisce la grande statua in bronzo recuperata dal mare: è la visita da non perdere. Pranzo di pesce, tardo pomeriggio di rientro verso Trapani Birgi, riconsegna dell'auto e volo."
+        }
+      ],
+      "alloggio": "Per due notti a Marsala centro: B&B e piccole strutture da circa 50 a 95 € a notte per una camera doppia, secondo l'elenco di B&B economici (si va dai 33 € di Lilybeo Village ai 95 € di Tramonto Mediterraneo, tra cui B&B San Michele a 50 € e Cortile Sant'Agostino Suites & Rooms a 80 €). Per gli hotel la media su Momondo è di circa 206 € a notte, con marzo il mese più economico (circa 46 €) e agosto il più caro (circa 196 €). Meglio dormire nel centro storico, a piedi da ristoranti e bar, con parcheggio facile da trovare.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo Pisa-Trapani A/R",
+          "testo": "Ryanair diretto, circa 1h20, nei giorni segnalati lunedì, mercoledì, sabato e domenica: A/R da 33 € nelle date più economiche fino a circa 100 € con prenotazione standard (media circa 102 €). Alternativa da Bologna: A/R da 31 € fino a circa 130 € (media Ryanair 132 €), volo di 1h30.",
+          "min": 33,
+          "max": 102,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Firenze-Pisa aeroporto (treno + Pisa Mover)",
+          "testo": "Treno regionale fino a Pisa Centrale e Pisa Mover: 30,40 € A/R a persona. In auto invece circa 22 € di benzina più 12-18 € di parcheggio per due giorni (la sosta in aeroporto è più cara per tre).",
+          "min": 30,
+          "max": 31,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Bologna-Trapani A/R (alternativa)",
+          "testo": "Da 31 € A/R fino a circa 130 €; in più treno A/R 20-50 € e Marconi Express 23,20 € A/R a persona per raggiungere l'aeroporto.",
+          "min": 74,
+          "max": 205,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti)",
+          "testo": "50-95 € a notte per una camera doppia in B&B a Marsala: 2 notti a persona costano 50-95 € dividendo la camera in due.",
+          "min": 50,
+          "max": 95,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Fasce per Marsala e Mazara: pasto economico 15-20 € a persona, pasto completo di pesce o cucina siciliana 25-40 € bevande incluse, oltre 50 € nei locali di fascia alta. Stima al giorno: pranzo leggero 15-20 € più cena 25-40 €, quindi 40-60 € a persona. Cifre di un sito di recensioni aggiornate al 2025, da verificare sui menu.",
+          "min": 40,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Barca per Mozia",
+          "testo": "5 € a persona A/R (2,50 € da 5 a 14 anni, gratis fino a 4 anni); tariffa riportata da fonti 2018-2022, da verificare con Mozia Line o Arini e Pugliese.",
+          "min": 5,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Mozia e Museo Whitaker",
+          "testo": "9 € intero a persona, incluso il museo e il parco archeologico; tariffa da fonti non recenti, quindi da riverificare.",
+          "min": 9,
+          "max": 9,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cantine Florio (visita con degustazione)",
+          "testo": "Degustazione verticale di Marsala vergine (1h30) da 80 €; \"L'arte del tempo\" (2h30) da 120 €. Alcune recensioni parlano di tour più economici da 20-35 €, ma non coincidono con il listino ufficiale.",
+          "min": 80,
+          "max": 120,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo del Satiro danzante",
+          "testo": "Prezzo non verificato: una fonte lo indica gratuito, un'altra a pagamento. Verificare prima della visita.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Circa 130-170 km totali tra aeroporto, Marsala, Mozia e Mazara a 0,129 €/km (benzina 1,98 €/l, 6,5 l/100 km).",
+          "min": 17,
+          "max": 22,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto",
+          "testo": "Trapani Birgi, 3 giorni: da circa 13 €/giorno per un'utilitaria economy (circa 39 € in tutto, tariffa di bassa stagione) fino a una media di circa 37 €/giorno per le categorie più alte (circa 111 € in tutto, luglio il mese più caro). Per due persone basta una compatta. Esclusi assicurazione extra e supplementi.",
+          "min": 39,
+          "max": 111,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Con due viaggiatori che condividono l'auto, noleggio e carburante sono costi della vettura e si dividono per due; volo, alloggio, ingressi, barca e cantina sono costi a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "L'imbarcadero di Mozia (Salina Infersa) è a circa 6 km da Marsala: in treno si scende alla stazione di Marsala e restano circa 3 km a piedi, quindi serve l'auto o un taxi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Mozia: dal 1 novembre al 31 marzo 9-13 (chiuso a Natale, Santo Stefano, 1 e 6 gennaio); dal 1 aprile al 31 ottobre 9:30-18:30, con museo chiuso 13:30-14:30. Cantine Florio chiuse la domenica. Gli orari del Museo del Satiro danzante variano tra le fonti (9-18 o 9-19:30): confermare allo 0923 933917."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per le cantine conviene prenotare la degustazione in anticipo; i voli Pisa-Trapani non sono giornalieri (lunedì, mercoledì, sabato, domenica secondo Momondo), quindi si sceglie la finestra di viaggio in base agli orari."
+        }
+      ],
+      "note": "Chi sbarca a Trapani Birgi e ha tempo può accorciare la prima giornata: l'aeroporto è a poche decine di minuti dallo Stagnone. A Mozia arrivare con la prima barca del mattino, quando c'è meno gente e meno caldo; nei mesi estivi le ultime corse rientrano entro le 18:30. Fra le due tappe del giorno 2 rientra a Marsala per pranzo: sull'isola c'è poco da mangiare. Se il volo da Pisa non coincide con la finestra giusta, vale la pena confrontare Bologna, anche se l'accesso all'aeroporto costa di più.",
+      "fonti": [
+        "https://www.momondo.it/volo/pisa/trapani",
+        "https://www.momondo.it/volo/bologna/trapani",
+        "https://www.momondo.it/hotel/marsala",
+        "https://www.bed-and-breakfast.it/en/budget-bb-mazara-del-vallo",
+        "https://www.ilturista.info/da-vedere/isola-mozia-marsala-storia-museo-cosa-vedere/",
+        "https://siviaggia.it/idee-di-viaggio/come-arrivare-allisola-di-mozia/154771/",
+        "https://www.winetourism.com/it/azienda-vinicola/cantine-florio/",
+        "https://museionline.info/sicilia-musei-monumenti/museo-del-satiro-danzante",
+        "https://www.touringclub.it/destinazioni/mazara-del-vallo/vedere/216776-museo-del-satiro",
+        "https://www.sluurpy.it/marsala/economico",
+        "https://www.kayak.it/Autonoleggio-Aeroporto-di-Trapani-Birgi.TPS.cap.ksp"
+      ],
+      "aggiuntaIl": "2026-11-12",
+      "coordinate": {
+        "lat": 37.7983,
+        "lon": 12.4363
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "La barca per Mozia, le saline e la casbah piacciono a un bimbo di 4 anni (barca gratis fino a 4 anni), ma le cantine e la visita al museo sono pensate per adulti e serve il seggiolino in auto."
       }
     },
     {

@@ -137,3 +137,20 @@ doppioni.
   /home/claude/run insieme agli altri file.
 - `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
   pubblicato solo su `viaggi-dati`.
+
+## Nota dalla run del 12 novembre 2026
+- Primo turno: 41 agenti in sei ondate (30 da 7-14 giorni con opus, 6 da 3 giorni e
+  5 completamenti/3 giorni con sonnet), tetto 5 WebSearch ciascuno: 29 schede valide
+  pubblicate subito (commit a950229, catalogo a 614), 4 SKIP (Visayas con Camiguin: Viaggiare
+  Sicuri sconsiglia tutto il Mindanao; Lione, Pafo e Annecy a 3 giorni: 7 ore di viaggio o
+  nessun volo diretto) e 3 schede da 3 giorni in `pending/` con pasti/noleggio senza numeri.
+- Secondo turno (`send_later` dopo 3 minuti): 3 completamenti + 3 sostitute da 3 giorni
+  (Maiorca, Cluj-Napoca, San Gallo → SKIP per 6h30 di auto) + 5 da 2 giorni + 4 da 1 giorno
+  in due ondate, più 3 completamenti per i pasti/vettura delle schede da 2 giorni. Totale
+  notte: 43 mete nuove (4 da 1, 5 da 2, 5 da 3, 18 da 7, 11 da 14), catalogo a 628.
+- Le mete da 3 giorni oltreconfine in auto (Lione, Annecy, San Gallo) non reggono il criterio:
+  da Firenze servono 6-7 ore; meglio proporre solo città con volo diretto da PSA/BLQ.
+- Per l'Appennino reggiano i pasti sono rimasti testuali dopo due completamenti (nessun
+  listino verificabile): pubblicata con la voce fuori dal totale e dichiarata in `costoNota`.
+- `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
+  pubblicato solo su `viaggi-dati`.

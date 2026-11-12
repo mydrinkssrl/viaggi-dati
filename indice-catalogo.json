@@ -948,6 +948,16 @@
    1
   ],
   [
+   "fiesole-e-settignano-1g",
+   "Fiesole, Monte Ceceri e Settignano",
+   1
+  ],
+  [
+   "firenzuola-e-passo-della-futa-1g",
+   "Firenzuola e il Passo della Futa",
+   1
+  ],
+  [
    "foligno-bevagna-e-montefalco-1g",
    "Foligno, Bevagna e Montefalco",
    1
@@ -1083,6 +1093,11 @@
    1
   ],
   [
+   "rufina-pontassieve-e-chianti-rufina-1g",
+   "Rufina, Pontassieve e il Chianti Rufina",
+   1
+  ],
+  [
    "san-casciano-dei-bagni-e-sarteano-1g",
    "San Casciano dei Bagni e Sarteano",
    1
@@ -1143,6 +1158,11 @@
    1
   ],
   [
+   "umbertide-e-montone-1g",
+   "Umbertide e Montone",
+   1
+  ],
+  [
    "valdarno-san-giovanni-loro-ciuffenna-e-le-balze-1g",
    "Valdarno: San Giovanni Valdarno, Loro Ciuffenna e le Balze",
    1
@@ -1180,6 +1200,16 @@
   [
    "aosta-e-i-castelli-valdostani-2g",
    "Aosta e i castelli valdostani",
+   2
+  ],
+  [
+   "appennino-reggiano-e-canossa-2g",
+   "Appennino reggiano: Pietra di Bismantova, Castelnovo ne' Monti e Canossa",
+   2
+  ],
+  [
+   "asti-e-monferrato-astigiano-2g",
+   "Asti, Canelli e Nizza Monferrato",
    2
   ],
   [
@@ -1328,6 +1358,11 @@
    2
   ],
   [
+   "jesi-fabriano-e-camerino-2g",
+   "Jesi, Fabriano e Camerino",
+   2
+  ],
+  [
    "lago-d-iseo-e-franciacorta-2g",
    "Lago d'Iseo e Franciacorta",
    2
@@ -1418,6 +1453,11 @@
    2
   ],
   [
+   "rieti-e-terminillo-2g",
+   "Rieti, il Terminillo e Leonessa",
+   2
+  ],
+  [
    "riva-del-garda-e-malcesine-2g",
    "Riva del Garda e Malcesine",
    2
@@ -1480,6 +1520,11 @@
   [
    "udine-e-cividale-del-friuli-2g",
    "Udine e Cividale del Friuli",
+   2
+  ],
+  [
+   "varese-e-il-sacro-monte-2g",
+   "Varese, il Sacro Monte e il Lago di Varese",
    2
   ],
   [
@@ -1558,6 +1603,11 @@
    3
   ],
   [
+   "campi-flegrei-3g",
+   "Campi Flegrei: Pozzuoli, Baia, Cuma e la Solfatara",
+   3
+  ],
+  [
    "capri-e-anacapri-3g",
    "Capri e Anacapri",
    3
@@ -1575,6 +1625,11 @@
   [
    "chania-e-creta-occidentale-3g",
    "Chania, Rethymno e Creta occidentale",
+   3
+  ],
+  [
+   "cluj-napoca-turda-e-alba-iulia-3g",
+   "Cluj-Napoca, Turda e Alba Iulia",
    3
   ],
   [
@@ -1648,6 +1703,11 @@
    3
   ],
   [
+   "kos-e-nisyros-3g",
+   "Kos e Nisyros",
+   3
+  ],
+  [
    "la-maddalena-e-costa-smeralda-3g",
    "Sardegna nord: La Maddalena e Costa Smeralda",
    3
@@ -1678,8 +1738,18 @@
    3
   ],
   [
+   "maiorca-palma-e-tramuntana-3g",
+   "Maiorca: Palma, la Serra de Tramuntana e Sóller",
+   3
+  ],
+  [
    "manchester-e-liverpool-3g",
    "Manchester e Liverpool",
+   3
+  ],
+  [
+   "marsala-mozia-e-mazara-3g",
+   "Marsala, Mozia e Mazara del Vallo",
    3
   ],
   [
@@ -3244,6 +3314,7 @@
   "annecy-chambery-e-aix-les-bains-3g",
   "pafo-e-limassol-3g",
   "filippine-centrali-visayas-14g",
-  "lione-vienne-e-beaujolais-3g"
+  "lione-vienne-e-beaujolais-3g",
+  "san-gallo-appenzello-e-lago-di-costanza-3g"
  ]
 }
