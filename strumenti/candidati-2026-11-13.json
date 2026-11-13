@@ -1,47 +1,237 @@
 [
-["castelli-dell-ile-de-france-7g", "Castelli dell'Île-de-France: Versailles, Fontainebleau, Chantilly, Chartres e Giverny", 7],
-["dalmazia-meridionale-7g", "Dalmazia meridionale: Dubrovnik, Pelješac, Mljet, le Elafiti e Konavle", 7],
-["slesia-e-monti-tatra-7g", "Slesia e Monti Tatra: Breslavia, Katowice, Zakopane e i Sudeti", 7],
-["lituania-completa-7g", "Lituania completa: Vilnius, Kaunas, Klaipėda, Nida e la Penisola dei Curi", 7],
-["belgio-completo-7g", "Belgio completo: Bruxelles, Bruges, Gand, Anversa, Lovanio e le Ardenne", 7],
-["isola-d-elba-completa-7g", "Isola d'Elba completa: Portoferraio, Monte Capanne, le spiagge della costa ovest e Pianosa", 7],
-["peloponneso-meridionale-7g", "Peloponneso meridionale: Messenia, Mani e Laconia: Kalamata, Pylos, Monemvasia e Mystras", 7],
-["albania-del-nord-e-alpi-albanesi-7g", "Albania del Nord: Scutari, Theth, Valbona, il Lago di Koman e Kruja", 7],
-["bulgaria-del-mar-nero-7g", "Bulgaria del Mar Nero e Balcani orientali: Varna, Nessebar, Sozopol, Veliko Tarnovo e la Valle delle Rose", 7],
-["banato-e-crisana-7g", "Banato e Crișana: Timișoara, Oradea, Arad e i Monti Apuseni", 7],
-["glasgow-e-scozia-sud-occidentale-7g", "Glasgow e la Scozia sud-occidentale: Loch Lomond, Arran, Ayrshire e Galloway", 7],
-["northumberland-e-vallo-di-adriano-7g", "Northumberland e il Vallo di Adriano: Newcastle, Durham, Alnwick, Holy Island e i Borders", 7],
-["garfagnana-apuane-e-lunigiana-7g", "Garfagnana, Alpi Apuane e Lunigiana: una settimana lenta tra Barga, Castelnuovo, Pontremoli e le cave", 7],
-["anatolia-centrale-7g", "Anatolia centrale: Ankara, Hattusa, Safranbolu, Konya e il Lago Salato", 7],
-["kalymnos-leros-lipsi-e-patmos-7g", "Kalymnos, Leros, Lipsi e Patmos: il Dodecaneso settentrionale da Kos", 7],
-["baviera-orientale-e-foresta-bavarese-7g", "Baviera orientale: Ratisbona, Passau, Landshut, Straubing e la Foresta Bavarese", 7],
-["lettonia-completa-7g", "Lettonia completa: Riga, Jūrmala, Sigulda, Cēsis, Kuldīga e Capo Kolka", 7],
-["pirenei-catalani-e-catalogna-interna-7g", "Pirenei catalani e Catalogna interna: Lleida, Val de Boí, Aigüestortes, Cardona, Montserrat e Vic", 7],
-["giappone-kansai-e-chugoku-14g", "Giappone: Kansai profondo e Chūgoku: Kyoto, Nara, Koyasan, Kumano Kodo, Okayama, Kurashiki, Matsue e Tottori", 14],
-["vietnam-centrale-e-del-sud-14g", "Vietnam centrale e del Sud: Hue, Hoi An, Da Nang, Nha Trang, Dalat, Saigon e il Delta del Mekong", 14],
-["cambogia-completa-14g", "Cambogia completa: Phnom Penh, Angkor, Battambang, Kampot, Kep e Koh Rong", 14],
-["thailandia-centrale-e-golfo-14g", "Thailandia centrale e Golfo: Bangkok, Ayutthaya, Kanchanaburi, Koh Samui, Koh Tao e Koh Chang", 14],
-["cina-orientale-14g", "Cina orientale: Shanghai, Suzhou, Hangzhou, Huangshan, Nanchino e i villaggi dell'Anhui", 14],
-["california-del-sud-14g", "California del Sud: Los Angeles, San Diego, Palm Springs, Joshua Tree, Death Valley e Santa Barbara", 14],
-["brasile-minas-gerais-e-rio-14g", "Brasile: Minas Gerais e Rio: Ouro Preto, Tiradentes, Inhotim, Belo Horizonte, Rio e Paraty", 14],
-["cile-centrale-e-isola-di-pasqua-14g", "Cile centrale e Isola di Pasqua: Santiago, Valparaíso, Colchagua, Pucón e Rapa Nui", 14],
-["egitto-e-giordania-14g", "Egitto e Giordania: Cairo, Luxor, Assuan, Petra, Wadi Rum e Mar Morto", 14],
-["rajasthan-completo-14g", "Rajasthan completo: Jaipur, Jodhpur, Jaisalmer, Udaipur, Pushkar, Bikaner e Ranthambore", 14],
-["stato-di-new-york-completo-14g", "Stato di New York completo: Manhattan, Hudson Valley, Catskills, Adirondacks, Finger Lakes e Niagara", 14],
-["bahia-completa-14g", "Brasile: Bahia completa: Salvador, Chapada Diamantina, Morro de São Paulo, Itacaré e la Costa do Descobrimento", 14],
-["nantes-angers-e-saumur-3g", "Nantes, Angers e Saumur", 3],
-["goteborg-e-bohuslan-3g", "Göteborg e la costa del Bohuslän", 3],
-["santander-santillana-e-picos-de-europa-3g", "Santander, Santillana del Mar e i Picos de Europa", 3],
-["lago-di-garda-in-tre-giorni-3g", "Lago di Garda in tre giorni: Sirmione, Gardone, Limone, Riva e Malcesine", 3],
-["dolomiti-di-brenta-3g", "Dolomiti di Brenta: Madonna di Campiglio, Molveno, Andalo e Pinzolo", 3],
-["taranto-grottaglie-e-manduria-3g", "Taranto, Grottaglie, Manduria e le Gravine", 3],
-["alto-reno-porretta-e-corno-alle-scale-2g", "Alto Reno: Porretta Terme, Corno alle Scale e il Lago di Suviana", 2],
-["val-di-non-2g", "Val di Non: Cles, Castel Thun, Lago di Tovel e il Canyon Rio Sass", 2],
-["orvieto-todi-e-valle-del-tevere-2g", "Orvieto, Todi e la Valle del Tevere", 2],
-["ciociaria-anagni-alatri-e-fiuggi-2g", "Ciociaria: Anagni, Alatri, Fiuggi e l'Abbazia di Casamari", 2],
-["imperia-e-riviera-dei-fiori-2g", "Imperia, Dolceacqua e la Riviera dei Fiori", 2],
-["casentino-stia-pratovecchio-e-romena-1g", "Casentino: Stia, Pratovecchio e il Castello di Romena", 1],
-["lugo-e-bagnacavallo-1g", "Lugo, Bagnacavallo e la Bassa Romagna", 1],
-["marzabotto-monte-sole-e-grizzana-1g", "Marzabotto, Monte Sole e Grizzana Morandi", 1],
-["montecarlo-altopascio-e-padule-di-fucecchio-1g", "Montecarlo, Altopascio e il Padule di Fucecchio", 1]
+[
+"castelli-dell-ile-de-france-7g",
+"Castelli dell'Île-de-France: Versailles, Fontainebleau, Chantilly, Chartres e Giverny",
+7
+],
+[
+"dalmazia-meridionale-7g",
+"Dalmazia meridionale: Dubrovnik, Pelješac, Mljet, le Elafiti e Konavle",
+7
+],
+[
+"slesia-e-monti-tatra-7g",
+"Slesia e Monti Tatra: Breslavia, Katowice, Zakopane e i Sudeti",
+7
+],
+[
+"lituania-completa-7g",
+"Lituania completa: Vilnius, Kaunas, Klaipėda, Nida e la Penisola dei Curi",
+7
+],
+[
+"belgio-completo-7g",
+"Belgio completo: Bruxelles, Bruges, Gand, Anversa, Lovanio e le Ardenne",
+7
+],
+[
+"isola-d-elba-completa-7g",
+"Isola d'Elba completa: Portoferraio, Monte Capanne, le spiagge della costa ovest e Pianosa",
+7
+],
+[
+"peloponneso-meridionale-7g",
+"Peloponneso meridionale: Messenia, Mani e Laconia: Kalamata, Pylos, Monemvasia e Mystras",
+7
+],
+[
+"albania-del-nord-e-alpi-albanesi-7g",
+"Albania del Nord: Scutari, Theth, Valbona, il Lago di Koman e Kruja",
+7
+],
+[
+"bulgaria-del-mar-nero-7g",
+"Bulgaria del Mar Nero e Balcani orientali: Varna, Nessebar, Sozopol, Veliko Tarnovo e la Valle delle Rose",
+7
+],
+[
+"banato-e-crisana-7g",
+"Banato e Crișana: Timișoara, Oradea, Arad e i Monti Apuseni",
+7
+],
+[
+"glasgow-e-scozia-sud-occidentale-7g",
+"Glasgow e la Scozia sud-occidentale: Loch Lomond, Arran, Ayrshire e Galloway",
+7
+],
+[
+"northumberland-e-vallo-di-adriano-7g",
+"Northumberland e il Vallo di Adriano: Newcastle, Durham, Alnwick, Holy Island e i Borders",
+7
+],
+[
+"garfagnana-apuane-e-lunigiana-7g",
+"Garfagnana, Alpi Apuane e Lunigiana: una settimana lenta tra Barga, Castelnuovo, Pontremoli e le cave",
+7
+],
+[
+"anatolia-centrale-7g",
+"Anatolia centrale: Ankara, Hattusa, Safranbolu, Konya e il Lago Salato",
+7
+],
+[
+"kalymnos-leros-lipsi-e-patmos-7g",
+"Kalymnos, Leros, Lipsi e Patmos: il Dodecaneso settentrionale da Kos",
+7
+],
+[
+"baviera-orientale-e-foresta-bavarese-7g",
+"Baviera orientale: Ratisbona, Passau, Landshut, Straubing e la Foresta Bavarese",
+7
+],
+[
+"lettonia-completa-7g",
+"Lettonia completa: Riga, Jūrmala, Sigulda, Cēsis, Kuldīga e Capo Kolka",
+7
+],
+[
+"pirenei-catalani-e-catalogna-interna-7g",
+"Pirenei catalani e Catalogna interna: Lleida, Val de Boí, Aigüestortes, Cardona, Montserrat e Vic",
+7
+],
+[
+"giappone-kansai-e-chugoku-14g",
+"Giappone: Kansai profondo e Chūgoku: Kyoto, Nara, Koyasan, Kumano Kodo, Okayama, Kurashiki, Matsue e Tottori",
+14
+],
+[
+"vietnam-centrale-e-del-sud-14g",
+"Vietnam centrale e del Sud: Hue, Hoi An, Da Nang, Nha Trang, Dalat, Saigon e il Delta del Mekong",
+14
+],
+[
+"cambogia-completa-14g",
+"Cambogia completa: Phnom Penh, Angkor, Battambang, Kampot, Kep e Koh Rong",
+14
+],
+[
+"thailandia-centrale-e-golfo-14g",
+"Thailandia centrale e Golfo: Bangkok, Ayutthaya, Kanchanaburi, Koh Samui, Koh Tao e Koh Chang",
+14
+],
+[
+"cina-orientale-14g",
+"Cina orientale: Shanghai, Suzhou, Hangzhou, Huangshan, Nanchino e i villaggi dell'Anhui",
+14
+],
+[
+"california-del-sud-14g",
+"California del Sud: Los Angeles, San Diego, Palm Springs, Joshua Tree, Death Valley e Santa Barbara",
+14
+],
+[
+"brasile-minas-gerais-e-rio-14g",
+"Brasile: Minas Gerais e Rio: Ouro Preto, Tiradentes, Inhotim, Belo Horizonte, Rio e Paraty",
+14
+],
+[
+"cile-centrale-e-isola-di-pasqua-14g",
+"Cile centrale e Isola di Pasqua: Santiago, Valparaíso, Colchagua, Pucón e Rapa Nui",
+14
+],
+[
+"egitto-e-giordania-14g",
+"Egitto e Giordania: Cairo, Luxor, Assuan, Petra, Wadi Rum e Mar Morto",
+14
+],
+[
+"rajasthan-completo-14g",
+"Rajasthan completo: Jaipur, Jodhpur, Jaisalmer, Udaipur, Pushkar, Bikaner e Ranthambore",
+14
+],
+[
+"stato-di-new-york-completo-14g",
+"Stato di New York completo: Manhattan, Hudson Valley, Catskills, Adirondacks, Finger Lakes e Niagara",
+14
+],
+[
+"bahia-completa-14g",
+"Brasile: Bahia completa: Salvador, Chapada Diamantina, Morro de São Paulo, Itacaré e la Costa do Descobrimento",
+14
+],
+[
+"nantes-angers-e-saumur-3g",
+"Nantes, Angers e Saumur",
+3
+],
+[
+"goteborg-e-bohuslan-3g",
+"Göteborg e la costa del Bohuslän",
+3
+],
+[
+"santander-santillana-e-picos-de-europa-3g",
+"Santander, Santillana del Mar e i Picos de Europa",
+3
+],
+[
+"lago-di-garda-in-tre-giorni-3g",
+"Lago di Garda in tre giorni: Sirmione, Gardone, Limone, Riva e Malcesine",
+3
+],
+[
+"dolomiti-di-brenta-3g",
+"Dolomiti di Brenta: Madonna di Campiglio, Molveno, Andalo e Pinzolo",
+3
+],
+[
+"taranto-grottaglie-e-manduria-3g",
+"Taranto, Grottaglie, Manduria e le Gravine",
+3
+],
+[
+"alto-reno-porretta-e-corno-alle-scale-2g",
+"Alto Reno: Porretta Terme, Corno alle Scale e il Lago di Suviana",
+2
+],
+[
+"val-di-non-2g",
+"Val di Non: Cles, Castel Thun, Lago di Tovel e il Canyon Rio Sass",
+2
+],
+[
+"orvieto-todi-e-valle-del-tevere-2g",
+"Orvieto, Todi e la Valle del Tevere",
+2
+],
+[
+"ciociaria-anagni-alatri-e-fiuggi-2g",
+"Ciociaria: Anagni, Alatri, Fiuggi e l'Abbazia di Casamari",
+2
+],
+[
+"imperia-e-riviera-dei-fiori-2g",
+"Imperia, Dolceacqua e la Riviera dei Fiori",
+2
+],
+[
+"casentino-stia-pratovecchio-e-romena-1g",
+"Casentino: Stia, Pratovecchio e il Castello di Romena",
+1
+],
+[
+"lugo-e-bagnacavallo-1g",
+"Lugo, Bagnacavallo e la Bassa Romagna",
+1
+],
+[
+"marzabotto-monte-sole-e-grizzana-1g",
+"Marzabotto, Monte Sole e Grizzana Morandi",
+1
+],
+[
+"montecarlo-altopascio-e-padule-di-fucecchio-1g",
+"Montecarlo, Altopascio e il Padule di Fucecchio",
+1
+],
+[
+"assia-e-reno-medio-7g",
+"Assia e Reno medio: Francoforte, Wiesbaden, il Rheingau, Marburgo, Fulda e Kassel",
+7
+],
+[
+"vallonia-namur-dinant-e-liegi-3g",
+"Vallonia: Namur, Dinant, Mons e Liegi",
+3
+]
 ]

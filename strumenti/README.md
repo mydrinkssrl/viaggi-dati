@@ -154,3 +154,21 @@ doppioni.
   listino verificabile): pubblicata con la voce fuori dal totale e dichiarata in `costoNota`.
 - `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
   pubblicato solo su `viaggi-dati`.
+
+## Nota dalla run del 13 novembre 2026
+- Primo turno: 36 agenti in cinque ondate (30 da 7-14 giorni con opus, 6 da 3 giorni con
+  sonnet) più 2 completamenti pasti, tetto 5 WebSearch ciascuno: 34 schede valide, 2 SKIP
+  (Dalmazia meridionale e Göteborg: nessun volo diretto 2026 da FLR/PSA/BLQ). Pubblicate
+  subito 28 schede (commit b4e2b7b, catalogo a 656); 6 tenute in `pending/` per voci
+  vettura/trasporti/pasti senza numeri (Elba, Santander, Bahia, Cina orientale,
+  Île-de-France, Taranto).
+- Secondo turno (`send_later` dopo 3 minuti): 5 mete da 2 giorni, 4 da 1, 2 sostitute
+  (Assia e Reno medio da 7, Vallonia da 3) e i 6 completamenti in due ondate, tutte valide.
+  Totale notte: 45 mete nuove (4 da 1, 5 da 2, 6 da 3, 18 da 7, 12 da 14), catalogo a 673.
+- L'Agent tool della sessione pianificata non ha `run_in_background`: si lanciano 8 agenti
+  in un'unica chiamata e si aspetta l'ondata; conviene dire nel prompt «NON lanciare
+  sub-agenti», altrimenti il brief fa partire 3 haiku per scheda e il budget salta.
+- Restano testuali e fuori dal totale solo voci marginali (parcheggi, musei minori, safari
+  a Ranthambore, guide in Chapada, bus Tiradentes–Rio), dichiarate in `costoNota`.
+- `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
+  pubblicato solo su `viaggi-dati`.

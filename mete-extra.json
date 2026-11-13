@@ -859,6 +859,98 @@
       }
     },
     {
+      "id": "casentino-stia-pratovecchio-e-romena-1g",
+      "nome": "Casentino: Stia, Pratovecchio e il Castello di Romena",
+      "sottotitolo": "Toscana, l'alta valle dell'Arno oltre il passo della Consuma: borghi laniferi, pieve romanica e le torri dei Conti Guidi",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "In auto da Firenze per il passo della Consuma (circa 52 km, nessun pedaggio): si sale a circa 1.050 m, si scende verso Pratovecchio e Stia. La prima tappa naturale è la deviazione per Romena, prima dei due paesi. Il treno non arriva fino a qui: le stazioni più vicine (Rufina, Dicomano) distano circa 18 km in linea d'aria e servono bus o taxi, quindi per una giornata l'auto è la scelta pratica.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h in auto (52 km via passo della Consuma, stima del sito di percorsi); con traffico e curve contare 1h-1h15.",
+      "durataViaggioMinuti": 70,
+      "periodoMiglioreTesto": "Aprile-giugno per i prati e il verde del Casentino, settembre-ottobre per i colori dei boschi e i funghi nei menu. In pieno inverno la Consuma può avere neve o ghiaccio; a luglio-agosto il fresco della quota è un vantaggio, ma i weekend si affollano.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 27,
+      "costoMax": 37,
+      "costoNota": "Carburante calcolato con 0,129 €/km su circa 104 km A/R, diviso per due viaggiatori. I biglietti di museo e castello non sono entrati nel totale perché non ho trovato tariffe verificate: informarsi prima.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le tre tappe stanno in pochi chilometri: Pratovecchio e Stia distano circa 2,5 km a piedi l'una dall'altra, la Pieve di Romena è subito sotto il castello, a poca strada dai due paesi. Una mattina basta per Romena e la salita a piedi di circa 1 km dalla pieve al castello, il pranzo in trattoria a Stia lascia il pomeriggio per il museo della lana e una passeggiata tra le piazze. Un secondo giorno servirebbe solo per aggiungere Camaldoli o Poppi, che qui restano fuori.",
+      "cosaVedere": [
+        "Castello di Romena: dal XII secolo roccaforte dei Conti Guidi, oggi restano tre torri, il cammino di ronda e un viale di cipressi; è citato nell'Inferno di Dante (canto XXX) e D'Annunzio vi scrisse parte delle Laudi.",
+        "Pieve di San Pietro a Romena: chiesa romanica della metà del XII secolo, monumento nazionale, da vedere con la cripta se aperta; dalla pieve al castello si sale a piedi per circa 1 km passando dalla Fonte Branda ricordata da Dante.",
+        "Pratovecchio: Piazza Paolo Uccello, tonda con fontana, e Piazza Jacopo Landino (Piazza Vecchia), sede del Parco Nazionale delle Foreste Casentinesi.",
+        "Stia: Piazza Tanucci con la chiesa di Santa Maria Assunta, e le fontanelle d'acqua di sorgente al Palagio Fiorentino; il paese è alle pendici di Monte Falterona, da cui nasce l'Arno.",
+        "Museo dell'Arte della Lana (Via Sartori 2, Stia): l'ex lanificio racconta la produzione del panno del Casentino, il tessuto arancione e verde tipico della valle."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante)",
+          "testo": "Circa 52 km per tratta, 104 km A/R a 0,129 €/km: circa 13 € di carburante, nessun pedaggio sul percorso della Consuma.",
+          "min": 13,
+          "max": 13,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "20-30 € a persona in trattoria a Stia (fascia indicata per Da Filetto, piazza Tanucci; menu del giorno con tortelli, tagliatelle ai funghi, arrosto misto).",
+          "min": 20,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "La vettura (carburante, circa 13 €) è divisa tra i due viaggiatori, 6,50 € a testa; il pranzo è a persona. Ingressi a castello e museo non inclusi.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il castello è proprietà privata e si raggiunge a piedi dalla pieve (circa 1 km in salita su una carrareccia): scarpe comode. Da Firenze nessuna ZTL sul percorso; il passo della Consuma può avere neve in inverno."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Orari e tariffe del castello e del museo della lana non sono pubblicati sulle pagine consultate: telefonare prima (Cooperativa Oros 350 196 3285 per Romena; museo 0575 582216). Da Filetto, a Stia, è chiuso il sabato e serve a pranzo (10:30-14)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per entrare al castello conviene prenotare con la Cooperativa Oros (info@orostoscana.it); in trattoria a Stia prenotare nei fine settimana."
+        }
+      ],
+      "note": "Fermarsi al Bar Consuma, in cima al passo, per una schiacciata (con porcini o semplice) da mangiare all'andata: l'orario della trattoria è corto, finisce alle 14. La pieve non è sempre aperta, quindi chiedere prima. A Stia l'acqua delle fontanelle del Palagio Fiorentino si può bere e riempire. Se avanza tempo, Camaldoli e Poppi sono vicini ma meritano un'altra giornata.",
+      "fonti": [
+        "https://www.visittuscany.com/it/attrazioni/il-castello-di-romena/",
+        "https://www.ilbelcasentino.it/romena-castle-en.php",
+        "https://www.sluurpy.it/ristorante/stia/10060/da-filetto",
+        "https://reportergourmet.com/en/news/10697-filetto-a-stia-the-trattoria-with-a-menu-announced-verbally-thats-been-sold-out-for-150-years",
+        "https://www.percorsokm.it/it-it/percorso-da-Firenze-a-Stia",
+        "https://www.percorsokm.it/it/come-arrivare-a-Stia",
+        "https://discovertuscany.com/it/casentino/itinerario-di-un-giorno-nel-casentino.html",
+        "https://casentino.it/en/?p=19496"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 43.8,
+        "lon": 11.69
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Piazze e fontane vanno bene, ma la salita di 1 km al castello e la strada a curve della Consuma sono impegnative per un bimbo di 4 anni."
+      }
+    },
+    {
       "id": "castell-arquato-e-vigoleno-1g",
       "nome": "Castell'Arquato e Vigoleno",
       "sottotitolo": "Emilia-Romagna, due borghi medievali della Val d'Arda sulle prime colline piacentine",
@@ -3452,6 +3544,118 @@
       }
     },
     {
+      "id": "lugo-e-bagnacavallo-1g",
+      "nome": "Lugo, Bagnacavallo e la Bassa Romagna",
+      "sottotitolo": "Emilia-Romagna, due cittadine settecentesche della pianura romagnola tra fortezza estense, teatri e piazze porticate",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno Regionale da Firenze S.M.N. a Lugo (di norma con cambio, tra Faenza e Lugo la tratta finale è breve). Da Lugo a Bagnacavallo, a pochi chilometri, conviene un taxi, una bici o l'auto: per chi vuole vedere bene entrambe le cittadine in una giornata l'auto (A1 + A14, circa 1h50 e 330 km A/R) è più comoda, ma il treno costa meno ed è la scelta di riferimento.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 2h in treno con cambio (Omio indica una media di 1h54 e un minimo di 1h14); circa 1h50 in auto via A1 e A14.",
+      "durataViaggioMinuti": 120,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: clima mite per girare a piedi tra portici e piazze. In luglio e agosto la pianura è afosa, anche se Lugo ha il Parco del Loto in fiore proprio in quei mesi.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 38,
+      "costoMax": 59,
+      "costoNota": "Il totale usa il treno come mezzo base. Non sono stati verificati i prezzi di Casa Rossini, del teatro e dei musei di Bagnacavallo: non compaiono nella somma. L'auto è indicata solo come confronto (carburante, senza il pedaggio dell'A14 non verificato).",
+      "dipendenzaAuto": "auto-opzionale",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Lugo ha un centro compatto: Rocca Estense, Pavaglione, Museo Baracca e Teatro Rossini si toccano a piedi in meno di 20 minuti. Bagnacavallo, a pochi chilometri, ha una piazza ellittica del Settecento, un teatro ottocentesco e una pieve del VII secolo. Due centri piccoli, pochi musei con ingressi da pochi euro e un pranzo in trattoria riempiono la giornata senza fretta, ma non giustificano un pernottamento.",
+      "cosaVedere": [
+        "Rocca Estense di Lugo: fortezza dalla fine del Duecento, oggi sede del Comune, con un giardino pensile all'interno e il Pavaglione che le si apre accanto.",
+        "Pavaglione: grande quadriportico costruito dal 1771 come mercato dei bozzoli da seta; oggi ospita negozi e mercati, ed è il salotto della città.",
+        "Museo Francesco Baracca: nella casa dell'asso dell'aviazione della Grande Guerra, con oltre 500 oggetti e due biplani originali, tra cui lo SPAD VII; qui nasce il cavallino rampante poi adottato da Ferrari.",
+        "Teatro Rossini e Casa Rossini: il teatro (1757-1759) è un prototipo del teatro all'italiana a palchi; a Lugo il giovane Rossini ricevette le prime lezioni di musica.",
+        "Bagnacavallo, Piazza Nuova: piazza ellittica chiusa del Settecento, ottima per un aperitivo; vicino c'è il Teatro Goldoni dell'Ottocento.",
+        "Pieve di San Pietro in Sylvis: antica chiesa del VII secolo raggiungibile a piedi da Porta Pieve, con affreschi trecenteschi nell'abside attribuiti a Pietro da Rimini."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Regionale da circa 13 € a tratta (26 € A/R), Intercity da circa 18 € (36 € A/R) secondo Omio; i prezzi variano con la disponibilità.",
+          "min": 26,
+          "max": 36,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Baracca",
+          "testo": "2,50 € intero, 1,50 € ridotto.",
+          "min": 1.5,
+          "max": 2.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 10 € in piadineria o osteria semplice, circa 20 € a persona nelle trattorie di Lugo (stima Sluurpy).",
+          "min": 10,
+          "max": 20,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto (carburante)",
+          "testo": "Circa 330 km A/R a 0,129 €/km: circa 43 € di carburante, più pedaggi A1 Firenze-Bologna (8,90 € a tratta) e A14, quest'ultimo non verificato. Alternativa di confronto, non inclusa nel totale.",
+          "min": 43,
+          "max": 43,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Treno, ingressi e pranzo sono a persona; l'auto, se scelta, è un costo della vettura da dividere per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Lugo si gira a piedi dalla stazione; in auto si trovano parcheggi vicino al Teatro. Il collegamento tra Lugo e Bagnacavallo richiede taxi, bici o auto."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Museo Baracca è chiuso il lunedì e il 15 agosto; verificare gli orari sul sito del museo prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione nota per i musei; per i teatri conviene informarsi presso lo IAT di Lugo (0545 280898) e prenotare la trattoria nei weekend."
+        }
+      ],
+      "note": "Il Regionale Firenze-Lugo ha pochi cambi comodi: controllare l'orario del ritorno prima di pranzare. Una buona idea è cominciare dal Pavaglione al mattino, quando c'è il mercato, e dedicare il pomeriggio a Bagnacavallo, dove la pieve di San Pietro in Sylvis si visita con calma la domenica mattina. Per un pranzo romagnolo cercare cappelletti o passatelli: nelle trattorie fuori città, come Al Forno a San Lorenzo di Lugo, serve l'auto.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/lugo-c5avl",
+        "https://www.omio.it/treni/lugo/faenza-u4j3f",
+        "https://www.bassaromagnamia.it/en/lugo/",
+        "https://siviaggia.it/idee-di-viaggio/cosa-vedere-a-lugo-nel-cuore-della-romagna-estense/183853/",
+        "https://www.bassaromagnamia.it/en/poitofintrests/museo-francesco-baracca-2/",
+        "https://emiliaromagnaturismo.it/en/itineraries/bagnacavallo-weekend-slow-of-art-nature-and-traditions",
+        "https://www.sluurpy.it/lugo/ristoranti",
+        "https://www.bassaromagnamia.it/?p=4063"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 44.4217,
+        "lon": 11.9096
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il Museo Baracca con i biplani piace ai bambini, ma il programma è soprattutto culturale e il viaggio dura circa 2 ore."
+      }
+    },
+    {
       "id": "maranello-e-sassuolo-1g",
       "nome": "Maranello e Sassuolo (i musei Ferrari)",
       "sottotitolo": "Emilia-Romagna, la Motor Valley: il Museo Ferrari di Maranello e il palazzo barocco degli Este a Sassuolo",
@@ -3679,6 +3883,143 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Con un bimbo di 4 anni il treno e il paese di Marradi vanno bene, ma i musei sono per adulti e la strada per Palazzuolo è a tornanti."
+      }
+    },
+    {
+      "id": "marzabotto-monte-sole-e-grizzana-1g",
+      "nome": "Marzabotto, Monte Sole e Grizzana Morandi",
+      "sottotitolo": "Appennino bolognese, la città etrusca di Kainua, i luoghi della memoria del 1944 e il paese di Giorgio Morandi",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "In auto da Firenze lungo l'A1 fino all'uscita di Sasso Marconi, poi circa 10 km sulla Porrettana verso Marzabotto (107 km, circa 1h in autostrada, 1h15 con ingresso al paese e parcheggio). L'auto serve soprattutto per salire dentro Monte Sole e raggiungere Grizzana. In alternativa treno regionale sulla linea Porrettana con cambio (nessun treno diretto Firenze-Marzabotto): offerte da 12 € a tratta, circa 1h40 in media; poi però ci si muove solo a piedi o con poche corse locali.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h15 in auto (107 km, pedaggio A1 8,00 € a tratta); in treno circa 1h40 con cambio.",
+      "durataViaggioMinuti": 75,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: sentieri asciutti, faggete e castagneti in colore, temperature da camminata. In inverno i sentieri di Monte Sole possono essere fangosi o ghiacciati; luglio e agosto sono caldi e, in quota, afosi.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 49,
+      "costoMax": 76,
+      "costoNota": "Calcolo a persona con 2 viaggiatori in auto: voci persona più metà delle voci vettura (carburante e pedaggio, 44-48 € per l'auto, cioè 22-24 € a testa). Il pedaggio di 8,00 € a tratta è il dato del calcolatore Unipol Move per Firenze-Marzabotto; i km interni al parco (circa 30 km) sono una stima.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Marzabotto, Monte Sole e Grizzana distano pochi chilometri l'uno dall'altro nello stesso tratto di Appennino: in un giorno ci stanno il museo e il parco archeologico di Kainua (1h30-2h), un tratto del Memoriale di Monte Sole con sosta a Casaglia e San Martino (2h-3h), il pranzo in una trattoria e, nel pomeriggio del fine settimana, la Casa Morandi a Grizzana. Sono tappe di raccoglimento e di cammino che chiedono tempo, ma non servono due giorni. Va programmata sul weekend, perché Casa Morandi apre solo sabato e domenica pomeriggio.",
+      "cosaVedere": [
+        "Parco storico regionale di Monte Sole: circa 6.300 ettari tra Marzabotto, Monzuno e Grizzana Morandi, con il percorso del Memoriale che tocca i luoghi dell'eccidio del 1944 (Casaglia, San Martino) e la cima con la stele ai partigiani; ingresso gratuito, il centro visite Il Poggiolo è lungo il percorso.",
+        "Museo nazionale etrusco Pompeo Aria: quattro sale con la testa di kouros in marmo greco, bronzetti votivi, vasi attici e segnacoli tombali, per capire la città di Kainua prima di uscire sul sito.",
+        "Parco archeologico di Kainua: la griglia urbana etrusca del V secolo a.C. con strade, case, officine e templi sul pianoro sopra il Reno, uno dei pochi esempi in Italia di città etrusca pianificata.",
+        "Casa Museo Giorgio Morandi a Grizzana: la casa dove il pittore passò le estati dal 1913 al 1964 e trovò i paesaggi dell'Appennino che dipinse; apre solo sabato e domenica 15-19.",
+        "Il paesaggio di Grizzana Morandi: calanchi, castagneti e panorami sul crinale, gli stessi che si riconoscono nei quadri di Morandi, per un breve giro a piedi dopo la visita."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Carburante auto",
+          "testo": "Circa 214 km A/R fino a Marzabotto più 30 km per salire a Monte Sole e Grizzana: circa 28-32 € a 0,129 €/km.",
+          "min": 28,
+          "max": 32,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggio A1",
+          "testo": "8,00 € a tratta per Firenze-Marzabotto, 16 € A/R.",
+          "min": 16,
+          "max": 16,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "Da circa 12 € a tratta con cambio, 1h40 in media; non entra nel totale perché poi manca l'auto per Monte Sole e Grizzana.",
+          "min": 24,
+          "max": 24,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo etrusco e Parco di Kainua",
+          "testo": "7 € intero, 2 € ridotto; gratuito la prima domenica del mese e in alcune date fisse.",
+          "min": 2,
+          "max": 7,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Casa Museo Morandi",
+          "testo": "5 € di ingresso; apre solo sabato e domenica.",
+          "min": 0,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parco storico di Monte Sole",
+          "testo": "Ingresso gratuito.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "25-40 € a persona in trattoria con cucina bolognese (pasta fatta a mano, tagliata), bevande incluse.",
+          "min": 25,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggio sono della vettura e si dividono per due (22-24 € a testa); ingressi e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Si esce a Sasso Marconi e si prosegue per circa 10 km verso Porretta Terme. Dentro Monte Sole le strade sono strette e di montagna: i sentieri del Memoriale si percorrono a piedi dai parcheggi di Casaglia e San Martino."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il museo di Marzabotto chiude il lunedì e apre giovedì-domenica 11:15-18:30 (martedì e mercoledì solo gruppi con guida). La Casa Morandi apre solo sabato e domenica 15-19."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per i singoli, ma per orari aggiornati e riduzioni della Casa Morandi conviene telefonare al 051 6730311; per visite guidate al parco si scrive alla segreteria del Parco di Monte Sole (051 932525)."
+        }
+      ],
+      "note": "Il museo di Marzabotto è in fase di riallestimento: alcune sale possono essere diverse da quanto descritto. Se la prima domenica del mese coincide con la gita l'ingresso al museo è gratuito, ma c'è più gente. Meglio vedere prima Kainua (apre alle 11:15), pranzare presto e arrivare a Grizzana prima delle 15 per usare per intero l'apertura pomeridiana della Casa Morandi. Il parco è un luogo di memoria di una strage di civili: abbigliamento e voce adatti.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Marzabotto.php",
+        "https://www.parks.it/parco.monte.sole/Earr.php",
+        "https://www.bolognawelcome.com/it/luoghi/siti-archeologici/parco-storico-di-monte-sole",
+        "https://www.bolognawelcome.com/it/luoghi/siti-archeologici/museo-nazionale-etrusco-pompeo-aria-e-lantica-citta-di-marzabotto",
+        "https://www.bolognawelcome.com/it/luoghi/musei-e-collezioni-private/casa-museo-morandi-it",
+        "https://www.omio.it/treni/firenze/marzabotto-6hqu5",
+        "https://www.sluurpy.it/marzabotto/italiana",
+        "https://www.bolognawelcome.com/it/locali/trattoria-osteria/trattoria-nel-castagneto"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 44.3414,
+        "lon": 11.2076
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Kainua e i prati si girano bene con un bimbo di 4 anni, ma il Memoriale di Monte Sole è lungo e la tematica (una strage) non è adatta ai più piccoli."
       }
     },
     {
@@ -3911,6 +4252,106 @@
       "bambini": {
         "adatta": "si",
         "nota": "Il trenino dei minatori e la galleria affascinano un bimbo di 4 anni, e la Peschiera con il parco è facile; la guida in curva e le 3 ore di auto sono il punto debole."
+      }
+    },
+    {
+      "id": "montecarlo-altopascio-e-padule-di-fucecchio-1g",
+      "nome": "Montecarlo, Altopascio e il Padule di Fucecchio",
+      "sottotitolo": "Toscana, borgo murato del vino, città dell'antico Ospitale e la più grande palude interna d'Italia",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "In auto da Firenze lungo l'A11 Firenze–Mare, uscita Altopascio (o Chiesina Uzzanese per il Padule), poi strade provinciali fino a Montecarlo e a Castelmartini: l'auto serve per collegare le tre tappe. In alternativa treno Regionale Firenze–Altopascio (circa 1h17, 19 corse dirette al giorno) e poi taxi o bus locale per Montecarlo.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1 ora in auto in condizioni normali (stima, A11); circa 1h17 in treno Regionale fino ad Altopascio.",
+      "durataViaggioMinuti": 60,
+      "periodoMiglioreTesto": "Aprile-giugno per la migrazione primaverile e le fioriture, settembre-ottobre per i colori della vendemmia; l'inverno è buono per il birdwatching, l'estate è afosa e la palude ha più zanzare.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 29,
+      "costoMax": 64,
+      "costoNota": "Il pedaggio A11 non è stato verificato su una fonte e non è incluso nel totale: va aggiunto (diviso per due) controllando la tariffa Firenze–Altopascio sul sito del concessionario. I km A/R della vettura (circa 130) sono una stima.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Le tre tappe stanno in un raggio di circa 25 km: la mattina basta per la passeggiata nel borgo murato di Montecarlo e per una sosta all'Ospitale di Altopascio, il pranzo con assaggio dei vini DOC Montecarlo occupa un paio d'ore e il pomeriggio è dedicato al percorso pianeggiante de Le Morette nel Padule, con il tramonto come momento migliore per gli uccelli. Non serve un pernottamento, ma non c'è spazio per aggiungere altre mete.",
+      "cosaVedere": [
+        "Montecarlo di Lucca: borgo cinto da mura con la Fortezza e le vie strette, circondato da vigneti. È il centro del vino bianco DOC Montecarlo.",
+        "Cantine di Montecarlo: diverse fattorie propongono visita in vigna, degustazione di 8-9 vini e light lunch, per esempio la Fattoria Carmignani.",
+        "Altopascio: città nata attorno all'antico Ospitale dei Cavalieri del Tau sulla Via Francigena, utile per una sosta breve con la torre campanaria.",
+        "Padule di Fucecchio, Le Morette (Castelmartini di Larciano): osservatorio faunistico e percorso quasi tutto in piano, a piedi o in bicicletta, con cicogna bianca, spatola, sgarza ciuffetto e falco di palude.",
+        "Centro visite LIPU del Padule: nei fine settimana personale e cannocchiali al capanno di osservazione, con orario 9-13 e 15-tramonto."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Carburante A/R",
+          "testo": "Circa 130 km A/R (stima) a 0,129 €/km: circa 17 € per la vettura, da dividere per due.",
+          "min": 17,
+          "max": 17,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 20-30 € in trattoria a Montecarlo con cucina toscana; 55 € a persona per il light lunch con degustazione di 8-9 vini alla Fattoria Carmignani (ridotti 25 € e 18 € per ragazzi, gratis sotto i 5 anni).",
+          "min": 20,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "Regionale Firenze–Altopascio da circa 8 € a tratta, quindi circa 16 € A/R a persona; poi taxi o bus per Montecarlo (non verificato).",
+          "min": 16,
+          "max": 16,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Il carburante è della vettura e va diviso per due; pranzo e treno sono a persona. Pedaggio autostradale non incluso (non verificato).",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Montecarlo è piccolo e a traffico limitato: conviene parcheggiare fuori dalle mura. Per Le Morette si entra da Castelmartini (Larciano) lungo la Provinciale Francesca e via delle Morette."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "L'osservatorio è sempre accessibile all'esterno, ma con personale e cannocchiali solo sabato e domenica, 9-13 e 15-tramonto. Meglio andare nel fine settimana."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Le escursioni guidate nel Padule sono a iscrizione obbligatoria (Centro RDP, 0573 84540); degustazioni e light lunch in cantina vanno prenotati in anticipo."
+        }
+      ],
+      "note": "Si fa meglio il Padule nel tardo pomeriggio, quando gli aironi rientrano ai dormitori: portate un binocolo e scarpe chiuse, il sentiero può essere fangoso dopo la pioggia. Montecarlo si gira bene in mattinata, quando le cantine sono più tranquille. Gli orari delle visite guidate cambiano di stagione in stagione: controllate sul sito del Centro RDP prima di partire.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/altopascio",
+        "https://www.winedering.com/it/light-lunch_d6786_travel",
+        "https://www.sluurpy.it/montecarlo/ristorante/32477/da-baffo",
+        "https://birdingplaces.eu/it/birdingplaces/italy/padule-di-fucecchio-le-morette",
+        "https://www.gonews.it/?p=1169472"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 43.8,
+        "lon": 10.77
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Il percorso de Le Morette è in piano e con la cicogna e gli aironi piace a un bimbo di 4 anni; la degustazione in cantina è per gli adulti."
       }
     },
     {
@@ -8331,6 +8772,133 @@
       }
     },
     {
+      "id": "alto-reno-porretta-e-corno-alle-scale-2g",
+      "nome": "Alto Reno: Porretta Terme, Corno alle Scale e il Lago di Suviana",
+      "sottotitolo": "Appennino bolognese, un weekend tra terme, lago e montagna a un'ora e mezza da Firenze",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto: da Firenze si raggiunge Porretta Terme in circa 1h15-1h30 (circa 75 km a tratta, stima da verificare sul navigatore) e l'auto serve poi per spostarsi a Suviana e al Corno alle Scale. In alternativa treno regionale sulla linea Porrettana con un cambio (di norma a Pistoia): circa 1h56 in media, 9 € a tratta in offerta, circa 21-23 € se acquistato il giorno stesso; nessun treno diretto.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h15-1h30 in auto (circa 75 km); circa 1h56 in media in treno con cambio (il collegamento più veloce 1h25-1h30).",
+      "durataViaggioMinuti": 90,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre per escursioni, lago e terme (anche la guida regionale consiglia primavera e autunno); da dicembre a marzo il Corno alle Scale funziona come stazione sciistica.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [],
+      "costoMin": 100,
+      "costoMax": 204,
+      "costoNota": "Calcolo con due viaggiatori che condividono l'auto: voci a persona più metà della spesa della vettura. Il tratto in auto non è stato misurato con un navigatore: i 75 km a tratta sono una stima; i pedaggi vanno da 0 (strade statali) a circa 18 € A/R se si usa l'A1 (8,90 € a tratta Firenze-Bologna come riferimento). Skipass giornaliero non verificato e non incluso.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Porretta Terme è un paese termale raccolto: centro storico, murales della musica soul e Terme si coprono in mezza giornata. Il Lago di Suviana, con spiagge attrezzate e sport d'acqua, e la Rocchetta Mattei a Grizzana Morandi occupano un'altra giornata, mentre il Corno alle Scale (stazione sciistica a monte di Lizzano in Belvedere) richiede una mezza giornata a sé tra neve in inverno ed escursioni in estate. Con due giorni e una notte si fanno tutte e tre le zone senza correre; in un solo giorno si dovrebbe sacrificare o le terme o la montagna.",
+      "cosaVedere": [
+        "Terme di Porretta e il Percorso delle acque: 4 ore di accesso wellness con piscina termale, percorso vascolare e sauna; 25 € l'intero (dato di aprile 2025), 10 € per i bambini 7-12 anni.",
+        "Centro di Porretta Terme: la chiesa di Santa Maria Maddalena, la chiesa dei frati con il presepe meccanico e i 15 murales dedicati alla musica soul, con il museo; a luglio si tiene il Porretta Soul Festival.",
+        "Lago di Suviana: invaso artificiale nato per l'energia idroelettrica, oggi con spiagge attrezzate, pedalò, canoa, windsurf e aree picnic, dentro il parco regionale dei laghi di Suviana e Brasimone.",
+        "Rocchetta Mattei a Grizzana Morandi: castello eccentrico dal gusto gotico, medievale e moresco, legato a Cesare Mattei e all'elettro-omeopatia.",
+        "Corno alle Scale: stazione sciistica dell'Appennino bolognese, con impianti d'inverno e sentieri nei mesi senza neve; dista circa mezz'ora da Porretta.",
+        "Dintorni: il Museo del legno e il micro birrificio a Granaglione, il borgo medievale de La Scola e il Santuario della Madonna del Ponte."
+      ],
+      "itinerario": null,
+      "alloggio": "A Porretta Terme una camera doppia con colazione costa da circa 50-100 € a notte nei B&B della zona e da circa 78 € (tariffa minima rilevata) in hotel; gli hotel termali di categoria superiore arrivano a 230 € circa. Conviene dormire a Porretta, comoda per le terme e per il treno, oppure in B&B nei paesi vicini (Camugnano, Gaggio Montano, Grizzana Morandi) se si vuole stare più vicini al lago o alla Rocchetta.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "Circa 150 km A/R a 0,129 €/km: circa 19 €.",
+          "min": 19,
+          "max": 19,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto: pedaggi",
+          "testo": "Da 0 € (strade statali, via Pistoia o SS64) a circa 18 € A/R se si usa l'A1 (8,90 € a tratta Firenze-Bologna come riferimento).",
+          "min": 0,
+          "max": 18,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "Regionale con un cambio: da 9 € a tratta in offerta, circa 21-23 € a tratta se acquistato il giorno stesso. Non incluso nel totale.",
+          "min": 18,
+          "max": 46,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Una notte: 60-120 € a camera doppia in B&B o hotel 3 stelle, cioè 30-60 € a persona.",
+          "min": 30,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Circa 20 € a persona di media per un pasto nei ristoranti di Porretta (stima delle schede locali); 30-50 € al giorno per pranzo e cena.",
+          "min": 30,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Terme: Percorso delle acque",
+          "testo": "25 € l'intero adulto (articolo di aprile 2025, da riverificare); facoltativo.",
+          "min": 0,
+          "max": 25,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Alloggio, pasti e terme sono a persona; carburante e pedaggi sono della vettura e vanno divisi per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il Corno alle Scale e il Lago di Suviana sono raggiungibili in pratica solo in auto; in inverno controllare le condizioni delle strade di montagna."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Orari e giorni di apertura delle terme e degli impianti del Corno alle Scale variano con la stagione: verificarli sui siti ufficiali prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Prenotare con anticipo l'alloggio nei fine settimana d'inverno (stagione sciistica) e a luglio (Porretta Soul Festival)."
+        }
+      ],
+      "note": "Il treno sulla Porrettana è una buona alternativa per chi vuole solo Porretta e le terme: 21 corse al giorno, ma quasi tutte con cambio. Per il Corno alle Scale in inverno chi non guida può valutare il Corno Express da Bologna. Gli skipass stagionali hanno prezzi bloccati per il terzo anno e scontati se acquistati entro il 16 novembre; il giornaliero non è stato verificato.",
+      "fonti": [
+        "https://www.omio.it/treni/porretta-terme/firenze-janfs",
+        "https://www.bed-and-breakfast.it/en/budget-bb-porretta-terme",
+        "https://www.momondo.it/hotel/porretta-terme",
+        "https://www.sluurpy.it/porretta-terme",
+        "https://www.viaggiapiccoli.com/porretta-terme-con-i-bambini/",
+        "https://emiliaromagnaturismo.it/en/itineraries/bolognese-mountains",
+        "https://www.ilrestodelcarlino.it/bologna/cronaca/il-corno-alle-scale-si-prepara-prezzi-bloccati-per-gli-skipass-0a115955",
+        "https://www.bolognawelcome.com/it/locali/ristorante/ristorante-il-bassotto"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 44.1547,
+        "lon": 10.9778
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Terme con tariffe ridotte per bimbi, lago con spiagge e area picnic, neve al Corno alle Scale."
+      }
+    },
+    {
       "id": "ancona-e-loreto-2g",
       "nome": "Ancona e Loreto",
       "sottotitolo": "Marche, il porto dorico con il Duomo sul colle e il santuario mariano della Santa Casa a un quarto d'ora di treno",
@@ -10745,6 +11313,126 @@
       }
     },
     {
+      "id": "ciociaria-anagni-alatri-e-fiuggi-2g",
+      "nome": "Ciociaria: Anagni, Alatri, Fiuggi e l'Abbazia di Casamari",
+      "sottotitolo": "Lazio meridionale, la «città dei Papi», le mura ciclopiche e un'abbazia cistercense in due giorni",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "In auto da Firenze sull'A1 verso sud fino ad Anagni-Fiuggi (circa 312 km, 3 ore): l'auto serve soprattutto per spostarsi tra Anagni, Alatri, Fiuggi e Casamari, che distano 15-30 km l'una dall'altra e hanno collegamenti pubblici scarsi.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h59 in auto (312 km) fino ad Anagni con A1; 22,70 € di pedaggio a tratta.",
+      "durataViaggioMinuti": 180,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: clima mite per camminare nei centri in salita e tra le mura di Alatri. Luglio e agosto sono caldi (Fiuggi, a 700 m, resta più fresca); a dicembre-febbraio le giornate sono corte e fredde.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 159,
+      "costoMax": 203,
+      "costoNota": "Totale a persona con 2 viaggiatori: voce vettura (carburante e pedaggi A/R più spostamenti locali) divisa per 2, più ingressi, una notte e un pasto al giorno al ristorante.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "I luoghi principali sono compatti e vicini tra loro: Anagni e il suo centro in salita occupano una mattina piena con cattedrale e cripta, Alatri con l'acropoli e le mura ciclopiche circa mezza giornata, Casamari un'ora e mezza abbondante, Fiuggi una passeggiata serale. Con due giorni e una notte si fa tutto senza fretta; in un giorno solo si dovrebbe tagliare Alatri o Casamari, e le tre ore di A1 non conviene farle due volte in 24 ore.",
+      "cosaVedere": [
+        "Cattedrale di Anagni (ingresso gratuito, romanico dal 1072 e gotico): pavimento cosmatesco, cappella Caetani e reliquiario di Tommaso Becket, nella città dove fu eletto papa Innocenzo IV.",
+        "Cripta di San Magno e MuCA, il museo della cattedrale: affreschi del Duecento chiamati «Cappella Sistina del Medioevo»; si entra a gruppi di massimo 30 persone a orari fissi.",
+        "Altre tappe di Anagni: Palazzo della Ragione, casa museo di Bonifacio VIII, San Pietro in Vineis con gli affreschi nascosti.",
+        "Acropoli di Alatri: mura ciclopiche di blocchi calcarei fino a 30 tonnellate, alte fino a 14 m e incastrate senza malta; sulla cima la Cattedrale di San Paolo con l'Ostia incarnata.",
+        "Abbazia di Casamari (Veroli): uno dei monumenti cistercensi gotici più integri d'Italia, con chiostro, coro ligneo intarsiato e il portale dei Conversi con le croci templari.",
+        "Fiuggi: città termale a circa 700 m di quota, per la passeggiata serale tra le fonti e il centro storico di Fiuggi Città."
+      ],
+      "itinerario": null,
+      "alloggio": "Circa 70-90 € a notte per due in B&B, guesthouse o agriturismo a Fiuggi, Fumone, Anagni e dintorni (esempi a 70, 75, 85 e 90 €). Dormire a Fiuggi o Anagni: sono baricentrici rispetto ad Alatri e Casamari.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante A/R",
+          "testo": "312 km a tratta, 624 km A/R più circa 50 km di spostamenti locali tra Anagni, Alatri, Casamari e Fiuggi: circa 87 € a 0,129 €/km.",
+          "min": 87,
+          "max": 87,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A1",
+          "testo": "22,70 € a tratta Firenze-Anagni, 45,40 € andata e ritorno.",
+          "min": 45,
+          "max": 45,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "MuCA e cripta di San Magno (Anagni)",
+          "testo": "Da circa 9-10 € a persona per il percorso completo con cripta; la cattedrale è gratuita.",
+          "min": 9,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (1 notte)",
+          "testo": "70-90 € a notte per due in B&B o guesthouse, cioè 35-45 € a persona.",
+          "min": 35,
+          "max": 45,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "25-40 € a persona per un pasto al ristorante; stimato un pasto al ristorante al giorno.",
+          "min": 25,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura (circa 132 € in totale, divisi per due viaggiatori); ingresso al museo, alloggio e pasti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "I centri storici di Anagni e Alatri sono in salita e con strade strette e a traffico limitato: conviene parcheggiare fuori dalle mura e salire a piedi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Cattedrale di Anagni è aperta 9-18 da novembre a marzo e 9-19 da aprile a ottobre. Il MuCA apre 9-13 e 15-18 (fino alle 19 da aprile a ottobre), con pausa a pranzo. L'Abbazia di Casamari è aperta tutti i giorni 9-12 e 15-18: la pausa di mezzogiorno è lunga."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La cripta si visita a turni di circa 30 minuti, con gruppi limitati: prenotare soprattutto nei fine settimana e nei ponti. Il biglietto MuCA si compra anche online."
+        }
+      ],
+      "note": "Fare Anagni al mattino (la cripta ha i turni e la pausa di mezzogiorno), Alatri nel pomeriggio e Casamari la mattina del secondo giorno, appena apre alle 9 o alle 15 dopo la pausa. Piazza Rosa ad Alatri, punto di partenza dell'itinerario Hernica Saxa, è stata riaperta a marzo 2026 dopo i lavori. Verificare sul posto orari e prezzi del biglietto di Casamari e dell'acropoli, che non ho trovato pubblicati.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Anagni/",
+        "https://www.museionline.info/lazio-musei-monumenti/cattedrale-di-anagni",
+        "https://italia.it/en/lazio/abbazia-di-casamari",
+        "https://www.quotidiano.net/itinerari/lazio/hernica-saxa-ciociaria-res7ammv",
+        "https://travel.thewom.it/italia/lazio/cripta-di-anagni.html",
+        "https://www.visititaly.eu/it/tickets/biglietti-per-cathedral-museum-of-anagni-muca-p1033308",
+        "https://www.bed-and-breakfast.it/en/fiuggi",
+        "https://www.sluurpy.it/anagni/ristorante"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 41.7444,
+        "lon": 13.1522
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Le mura ciclopiche e il chiostro piacciono, ma sono tre ore di auto all'andata e centri in salita; la cripta richiede silenzio."
+      }
+    },
+    {
       "id": "colli-euganei-2g",
       "nome": "Colli Euganei: Abano, Este, Monselice e Arquà Petrarca",
       "sottotitolo": "Veneto, i colli vulcanici a sud di Padova con borghi murati, castelli e terme",
@@ -12266,6 +12954,124 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Grado e la spiaggia piacciono a un bimbo di 4 anni, ma Aquileia e le cripte sono lunghe e poco interattive."
+      }
+    },
+    {
+      "id": "imperia-e-riviera-dei-fiori-2g",
+      "nome": "Imperia, Dolceacqua e la Riviera dei Fiori",
+      "sottotitolo": "Liguria di Ponente, il capoluogo dell'olio con il borgo medievale di Dolceacqua nell'entroterra",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto da Firenze lungo A11, A12 e A10 (circa 342 km, 3h15-3h30 con le soste ai caselli): è il mezzo più pratico perché Dolceacqua e gli altri borghi dell'entroterra si raggiungono bene solo in macchina. Imperia si raggiunge anche in treno con cambi (Firenze-Genova-Imperia), ma i tempi sono molto più lunghi.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h16 in auto per 342 km (stima del calcolatore di percorso, caselli compresi).",
+      "durataViaggioMinuti": 200,
+      "periodoMiglioreTesto": "Da aprile a giugno e a settembre: mare tiepido, borghi non affollati e luce buona. L'estate è piena di gente sulla costa; ottobre e novembre sono i mesi più piovosi della Riviera (a metà novembre c'è però Olioliva, la festa dell'olio nuovo).",
+      "mesi": [
+        4,
+        5,
+        6,
+        9
+      ],
+      "mesiDaEvitare": [
+        7,
+        8,
+        10
+      ],
+      "costoMin": 213,
+      "costoMax": 295,
+      "costoNota": "Due viaggiatori con una sola auto: pedaggi e carburante (A/R 684 km) sono divisi per due. Il pedaggio di 35,40 € è quello indicato dal calcolatore per la sola andata, quindi nel conto è raddoppiato; il costo alloggio è una notte per due diviso a metà.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Imperia ha due centri (Porto Maurizio con il Parasio e Oneglia sul porto) a circa 3 km uno dall'altro, e si gira bene in mezza giornata più la sera. Dolceacqua, a una cinquantina di km, regge una mattinata intera tra castello, ponte e vicoli. Due giorni bastano per queste due tappe con ritmo calmo e una notte sul posto; in un giorno solo il viaggio di 3h30 mangerebbe quasi tutto il tempo.",
+      "cosaVedere": [
+        "Borgo Parasio a Porto Maurizio: labirinto di vicoli medievali in cima alla collina, con la grande Basilica di San Maurizio e il tramonto sul porto.",
+        "Oneglia: lungomare di Calata Cuneo, portici e mercato di Piazza Dante, la parte più viva e meno turistica della città.",
+        "Museo dell'Olivo Carlo Carli: racconta la filiera dell'olio ligure, il prodotto per cui Imperia è conosciuta.",
+        "Villa Grock: la casa-museo del clown svizzero Grock, curiosa e fuori dai soliti percorsi.",
+        "Castello dei Doria a Dolceacqua: fortezza sopra il borgo, con vista sul ponte medievale che dipinse Monet.",
+        "Borgo Terra di Dolceacqua: vicoli in pietra, botteghe e cantine dove assaggiare il vino Rossese di Dolceacqua.",
+        "Passeggiata degli Innamorati: percorso sul mare che unisce Borgo Foce a Borgo Marina, comodo a fine giornata."
+      ],
+      "itinerario": null,
+      "alloggio": "In una notte, per due persone: circa 84-110 € in un hotel di buon livello a Imperia (per esempio il B&B Hotel Rossini al Teatro, 4 stelle, 100-110 € per una notte a novembre; la pagina indica una forchetta 84-307 € secondo camera e periodo). Conviene dormire a Porto Maurizio o Oneglia, vicino a ristoranti e bar.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "684 km A/R a 0,129 €/km (benzina 1,98 €/l, 6,5 l/100 km).",
+          "min": 88,
+          "max": 88,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto: pedaggi",
+          "testo": "35,40 € a tratta secondo il calcolatore Unipol Move, quindi circa 71 € A/R.",
+          "min": 71,
+          "max": 71,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Una notte: 84-110 € per due, cioè 42-55 € a persona.",
+          "min": 42,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Circa 40-70 € al giorno a persona (guida Travel365: ristoranti da 25 € in su).",
+          "min": 40,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Castello Doria 6 €, Museo dell'Olivo 5 €, Villa Grock 9 €: da 11 a 20 € a seconda delle visite scelte.",
+          "min": 11,
+          "max": 20,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e divisi per due; alloggio, pasti e ingressi sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il borgo di Dolceacqua è stretto e in salita: si parcheggia fuori dal centro e si sale a piedi. Il Parasio di Imperia è in gran parte pedonale."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Castello dei Doria è aperto da martedì a domenica, 10-17 (ultimo ingresso 30 minuti prima), chiuso il lunedì. Il Museo Navale di Imperia apre solo venerdì, sabato e domenica 18.30-22.30."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per le visite; conviene prenotare la camera e telefonare prima per gli orari, perché i siti segnalano che cambiano."
+        }
+      ],
+      "note": "Il Castello dei Doria si visita solo da martedì a domenica, quindi evitate il lunedì per Dolceacqua e fatelo il secondo giorno. A metà novembre si tiene Olioliva, festa dell'olio nuovo: ottima occasione per assaggiare, ma camere più care e centro più affollato. Le fonti riportano orari e prezzi con piccole incongruenze: verificate con una telefonata prima di partire.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Imperia/",
+        "https://www.momondo.it/hotel/imperia/B-b-Hotel-Imperia-Rossini-Al-Teatro.mhd128173.ksp",
+        "https://www.museionline.info/liguria-musei-monumenti/castello-doria-dolceacqua",
+        "https://museionline.info/musei/museo-navale-del-ponente-ligure",
+        "https://www.travel365.it/guida-imperia.htm"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 43.8885,
+        "lon": 8.0285
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Spiaggia e passeggiate piacciono a un bimbo di 4 anni, ma vicoli ripidi a Dolceacqua e 3h30 di auto sono impegnativi."
       }
     },
     {
@@ -14225,6 +15031,148 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "La Cinta ha acqua bassa e sabbia, ma la gita in gommone di 4-8 ore è faticosa con un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "orvieto-todi-e-valle-del-tevere-2g",
+      "nome": "Orvieto, Todi e la Valle del Tevere",
+      "sottotitolo": "Umbria, due colli di tufo e pietra: la rupe del Duomo di Orvieto e la piazza medievale di Todi",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria lungo l'A1 Firenze–Orvieto (uscita Orvieto, 163 km), poi Orvieto–Todi in circa 40 minuti sulle strade provinciali; si dorme a Orvieto o a Todi. In alternativa treno diretto Firenze–Orvieto (Regionale o Intercity, circa 10 corse al giorno) e visita di Todi solo con auto a noleggio o taxi: la sola Orvieto in treno è fattibile, Todi no senza auto.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h33 in auto fino a Orvieto (163 km, A1); Todi dista 188 km da Firenze, circa 1h48. In treno diretto da 1h31 a circa 2h20.",
+      "durataViaggioMinuti": 105,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: luce buona per la vista dalla rupe e temperature adatte a camminare in salita. Evitare luglio e agosto (caldo e folla) e il periodo natalizio, quando i prezzi degli alloggi a Orvieto salgono molto.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8,
+        12
+      ],
+      "costoMin": 134,
+      "costoMax": 251,
+      "costoNota": "Calcolo a persona con 2 viaggiatori che condividono l'auto: vettura (carburante 0,129 €/km su circa 391 km, pedaggi A1, parcheggi) divisa per due, più alloggio per una notte, pasti, ingressi. Il parcheggio è una stima prudente sulla tariffa di 1-2 € l'ora indicata per Todi.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Orvieto e Todi sono due borghi su rupe, entrambi con centro compatto e percorribile a piedi: a Orvieto bastano una mezza giornata per Duomo (biglietto unico con musei), Pozzo di San Patrizio e Città Sotterranea, e un'ora per la passeggiata sul bordo della rupe. Todi richiede circa mezza giornata tra Piazza del Popolo, il Duomo, San Fortunato e il Tempio della Consolazione fuori le mura. Il trasferimento tra le due città è di circa 40 km: due giorni consentono di fare entrambe senza fretta con una notte in mezzo; in un solo giorno una delle due verrebbe sacrificata.",
+      "cosaVedere": [
+        "Duomo di Orvieto e Cappella di San Brizio: facciata gotica e il Giudizio Universale di Signorelli; il biglietto unico da 5 € include anche Museo dell'Opera del Duomo, Palazzi Papali e Museo Emilio Greco.",
+        "Pozzo di San Patrizio (5 €): il pozzo con la doppia rampa elicoidale fatto scavare nel Cinquecento, aperto tutti i giorni ma con ultimo ingresso prima delle 17.",
+        "Orvieto Underground (7 €): visita guidata di 45 minuti nelle grotte scavate nel tufo, con partenze fisse alle 11:00, 12:15, 16:00 e 17:15.",
+        "Torre del Moro e passeggiata lungo la rupe: salita a 3,80 € per la vista sul centro e sulla valle.",
+        "Piazza del Popolo a Todi con Palazzo del Popolo, Palazzo del Capitano e Palazzo dei Priori: una delle piazze medievali meglio conservate dell'Umbria, gratuita da vivere.",
+        "Duomo di Todi e San Fortunato con il campanile: coro ligneo, Giudizio Universale e vista panoramica sulla valle del Tevere.",
+        "Tempio di Santa Maria della Consolazione, fuori le mura: il monumento rinascimentale più celebre di Todi, ingresso gratuito.",
+        "Museo Civico e Pinacoteca di Todi (include Palazzo del Capitano): reperti etruschi e romani e dipinti umbri; chiuso il martedì."
+      ],
+      "itinerario": null,
+      "alloggio": "Per due, in bassa stagione si trova da circa 57 € a notte (agriturismo) e la media a Orvieto in novembre è intorno a 82 €; in alta stagione e a dicembre i prezzi salgono sensibilmente (media oltre 120 €, 4 stelle intorno a 174 €). Fascia realistica per B&B o 3 stelle: 70-130 € a notte per due. Conviene dormire a Orvieto (più offerta) o a Todi (più tranquilla); prenotare con 2 mesi di anticipo fa risparmiare.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Circa 391 km (Firenze–Orvieto 163 km, Orvieto–Todi circa 40 km, Todi–Firenze 188 km) a 0,129 €/km.",
+          "min": 50,
+          "max": 50,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A1",
+          "testo": "11,20 € a tratta da Firenze verso Orvieto e 11,20 € da Todi verso Firenze, secondo il calcolatore UnipolMove.",
+          "min": 22,
+          "max": 22,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggi",
+          "testo": "Circa 1-2 € l'ora a Todi (parcheggio di Porta Orvietana); a Orvieto parcheggi Duomo, della Rupe o ex Caserma. Stima per due soste di mezza giornata.",
+          "min": 10,
+          "max": 20,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio, 1 notte",
+          "testo": "70-130 € a notte per due in B&B o 3 stelle, cioè 35-65 € a persona.",
+          "min": 35,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Circa 12-28 € a persona a pasto in trattoria o pizzeria a Todi (dato 2018 da verificare); si calcolano pranzo e cena al giorno.",
+          "min": 24,
+          "max": 56,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Orvieto: biglietto unico Duomo 5 €, Pozzo 5 €, Underground 7 €, Torre del Moro 3,80 €; Todi: musei a pagamento in genere 3-7 €, Tempio della Consolazione gratuito.",
+          "min": 10,
+          "max": 28,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Firenze–Orvieto A/R (alternativa)",
+          "testo": "Biglietti da 10 € a tratta se prenotati in anticipo, media 26-29 € a tratta; poi serve auto o taxi per Todi.",
+          "min": 20,
+          "max": 58,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante, pedaggi e parcheggi sono costi della vettura, divisi per due viaggiatori; alloggio, pasti e ingressi sono a persona (alloggio per una notte, pasti per due giorni).",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico di Orvieto è ZTL: lasciare l'auto nei parcheggi Duomo, della Rupe o ex Caserma e salire a piedi. A Todi il parcheggio consigliato è quello meccanizzato di Porta Orvietana, con ascensori verso il centro."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Duomo di Orvieto e museo: da novembre a febbraio martedì-sabato 9:30-17:00, la domenica dalle 13:00. Museo Archeologico di Orvieto chiuso il lunedì, Museo Faina chiuso il martedì. A Todi Museo Civico chiuso il martedì; Tempio della Consolazione orario ridotto da novembre a marzo (9:30-12:30 e 14:30-17:00)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Le Cisterne Romane di Todi si visitano solo su prenotazione (075 8956227); Orvieto Underground ha solo visite guidate a orari fissi, meglio prenotare nei weekend."
+        }
+      ],
+      "note": "Il lunedì Orvieto è visitabile quasi tutta ma alcuni musei sono chiusi, mentre a Todi il martedì chiudono i musei: conviene Todi di lunedì e Orvieto di martedì-sabato, o viceversa pianificando i giorni. Il biglietto unico del Duomo di Orvieto da 5 € copre già tre luoghi, evitate di comprare biglietti separati. Gli orari dell'Underground sono quattro al giorno: prenotarli prima del resto. I prezzi dei pasti a Todi vengono da una fonte del 2018 e vanno considerati prudenti al ribasso.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/orvieto",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Orvieto/",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Todi.php",
+        "https://www.momondo.it/hotel/orvieto",
+        "https://www.travel365.it/orvieto-cosa-vedere.htm",
+        "https://www.travel365.it/todi-cosa-vedere.htm",
+        "https://www.viaggiando-italia.it/pozzo-di-san-patrizio-quanto-costa-il-biglietto/",
+        "https://www.voloscontato.it/ristoranti/todi-dove-mangiare-bene-spendendo-poco.php"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 42.7185,
+        "lon": 12.1107
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Orvieto si fa bene a piedi ma ci sono salite e pozzo con tanti gradini; con un bimbo di 4 anni conviene passeggino leggero o zaino e saltare Underground e Pozzo."
       }
     },
     {
@@ -17081,6 +18029,135 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Centro pedonale e Tempietto gratuito sotto gli 8 anni, ma il viaggio è di quasi 4 ore ciascun senso e i musei sono lunghi per un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "val-di-non-2g",
+      "nome": "Val di Non: Cles, Castel Thun, Lago di Tovel e il Canyon Rio Sass",
+      "sottotitolo": "Trentino, la valle dei meleti con un castello principesco, un lago smeraldo e una forra scavata nel calcare",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto da Firenze: A1 fino a Modena, poi A22 del Brennero fino a San Michele all'Adige (o Trento Nord) e da lì la statale per Mezzolombardo, Denno e Cles (circa 350 km, 3h45 porta a porta). Senza auto la valle è poco pratica: la ferrovia Trento–Malè (Trentino Trasporti) serve Cles, ma Tovel, Castel Thun e Rio Sass richiedono comunque l'auto o le navette stagionali.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h45 in auto (circa 350 km): Firenze–Trento 315 km e 3h05, più circa 40 km di statale fino a Cles.",
+      "durataViaggioMinuti": 225,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre: Castel Thun, Rio Sass e Tovel sono tutti aperti, i meli fioriscono in aprile-maggio e a ottobre si raccolgono le mele. Luglio e agosto vanno bene ma a Tovel parcheggio e navetta si prenotano online. Da novembre a marzo il castello chiude (dopo Ognissanti fino a fine novembre) e Tovel è praticamente fuori gioco.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "costoMin": 170,
+      "costoMax": 289,
+      "costoNota": "Auto: circa 700 km A/R × 0,129 €/km = 90 € di carburante più 47 € di pedaggio (A1+A22 fino a Trento Sud, 23,50 € a tratta; l'uscita di San Michele costa leggermente di più, non verificato). Totale vettura 137 €, diviso per due. Pasti e parcheggio di Tovel: stima non verificata da una fonte, vedi costiDettaglio.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Le quattro tappe stanno in un raggio di 20 km attorno a Cles. Il primo giorno copre Castel Thun (visita di almeno 1,5 ore, più il cammino dal parcheggio) e il centro di Cles; il secondo il Canyon Rio Sass (circa 2 ore di visita guidata con 1.200 gradini) e Tovel, con l'anello di 3 km in circa 1,5 ore. Con una notte sola il ritmo resta tranquillo; una sola giornata costringerebbe a saltare una tappa, e il viaggio da Firenze (3h45) non ne varrebbe la pena.",
+      "cosaVedere": [
+        "Castel Thun, a Vigo di Ton: il castello meglio conservato del Trentino, con stanze arredate originali, la galleria delle carrozze con pannelli interattivi e il prato sotto le mura.",
+        "Canyon Rio Sass, a Fondo: visita guidata di circa 2 ore con elmetto lungo passerelle sospese sopra una forra di 145 m di dislivello, scavata dal torrente nel calcare.",
+        "Lago di Tovel, nel Parco Adamello Brenta a circa 1.200 m: il lago che un tempo si tingeva di rosso per un'alga, oggi color smeraldo, con anello pianeggiante di 3 km e vista sulle Dolomiti di Brenta.",
+        "Cles, capoluogo della valle: centro raccolto con il Palazzo Assessorile e la passeggiata verso il lago artificiale di Santa Giustina, comodo per cena e pernottamento."
+      ],
+      "itinerario": null,
+      "alloggio": "A Cles, Coredo, Smarano e Romeno si trovano B&B, agritur e hotel 3 stelle: sul portale Trentino le tariffe di pernottamento con colazione partono da circa 35 € a persona (agritur) fino a 69 € (resort); in un B&B di qualità come Le Rocce la camera doppia costa 140-200 € a notte da novembre 2026 (70-100 € a persona). Le tariffe \"da\" non includono tasse di soggiorno e pulizie finali.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Circa 700 km A/R (Firenze–Trento 315 km più circa 40 km fino a Cles, andata e ritorno) a 0,129 €/km.",
+          "min": 90,
+          "max": 90,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A1 + A22",
+          "testo": "23,50 € a tratta Firenze Nord–Trento Sud, 47 € A/R; l'uscita San Michele all'Adige può costare qualcosa in più.",
+          "min": 47,
+          "max": 47,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Una notte con colazione: da 35 € a persona in agritur a 69 € in resort; B&B di fascia alta 70-100 € a persona (camera doppia 140-200 €).",
+          "min": 35,
+          "max": 100,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo e cena al giorno, tra panino o piatto unico e trattoria tipica trentina. Stima non verificata da fonte: i siti consultati non riportano prezzi medi.",
+          "min": 25,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Castel Thun",
+          "testo": "8 € intero, 6 € ridotto; gratuito con Trentino Guest Card. Parcheggio a pagamento, navetta estiva dalla piazza di Vigo di Ton 1,50 €.",
+          "min": 6,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Canyon Rio Sass",
+          "testo": "12 € adulti, 8 € bambini 6-12 anni, gratis sotto i 6; -20% con Trentino Guest Card.",
+          "min": 10,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e si dividono per due; alloggio, pasti e ingressi sono a persona. Il parcheggio di Tovel (a pagamento da luglio, tariffa non indicata dalle fonti) non è incluso.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "A Tovel parcheggio e navetta si prenotano online dal sito del Parco Adamello Brenta entro le 6:00 del giorno stesso; nei giorni di piena affluenza si lascia l'auto a Tuenno e si sale in navetta. Strada aperta soprattutto da fine primavera a inizio autunno."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Castel Thun è chiuso di norma il lunedì non festivo e dopo Ognissanti fino a fine novembre; 10-18 d'estate, 10-17:30 d'inverno. Tovel nel 2026 è aperto tutti i giorni fino al 20 settembre, poi solo nei fine settimana fino al 1 novembre."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il Canyon Rio Sass si visita solo con guida e prenotazione telefonica alla Cooperativa Smeraldo (+39 0463 850000); in autunno 2026 i tour sono 10-14 fino al 15 novembre. Non adatto a chi soffre di vertigini o claustrofobia."
+        }
+      ],
+      "note": "Dormi a Coredo, Smarano o Romeno, sull'altopiano di Predaia: sei a pochi minuti da Castel Thun e da Fondo, e le serate sono più silenziose che a Cles. Fai Tovel al mattino presto, quando il lago è calmo e riflette le Dolomiti di Brenta, e il Rio Sass subito dopo, perché le visite partono alle 10. Prima di partire ricontrolla gli orari: oggi (metà novembre) il castello è già chiuso e il canyon sta per chiudere la stagione.",
+      "fonti": [
+        "https://www.trentino.com/it/trentino/val-di-non/cles/hotel/",
+        "https://www.yesalps.com/en/bnb/val-di-non/lerocce-142684d32010.html",
+        "https://www.iltrentinodeibambini.it/en/castel-thun/",
+        "https://www.visittrentino.info/it/guida/da-non-perdere/castelli/castel-thun_md_2666",
+        "https://www.trentino.com/it/cultura-e-territorio/attrazioni/canyon-rio-sass/",
+        "https://siviaggia.it/notizie/lago-tovel-trentino-torna-accessibile-estate-2026/592260/",
+        "https://www.mentelocale.it/trento/121605-lago-di-tovel-cosa-vedere-come-arrivare-e-il-sentiero-ad-anello-nel-parco-naturale-adamello-brenta.htm",
+        "https://calcolopercorso.it/it/distanza/Firenze/Trento",
+        "https://www.fondazioneatm.it/static/upload/ser/servizi-trentino-guest-card-primavera-2026.pdf"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 46.364,
+        "lon": 11.034
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Tovel e il prato di Castel Thun vanno bene a 4 anni, ma il castello ha molte scale (no passeggino) e il Rio Sass ha 1.200 gradini: a 4 anni è sconsigliato, sotto i 3 solo in marsupio."
       }
     },
     {
@@ -27231,6 +28308,179 @@
       }
     },
     {
+      "id": "santander-santillana-e-picos-de-europa-3g",
+      "nome": "Santander, Santillana del Mar e i Picos de Europa",
+      "sottotitolo": "Cantabria, Spagna: capitale sul mare, borgo medievale con la Neocueva di Altamira e la valle di Liébana ai piedi dei Picos",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Bologna–Santander (Ryanair/Malta Air, circa 2h20 all'andata e 2h00 al ritorno secondo Kayak), preceduto dal treno Firenze–Bologna Centrale e dal Marconi Express. A Santander si ritira un'auto a noleggio: senza vettura i Picos de Europa e Liébana non sono praticabili in tre giorni. Attenzione: gli aggregatori non concordano sulla frequenza dei diretti (Skyscanner circa 6 a settimana, Flightconnections circa 2, Kayak e Omio in certi momenti non ne mostrano), quindi controllare il calendario Ryanair prima di prenotare l'hotel; in alternativa restano solo voli con scalo, che allungano molto il viaggio.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 6 ore porta a porta all'andata: treno Firenze–Bologna con Marconi Express, volo diretto di circa 2h20, ritiro dell'auto a Santander.",
+      "durataViaggioMinuti": 370,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre: giornate lunghe, funivia di Fuente Dé in tariffa bassa fino a fine giugno e ancora da ottobre, meno code. Luglio e agosto sono da evitare: la funivia è in tariffa alta (30 € contro 20 €) e nei weekend estivi si segnalano code fino a 3 ore; gli alberghi di Santillana costano di più da luglio a settembre. Da novembre a febbraio gli hotel costano meno ma gli orari si accorciano e la funivia può essere chiusa per vento, neve o lavori.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 356,
+      "costoMax": 687,
+      "costoNota": "Totale a persona con 2 viaggiatori: volo, treno e Marconi Express, 2 notti, pasti per 3 giorni, ingressi, carburante e noleggio auto (45-105 € per 3 giorni, vettura piccola a Santander aeroporto) divisi in due. Non include assicurazione extra, deposito né eventuale parcheggio. Il carburante usa i 0,129 €/km del documento su circa 330 km stimati (km non verificati su una fonte). I prezzi in dollari sono convertiti a 1 $ ≈ 0,9 €. Il noleggio in agosto può arrivare a circa 176 € in 3 giorni.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Tre giorni bastano per un assaggio completo ma non frettoloso: Santander si gira a piedi in mezza giornata, Santillana del Mar è un borgo piccolissimo con la Neocueva di Altamira a 2 km, e la valle di Liébana con Potes è a circa un'ora e mezza dalla costa. Il giro ha tre tappe e due pernottamenti, con guida di una o due ore al giorno. Non si arriva però a tutto: Cabárceno, il Cares e le spiagge di Comillas restano per un secondo viaggio. La logistica (volo da Bologna, auto a noleggio) rende il tempo più prezioso: meno di tre giorni non vale la pena.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Volo del mattino Bologna–Santander e ritiro dell'auto in aeroporto. Pomeriggio a Santander: passeggiata sul Paseo de Pereda, Mercado del Este per pintxos e rabas (La Casa del Indiano), Palacio de la Magdalena sulla penisola e spiaggia del Sardinero. Cena a Santander: Magnolia a Puertochico (20-30 € a testa) oppure Mesón Rampalay con menu del día. In serata trasferimento a Santillana del Mar per dormire."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Mattina a Santillana del Mar, prima che arrivino i pullman: strade di pietra, palazzi nobiliari e Collegiata. Poi Museo di Altamira con la Neocueva, a 2 km (ingresso 3 €, gratuito la domenica e il sabato dopo le 14:00; la grotta originale è chiusa dal 2002). Nel pomeriggio verso il Mar Cantabrico e l'uscita Unquera dell'A-8 per le grotte di El Soplao (13 €, visita di circa un'ora, chiuso il lunedì). Poi la strada della gola della Hermida fino a Potes, dove si dorme."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Mattina in Liébana. Potes è il paese di partenza per Fuente Dé, 25-28 km con la CA-185: la funivia sale in pochi minuti ai Picos de Europa (20 € A/R in tariffa bassa, 8 € per i bambini da 4 a 12 anni). Salire alle 9:00 o 10:00 perché la nebbia in quota arriva presto. Se la funivia fosse chiusa, passeggiata a Potes e pranzo con cocido lebaniego, poi rientro a Santander per il volo serale con margine di almeno due ore sulle strade di montagna."
+        }
+      ],
+      "alloggio": "Santillana del Mar: da circa 48 $ a 107 $ a camera a notte (circa 45-100 €) secondo Expedia, con i prezzi più bassi in novembre, gennaio e febbraio e i più alti da luglio a settembre. Santander parte da circa 58 $ a notte (circa 52 €) ed è la scelta se la priorità sono la città e le cene. Per due notti conviene Santillana la prima sera e Potes la seconda: così il giorno di Fuente Dé inizia con un rientro corto invece di un trasferimento all'alba. Per due persone a testa, 2 notti, 45-100 €.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze–Bologna A/R + Marconi Express",
+          "testo": "Treno A/R 20-50 € e Marconi Express 23,20 € A/R a persona (parametri del documento).",
+          "min": 43,
+          "max": 73,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Bologna–Santander A/R",
+          "testo": "111-221 € a/r a persona sul diretto Ryanair secondo Kayak (media diretti 189 €, minimo visto 147 €); giugno è il mese più economico, febbraio il più caro. Diretto Ryanair FR3925 Santander–Bologna confermato da Flightconnections (circa 2 voli a settimana, partenza serale da Santander): nessun prezzo pubblicato su quella fonte, le tariffe restano quelle di Kayak.",
+          "min": 111,
+          "max": 221,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti)",
+          "testo": "Circa 45-100 € a camera a notte per due a Santillana, 2 notti: 45-100 € a testa in totale (Expedia, convertito da dollari).",
+          "min": 45,
+          "max": 100,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Al giorno: pranzo con menu 14-15 € (articolo 2024) o fino a 20 €, cena 20-30 € a Santander (Magnolia, 2026).",
+          "min": 34,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Museo di Altamira (Neocueva)",
+          "testo": "3 € intero, 1,50 € ridotto; gratuito la domenica e il sabato dalle 14:00.",
+          "min": 0,
+          "max": 3,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Grotte di El Soplao",
+          "testo": "13 € adulti, 10,50 € bambini da 4 a 16 anni.",
+          "min": 13,
+          "max": 13,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Funivia di Fuente Dé",
+          "testo": "20 € A/R in tariffa bassa (30 € in alta). 0 se chiusa per lavori dal 16 novembre.",
+          "min": 0,
+          "max": 20,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Circa 330 km stimati, 0,129 €/km: 38-48 € (km non verificati).",
+          "min": 38,
+          "max": 48,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto (3 giorni, vettura piccola, aeroporto SDR)",
+          "testo": "Circa 15-35 € al giorno per 3 giorni: Discovercars indica economy da circa 16 $ al giorno (gennaio) e medie di 25-31 $ in maggio-giugno e settembre-ottobre; Economybookings stima 25-35 € al giorno per le economy. In agosto si arriva a 65 $ al giorno (circa 176 € in 3 giorni), mese da evitare. Cifre indicative, da confermare con date precise; assicurazione extra e deposito esclusi.",
+          "min": 45,
+          "max": 105,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Volo, treno, alloggio, pasti e ingressi sono a persona; carburante e noleggio sono della vettura e si dividono per due.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "La funivia di Fuente Dé chiude dal 16 novembre per lavori di miglioramento (il sito indica la data ma non la riapertura): verificare prima di scegliere le date. Orario dal 19 ottobre a fine anno: lun-ven 10-17, sab-dom 9-17; chiusa il 24, 25 e 31 dicembre, 1 e 6 gennaio. Può fermarsi per vento o neve."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Museo di Altamira: da novembre ad aprile mar-sab 9:30-18:00, domenica e festivi 9:30-15:00, lunedì chiuso. El Soplao chiude il lunedì e in novembre apre 10-14 e 15-17."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Funivia: biglietti online con almeno 1 giorno di anticipo, in fasce da 30 minuti, validi solo per data e fascia; cambio data 1 € a biglietto, niente rimborsi."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Potes–Fuente Dé: circa 28 km di strada CA-185 con ampio parcheggio alla stazione della funivia (costo non indicato). La grotta originale di Altamira è chiusa al pubblico dal 2002: si visita solo la Neocueva."
+        }
+      ],
+      "note": "Chi arriva da Firenze deve verificare la tratta aerea per prima cosa: il diretto Ryanair FR3925 risulta su Flightconnections con circa 2 voli a settimana (giorni e date 2026 non indicati, nessun prezzo), mentre altri aggregatori non lo mostrano sempre; il sito Ryanair non è stato consultabile, quindi controllare il calendario prima di prenotare. Consiglio che si trova solo sapendo il posto: Santillana del Mar è al suo meglio la mattina presto e la sera, quando sono partiti i gruppi; chi vuole risparmiare può prendere il menu del giorno a Santander (circa 14-15 € nel 2024) e cenare a tapas. Con un bimbo piccolo conviene sostituire El Soplao con il Parco di Cabárceno (da novembre feriali 9:30-17:00, adulto 24 € giornata intera, bambino 14 €), a 17 km da Santander.",
+      "fonti": [
+        "https://www.kayak.it/voli/Bologna-Aeroporto-Guglielmo-Marconi-BLQ/Santander-SDR",
+        "https://www.skyscanner.ch/routen/blq/sdr/bologna-nach-santander.html",
+        "https://www.omio.it/voli/bologna/santander",
+        "https://www.es.momondo.com/hoteles/cantabria.ksp",
+        "https://www.expedia.com/Santillana del Mar-Hotels.d603042.Travel-Guide-Hotels",
+        "https://www.salir.com/donde-comer-barato-y-bien-en-santander-art-82.html",
+        "https://www.directoalpaladar.com/viajes/gastroguia-santander-mejores-restaurantes-para-comer-bien-a-buen-precio-capital-cantabria",
+        "https://telefericodefuentede.com/tarifas/",
+        "https://tripodedeviaje.com/entradas-a-las-atracciones-turisticas-de-cantabria/",
+        "https://hotelkaype.es/occidente-de-cantabria-1-hora/",
+        "https://turismocantabria.es/entradastelefericofuentede",
+        "https://www.tuscasasrurales.com/blog/teleferico-de-fuente-de/",
+        "https://www.discovercars.com/spain/santander/sdr",
+        "https://www.economybookings.com/car-rental/europe/spain-mainland/santander/sdr",
+        "https://www.flightconnections.com/flights-from-sdr-to-blq",
+        "https://www.omio.co.uk/flights/bologna/santander-v1g65"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 43.39,
+        "lon": -4.11
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Funivia a 8 € per bimbi da 4 a 12 anni e Neocueva facile, ma tanta auto e un volo: con un bimbo di 4 anni meglio Cabárceno al posto delle grotte."
+      }
+    },
+    {
       "id": "santorini-3g",
       "nome": "Santorini",
       "sottotitolo": "Cicladi, Grecia: l'isola vulcanica della caldera, con Akrotiri, Fira e Oia",
@@ -28442,6 +29692,185 @@
       }
     },
     {
+      "id": "taranto-grottaglie-e-manduria-3g",
+      "nome": "Taranto, Grottaglie, Manduria e le Gravine",
+      "sottotitolo": "Puglia ionica: il museo archeologico della Magna Grecia, la città della ceramica, la terra del Primitivo e le gole scavate nel tufo",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair Pisa (PSA) - Bari (BRI), circa 1h20 di volo, poi auto a noleggio all'aeroporto di Bari per muoversi tra Taranto, Grottaglie, Manduria e le gravine. Da Firenze a Pisa Aeroporto in treno più Pisa Mover (30,40 € A/R a persona) oppure in auto con parcheggio. Da Firenze (FLR) non esiste un volo diretto per Bari: gli scali (Roma, Catania) portano a oltre 3 ore. Alternativa senza auto per la sola Taranto: treno diretto Bari-Taranto, circa 1h17, 11-13 € a tratta.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 6h30 porta a porta (stima): treno Firenze-Pisa Aeroporto, volo di 1h20, ritiro dell'auto a Bari e trasferimento a Taranto (circa 1h30 in auto o 1h17 in treno diretto da Bari).",
+      "durataViaggioMinuti": 390,
+      "periodoMiglioreTesto": "Aprile, maggio, settembre e ottobre: clima mite (massime di circa 19 °C ad aprile e 23 °C a maggio), meno folla e prezzi più accessibili. Luglio e agosto superano i 32 °C di massima; novembre è il mese più piovoso e le gravine a piedi diventano scomode.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8,
+        11
+      ],
+      "costoMin": 290,
+      "costoMax": 588,
+      "costoNota": "Il totale comprende volo, accesso all'aeroporto di Pisa, 2 notti, MArTA, pasti (pranzo e cena, 3 giorni), parcheggio a Taranto e auto a noleggio con carburante (2 viaggiatori che dividono l'auto). Prezzi dei pasti rilevati a Taranto e applicati anche a Grottaglie e Manduria; parcheggio verificato solo per Taranto. Il carburante è una stima con 0,129 €/km su 300-380 km.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Taranto merita una giornata piena: il MArTA richiede almeno due ore, la Città Vecchia con il Castello Aragonese circa un'ora e mezza, poi il Ponte Girevole e il lungomare. Le altre tappe sono tutte entro una mezz'ora di strada: Grottaglie con le botteghe di ceramica si fa in una mattinata, Manduria con le Mura Messapiche e il Museo della Civiltà del Vino Primitivo in un pomeriggio, e una gravina (Massafra o Mottola) in mezza giornata. In tre giorni si fa tutto senza correre, ma senza aggiungere altro: per le gravine più lontane (Laterza, Ginosa, Castellaneta) servirebbero altri giorni.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Taranto. Volo PSA-BRI, ritiro dell'auto a Bari e arrivo a Taranto nel primo pomeriggio. Visita al MArTA, il Museo Archeologico Nazionale (Via Cavour 10): conviene dedicargli almeno due ore, perché raccoglie la Taranto greca. Sera sul lungomare e cena con le cozze tarantine, presidio Slow Food, e un bicchiere di Primitivo; nel weekend conviene prenotare."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Grottaglie e Città Vecchia. Mattina a Grottaglie, circa 20 km da Taranto: il quartiere delle ceramiche con le botteghe scavate nella roccia, meglio di mattina quando gli artigiani lavorano, e i murales di Paolo Carriere. Pomeriggio a Taranto: Città Vecchia, il Castello Aragonese (si visita con la Marina Militare, circa un'ora e mezza), il Ponte Girevole e i murales di Cyop&Kaf; infine il quartiere Porta Napoli con laboratori e spazi culturali."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: le Gravine e Manduria. Mattina in una gravina del parco Terra delle Gravine: a Massafra il Ponte Vecchio sulla gola di San Marco e le cripte di San Leonardo e della Candelora con affreschi bizantini, oppure Mottola con la cripta di San Nicola, detta la Cappella Sistina dell'arte rupestre. Pranzo a Manduria, poi le Mura Messapiche, il Museo della Civiltà del Vino Primitivo e il centro storico (Palazzo Imperiali-Filotico, Chiesa Matrice). In serata ritorno verso Bari per il volo: lascia un buon margine e controlla l'orario del Ryanair."
+        }
+      ],
+      "alloggio": "In provincia di Taranto i B&B per due partono da circa 50 € a notte (B&B Mandolea a Manduria, Voltastella a Grottaglie) e arrivano a circa 85 € (Villa Elvira a San Pietro in Bevagna, Manduria). A Taranto un hotel di fascia media costa circa 49 € a persona a notte, cioè circa 98 € a camera (stima indicativa di novembre 2026). Per muoversi con l'auto conviene dormire a Taranto, a una ventina di minuti da Grottaglie, Massafra e Manduria. La tassa di soggiorno si paga in loco.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo Pisa-Bari A/R",
+          "testo": "Ryanair diretto, circa 1h20. Andata e ritorno tipicamente 53-151 € a persona, minimo trovato di recente 33 € in bassa stagione; prenotando con qualche settimana di anticipo circa 92 €.",
+          "min": 53,
+          "max": 151,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Firenze-Pisa Aeroporto con Pisa Mover",
+          "testo": "30,40 € A/R a persona (parametro del documento).",
+          "min": 30.4,
+          "max": 30.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto per Pisa Aeroporto (alternativa)",
+          "testo": "Circa 22 € di benzina e 12-18 € di parcheggio per 2 giorni (parametri del documento); per 3 giorni il parcheggio sale un po'.",
+          "min": 34,
+          "max": 40,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto a Bari",
+          "testo": "Categoria economy: 25-35 € al giorno in bassa stagione, 30-50 € per le piccole; 50-90 € in giugno-settembre. L'assicurazione estesa aggiunge 8-15 € al giorno. Calcolato su 3 giorni in bassa stagione.",
+          "min": 25,
+          "max": 50,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Circa 300-380 km tra Bari-Taranto A/R, Grottaglie, gravine e Manduria, stimati con 0,129 €/km (benzina 1,98 €/l, 6,5 l/100 km).",
+          "min": 39,
+          "max": 49,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Bari-Taranto A/R (alternativa a Taranto senza auto)",
+          "testo": "Treno diretto da 11 a 13 € a tratta, circa 1h05-1h20, circa 17 corse al giorno.",
+          "min": 22,
+          "max": 26,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio, 2 notti",
+          "testo": "B&B da circa 50 € a circa 85 € a notte per due in provincia; hotel di fascia media a Taranto circa 98 € a camera. Per 2 notti a persona.",
+          "min": 50,
+          "max": 98,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "MArTA, biglietto",
+          "testo": "8 € intero, 4 € ridotto, gratuito la prima domenica del mese. Il Castello Aragonese ha ingresso gratuito (visite guidate con la Marina Militare); ricontrolla prezzi e orari, la fonte è del 2023.",
+          "min": 8,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 10-20 € a persona (pizzeria o trattoria, media di guida sui locali di Taranto) e cena 25-40 € (guida), fino a circa 45 € per tre piatti in un ristorante di pesce di Taranto (aprile 2026; spaghetti con cozze tarantine 15 €). Valori di Taranto, usati anche per Grottaglie e Manduria dove non ho trovato menu verificati. Totale al giorno a persona: 30-65 €.",
+          "min": 30,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Parcheggio",
+          "testo": "Strisce blu di Taranto: 1 € all'ora (0,50 € tariffa ridotta), di norma nei giorni feriali 8:30-20:30; parcheggi recintati del Borgo Umbertino 1 €/ora; Park & Ride Democrate o Cimino 1 € al giorno con navetta A/R. Stima 3-12 € per i tre giorni. Grottaglie e Manduria: tariffe non verificate.",
+          "min": 3,
+          "max": 12,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "A persona: volo, treno/Pisa Mover, alloggio (2 notti) e MArTA. Della vettura, da dividere per due: noleggio e carburante.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "La Città Vecchia di Taranto è un'isola tra i due mari: conviene lasciare l'auto fuori e visitarla a piedi. Per i sentieri delle gravine servono scarpe da trekking; il Laterza ha un sentiero di circa 7 km dall'Oasi Lipu."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il MArTA risulta aperto tutti i giorni 8:30-19:30, ma la fonte è del 2023: controlla gli orari. Il Castello Aragonese è aperto 9:30-18:30; la visita avviene con la Marina Militare."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il biglietto del MArTA non richiede prenotazione nei giorni normali, ma nelle aperture speciali sì (tel. 099 4532112). Nel weekend prenota i ristoranti di Taranto; il volo diretto Ryanair PSA-BRI conviene fissarlo con qualche settimana di anticipo e controllandone gli orari."
+        }
+      ],
+      "note": "Il Ryanair Pisa-Bari è la chiave del viaggio: da Firenze non c'è nessun volo diretto per Bari (la rotta più veloce passa da Roma e supera le 3 ore), quindi parti da Pisa. Se in alternativa preferisci non noleggiare l'auto, il treno diretto Bari-Taranto basta per Taranto e il MArTA, ma Grottaglie, Manduria e le gravine restano fuori. Un consiglio da chi conosce il posto: a Grottaglie vai di mattina presto, quando le botteghe sono aperte e gli artigiani lavorano al tornio. Taranto si abbina bene con Martina Franca e la Valle d'Itria (circa 30 km), se hai un quarto giorno.",
+      "fonti": [
+        "https://www.momondo.it/volo/firenze/bari",
+        "https://www.momondo.it/volo/pisa/bari",
+        "https://www.bed-and-breakfast.it/en/province/list/taranto/3",
+        "https://www.museionline.info/puglia-musei-monumenti/museo-archeologico-nazionale-di-taranto",
+        "https://www.museionline.info/puglia-musei-monumenti/castello-aragonese-di-taranto",
+        "https://www.voyage-prive.it/offerte/weekend-a-taranto",
+        "https://www.omio.it/treni/bari/taranto",
+        "https://www.moneyside.app/it/learn/noleggio-auto/noleggio-auto-bari-karol-wojtyla-prezzi",
+        "https://www.italia.it/it/puglia/cosa-fare/itinerario-5-tappe-borghi-gravine-taranto",
+        "https://www.italia.it/it/puglia/cosa-fare/itinerario-da-taranto-a-manduria",
+        "https://siviaggia.it/idee-di-viaggio/murgia-tarantina-puglia/526929/amp/",
+        "https://layla.ai/itinerary/grottaglie-adventure-3-days/01883303-892d-7088-8908-113e3b0f3c10",
+        "https://www.sluurpy.it/taranto/ristoranti",
+        "https://www.scattidigusto.it/gatto-rosso-ristorante-di-pesce-a-taranto-menu-prezzi-recensione",
+        "https://moveo.telepass.com/dove-parcheggiare-taranto/"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 40.4644,
+        "lon": 17.247
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni vanno bene il lungomare, il Castello e le botteghe di Grottaglie; le gravine e i trasferimenti lunghi in auto sono più impegnativi."
+      }
+    },
+    {
       "id": "trani-e-castel-del-monte-3g",
       "nome": "Trani, Castel del Monte, Barletta e Andria",
       "sottotitolo": "Puglia, la costa romanica della Terra di Bari e la fortezza ottagonale di Federico II",
@@ -29226,6 +30655,161 @@
       "bambini": {
         "adatta": "si",
         "nota": "Trulli, belvedere e carne alla brace piacciono a un bimbo di 4 anni; distanze brevi in auto e ritmi tranquilli."
+      }
+    },
+    {
+      "id": "vallonia-namur-dinant-e-liegi-3g",
+      "nome": "Vallonia: Namur, Dinant, Mons e Liegi",
+      "sottotitolo": "Belgio francofono, quattro città di fortezze, campanili e Mosa raggiunte in treno dall'aeroporto di Charleroi",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair Pisa (PSA) – Bruxelles Charleroi (CRL), circa 1h45; da Firenze a Pisa in auto (85 km, FI-PI-LI gratuita) con parcheggio, oppure treno più Pisa Mover. In alternativa Bologna (BLQ) – Charleroi con Ryanair/Malta Air, circa 1h45. Da Charleroi si prosegue solo in treno SNCB: Mons, Namur, Dinant e Liegi sono tutte collegate dalla stazione di Charleroi-Sud (navetta aeroportuale da verificare sul sito SNCB/aeroporto). Verificare gli orari effettivi dei voli prima di prenotare: gli aggregatori danno informazioni non coerenti sulla frequenza.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 6h30 porta a porta fino a Mons (stima: 1h da Firenze a Pisa, imbarco, 1h45 di volo, navetta e 36 min di treno Charleroi–Mons).",
+      "durataViaggioMinuti": 390,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre: giornate lunghe, clima mite per le salite alle cittadelle e meno pioggia che in autunno inoltrato. Da novembre a febbraio fa freddo e buio presto, con alcune attrazioni ad orario ridotto.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        12,
+        1,
+        2
+      ],
+      "costoMin": 200,
+      "costoMax": 524,
+      "costoNota": "Fasce larghe perché il volo varia molto con la data (da 34 € a 158 € A/R) e i pasti vanno da fast food a ristorante. I treni sono i prezzi più bassi osservati prima della partenza: last minute possono costare di più. Non incluso il trasferimento aeroporto Charleroi – stazione Charleroi-Sud (prezzo non verificato).",
+      "dipendenzaAuto": "auto-opzionale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le quattro città sono tutte su una dorsale ferroviaria: Charleroi–Mons 36 min, Mons–Namur circa 1h17, Namur–Dinant circa 30 min, Namur–Liegi 42-59 min, Liegi–Charleroi 1h16-1h30. In tre giorni si fa un ritmo da una città principale al giorno più Dinant: un pomeriggio a Mons (Beffroi e Grand-Place), Namur e Dinant in una giornata di cittadelle sopra la Mosa, mezza giornata piena a Liegi. Con meno giorni si taglia Mons o Liegi; con tre le visite restano a passo da turista, non da corsa, anche se le giornate di treno sono lunghe.",
+      "cosaVedere": [
+        "Beffroi di Mons: campanile barocco del Seicento alto 87 m, Patrimonio UNESCO, con ascensore fino a 36 m e due rampe a piedi verso il carillon; apre martedì-domenica 10-18, il giardino sotto è gratuito e sorge sull'area dell'antica fortezza.",
+        "Cittadella di Namur: la fortezza sopra la confluenza tra Sambre e Mosa, raggiungibile con la telecabina (3-4 minuti di salita) o a piedi; è il punto per capire perché questa città fu contesa per secoli.",
+        "Cittadella di Dinant: si sale con la funivia o per scale, e il biglietto della visita costa da 11 a 15 €; esiste anche un pacchetto con HistoPad e crociera sulla Mosa (16-25 €).",
+        "Dinant dal lungofiume: la collegiata sotto la roccia e la cittadella a picco sulla Mosa danno una delle vedute più riconoscibili della Vallonia.",
+        "Montagne de Bueren a Liegi: la lunga scalinata sul colle della cittadella, gratuita e sempre accessibile, con vista sulla città vecchia.",
+        "Grand Curtius, a Liegi: museo di archeologia, arti decorative e armi lungo la Mosa, 9 € (gratis sotto i 26 anni), chiuso il martedì; l'Archéoforum, sotto place Saint-Lambert, costa 8 € ed è aperto martedì-sabato."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Volo mattutino Pisa–Charleroi (1h45), navetta per la stazione di Charleroi-Sud e treno per Mons (circa 36 min). Primo pomeriggio al Beffroi (martedì-domenica 10-18, quindi non di lunedì) e nel giardino gratuito sul colle, poi passeggiata nel centro storico. Cena a Mons e pernottamento in zona stazione/centro."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Treno Mons–Namur (1h05-1h20), mattina sulla Cittadella (telecabina o scarpinata) e giro tra i vicoli del centro. Nel pomeriggio treno per Dinant (25-30 min): cittadella e vista dal lungofiume, con tempo per il pacchetto HistoPad e battello se il meteo regge. Rientro a Namur per la notte, che ha più offerta di alloggi e ristoranti."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Treno Namur–Liegi (42-59 min), poi Montagne de Bueren e il Perron in mattinata, Grand Curtius e, se resta tempo, l'Archéoforum. Pranzo veloce e treno diretto Liegi–Charleroi (1h16-1h30) con ampio margine prima del volo di ritorno (da verificare: scegliere un volo serale)."
+        }
+      ],
+      "alloggio": "Per due notti (Mons o Namur, più Namur): fascia per persona a notte di circa 25 € (budget) fino a 56 € (hotel 2-3 stelle e B&B); in coppia, camera doppia 47,50-70 € a notte. Dati medi per il Belgio, non specifici di queste città: controllare Booking per le date reali. Conviene dormire a Mons la prima notte e a Namur la seconda, per tenere il treno corto prima e dopo.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Pisa–Charleroi",
+          "testo": "34 € il minimo A/R trovato, 52-158 € la fascia tipica, circa 82 € di media Ryanair (momondo). Da Bologna, A/R Malta Air/Ryanair.",
+          "min": 34,
+          "max": 158,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Accesso aeroporto di Pisa in auto",
+          "testo": "Circa 22 € di benzina (85 km, 0,129 €/km) più 12-18 € di parcheggio per due giorni (parametri del documento); con tre giorni il parcheggio sale leggermente.",
+          "min": 34,
+          "max": 40,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Accesso aeroporto di Bologna (alternativa)",
+          "testo": "Treno A/R 20-50 € più Marconi Express 23,20 € A/R a persona, se si parte da BLQ invece che da Pisa.",
+          "min": 43,
+          "max": 73,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treni in Vallonia",
+          "testo": "Tratte: Charleroi–Mons 5-9 €, Mons–Namur da 11 €, Namur–Dinant 5-7 € a tratta (A/R), Namur–Liegi 5-8 €, Liegi–Charleroi da 11 €. Sono prezzi minimi osservati con acquisto anticipato.",
+          "min": 42,
+          "max": 53,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Dinant, cittadella 11-15 €; Grand Curtius 9 €; Archéoforum 8 €. Namur: prezzo di telecabina e cittadella non verificato (articolo cita circa un terzo in meno di Huy, che costa 10 € A/R). Gratuiti la Montagne de Bueren e il giardino del Beffroi.",
+          "min": 11,
+          "max": 32,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti)",
+          "testo": "25-56 € a persona a notte per due notti, cioè circa 17-37 € per ognuno dei tre giorni.",
+          "min": 17,
+          "max": 37,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo e cena insieme: da circa 15 € al giorno (fast food 10 €, pasto economico 20 €) fino a 50 €; un menu a tre portate medio costa circa 40 € (fascia 30-60 €).",
+          "min": 15,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "A persona: volo, treni, ingressi, alloggio (diviso per due) e pasti. Della vettura (divisa per due): benzina e parcheggio a Pisa, solo se si arriva all'aeroporto in auto. In Belgio non serve l'auto.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Niente auto in loco: i collegamenti sono ferroviari. L'aeroporto di Charleroi non è in stazione e serve una navetta fino a Charleroi-Sud (prezzo e orari da controllare su SNCB)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Beffroi di Mons aperto martedì-domenica 10-18; Grand Curtius chiuso il martedì; Archéoforum aperto martedì-sabato 10-17. Per avere tutto aperto conviene un viaggio mercoledì-venerdì o giovedì-sabato. La prima domenica del mese: Grand Curtius gratuito."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria verificata per le attrazioni; volo e treni conviene prenotarli in anticipo (le tariffe minime sono per acquisto anticipato). Orari voli PSA–CRL e BLQ–CRL da confermare sul sito Ryanair."
+        }
+      ],
+      "note": "Il fiammingo non serve: in Vallonia si parla francese e in stazione i cartelli sono bilingui. Se il volo di ritorno parte presto, dormi a Charleroi o Liegi l'ultima notte invece di rientrare all'ultimo momento. Il biglietto della cittadella di Dinant comprende la salita in funivia e non esiste il solo andata. Per un giorno in più si può sostituire Mons con Bruxelles (Charleroi–Bruxelles-Midi è un treno diretto).",
+      "fonti": [
+        "https://www.momondo.it/volo/pisa/aeroporto-di-charleroi-bruxelles-sud-crl",
+        "https://www.omio.it/voli/bologna/aeroporto-di-charleroi-sud-di-bruxelles-hmmem",
+        "https://www.partirou.com/budget/voyage/belgique/",
+        "https://www.combien-coute.net/restaurant-menu/belgique/mons/",
+        "https://www.omio.fr/trains/charleroi/mons-wbzkd",
+        "https://www.omio.fr/trains/namur/mons-i69aq",
+        "https://www.omio.fr/trains/namur/dinant-fhasx",
+        "https://www.omio.fr/trains/namur/liege",
+        "https://www.omio.fr/trains/charleroi/liege",
+        "https://www.ardennes-etape.co.uk/experience/activity/dinant/go-back-time-dinant-citadel",
+        "https://www.info-lux.com/que-visiter-liege-2026/pays/belgique/wallonie/province-de-liege/liege/",
+        "https://www.lonelyplanet.fr/poi/belgique-hainautbelgiqueess-beffroi"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 50.4674,
+        "lon": 4.8712
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Cittadelle con funivia e telecabina piacciono a un bimbo di 4 anni, ma tre giorni di treni e un volo sono impegnativi."
       }
     },
     {
@@ -32812,6 +34396,173 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Con un bimbo di 4 anni Yerevan e la funivia di Tatev piacciono, ma le tappe di 3–5 ore di guida in montagna e il volo con scalo sono pesanti: meglio togliere il sud o dividerlo in due giorni."
+      }
+    },
+    {
+      "id": "assia-e-reno-medio-7g",
+      "nome": "Assia e Reno medio: Francoforte, Wiesbaden, il Rheingau, Marburgo, Fulda e Kassel",
+      "sottotitolo": "Germania, Assia: grattacieli e osterie del sidro, vigneti sul Reno, città universitarie a graticcio e il parco UNESCO del Herkules",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Volo diretto Firenze Peretola–Francoforte sul Meno (FRA) con Lufthansa, Air Dolomiti o ITA Airways, circa 1h35 di volo e partenze tutti i giorni; all'aeroporto di Firenze si arriva con il tram T2. Sul posto tutto in treno regionale e S-Bahn con il Deutschland-Ticket (63 € al mese, valido su treni locali e regionali di tutta la Germania, S-Bahn per l'aeroporto compresa): Francoforte, Wiesbaden, Rheingau, Marburgo, Kassel e Fulda sono tutte sulla rete regionale dell'Assia.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 1h35 di volo diretto FLR–FRA; porta a porta circa 4 ore contando tram per Peretola, controlli e S-Bahn dall'aeroporto al centro di Francoforte.",
+      "durataViaggioMinuti": 240,
+      "periodoMiglioreTesto": "Da maggio a inizio ottobre: dal 1° maggio al 3 ottobre ci sono i giochi d'acqua del Bergpark di Kassel (mercoledì, domenica e festivi), la piattaforma del Herkules è aperta da aprile a ottobre e i vigneti del Rheingau sono al loro meglio in settembre-ottobre. Da evitare gennaio e febbraio: il Herkules è chiuso e febbraio è il mese più caro per gli hotel di Francoforte per via delle fiere.",
+      "mesi": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 688,
+      "costoMax": 1096,
+      "costoNota": "Prezzi hotel di Kayak e Gotripzi pubblicati in dollari, convertiti a circa 0,86 € per dollaro. Il Deutschland-Ticket vale per il mese solare: se il viaggio scavalca due mesi ne servono due (126 €). Alloggio calcolato in camera doppia divisa per due.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le sei tappe stanno tutte sulla rete regionale dell'Assia e nessuna richiede più di una giornata piena: Francoforte vuole due giorni (centro ricostruito, Museumsufer, Sachsenhausen), Wiesbaden e il Rheingau con Eberbach e Rüdesheim altri due, Marburgo e Kassel una giornata ciascuna perché il Bergpark da solo occupa un pomeriggio intero. Fulda è un centro barocco compatto, visitabile in mezza giornata prima del rientro. Con sette giorni si cambia albergo solo tre volte e si viaggia senza correre.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: volo del mattino Firenze–Francoforte, S-Bahn dall'aeroporto al centro (già coperta dal Deutschland-Ticket). Pomeriggio fra il Römerberg con le case a graticcio ricostruite, il Duomo dove si incoronavano gli imperatori e la nuova Altstadt fra Duomo e Römer. Sera oltre il Meno, a Sachsenhausen, nelle osterie del sidro (Apfelweinwirtschaften) con cotoletta e Grüne Soße."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Francoforte dei musei. Mattina sul Museumsufer, la riva sud del Meno con una lunga fila di musei: lo Städel è il più importante, con pittura europea dal Trecento a oggi. Pranzo alla Kleinmarkthalle, il mercato coperto, e pomeriggio fra la Zeil, la Hauptwache e la passeggiata lungo il fiume con la vista sullo skyline delle banche al tramonto dall'Eiserner Steg."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: S-Bahn per Wiesbaden, capitale dell'Assia e città termale della Belle Époque. Il Kurhaus con il casinò, il colonnato più lungo d'Europa, la fonte calda del Kochbrunnen che fuma in piazza, e la funicolare ad acqua del Neroberg con la cappella russa dalle cupole dorate. In serata treno regionale lungo il Reno fino a Eltville, prima cittadina del Rheingau, per dormire fra i vigneti."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: il Rheingau. Mattina al Kloster Eberbach, abbazia cistercense del 1136 tra le meglio conservate d'Europa, dove nel 1985 furono girati gli interni del Nome della rosa: dormitorio dei monaci, chiostro, antichi torchi da vino e degustazione nella cantina dell'abbazia. Pomeriggio in treno fino a Rüdesheim: la Drosselgasse, la funivia sopra i vigneti fino al monumento del Niederwald e la vista sull'inizio della valle UNESCO del Medio Reno."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: treno regionale verso nord, via Francoforte, fino a Marburgo. La Elisabethkirche è la prima chiesa interamente gotica della Germania e custodisce il reliquiario di Santa Elisabetta; da lì si sale a piedi (o con gli ascensori pubblici) nella Oberstadt a graticcio, fino al castello dei Langravi che domina la valle della Lahn. Qui studiarono i fratelli Grimm: in città c'è un sentiero con le sculture delle loro fiabe. Notte a Marburgo, città universitaria vivace anche la sera."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: treno regionale per Kassel. Tutta la giornata al Bergpark Wilhelmshöhe, patrimonio UNESCO: il Herkules in cima alla collina (piattaforma aperta da aprile a ottobre, martedì-domenica 10-17), le cascate e il castello di Wilhelmshöhe con la galleria di antichi maestri. Se è mercoledì, domenica o festivo tra il 1° maggio e il 3 ottobre, alle 14:30 partono i giochi d'acqua: si seguono a piedi dalle Kaskaden fino alla Grande Fontana verso le 16. Notte a Kassel."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: treno regionale per Fulda, la città di San Bonifacio: Duomo barocco con la tomba dell'apostolo dei Germani, la Michaelskirche carolingia e il castello-residenza dei principi-abati con il giardino dell'Orangerie, tutto in poche centinaia di metri. Nel pomeriggio regionale per Francoforte e S-Bahn per l'aeroporto: meglio prenotare il volo serale per Firenze."
+        }
+      ],
+      "alloggio": "Sei notti su quattro basi: due a Francoforte (Altstadt o Sachsenhausen, più tranquillo e con le osterie), due nel Rheingau o a Wiesbaden (Eltville e Rüdesheim per dormire fra i vigneti), una a Marburgo e una a Kassel vicino alla stazione Wilhelmshöhe. A Francoforte un 3 stelle costa in media circa 72 € a notte nella guida Gotripzi 2026 (fascia 60–86 €) e circa 98 € su Kayak, con novembre come mese più economico (circa 52 €) e febbraio il più caro (circa 160 €) per le fiere. Calcolato 60–115 € a notte per la camera doppia, cioè 180–345 € a persona per sei notti; Marburgo e Kassel tendono a stare nella parte bassa della fascia.",
+      "costiDettaglio": [
+        {
+          "voce": "Tram T2 per Firenze Peretola",
+          "testo": "3,40 € A/R a persona (parametro del documento).",
+          "min": 3.4,
+          "max": 3.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Firenze–Francoforte A/R",
+          "testo": "Diretti Lufthansa, Air Dolomiti e ITA Airways tutti i giorni, circa 1h35: minimo diretto trovato 187 € A/R (ITA), prezzo tipico 221–310 € (Momondo, ottobre 2026).",
+          "min": 187,
+          "max": 310,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Deutschland-Ticket",
+          "testo": "63 € al mese nel 2026, abbonamento personale valido su tutti i treni locali e regionali, S-Bahn e tram: copre aeroporto, Wiesbaden, Rheingau, Marburgo, Kassel e Fulda. Non vale su ICE e IC.",
+          "min": 63,
+          "max": 63,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "Hotel 3 stelle 60–115 € a notte per la camera doppia, cioè 180–345 € a persona per sei notti; nelle settimane di fiera a Francoforte si superano i 160 €.",
+          "min": 180,
+          "max": 345,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pasto economico (kebab, pizzeria, pranzo veloce) circa 17 €; cotoletta con Grüne Soße in un'osteria del sidro circa 21 €, più le bevande: 34–50 € al giorno a persona.",
+          "min": 34,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Kloster Eberbach",
+          "testo": "13 € intero; 9 € ridotto anche per chi arriva con i mezzi pubblici e un biglietto RMV. Under 6 gratis.",
+          "min": 9,
+          "max": 13,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Wilhelmshöhe Day Pass (Kassel)",
+          "testo": "8 € intero, 5 € ridotto, gratis sotto i 18 anni: comprende la piattaforma del Herkules (aprile-ottobre) e il castello di Wilhelmshöhe; +4 € durante la mostra DÜRER. Giochi d'acqua gratuiti.",
+          "min": 8,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona: niente auto, il Deutschland-Ticket è personale e non cedibile e l'alloggio è già diviso per due in camera doppia.",
+      "vincoli": [
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il Deutschland-Ticket è un abbonamento mensile che parte dal 1° del mese: con VGF va ordinato entro il 15 del mese precedente e si disdice entro il 10 del mese. Conviene far stare i sette giorni nello stesso mese solare."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Il Deutschland-Ticket vale solo in seconda classe su treni locali e regionali: gli ICE e gli IC, più rapidi per esempio fra Kassel e Fulda, richiedono un biglietto a parte."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La piattaforma del Herkules apre solo dal 1° aprile al 31 ottobre, martedì-domenica 10-17. I giochi d'acqua del Bergpark si tengono dal 1° maggio al 3 ottobre il mercoledì, la domenica e nei festivi dell'Assia, partenza alle 14:30."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Kloster Eberbach: da aprile a ottobre 10-19 nei feriali e 9-19 nel weekend, da novembre a marzo 11-18 (weekend 10-18); ultimo ingresso mezz'ora prima della chiusura."
+        }
+      ],
+      "note": "Organizza il giorno di Kassel di mercoledì o di domenica tra maggio e inizio ottobre: i giochi d'acqua scendono dal Herkules alle 14:30 e conviene seguirli a piedi stazione dopo stazione (cascate, cascata Steinhöfer, Teufelsbrücke, acquedotto) fino alla Grande Fontana, che zampilla verso le 15:45. Due volte l'anno, a giugno e a settembre (nel 2026 l'11 e 12 settembre), ci sono anche le edizioni serali illuminate, a ingresso libero. A Kloster Eberbach mostra il Deutschland-Ticket alla cassa: chi arriva con i mezzi pubblici paga il ridotto. A Francoforte il sidro (Apfelwein) si beve dal Geripptes, il bicchiere a losanghe, e in osteria il boccale di ceramica sul tavolo si chiama Bembel: ordinare a caraffa costa meno. Evita le settimane di fiera a Francoforte (febbraio è il mese più caro): in quei giorni conviene dormire a Wiesbaden e fare la città in S-Bahn.",
+      "fonti": [
+        "https://www.momondo.it/volo/firenze/aeroporto-di-francoforte-sul-meno-fra",
+        "https://www.kayak.com/Frankfurt-am-Main-Hotels_3-stars.Hts.26939.hotel.ksp",
+        "https://www.gotripzi.com/destinations/frankfurt-de/cost",
+        "https://www.vgf-ffm.de/en/tickets-fares-plans/tickets-purchase/season-tickets/deutschlandticket",
+        "https://kloster-eberbach.de/en/oeffnungszeiten-und-preise/",
+        "https://kloster-eberbach.de/en/faq",
+        "https://www.rheinburgenweg.com/en/a-eberbach-monastery",
+        "https://heritage-kassel.de/en/locations/herkules",
+        "https://www.hessenschau.de/freizeit/kassel-wasserspiele-im-bergpark-wilhelmshoehe-starten-v1,wasserspiele-bergpark-kassel-100.html",
+        "https://www.festivalsindeutschland.de/festival/beleuchtete-wasserspiele-bergpark-wilhelmshoehe-herbst"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 50.11,
+        "lon": 8.68
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il Bergpark con i giochi d'acqua e le fiabe dei Grimm a Marburgo piacciono a un bimbo di 4 anni, ma i cambi d'albergo e le ore in treno pesano: meglio togliere una tappa."
       }
     },
     {
@@ -36511,6 +38262,216 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Spiagge e saline piacciono, ma con un bimbo di 4 anni pesano le 15 ore di viaggio con scalo, i tre voli interni e gli aluguer affollati senza seggiolini; la salamoia di Pedra de Lume brucia negli occhi."
+      }
+    },
+    {
+      "id": "castelli-dell-ile-de-france-7g",
+      "nome": "Castelli dell'Île-de-France: Versailles, Fontainebleau, Chantilly, Chartres e Giverny",
+      "sottotitolo": "Francia, Île-de-France e dintorni: una settimana di regge, giardini e cattedrali con base a Versailles, tutto in treno",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Volo diretto Vueling Firenze Peretola–Parigi Orly (circa 12 voli a settimana, 1h45 di volo); in alternativa Air France Firenze–Charles de Gaulle. Da Peretola si arriva in aeroporto con la tramvia T2. Da Orly ci si sposta a Versailles con i mezzi pubblici dell'Île-de-France (metro/Orlyval e RER C fino a Versailles Château Rive Gauche). Sul posto niente auto: tutte le tappe sono servite da treni RER, Transilien e TER.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 1h45 di volo Firenze–Orly; contando tramvia, controlli in aeroporto e trasferimento da Orly a Versailles con i mezzi pubblici servono circa 5 ore porta a porta.",
+      "durataViaggioMinuti": 300,
+      "periodoMiglioreTesto": "Da aprile a giugno e da settembre a ottobre: la casa e i giardini di Monet a Giverny aprono solo dal 1° aprile al 1° novembre, e a maggio-giugno i giardini (Versailles, Giverny, Chantilly) sono al massimo. Luglio e agosto sono possibili ma con più folla; giugno è il mese più caro per gli hotel di Versailles, ottobre il più economico. Da novembre a marzo Giverny è chiusa e il viaggio perde una tappa.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costoMin": 759,
+      "costoMax": 1662,
+      "costoNota": "Il totale comprende volo, alloggio per 6 notti, pasti, ingressi, treni per Chantilly e Vernon e i trasporti locali in Île-de-France (Navigo Semaine, TER per Chartres, navetta di Giverny, eventuale biglietto aeroporto). Il prezzo dei treni Chartres e Vernon varia con anticipo e orario; il Navigo Semaine può richiedere il supporto Navigo Découverte, non incluso. Tariffe IDFM 2026: ticket singolo 2,55 € (non 2,50 €).",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Sono cinque siti ognuno da una giornata piena: Versailles da sola ne chiede due (la reggia con orario prenotato, poi Trianon, Hameau e un parco immenso con il Grand Canal), mentre Fontainebleau, Chantilly, Chartres e Giverny sono tutte a 25–60 minuti di treno da una stazione parigina ma in direzioni opposte, quindi una tappa al giorno. I giorni di chiusura sfalsati (Versailles il lunedì, Fontainebleau e Chantilly il martedì) obbligano a incastrare il calendario, e sette giorni bastano con un giorno di margine senza correre.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: volo del mattino Firenze–Orly (il Vueling delle 6:45 atterra alle 8:30), trasferimento a Versailles e deposito bagagli in hotel vicino alla stazione Rive Gauche. Pomeriggio nel parco della reggia, gratuito nei giorni senza Grandes Eaux: Grand Canal, Bosquets e i viali verso il Trianon. In serata passeggiata nel quartiere di Notre-Dame, con il mercato coperto e i ristoranti di rue de la Paroisse."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2 (non di lunedì): Versailles a fondo con il Passeport. Al mattino la reggia nell'orario prenotato: Grands Appartements, Galleria degli Specchi, camera del Re e della Regina. Pranzo al sacco nel parco (è consentito), poi dalle 12 Grand Trianon, Petit Trianon e Hameau de la Reine, il villaggio rustico di Maria Antonietta. Nei weekend da aprile a ottobre le Grandes Eaux Musicales fanno partire le fontane a tempo di musica."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Chartres in giornata con il TER che ferma a Versailles-Chantiers. La cattedrale di Notre-Dame è il motivo del viaggio: le vetrate del XII-XIII secolo con il celebre blu di Chartres, il labirinto nel pavimento della navata e il recinto del coro scolpito. Pomeriggio nella città bassa lungo l'Eure, tra lavatoi e ponti medievali, e rientro a Versailles per cena."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4 (non di martedì): Fontainebleau. Si attraversa Parigi fino alla Gare de Lyon e si prende il Transilien R per Fontainebleau-Avon (40–45 minuti), poi bus 1 fino alla fermata del castello. Dentro e fuori: la scala a ferro di cavallo della Cour des Adieux, dove Napoleone salutò la Guardia prima dell'esilio, la Galleria di Francesco I, la sala da ballo rinascimentale e il Museo Napoleone; fuori, il Giardino inglese e lo stagno delle Carpe con le barche a noleggio. Se resta tempo, un'ora nella foresta."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5 (da aprile al 1° novembre): Giverny. Dalla stazione Saint-Lazare (raggiungibile da Versailles Rive Droite con il Transilien L) treno per Vernon-Giverny in 46–57 minuti, poi navetta di un quarto d'ora per i 4 km fino al villaggio. Casa di Monet con la cucina gialla e le stampe giapponesi, giardino del Clos Normand e lo stagno delle ninfee con il ponte giapponese: arrivare alle 10, all'apertura, con biglietto preso online. Pomeriggio al Musée des Impressionnismes e nel paese."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6 (non di martedì): Chantilly. Dalla Gare du Nord il TER arriva a Chantilly-Gouvieux in circa 25 minuti, poi un quarto d'ora a piedi lungo l'ippodromo. Il Musée Condé è la seconda pinacoteca di pittura antica di Francia dopo il Louvre (Raffaello, Poussin, i ritratti di Clouet), il Cabinet des Livres conserva manoscritti miniati; poi le Grandes Écuries, le scuderie monumentali con il museo del cavallo, e il parco di Le Nôtre fino all'Hameau, dove si assaggia la vera crema Chantilly."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: mattina libera a Versailles: il Potager du Roi, l'orto-frutteto di Luigi XIV ancora coltivato, oppure un giro in bici o in barca sul Grand Canal. Primo pomeriggio trasferimento a Orly e volo di rientro a Firenze."
+        }
+      ],
+      "alloggio": "Base unica a Versailles, comoda per la reggia, per Chartres (TER da Versailles-Chantiers) e con tre stazioni verso Parigi. Hotel 2 stelle a 65–130 € a notte per la camera doppia (Hôtel d'Angleterre, Royal Hôtel vicino alle stazioni), 3 stelle a 95–200 € (Hôtel du Cheval Rouge tra Rive Gauche e Chantiers, Hôtel des Roys su avenue de Paris, ibis davanti alla stazione RER C). La media cittadina va da circa 143 € a notte in ottobre, il mese più economico, a 232 € in giugno, il più caro: in alta stagione (aprile–ottobre) conviene prenotare 2–3 settimane prima. Nel calcolo: 75–180 € a notte per due, 6 notti.",
+      "costiDettaglio": [
+        {
+          "voce": "Tramvia T2 per Peretola",
+          "testo": "3,40 € A/R a persona per raggiungere l'aeroporto di Firenze.",
+          "min": 3.4,
+          "max": 3.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo A/R Firenze–Parigi",
+          "testo": "Vueling Firenze–Orly da 99 € A/R (fascia abituale sulla rotta fino a circa 232 €); Air France su Charles de Gaulle da 124 € A/R. Gennaio e febbraio sono i mesi più economici.",
+          "min": 99,
+          "max": 232,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "75–180 € a notte per la doppia in hotel 2–3 stelle a Versailles, cioè 225–540 € a persona per 6 notti.",
+          "min": 225,
+          "max": 540,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Formula pranzo in bistrot 18–28 € (o 10–15 € allo stand o in crêperie), cena in un ristorante normale 35–60 €: circa 35–85 € al giorno a persona.",
+          "min": 35,
+          "max": 85,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Versailles – Passeport",
+          "testo": "Reggia, Trianon e giardini anche nei giorni di Grandes Eaux: 32 € per i visitatori UE (35 € per chi viene da fuori SEE dal 14 gennaio 2026). Gratis sotto i 18 anni e per i residenti UE sotto i 26.",
+          "min": 32,
+          "max": 35,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Castello di Fontainebleau",
+          "testo": "14–17 € intero a seconda della fonte; gratis per i residenti UE 18–25 anni e la prima domenica del mese (escluso luglio-agosto).",
+          "min": 14,
+          "max": 17,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Domaine de Chantilly",
+          "testo": "18 € il biglietto di un giorno (castello, Musée Condé, Grandes Écuries e parco), 21 € con il Cabinet des Livres; 32 € con lo spettacolo equestre.",
+          "min": 18,
+          "max": 21,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno per Chantilly",
+          "testo": "Pack TER A/R da Parigi Nord a Chantilly-Gouvieux: 27 € (il Navigo non vale fino a Chantilly).",
+          "min": 27,
+          "max": 27,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Casa e giardini di Monet",
+          "testo": "13 € intero, 7 € dai 7 ai 17 anni, gratis sotto i 7 anni; prenotazione online fortemente consigliata.",
+          "min": 13,
+          "max": 13,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Saint-Lazare–Vernon A/R",
+          "testo": "Da 10 a 36 € a tratta in seconda classe a seconda del treno e dell'anticipo: 20–72 € A/R.",
+          "min": 20,
+          "max": 72,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Trasporti locali Île-de-France",
+          "testo": "Navigo Semaine 32,40 € (zone 1-5, lunedì-domenica, copre Versailles e Fontainebleau; il biglietto singolo Métro-Train-RER costa 2,55 €, il Navigo Jour zone 1-5 12,30 €). TER Versailles–Chartres 10–18 € a tratta, cioè 20–36 € A/R. Navetta Vernon–Giverny 10 € A/R. Nel massimo anche il biglietto Orlyval/aeroporto a 14 € a tratta (28 €).",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false,
+          "min": 62.4,
+          "max": 106.4
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona: il viaggio si fa senza auto, quindi non ci sono costi di vettura da dividere. L'alloggio è calcolato come metà della camera doppia.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "La reggia di Versailles chiude il lunedì (il parco resta aperto), Fontainebleau e Chantilly chiudono il martedì: in una settimana va costruito il calendario attorno a questi giorni. Versailles chiude anche 1° gennaio, 1° maggio e 25 dicembre."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Casa e giardini di Monet aprono solo dal 1° aprile al 1° novembre, tutti i giorni 10–18 con ultimo ingresso alle 17:30: fuori da questo periodo la tappa di Giverny salta."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "A Versailles la fascia oraria va prenotata anche con il Passeport o con l'ingresso gratuito; a Giverny i biglietti online sono consigliati e, esaurita la quota online, in cassa si fa una lunga coda. Gli e-ticket di Giverny non sono rimborsabili."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Fontainebleau, Chantilly e Giverny partono da tre stazioni parigine diverse (Gare de Lyon, Gare du Nord, Saint-Lazare): da Versailles ogni gita richiede di attraversare Parigi. La stazione di Vernon-Giverny è a 4 km dai giardini, serve la navetta o un taxi."
+        }
+      ],
+      "note": "A Versailles conviene arrivare alla reggia con il primo orario prenotabile e lasciare il Trianon al pomeriggio, visto che apre solo alle 12: così si evita l'ondata dei gruppi che dal mattino si sposta verso i Grands Appartements. A Versailles il pranzo al sacco nel parco è ammesso. A Chantilly i bambini sotto i 7 anni entrano gratis e c'è un biglietto famiglia a 55 €; a Fontainebleau l'interno richiede 2–3 ore e il parco altre 1–2. A Giverny evitare weekend e festivi francesi: con il centenario della morte di Monet l'afflusso è più alto del solito. Chi preferisce ridurre gli spostamenti può dormire le ultime tre notti vicino alla Gare du Nord o a Saint-Lazare, da dove partono i treni per Chantilly e Vernon. La prima domenica del mese, da novembre a marzo, Versailles è gratuita per tutti, ma è il periodo in cui Giverny è chiusa.",
+      "fonti": [
+        "https://www.momondo.it/volo/firenze/parigi",
+        "https://www.vueling.com/it/voli-da-firenze-a-parigi",
+        "https://www.momondo.fr/hotel/versailles",
+        "https://www.infosyvelines.fr/articles/dormez-comme-roi-decouvrez-magie-hebergements-versailles",
+        "https://loudavymkrokem.cz/it/cosa-mangiare-parigi/",
+        "https://ryo.co/fr/articles/france/paris/chateau-versailles/",
+        "https://www.infosyvelines.fr/articles/yvelines-le-chateau-de-versailles-augmente-ses-tarifs-pour-les-visiteurs-hors-europe-des-le-14-janvier-2026",
+        "https://thebettervacation.com/fr/Paris/ch%C3%A2teau-de-fontainebleau/",
+        "https://www.tarifs.org/chateau-de-chantilly-prix",
+        "https://claudemonetgiverny.fr/en/useful-information/",
+        "https://www.sncf-connect.com/train/trajet/paris/vernon",
+        "https://www.lasourisglobe-trotteuse.fr/chateaux-autour-paris/",
+        "https://www.iledefrance-mobilites.fr/tarifs-titre-de-transport-en-commun-2026",
+        "https://www.lasourisglobe-trotteuse.fr/tarif-transports-paris-ile-de-france-ratp-sncf/",
+        "https://www.omio.fr/trains/versailles/chartres"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 48.8049,
+        "lon": 2.1204
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni vanno bene i parchi di Versailles e Chantilly e i giardini di Giverny (ingressi gratuiti sotto i 7 anni), ma cinque visite di interni e un treno al giorno sono pesanti: meglio alternare."
       }
     },
     {
@@ -44955,6 +46916,213 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Il Titanic Belfast e le rocce della Causeway divertono anche un bimbo di 4 anni. Restano però molte ore in auto, il ponte di Carrick-a-Rede, le scogliere senza parapetti e un tempo spesso ventoso."
+      }
+    },
+    {
+      "id": "isola-d-elba-completa-7g",
+      "nome": "Isola d'Elba completa: Portoferraio, Monte Capanne, le spiagge della costa ovest e Pianosa",
+      "sottotitolo": "Toscana, Arcipelago Toscano: la grande isola di Napoleone girata tutta, dal granito del Capanne alle calette dell'ovest, più la riserva di Pianosa",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Auto propria fino al porto di Piombino (Piazzale Premuda, l'unico porto di terraferma, con la stazione di Piombino Marittima davanti ai moli) e traghetto con auto al seguito per Portoferraio: Toremar, Moby e Blu Navy, traversata di circa un'ora, prima partenza verso le 5:30 e ultima verso le 22:30, da almeno 15 corse al giorno d'inverno fino a 50 d'estate. Prenotare con anticipo: i posti auto d'estate si esauriscono e la tariffa base sale man mano che si riempiono. In alternativa, dal 1° giugno al 30 settembre 2026 SmallFly vola da Firenze Peretola a Marina di Campo in 35 minuti (lun, mar, gio, ven, sab, dom) con aerei da 18 posti, ma sull'isola servirebbe poi un mezzo a noleggio.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 165 km e 1h35–2h25 di guida Firenze–Piombino (pedaggio A12 5,40 € solo se si usa quel tratto), più circa 1 ora di traghetto (40 minuti con l'aliscafo Toremar, solo passeggeri) e l'attesa all'imbarco; volo SmallFly Firenze–Elba 35 minuti nei mesi estivi.",
+      "durataViaggioMinuti": 210,
+      "periodoMiglioreTesto": "Maggio, giugno e settembre: la cabinovia del Monte Capanne è aperta, le escursioni a Pianosa partono (domeniche di maggio, weekend di giugno, alcuni giorni di settembre) e il traghetto costa meno che in piena estate. Ottobre va ancora bene per mare tiepido e sentieri, ma senza Pianosa. Luglio e agosto: spiagge piene, parcheggi saturi, auto al seguito oltre i 100 € a tratta. Da novembre a marzo molti alberghi sono chiusi e la cabinovia è ferma.",
+      "mesi": [
+        5,
+        6,
+        9
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        7,
+        8,
+        11,
+        12
+      ],
+      "costoMin": 756,
+      "costoMax": 1224,
+      "costoNota": "Totale a persona con 2 viaggiatori. Benzina calcolata a 0,129 €/km su 480–630 km (Firenze–Piombino A/R circa 330 km più 150–300 km sull'isola, stima da guide); pedaggio A12 0–10,80 € A/R. Il volo SmallFly resta solo confronto, prezzo non pubblicato.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 4,
+      "percheDurata": "L'Elba ha 150 km di costa e tre anime diverse: il granito del Monte Capanne a ovest, Portoferraio e le baie di ghiaia bianca al centro-nord, i borghi minerari a est. Le strade sono tortuose e i parcheggi delle spiagge piccoli, quindi ogni zona vuole una giornata intera. Una settimana permette di dedicare un giorno a Portoferraio e alle residenze di Napoleone, uno al Capanne, due alla costa ovest e uno all'est, e di chiudere con la giornata a numero chiuso di Pianosa senza mai correre.",
+      "cosaVedere": [
+        "Monte Capanne: la cabinovia da Marciana (375 m) sale a 950 m in circa 18 minuti in gabbie gialle aperte per due persone in piedi; dalla vetta a 1019 m lo sguardo abbraccia tutto l'Arcipelago.",
+        "Spiagge della costa ovest e sud-ovest: Fetovaia, insenatura stretta come un piccolo fiordo, Seccheto con la sabbia finissima, Cavoli con la parte libera e quella attrezzata, Sant'Andrea con la sabbia granitica dorata e le rocce per lo snorkeling.",
+        "Portoferraio: la Darsena medicea, la spiaggia delle Ghiaie (400 m di ciottoli bianchi a pochi minuti a piedi dal centro, con una riserva marina davanti) e la Villa di San Martino, residenza estiva di Napoleone in esilio.",
+        "Spiagge del nord: Sansone e Capo Bianco, ghiaia bianca e acqua trasparente sulla strada per l'Enfola, tra le più amate dell'isola.",
+        "Est minerario: Capoliveri sulla collina, Porto Azzurro, il parco minerario di Rio Marina e le miniere del Ginevro, riaperti nel 2026.",
+        "Pianosa: isola-carcere chiusa per decenni, oggi riserva visitabile solo a numero chiuso con la Guida Parco, tra la villa romana dei Bagni di Agrippa e un mare intatto."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza da Firenze di prima mattina, auto fino a Piombino e traghetto per Portoferraio (circa un'ora). Pomeriggio in città: la Darsena medicea e il centro storico in salita, poi un bagno alle Ghiaie, la spiaggia di ciottoli bianchi a pochi minuti a piedi, o alla vicina Padulella (circa 170 m, con bar e lettini). Si dorme a Portoferraio o a Procchio, comodi per i primi giorni."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina alla Villa di San Martino, residenza estiva di Napoleone (3 €, prenotazione telefonica il giorno prima; aperta il martedì, il giovedì e nel weekend al mattino, il mercoledì e il venerdì dalle 14 alle 18:30). La Palazzina dei Mulini in città nel 2026 è chiusa per restauri. Pomeriggio alle spiagge del nord: Capo Bianco (290 m) e Sansone, ghiaia bianca e acqua da snorkeling, con l'ultimo tratto di sentiero ripido dal parcheggio."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Monte Capanne. Salita in cabinovia da Marciana (20 € A/R, servizio dalle 10 alle 17:30 da giugno a settembre, fino alle 17 in maggio e ottobre) e l'ultimo breve tratto a piedi tra le rocce fino alla vetta di 1019 m. Chi cammina bene sale in cabinovia e scende a piedi (15 € sola andata). Pomeriggio nel borgo di Marciana, con il Santuario della Madonna del Monte, e aperitivo a Marciana Marina, il comune più piccolo della Toscana."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: costa nord-ovest. Mattina a Sant'Andrea, sabbia granitica dorata e scogli lisci amati dai sub, con parcheggio segnalato vicino alla spiaggia. Poi la strada panoramica verso Chiessi e Pomonte, la parte più selvaggia dell'isola: a Pomonte, a circa 150 m dalla spiaggia dell'Ogliera, il relitto dell'Elviscot giace a soli 12 m e si vede anche con maschera e pinne."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: costa sud-ovest. Fetovaia, a circa 10 km da Marina di Campo, riparata dalla tramontana e adatta ai bambini; poi Seccheto e Cavoli (a circa 5 km da Marina di Campo, con parcheggi a pagamento e gratuiti, una parte attrezzata e una libera). Sera a Marina di Campo: è il giorno giusto per spostare la base sul versante sud, se si è dormito a nord."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: l'Elba orientale. Capoliveri, borgo in collina con vista sui due golfi, poi Porto Azzurro (il Forte San Giacomo è un carcere e non si visita) e il parco minerario di Rio Marina con le miniere del Ginevro, dove la terra rossa del ferro racconta la lunga storia mineraria dell'isola. Rientro a Portoferraio per dormire vicino al porto."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: Pianosa. Primo traghetto per Piombino, poi la nave dedicata del Parco parte da Piombino alle 8:30 e rientra tra le 18:30 e le 19. Sei ore sull'isola con la Guida Parco, scegliendo fra villa romana dei Bagni di Agrippa e museo (3 ore), anello a piedi (2 ore) o mountain bike (2 ore e 30, dai 12 anni). Le uscite 2026 erano solo in date fisse: 26 aprile, le domeniche 10, 17 e 24 maggio, i weekend di giugno e il 5, 6, 12, 13 e 20 settembre, quindi conviene costruire la settimana attorno alla data scelta. Rientro a Firenze in serata."
+        }
+      ],
+      "alloggio": "Un 3 stelle costa circa 120 € a notte per due con colazione in bassa stagione, intorno ai 200 € in due a giugno ma con la cena compresa, fino a 320 € in agosto; i bungalow in campeggio partono da circa 70 €. Su Booking alcuni 3 stelle partono da 85–110 $ a notte per due (Barcarola 2 a Marina di Campo, Belmare a Porto Azzurro, Villa Ombrosa a Portoferraio). Conviene dividere la settimana fra due basi: Portoferraio, Procchio o Marciana Marina per i primi quattro giorni (nord, Capanne, Sant'Andrea), Marina di Campo o Seccheto per la costa sud-ovest. Per i primi tre giorni ci sono 3 stelle davanti alle Ghiaie e soluzioni economiche nel centro di Portoferraio.",
+      "costiDettaglio": [
+        {
+          "voce": "Traghetto Piombino–Portoferraio, passaggio A/R",
+          "testo": "Da 12,95 € a tratta per un adulto nelle tariffe indicative 2026, 15–30 € nelle date più care: 26–60 € A/R a persona.",
+          "min": 26,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traghetto, auto al seguito A/R",
+          "testo": "2 adulti con auto da 66,33 € a tratta (circa 40 € per l'auto oltre ai passaggi); nel 2026 la media per traversata è stata 79–107 € tra aprile e settembre e in alta stagione l'auto supera i 100 € a tratta. Circa 81–160 € A/R per la vettura.",
+          "min": 81,
+          "max": 160,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio, 6 notti",
+          "testo": "3 stelle 120 € in due con colazione fuori stagione, circa 200 € in due a giugno con cena: 60–100 € a persona a notte, 360–600 € per sei notti.",
+          "min": 360,
+          "max": 600,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Street food e take-away 10–15 €, trattoria 20–30 €, ristorante vista mare 30–50 €; per il cibo di una settimana si spendono 210–350 € a persona, cioè 30–50 € al giorno.",
+          "min": 30,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Cabinovia Monte Capanne A/R",
+          "testo": "20 € intero A/R, 15 € studenti, 10 € bambini 4–10 anni; sola andata 15 €.",
+          "min": 20,
+          "max": 20,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Escursione a Pianosa",
+          "testo": "65 € intero da Piombino con nave, ingresso all'area protetta e Guida Parco; 50 € dai 5 ai 12 anni (villa romana e trekking), gratis fino a 4 anni nel trekking.",
+          "min": 65,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Villa di San Martino",
+          "testo": "3 € intero; prenotazione telefonica il giorno prima.",
+          "min": 3,
+          "max": 3,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Benzina",
+          "testo": "Firenze–Piombino circa 164–167 km a tratta (330 km A/R) e 150–300 km sull'isola in una settimana (giro completo circa 140 km, anello occidentale 45 km): 480–630 km totali a 0,129 €/km.",
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false,
+          "min": 62,
+          "max": 81
+        },
+        {
+          "voce": "Pedaggio",
+          "testo": "Il tratto di A12 sul percorso costa 5,40 € a tratta; evitabile restando su FI-PI-LI e Aurelia: 0–10,80 € A/R.",
+          "min": 0,
+          "max": 11,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ombrellone e lettini (facoltativo)",
+          "testo": "20–35 € al giorno negli stabilimenti; molte spiagge hanno anche tratti liberi.",
+          "min": 20,
+          "max": 35,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": true
+        },
+        {
+          "voce": "Volo SmallFly Firenze–Elba (alternativa)",
+          "testo": "Dal 1° giugno al 30 settembre 2026, 35 minuti; prezzo non pubblicato nella fonte, sull'isola servirebbe un noleggio.",
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "A persona: passaggi in traghetto, alloggio (camera doppia divisa per due), pasti, cabinovia, Pianosa e Villa di San Martino. Della vettura, da dividere per due: il trasporto dell'auto in traghetto, la benzina e l'eventuale pedaggio.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "D'estate i posti auto sui traghetti si esauriscono e i parcheggi delle spiagge sono piccoli e si riempiono presto; gli autobus dell'isola sono lenti e non arrivano alle calette più isolate. A Pianosa non si sbarcano auto."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Nel 2026 la Palazzina napoleonica dei Mulini è chiusa per restauri. La cabinovia del Monte Capanne è rimasta chiusa fino a maggio e lavora fino a ottobre, dalle 10 alle 17 o 17:30."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Pianosa solo con le uscite del Parco a numero chiuso, prenotabili online dal 2 marzo 2026 su service.parcoarcipelagotoscano.info o all'Info Park (0565 908231). Villa di San Martino con prenotazione telefonica il giorno prima."
+        }
+      ],
+      "note": "Il trucco per Pianosa è partire dalla data: le uscite del Parco sono poche e fisse, quindi si prenota prima la nave per Pianosa e poi si costruisce la settimana in modo che finisca quel giorno, lasciando l'auto a Piombino. Il vento decide le spiagge: con la tramontana si va a sud (Fetovaia e Cavoli sono riparate), con lo scirocco a nord (Sant'Andrea, Capo Bianco, Sansone). Blu Navy sconta fino al 20 % il ritorno se si prenota l'A/R insieme e di solito ha le tariffe più basse sulla Piombino–Portoferraio. Le trattorie dell'entroterra (Marciana, Capoliveri, Rio) costano meno dei ristoranti sul mare. Sansone ha l'ultimo tratto di accesso ripido e polveroso: scarpe chiuse, non infradito.",
+      "fonti": [
+        "https://www.avygeo.com/it/guide/europa/italia/r-786-isola-d-elba/dove-dormire",
+        "https://www.parkingmycar.it/blog/vacanze-isola-delba/",
+        "https://www.booking.com/threestars/region/it/elba.html",
+        "https://www.ferryhopper.com/it/ferries/italy/elba",
+        "https://www.aferry.com/it-it/piombino-portoferraio/",
+        "https://www.traghettilines.it/it/isola-d-elba/traghetti-piombino-portoferraio.aspx",
+        "https://siviaggia.it/notizie/tour-guidati-isola-pianosa-toscana-2026/577320/",
+        "https://www.infoelba.com/island-of-elba/places-to-see/views/monte-capanne/monte-capanne-chairlift/",
+        "https://siviaggia.it/notizie/nuovi-voli-isola-delba-estate-2026/579736/",
+        "https://distanzechilometriche.net/firenze-piombino/",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Piombino/",
+        "https://in3giorni.com/faq/quanti-km-ci-vogliono-per-girare-lisola-delba"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 42.8135,
+        "lon": 10.3146
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Fetovaia e Cavoli hanno sabbia e acqua bassa, la cabinovia costa 10 € dai 4 anni (ma si sta in piedi in gabbie aperte, da tenere per mano) e a Pianosa il trekking è gratis fino a 4 anni; l'ultimo giorno però è molto lungo."
       }
     },
     {
@@ -65240,6 +67408,230 @@
       }
     },
     {
+      "id": "bahia-completa-14g",
+      "nome": "Brasile: Bahia completa: Salvador, Chapada Diamantina, Morro de São Paulo, Itacaré e la Costa do Descobrimento",
+      "sottotitolo": "Brasile, Nordeste: la Bahia dal Pelourinho afro-barocco di Salvador agli altipiani della Chapada e alle spiagge fino a Porto Seguro e Trancoso",
+      "durataGiorni": 14,
+      "mezzoConsigliato": "Treno Frecciarossa o Italo da Firenze S.M.N. a Roma e proseguimento per l'aeroporto di Fiumicino, poi volo con uno scalo fino a Salvador (SSA): LATAM via San Paolo (circa 17 ore), TAP via Lisbona (circa 21 ore), Air Europa via Madrid o Air France via Parigi; non ci sono voli diretti. In Bahia ci si muove senza auto: bus notturno Salvador–Lençóis per la Chapada Diamantina (7–8 ore), catamarano dal Terminal Náutico di Salvador per Morro de São Paulo (circa 2h20–2h30), barca per Valença e bus verso Itacaré e poi verso Porto Seguro. Conviene un biglietto multi-tratta con andata su Salvador e ritorno da Porto Seguro, così da non dover risalire la costa.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 22 ore porta a porta: treno per Fiumicino e attesa in aeroporto, volo con uno scalo da 17h05 (LATAM via San Paolo) a 21 ore (TAP via Lisbona), poi 30–40 minuti dall'aeroporto di Salvador al centro.",
+      "durataViaggioMinuti": 1320,
+      "periodoMiglioreTesto": "Da settembre a marzo: è la stagione asciutta della costa bahiana, con mare calmo per i catamarani e le piscine naturali di Morro. Da aprile a luglio piove di più ed è anche il picco di dengue e chikungunya segnalato dalla Farnesina (aprile–maggio). Carnevale, Capodanno e Settimana Santa sono belli ma affollati e cari; agosto è il mese con i voli più costosi.",
+      "mesi": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "mesiDaEvitare": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "costoMin": 1252,
+      "costoMax": 2747,
+      "costoNota": "Prezzi in reais e dollari convertiti con 1 € ≈ 6,2 R$ e 1 $ ≈ 0,87 €. Il totale comprende treno Firenze–Fiumicino A/R e i bus Salvador–Lençóis A/R, Valença–Itacaré e Itacaré–Porto Seguro. NON comprende, perché senza fonte verificata: barca Morro–Valença, rientro Porto Seguro–Salvador se non incluso nel volo multi-tratta, guide in Chapada Diamantina (da aggiungere).",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "La Bahia completa sono quattro mondi diversi a centinaia di chilometri l'uno dall'altro: Salvador, la Chapada Diamantina a 7–8 ore di bus notturno nell'interno, l'isola senza auto di Morro de São Paulo a 2h30 di catamarano e la costa sud tra Itacaré e Porto Seguro. Servono tre giorni pieni in Chapada per Fumaça, Pai Inácio e le grotte, due a Salvador, tre a Morro (le guide locali ne consigliano 3–5) e due ciascuno a Itacaré e Porto Seguro. In 14 giorni, contando i due giorni di volo, ci stanno tutti senza correre, con i trasferimenti lunghi fatti di notte.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: treno da Firenze per Roma e Fiumicino, volo serale con scalo a San Paolo (LATAM) o Lisbona (TAP). Tenere in cabina un cambio leggero: si atterra a 30 gradi."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: arrivo a Salvador, transfer verso il centro (bus o auto da app, 30–40 minuti) e sistemazione nel Pelourinho o a Santo Antônio Além do Carmo. Prima passeggiata al tramonto tra Terreiro de Jesus e Largo do Pelourinho, cena con moqueca e acarajé."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Salvador alta e bassa: Catedral Basílica, chiesa di São Francisco con l'interno ricoperto d'oro, Elevador Lacerda giù fino al Mercado Modelo. Meglio con un tour guidato del centro storico (da 19 $ in gruppo). In serata bus notturno per Lençóis (7–8 ore)."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: arrivo all'alba a Lençóis, vecchia città dei cercatori di diamanti. Mattina di riposo e bagno nel Ribeirão do Meio, scivolo naturale di roccia raggiungibile a piedi dal paese; tramonto sul Morro do Pai Inácio, il tavolato da cui si vede tutta la Chapada."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: trekking guidato alla Cachoeira da Fumaça dal Vale do Capão: è una delle cascate più alte del Brasile e con il vento l'acqua si solleva come fumo, da cui il nome. Sera nel villaggio alternativo di Capão."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: grotte e pozzi: Poço Encantado o Poço Azul, dove a certe ore un raggio di sole illumina l'acqua blu elettrico, poi la Gruta do Lapão o la Lapa Doce. Bus notturno di rientro a Salvador (circa 8 ore)."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: Salvador lato mare: Farol da Barra e il forte, mercato di São Joaquim per frutta e spezie, oppure gita in goletta nella Baía de Todos os Santos verso Ilha dos Frades e Itaparica (6 ore e più, 23–100 $). Sera di samba nel Pelourinho."
+        },
+        {
+          "giorno": 8,
+          "testo": "Giorno 8: catamarano del mattino dal Terminal Náutico per Morro de São Paulo (circa 2h20–2h30), pagamento della TUPA al molo e salita al villaggio. Pomeriggio alla Segunda Praia, la più viva, e tramonto al Forte di Tapirandú, gratuito, 15 minuti a piedi dal pontile."
+        },
+        {
+          "giorno": 9,
+          "testo": "Giorno 9: Volta à ilha, la gita in barca di circa 8 ore attorno all'isola di Tinharé con soste alle piscine naturali di Garapuá, a Boipeba e alla foce del rio; partenza verso le 9:30. Da programmare con la bassa marea."
+        },
+        {
+          "giorno": 10,
+          "testo": "Giorno 10: mattina lenta alla Quarta Praia, la più lunga e tranquilla, poi barca per Valença (veloce circa 45 minuti) e trasferimento verso sud fino a Itacaré, cittadina di surf tra foresta atlantica e spiagge in cale."
+        },
+        {
+          "giorno": 11,
+          "testo": "Giorno 11: Itacaré: tour delle quattro spiagge (Prainha, Engenhoca, Havaizinho, Itacarezinho) e della Cachoeira do Tijuípe, raggiungibili solo con sentieri nella foresta (da 65 $). Sera sulla Pituba, la via dei locali."
+        },
+        {
+          "giorno": 12,
+          "testo": "Giorno 12: trasferimento verso la Costa do Descobrimento passando per Ilhéus, città di Jorge Amado e del cacao, fino a Porto Seguro; traghetto per Arraial d'Ajuda e serata sulla Broadway, la via dei bar."
+        },
+        {
+          "giorno": 13,
+          "testo": "Giorno 13: giornata a Trancoso (gite da 51 $): il Quadrado, prato con la chiesetta di São João Batista e le case colorate, poi spiaggia dei Coqueiros. In alternativa uscita in barca alla barriera di Recife de Fora (4 ore, da 80 $) con la bassa marea, e visita alla Cidade Histórica di Porto Seguro dove sbarcò Cabral nel 1500."
+        },
+        {
+          "giorno": 14,
+          "testo": "Giorno 14: ultimo bagno e volo da Porto Seguro con scalo a Salvador o San Paolo verso l'Italia; si atterra a Roma il giorno successivo, poi treno per Firenze."
+        }
+      ],
+      "alloggio": "Le pousadas, l'equivalente dei nostri B&B con colazione inclusa, sono la scelta giusta ovunque. Pousada semplice R$ 120–250 a notte per la camera, hotel o pousada di fascia media R$ 280–600; i resort di Morro e Trancoso superano i R$ 1.000. A Morro de São Paulo: pousada economica R$ 150–300, media R$ 350–600, letto in dormitorio R$ 60–130. In euro, circa 19–97 € a notte per la camera, cioè 10–48 € a persona. A Salvador conviene dormire nel Pelourinho o a Santo Antônio Além do Carmo, a Lençóis in paese, a Morro tra la Segunda e la Terceira Praia per avere tutto a piedi, a Porto Seguro ad Arraial d'Ajuda. Carnevale, Capodanno e Settimana Santa fanno salire i prezzi: prenotare con largo anticipo.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze–Roma Fiumicino A/R",
+          "testo": "Frecciarossa/Italo Firenze S.M.N.–Roma Termini 19,90–44,90 € a tratta (virail), 39,80–89,80 € A/R; Leonardo Express Termini–Fiumicino 14 € a tratta (Omio), 28 € A/R. Totale 68–118 € A/R. Durata Firenze–Roma 1h25–1h56.",
+          "min": 68,
+          "max": 118,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Roma Fiumicino–Salvador A/R",
+          "testo": "Nessun diretto, sempre uno scalo. Su momondo il mese più economico è maggio (circa 625 €), il prezzo tipico è circa 908 € e il più basso visto ora è 779 € con LATAM via San Paolo; TAP via Lisbona 807–914 €. Su Kayak la mediana di dicembre è circa 1.076 €, quella di agosto circa 1.224 €.",
+          "min": 625,
+          "max": 1080,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Transfer aeroporto di Salvador A/R",
+          "testo": "Da circa R$ 40 in bus o van a oltre R$ 200 con auto privata per tratta: 13–32 € a persona andata e ritorno, dividendo l'auto in due.",
+          "min": 13,
+          "max": 32,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Catamarano Salvador–Morro e TUPA",
+          "testo": "Catamarano R$ 151–173 di sola andata (il ritorno costa R$ 139–159), più la TUPA di Morro di R$ 90, valida 7 giorni: R$ 241–263, circa 39–42 €.",
+          "min": 39,
+          "max": 42,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Escursioni",
+          "testo": "Tour del centro storico di Salvador 19–46 $, quattro spiagge e cascata a Itacaré da 65 $, Volta à ilha a Morro R$ 150–350, gita a Trancoso da 51 $ ed eventuale barca a Recife de Fora da 80 $: circa 142–267 €.",
+          "min": 142,
+          "max": 267,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Bus e barche interni",
+          "testo": "Bus Salvador–Lençóis (Rapido Federal, 6h10–6h40) 29–57 $ a tratta, circa 25–50 €, A/R 50–99 €; bus Valença–Itacaré 10–12 $, circa 9–10 €; bus Itacaré–Porto Seguro R$ 159–214 (Rota Transportes, 8 ore), circa 26–35 €. Totale 85–144 €. NON verificati e non inclusi: barca Morro–Valença (il ritorno da Morro) e il rientro Porto Seguro–Salvador/Europa, che con biglietto multi-tratta è già nel volo (solo come riferimento, volo Porto Seguro–Salvador da R$ 220 a tratta, circa 35 €).",
+          "min": 85,
+          "max": 144,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Guide in Chapada Diamantina",
+          "testo": "Trekking alla Fumaça e giri di grotte e pozzi si fanno con guida locale o agenzia di Lençóis; nessuna tariffa 2026 verificata, resta fuori dal totale.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Pousada R$ 120–600 a notte per la camera doppia, circa 19–97 €: 10–48 € a persona.",
+          "min": 10,
+          "max": 48,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Lanchonete o ristorante popolare R$ 30–55 a pasto, piatto in un ristorante più completo R$ 60–120; a Morro pranzo esecutivo R$ 35–70 e moqueca R$ 60–140. Pranzo e cena: circa 10–28 € al giorno.",
+          "min": 10,
+          "max": 28,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Tutto è a persona: senza auto non ci sono voci di vettura. Taxi e transfer privati si dividono in due e sono già conteggiati così.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Morro de São Paulo non ha strade né auto: si arriva in catamarano o barca e al molo si paga la TUPA (R$ 90 dal 1° luglio 2026, valida 7 giorni; esenti under 5 e over 60). I bagagli salgono su carriole o trattorini (R$ 10–30 a corsa) per la ripida salita dal porto."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Per Brasile e Bahia non ci sono avvisi che sconsigliano il viaggio (Viaggiare Sicuri, aggiornamento 9/9/2026), ma Salvador è citata per furti e rapine in strada e in spiaggia: niente taxi fermati per strada, solo postazioni autorizzate o app. Serve passaporto con 6 mesi di validità e biglietto di ritorno; visto non richiesto fino a 90 giorni."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "I catamarani per Morro partono da Salvador solo tra le 9 e le 14 circa e con mare grosso vengono soppressi: non prenotare il catamarano lo stesso giorno di un volo. Le barche Valença–Morro girano ogni 30 minuti dalle 7 alle 18."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Carnevale, Capodanno e Settimana Santa fanno salire prezzi e affollamento: pousadas e catamarano vanno prenotati con largo anticipo. Il volo multi-tratta (andata Salvador, ritorno Porto Seguro) va fissato insieme al ritorno."
+        }
+      ],
+      "note": "Sul catamarano per Morro il tratto in mare aperto è mosso: prendete un antinausea prima di salire ed evitate i posti davanti al vetro anteriore. Per le barche di Valença e il traghetto di São Joaquim servono contanti. Le piscine naturali di Morro, Garapuá e Recife de Fora esistono solo con la bassa marea: controllate la tavola delle maree prima di fissare le gite. Chi vuole risparmiare può arrivare a Morro con traghetto per Itaparica, bus per Valença e barca (circa 5 ore), ma con valigie grandi il catamarano diretto vale la differenza. Vaccino della febbre gialla raccomandato solo per i comuni dell'ovest e del sud della Bahia (Salvador esclusa): parlatene con l'ASL, insieme al vaccino contro la dengue, rischio presente tutto l'anno. Nel Pelourinho la sera girate solo nelle vie principali e lasciate il passaporto in pousada con una copia in tasca.",
+      "fonti": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/BRA.pdf",
+        "https://www.momondo.it/volo/aeroporto-di-roma-fiumicino-fco/bahia-nordest-del-brasile",
+        "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Bahia-BRBA",
+        "https://catracalivre.com.br/noticias/viajar-para-bahia-nas-ferias-pode-ser-mais-barato-do-que-voce-imagina-saiba-quanto-custa/",
+        "https://viajacongus.com/en/brasil/morro-de-sao-paulo/",
+        "https://passeiosmorro.com.br/dicas/como-chegar",
+        "https://en.wikivoyage.org/wiki/Morro_de_S%C3%A3o_Paulo",
+        "https://www.sambass.com.br/en/post/how-to-get-to-morro-de-s%C3%A3o-paulo-a-guide-for-beach-travelers",
+        "https://www.weroad.it/viaggi/brasile-rio-salvador-e-chapada-diamantina/0adbeb52-aa36-40ce-a7bb-61310e29e61b",
+        "https://www.tripadvisor.com/Attractions-g303251-Activities-c42-State_of_Bahia.html",
+        "https://www.tripadvisor.com/Attractions-g303251-Activities-c55-State_of_Bahia.html",
+        "https://virail.it/treni-firenze-roma",
+        "https://it.trip.com/treni/italia/viaggio/firenze-roma-termini/",
+        "https://www.omio.it/compagnie/treni/leonardo-express-t2wwi",
+        "https://www.omio.com/buses/salvador/lencois-hhd74",
+        "https://riderexpress.busbud.com/en/bus-valenca-itacare/r/7js5yy-7jkqb8",
+        "https://www.omio.com.br/autocarros/itacare/porto-seguro-ezhbz",
+        "https://www.momondo.com.br/passagem/porto-seguro/salvador"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": -12.97,
+        "lon": -38.51
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni il volo di 17–21 ore, i due bus notturni per la Chapada e il trekking della Fumaça sono pesanti; Morro, Arraial d'Ajuda e Trancoso con le piscine naturali invece sono perfetti (sotto i 5 anni niente TUPA)."
+      }
+    },
+    {
       "id": "balcani-occidentali-in-auto-14g",
       "nome": "Balcani occidentali in auto: Slovenia, Croazia, Bosnia, Montenegro e Albania",
       "sottotitolo": "Un viaggio on the road in cinque paesi: dalle Alpi Giulie ai laghi di Plitvice, dalla costa dalmata a Mostar e Sarajevo, fino alle Bocche di Cattaro e a Tirana, con il rientro in traghetto da Durazzo",
@@ -70649,6 +73041,222 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "A 4 anni i panda e la nave piacciono, ma 18 ore di viaggio, cibo molto piccante, folla e le scale infinite di Chongqing ed Emei sono pesanti: serve passeggino leggero e ritmo più lento. Alla Panda Base i bambini sotto i 6 anni entrano gratis."
+      }
+    },
+    {
+      "id": "cina-orientale-14g",
+      "nome": "Cina orientale: Shanghai, Suzhou, Hangzhou, Huangshan, Nanchino e i villaggi dell'Anhui",
+      "sottotitolo": "Cina, delta dello Yangtze e Anhui meridionale: metropoli, giardini classici, la Montagna Gialla e i villaggi Hui",
+      "durataGiorni": 14,
+      "mezzoConsigliato": "Treno Frecciarossa/Italo da Firenze S.M.N. fino a Roma (Termini o direttamente Fiumicino Aeroporto), poi volo diretto China Eastern Roma Fiumicino–Shanghai Pudong (circa 11h25 all'andata, 13h al ritorno). In Cina ci si muove solo in treno ad alta velocità tra le tappe, più metro e bus locali: l'auto non serve.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 17–18 ore porta a porta: treno Firenze–Roma, attesa in aeroporto e volo diretto di circa 11h25 fino a Pudong, poi metro o Maglev verso il centro di Shanghai.",
+      "durataViaggioMinuti": 1050,
+      "periodoMiglioreTesto": "Aprile–maggio e settembre–novembre: clima mite e cielo più limpido sullo Huangshan, che ha la stagione migliore proprio in primavera e autunno. Luglio e agosto sono afosi, con rischio tifoni sulla costa, e sono anche i mesi in cui il volo costa di più. Evitare la Golden Week (1–7 ottobre) e il Capodanno cinese, quando i prezzi degli hotel possono raddoppiare o triplicare. Giugno è la stagione delle piogge nel delta dello Yangtze.",
+      "mesi": [
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 1149,
+      "costoMax": 2356,
+      "costoNota": "Prezzi in yuan convertiti al cambio indicativo 1 € ≈ 8 CNY. Il treno Firenze–Roma Fiumicino A/R è incluso (massimo calcolato sul prezzo medio, non sul più alto possibile). Esclusi gli ingressi di Suzhou e Nanchino e i treni Suzhou–Nanchino e Nanchino–Huangshan, non verificati.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le cinque tappe sono collegate dall'alta velocità con tratte brevi: Shanghai–Hangzhou in circa un'ora, Hangzhou–Huangshan Nord tra 1h14 e 2h24, Nanchino–Huangshan circa 2h30. Così restano due giorni pieni per città e tre per l'Anhui, dove lo Huangshan richiede almeno una notte in quota per alba e discesa, e Hongcun e Xidi mezza giornata ciascuno. Il volo diretto toglie quasi due giorni, quindi 14 giorni sono il minimo per non correre; in meno si sacrifica la montagna o Nanchino.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Frecciarossa da Firenze a Roma e trasferimento a Fiumicino; volo diretto China Eastern per Shanghai Pudong di circa 11h25, in genere con arrivo il mattino dopo."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: arrivo a Pudong, metro (biglietto da circa 3 CNY, pass di 3 giorni 44 CNY) fino all'hotel tra People's Square e il Bund. Pomeriggio leggero contro il jet lag e passeggiata serale sul Bund, quando i palazzi coloniali si illuminano davanti allo skyline di Lujiazui."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Shanghai antica e moderna. Mattina allo Yu Garden (29–39 CNY), giardino Ming con rocce e padiglioni, e nel bazar attorno; pomeriggio a Lujiazui con salita alla Shanghai Tower (176 CNY), il belvedere più alto della città, meglio al tramonto."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: Concessione francese a piedi tra platani e villette shikumen, Tianzifang e Xintiandi; nel tardo pomeriggio treno ad alta velocità per Suzhou, una tratta breve."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: Suzhou, la città dei giardini UNESCO. Giardino dell'Umile Amministratore all'apertura, prima dei gruppi, poi il piccolo Giardino del Maestro delle Reti e la sera Pingjiang Lu lungo i canali, con le case bianche e i ponti in pietra."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: mattina alla Collina della Tigre con la pagoda pendente o in un borgo d'acqua vicino come Tongli; nel pomeriggio treno per Nanchino."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: Nanchino, capitale Ming. Monte Zijin con il Mausoleo di Sun Yat-sen, in cima a una lunga scalinata fra i pini, e la Via Sacra del Ming Xiaoling, fiancheggiata da animali in pietra: sono vicini, si fa tutto in una giornata con la navetta interna."
+        },
+        {
+          "giorno": 8,
+          "testo": "Giorno 8: Memoriale del massacro di Nanchino al mattino, intenso ma necessario; poi le mura Ming alla Porta Zhonghua e il tempio di Confucio sul fiume Qinhuai. Treno serale per Huangshan Nord (circa 2h30) e notte a Tunxi."
+        },
+        {
+          "giorno": 9,
+          "testo": "Giorno 9: bus dal terminal accanto a Huangshan Nord per Xidi (23 CNY) e Hongcun (30 CNY, circa 1h30): i due villaggi Hui patrimonio UNESCO, 94 CNY ciascuno, con le case a muri bianchi e tetti neri riflesse nello stagno della Luna. Notte a Hongcun per vederlo vuoto all'alba."
+        },
+        {
+          "giorno": 10,
+          "testo": "Giorno 10: trasferimento a Tangkou, navetta (19 CNY) e funivia Yungu (80 CNY) fino alla zona Beihai. Pomeriggio tra le cime e i pini contorti, con il Canyon del Mare dell'Ovest e la sua funicolare (100 CNY a tratta); notte in un hotel in vetta."
+        },
+        {
+          "giorno": 11,
+          "testo": "Giorno 11: alba al Guangmingding o sulla Piattaforma dell'Alba, poi traversata verso la Cima del Loto e discesa con la funivia Yuping (90 CNY). Rientro a Tunxi e sera nella Old Street, via Ming e Qing pedonale con sale da tè e spuntini Hui."
+        },
+        {
+          "giorno": 12,
+          "testo": "Giorno 12: treno da Huangshan Nord a Hangzhou (1h14–2h24, 97–153 CNY in seconda classe). Pomeriggio sul Lago dell'Ovest: la diga Su in bicicletta e la Pagoda Leifeng (40 CNY) al tramonto."
+        },
+        {
+          "giorno": 13,
+          "testo": "Giorno 13: Tempio Lingyin con le grotte scolpite del Feilai Feng (biglietto combinato 75 CNY), poi a piedi fino ai terrazzamenti di tè Longjing; giro in battello sul lago (55–90 CNY) e cena con cucina di Hangzhou."
+        },
+        {
+          "giorno": 14,
+          "testo": "Giorno 14: treno per Shanghai (da 45 minuti, 30–123 CNY in seconda classe) e trasferimento a Pudong; volo diretto per Roma di circa 13 ore, che con il fuso arriva in Italia la sera stessa, poi treno per Firenze."
+        }
+      ],
+      "alloggio": "A Shanghai un 3 stelle costa circa 55–85 $ a notte per la camera (circa 47–73 €), un hotel economico in media 404 CNY e un 4 stelle 90–130 $. A Hangzhou una guesthouse con camera privata costa 200–350 CNY (25–44 €) e un hotel di catena o boutique di fascia media 500–900 CNY (62–112 €). In vetta allo Huangshan (Beihai, Guangmingding) gli hotel chiedono 500–1500 CNY a notte e vanno prenotati con largo anticipo. Dove dormire: tra il Bund e People's Square a Shanghai, vicino a Pingjiang Lu a Suzhou, nella zona di Xinjiekou o Fuzimiao a Nanchino, a Tunxi o a Hongcun per l'Anhui, sul lato orientale del Lago dell'Ovest a Hangzhou. In Golden Week e a Capodanno cinese i prezzi possono salire di 2–3 volte.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Roma Fiumicino–Shanghai Pudong",
+          "testo": "Diretto China Eastern da 552 € A/R; fascia tipica 623–896 € su KAYAK, 656–761 € su momondo. Con uno scalo si scende a 436–534 €. Marzo è il mese più economico, luglio e agosto i più cari.",
+          "min": 550,
+          "max": 900,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Firenze–Roma Fiumicino A/R",
+          "testo": "Frecciarossa o Italo Firenze S.M.N.–Roma Termini da 16,90 € a tratta, con prezzo medio di circa 47,80 € (trip.com), più Leonardo Express Termini–Fiumicino 14 € a tratta (32 minuti, Trenitalia): A/R circa 62–124 € a persona.",
+          "min": 62,
+          "max": 124,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (12 notti)",
+          "testo": "Camera doppia da circa 40 € (guesthouse a Hangzhou, 3 stelle economico) a circa 110 € (hotel di fascia media a Shanghai e Hangzhou) a notte: 20–55 € a persona a notte per 12 notti. Una notte in vetta allo Huangshan (500–1500 CNY) porta verso il massimo.",
+          "min": 240,
+          "max": 660,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Colazione e noodles 15–35 CNY, pranzo in mensa o piccolo ristorante 40–80 CNY, cena in un buon ristorante 70–150 CNY: circa 12–35 € al giorno a persona.",
+          "min": 12,
+          "max": 35,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Treni interni verificati",
+          "testo": "Hangzhou–Huangshan Nord 97–153 CNY, Hangzhou–Shanghai 30–123 CNY e Shanghai–Suzhou 21–52 CNY in seconda classe. Le tratte Suzhou–Nanchino e Nanchino–Huangshan sono da aggiungere (prezzi non verificati).",
+          "min": 16,
+          "max": 35,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Huangshan: ingresso, navette, funivie",
+          "testo": "Ingresso 190 CNY (dal 21 gennaio al 19 dicembre 2026), navetta 38 CNY A/R, una funivia da 80 CNY oppure Yungu più Yuping 170 CNY, funicolare del Canyon del Mare dell'Ovest 100 CNY: 308–498 CNY.",
+          "min": 38,
+          "max": 62,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Hongcun e Xidi",
+          "testo": "94 CNY ciascuno più il bus da Huangshan Nord (23–30 CNY): circa 188–218 CNY.",
+          "min": 23,
+          "max": 27,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Hangzhou: ingressi e battello",
+          "testo": "Lingyin con Feilai Feng 75 CNY, Pagoda Leifeng 40 CNY, battello sul Lago dell'Ovest 55–90 CNY.",
+          "min": 21,
+          "max": 26,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Shanghai: ingressi e metro",
+          "testo": "Shanghai Tower 176 CNY, Yu Garden 29–39 CNY, pass della metro di 3 giorni 44 CNY.",
+          "min": 31,
+          "max": 32,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona: niente auto, solo treni, metro e bus. L'alloggio è calcolato dividendo per due il prezzo della camera doppia.",
+      "vincoli": [
+        {
+          "categoria": "prenotazioni",
+          "testo": "Lo Huangshan va prenotato online almeno un giorno prima (tre giorni a ridosso delle feste), scegliendo data, fascia oraria e ingresso, con il nome identico al passaporto; il passaporto originale va portato con sé. Gli ingressi giornalieri sono contingentati e senza la prenotazione di ingresso non si può prenotare un hotel in vetta."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Orari dello Huangshan: 7:00–17:10 nei feriali da marzo a novembre (6:30–17:40 nel weekend), 8:00–16:40 da dicembre a inizio marzo; dalle 15:00 i sentieri sono solo in uscita. Chiusure straordinarie col maltempo."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Fino al 31 dicembre 2026 gli italiani con passaporto valido almeno sei mesi entrano senza visto per turismo fino a 30 giorni (Viaggiare Sicuri, aggiornamento di novembre 2026). Per viaggi nel 2027 va verificato se la proroga è confermata."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "I biglietti dei treni ad alta velocità sono nominativi e si comprano col passaporto: nella Golden Week (1–7 ottobre) e a Capodanno cinese vanno presi appena si aprono le vendite."
+        }
+      ],
+      "note": "Dormire a Hongcun e non solo visitarlo in giornata: all'alba lo stagno della Luna è vuoto e riflette le case, mentre dalle 10 arrivano i gruppi. Sullo Huangshan conviene salire con la funivia Yungu e scendere con la Yuping, così si attraversa tutta la montagna senza ripercorrere la stessa strada. Scaricate prima di partire Alipay o WeChat Pay collegati alla carta di credito, un'app di mappe che funzioni in Cina e una VPN se servono i servizi Google. Viaggiare Sicuri non sconsiglia le province di Shanghai, Jiangsu, Zhejiang e Anhui, ma segnala la microcriminalità nelle metropoli e la truffa della cerimonia del tè: non accettate inviti da sconosciuti incontrati in strada. Acqua solo in bottiglia.",
+      "fonti": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/CHN.pdf",
+        "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Shanghai-Pu-Dong-PVG",
+        "https://www.momondo.it/volo/aeroporto-di-roma-fiumicino-fco/pudong-international-airport-pvg",
+        "https://chinatravelpack.pages.dev/guides/china-travel-cost-2026",
+        "https://www.gotripzi.com/destinations/shanghai-cn/cost",
+        "https://hangzhoutravel.github.io/travel-blog/how-much-does-it-cost-to-travel-in-hangzhou-2814.htm",
+        "https://huangshan-mountain.org/tickets/",
+        "https://www.gochinatravel.org/en/huangshan",
+        "https://www.chinahighlights.com/huangshan/transportation.htm",
+        "https://www.travelchinaguide.com/china-trains/high-speed/hangzhou-huangshan.htm",
+        "https://www.travelchinaguide.com/china-trains/high-speed/shanghai-hangzhou.htm",
+        "https://it.trip.com/treni/italia/viaggio/firenze-s-m-novella-roma/",
+        "https://www.trenitalia.com/it/regionale/collegamenti-regionale/leonardo-express.html",
+        "https://www.travelchinaguide.com/china-trains/high-speed/shanghai-suzhou.htm"
+      ],
+      "aggiuntaIl": "2026-11-13",
+      "coordinate": {
+        "lat": 31.23,
+        "lon": 121.47
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Le città con metro e parchi vanno bene anche con un bimbo di 4 anni, ma il volo lungo, il jet lag e le migliaia di gradini dello Huangshan lo rendono faticoso: in montagna meglio usare solo le funivie."
       }
     },
     {
