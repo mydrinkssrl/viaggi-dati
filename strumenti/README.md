@@ -172,3 +172,24 @@ doppioni.
   a Ranthambore, guide in Chapada, bus Tiradentes–Rio), dichiarate in `costoNota`.
 - `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
   pubblicato solo su `viaggi-dati`.
+
+## Nota dalla run del 14 novembre 2026
+- Primo turno: 36 agenti in cinque ondate da 8 (30 da 7-14 giorni con opus, 6 da 3 giorni con
+  sonnet) più 2 completamenti (raccordo Firenze–aeroporto per India NE e Yucatán), tetto 5
+  WebSearch ciascuno: 35 schede valide e 1 SKIP (Poznań e Gniezno: nessun volo diretto da
+  FLR/PSA/BLQ; sostituita da Dublino e Howth a 3 giorni). Pubblicate subito 34 schede (commit
+  d572954, catalogo a 707); 2 tenute in `pending/` (Giamaica con raccordo senza numeri, Isole
+  Pontine con pasti da fonte 2017).
+- Secondo turno (`send_later` dopo 3 minuti): 5 mete da 2 giorni + 4 da 1 giorno + i 2
+  completamenti in un'unica ondata di 11 agenti sonnet, tutte valide. Per le Pontine i pasti
+  sono rimasti testuali e fuori dal totale (nessun listino 2025-26 verificabile), dichiarato
+  in `costoNota`. Totale notte: 45 mete nuove (4 da 1, 5 da 2, 6 da 3, 18 da 7, 12 da 14),
+  catalogo a 718.
+- Chiedere nel prompt dei 14 giorni «il raccordo Firenze–aeroporto (treno A/R con prezzo) deve
+  avere numeri»: nelle prime due ondate due agenti lo avevano lasciato testuale.
+- Gli agenti da 7 giorni lasciano senza numeri solo voci marginali (parcheggi, un museo minore,
+  pedaggi AutoPASS, alternative con `confronto: true`): accettabili senza completamento.
+- L'Agent tool della sessione pianificata non ha `run_in_background`: si lanciano 8 agenti in
+  un'unica chiamata e si aspetta l'ondata (~5-9 minuti per ondata di opus).
+- `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
+  pubblicato solo su `viaggi-dati`.

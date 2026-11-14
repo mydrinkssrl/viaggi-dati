@@ -381,6 +381,134 @@
       }
     },
     {
+      "id": "buonconvento-murlo-e-san-giovanni-d-asso-1g",
+      "nome": "Buonconvento, Murlo e San Giovanni d'Asso",
+      "sottotitolo": "Toscana, un anello in auto tra borgo murato, Etruschi, tartufo e Crete",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria: raccordo autostradale Firenze–Siena (gratuito) e poi la Cassia fino a Buonconvento, circa 95 km. Da lì si fa un anello di circa 35 km: Murlo (circa 15 km), San Giovanni d'Asso (circa 20 km) e ritorno verso Firenze. Senza auto la giornata non funziona: i borghi non hanno collegamenti utili fra loro.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h15 in auto (circa 95 km) da Firenze a Buonconvento; circa 230 km totali con l'anello e il ritorno (stima dell'autore, non verificata su un calcolatore di percorso).",
+      "durataViaggioMinuti": 75,
+      "periodoMiglioreTesto": "Da ottobre a dicembre per il tartufo bianco e le Crete color cenere; aprile-maggio per il verde brillante delle colline. Tenere conto che nei mesi invernali i musei aprono solo nel weekend.",
+      "mesi": [
+        4,
+        5,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 39,
+      "costoMax": 69,
+      "costoNota": "Carburante calcolato a 0,129 €/km su circa 230 km; i parcheggi nei borghi sono in genere gratuiti o di pochi euro. Gli orari e i prezzi dei musei provengono da schede online non sempre aggiornate: confermare per telefono.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le tre tappe stanno nel raggio di 20 km l'una dall'altra, ma sono strade di campagna lente e i musei sono piccoli: un'ora a Buonconvento (mura e Museo della Mezzadria), un'ora e mezza a Murlo (Antiquarium e borgo), un'ora a San Giovanni d'Asso (castello e Museo del Tartufo) più il pranzo. Con il viaggio da Firenze la giornata si riempie senza correre; in meno tempo si salterebbe una tappa, in più non c'è altro da vedere.",
+      "cosaVedere": [
+        "Buonconvento: il borgo con le mura quattrocentesche quasi intatte e le due porte, Porta Senese e Porta Fiorentina, si gira in mezz'ora lungo il corso rettilineo.",
+        "Museo della Mezzadria Senese: ricostruisce con ambienti e oggetti la vita delle famiglie contadine fra Ottocento e Novecento, e spiega bene il paesaggio che si attraversa dopo.",
+        "Murlo, Antiquarium di Poggio Civitate: nell'ex palazzo vescovile i reperti dell'insediamento etrusco del VII–VI secolo a.C., fra cui le decorazioni in terracotta del grande edificio aristocratico.",
+        "San Giovanni d'Asso: il castello dei Signori di Asciano e il Museo del Tartufo, dedicato al tartufo bianco delle Crete.",
+        "Le Crete senesi tra Buonconvento e San Giovanni d'Asso: calanchi e colline spoglie che sono il motivo per cui conviene fare l'anello in auto con qualche sosta fotografica."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Carburante e percorso",
+          "testo": "Circa 230 km totali a 0,129 €/km, circa 30 €; Firenze–Siena raccordo gratuito.",
+          "min": 30,
+          "max": 30,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggi",
+          "testo": "Parcheggi dei borghi gratuiti o a pagamento con tariffe basse, da 0 a circa 5 € in tutto (stima).",
+          "min": 0,
+          "max": 5,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo della Mezzadria Senese",
+          "testo": "3 € intero, 2 € ridotto (scheda aggiornata ad aprile 2023).",
+          "min": 2,
+          "max": 3,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Antiquarium di Poggio Civitate",
+          "testo": "6 € intero, 4 € ridotto.",
+          "min": 4,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo del Tartufo",
+          "testo": "4 € intero, 3 € ridotto (scheda con dati del 2015–2017).",
+          "min": 3,
+          "max": 4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Da un panino o un primo veloce, circa 15 €, fino a circa 38 € a testa in un agriturismo (prezzo medio indicato per l'Agriturismo Vergelle a San Giovanni d'Asso).",
+          "min": 15,
+          "max": 38,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Con due viaggiatori carburante e parcheggi sono della vettura e vanno divisi per due; ingressi e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "In inverno l'Antiquarium di Murlo apre solo da venerdì a domenica (10:30–17:30), d'estate da giovedì a domenica; il Museo del Tartufo in inverno solo sabato e domenica. Fare questo giro di sabato o domenica."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Museo della Mezzadria risulta aperto martedì–giovedì 9–13 e sabato–domenica 11–18, ma l'orario va confermato (scheda del 2023)."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Nessun pedaggio da Firenze a Siena; i borghi sono piccoli e le strade tra Murlo e San Giovanni d'Asso sono strette e tortuose, con tempi più lunghi di quanto dicano i km."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per i musei, ma i piccoli ristoranti e agriturismi nel weekend di tartufo vanno prenotati."
+        }
+      ],
+      "note": "Chiedere in anticipo il telefono dei musei (Mezzadria 0577 809075, Antiquarium 0577 814099, Tartufo 0577 803268) perché gli orari reali cambiano spesso. Nel periodo del tartufo bianco San Giovanni d'Asso organizza una mostra-mercato, con molta più gente: arrivare al museo la mattina e pranzare in un ristorante prenotato. Con il tempo che resta, le Crete si guardano meglio dalla strada provinciale tra Buonconvento e San Giovanni d'Asso, con soste lungo i calanchi.",
+      "fonti": [
+        "https://www.museionline.info/toscana-musei-monumenti/antiquarium-di-poggio-civitate",
+        "https://www.museionline.info/toscana-musei-monumenti/museo-della-mezzadria-senese",
+        "https://luoghi.italianbotanicalheritage.com/en/?p=33544",
+        "https://www.agriturismi.it/it/toscana/san_giovanni_d_asso/agriturismo_vergelle/ristorante",
+        "https://www.percorsokm.it/it/come-arrivare-a-Buonconvento"
+      ],
+      "aggiuntaIl": "2026-11-14",
+      "coordinate": {
+        "lat": 43.1355,
+        "lon": 11.4797
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni i musei sono brevi e il borgo murato è comodo, ma il tragitto in auto è lungo e curvo."
+      }
+    },
+    {
       "id": "camogli-e-san-fruttuoso-1g",
       "nome": "Camogli e San Fruttuoso",
       "sottotitolo": "Liguria, il borgo di pescatori dalle case a otto piani e l'abbazia sul mare raggiungibile solo in battello o a piedi",
@@ -4023,6 +4151,116 @@
       }
     },
     {
+      "id": "montaione-castelfiorentino-e-san-vivaldo-1g",
+      "nome": "Montaione, Castelfiorentino e San Vivaldo",
+      "sottotitolo": "Toscana, Valdelsa: la «Gerusalemme di Toscana» nel bosco, un borgo sulle colline e gli affreschi di Benozzo Gozzoli",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria: FI-PI-LI gratuita da Firenze fino a Empoli, poi la strada della Valdelsa fino a Castelfiorentino (BeGo), quindi la provinciale tra i boschi fino a Montaione e al Sacro Monte di San Vivaldo (circa 4 km dal paese). Il giro tocca tre punti sparsi sulle colline e con i mezzi pubblici è poco fattibile in una giornata.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h in auto fino a Castelfiorentino (circa 40 km) e altri 20-25 minuti fino a Montaione e San Vivaldo; circa 135-150 km totali a/r con gli spostamenti interni (stima, da verificare sul navigatore).",
+      "durataViaggioMinuti": 70,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: bosco e colline al meglio, temperature miti per camminare tra le cappelle. In luglio e agosto fa caldo, in inverno gli orari ridotti dei musei complicano il programma.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 33,
+      "costoMax": 60,
+      "costoNota": "Chilometraggio e parcheggi sono stime: nei paesi e a San Vivaldo si trova di norma posto senza pagare, ma non ho trovato una fonte, quindi il parcheggio non è conteggiato.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Le tre tappe sono distanti tra loro 15-20 minuti d'auto: BeGo e centro di Castelfiorentino occupano la mattina (un'ora e mezza abbondante), il pranzo a Montaione o vicino a San Vivaldo si fa senza fretta, il pomeriggio è per il Sacro Monte, con le sue cappelle sparse nel bosco, e un giro nel borgo di Montaione. Gambassi Terme resta come tappa facoltativa se si parte presto. Una giornata basta, ma senza margine per altro.",
+      "cosaVedere": [
+        "Sacro Monte di San Vivaldo: complesso di cappelle e tempietti costruito da Fra Tommaso da Firenze tra il 1500 e il 1515 per ricreare in scala Gerusalemme, con gruppi in terracotta policroma della scuola robbiana sulla Passione di Cristo; oggi ne restano 17 su 34 previsti.",
+        "Convento e chiesa di San Vivaldo: accanto al Sacro Monte, custodisce le spoglie del beato Vivaldo Stricchi ed è la tappa da cui nasce tutto il luogo.",
+        "BeGo, Museo Benozzo Gozzoli a Castelfiorentino: affreschi e sinopie dei due tabernacoli dipinti da Gozzoli (Madonna della Tosse, 1484, e Visitazione, 1491), con percorsi pensati anche per persone con disabilità.",
+        "Borgo di Montaione: Palazzo Pretorio con il Museo Civico (reperti etruschi e romani, e uno scheletro di balena fossile trovato a Castelfalfi nel 1980) e la chiesa di San Regolo.",
+        "Chiesa dei Santi Giuseppe e Lucia a Montaione: detta «delle suore», con due finestre simmetriche che sulla facciata disegnano un volto sorridente.",
+        "Gambassi Terme (facoltativa): paese termale vicino a Montaione, buono per una sosta caffè se resta tempo."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante)",
+          "testo": "Circa 150 km totali tra andata, ritorno e spostamenti interni a 0,129 €/km: circa 19 €. FI-PI-LI gratuita, nessun pedaggio. Parcheggio non conteggiato (stima, non verificato).",
+          "min": 19,
+          "max": 19,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "BeGo - Museo Benozzo Gozzoli",
+          "testo": "5 € intero, 3 € ridotto (dato di una scheda del maggio 2024, da riconfermare).",
+          "min": 3,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Gerusalemme di San Vivaldo",
+          "testo": "5 € intero (scheda di museionline, da riconfermare con il Comune di Montaione).",
+          "min": 5,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Un pasto completo a Montaione costa in media 25-40 € a persona bevande incluse; i locali più economici partono da 15-20 €.",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante della vettura (circa 19 €) diviso per due viaggiatori, circa 9,50 € a testa; ingressi e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il Sacro Monte è fuori dal paese, tra i boschi: serve l'auto e le strade provinciali sono tortuose, specie da Castelfiorentino a Montaione."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Orari da riconfermare prima di partire: San Vivaldo risulta aperto lunedì-sabato 15-19 e domenica e festivi 10-19; il BeGo in estate (1 giugno-30 settembre) mer-gio 14-18, ven 9-13 e 14-18, sab-dom 11-17, senza orari trovati per il resto dell'anno."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria trovata; per visite guidate al BeGo o a San Vivaldo conviene telefonare, e il BeGo ha visite guidate su richiesta."
+        }
+      ],
+      "note": "Gli orari sono l'ostacolo vero: San Vivaldo apre di pomeriggio nei feriali, il BeGo ha giorni e orari spezzati, quindi conviene andare di mattina a Castelfiorentino e dedicare il pomeriggio al Sacro Monte, oppure fare la visita di domenica quando San Vivaldo apre dalle 10. Vicino al Sacro Monte si mangia all'Osteria San Vivaldo, trattoria di fascia economica con menù per bambini (telefonare prima).",
+      "fonti": [
+        "https://museionline.info/toscana-musei-monumenti/gerusalemme-di-san-vivaldo",
+        "https://www.museionline.info/toscana-musei-monumenti/museo-benozzo-gozzoli",
+        "https://www.visittuscany.com/en/attractions/jerusalem-in-san-vivaldo/",
+        "https://www.finestresullarte.info/viaggi/montaione-mistico-borgo-valdelsa-fiorentina",
+        "https://www.sluurpy.it/montaione/gastronomia",
+        "https://www.italia.it/en/toscana/montaione/where-to-eat/osteria-san-vivaldo",
+        "https://www.summerinitaly.com/guide/montaione/restaurants"
+      ],
+      "aggiuntaIl": "2026-11-14",
+      "coordinate": {
+        "lat": 43.5486,
+        "lon": 10.9158
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il bosco e le statue in terracotta incuriosiscono un bimbo di 4 anni, ma il tema sacro e i musei sono poco adatti ai più piccoli."
+      }
+    },
+    {
       "id": "montalcino-e-sant-antimo-1g",
       "nome": "Montalcino e l'Abbazia di Sant'Antimo",
       "sottotitolo": "Toscana, il borgo del Brunello e una delle più belle abbazie romaniche d'Italia, tra vigne e uliveti",
@@ -4846,6 +5084,133 @@
       }
     },
     {
+      "id": "nonantola-sant-agata-bolognese-e-persiceto-1g",
+      "nome": "Nonantola, Sant'Agata Bolognese e San Giovanni in Persiceto",
+      "sottotitolo": "Emilia-Romagna, tra abbazia benedettina, motori Lamborghini e portici della Bassa bolognese",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria: A1 Firenze–Bologna (Borgo Panigale), poi strade provinciali fino a Sant'Agata Bolognese, Persiceto e Nonantola; si rientra a Firenze con A1 da Modena Sud. Senza auto la giornata non è praticabile: i tre paesi non hanno collegamenti ferroviari comodi tra loro.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h40 in auto fino a Nonantola (139 km, A1 Firenze Nord–Modena Sud); circa 1h30 fino a Sant'Agata, prima tappa. Giro completo di circa 295 km tra andata, spostamenti interni e ritorno.",
+      "durataViaggioMinuti": 90,
+      "periodoMiglioreTesto": "Marzo–giugno e settembre–novembre: clima mite e nessuna calura sulla pianura. A luglio e agosto fa molto caldo e il Museo Benedettino può avere sale chiuse per lavori o ferie.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 69,
+      "costoMax": 96,
+      "costoNota": "Ingresso Lamborghini: 20 € per il solo museo secondo una guida di prenotazione (prezzo indicativo, da verificare sul sito ufficiale); il tour della fabbrica (90 €) è escluso dal calcolo.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le tre tappe sono distanti tra loro 10–25 km, quindi gli spostamenti pesano poco. Il Museo Lamborghini richiede 1–1h30, l'abbazia con la cripta e il museo benedettino circa 1h30–2h, il centro di Persiceto con i portici un'ora o poco più, più il pranzo. Una giornata piena ma senza fretta; un secondo giorno servirebbe solo per aggiungere la visita alla fabbrica Lamborghini.",
+      "cosaVedere": [
+        "Museo Lamborghini (Sant'Agata Bolognese): una raccolta di modelli storici e supercar nella sede dell'azienda, aperto tutti i giorni; il piano superiore si raggiunge solo con le scale.",
+        "Abbazia di San Silvestro a Nonantola: basilica abbaziale con la cripta, aperta ogni giorno 9–18 fuori dalle funzioni; è uno dei monasteri benedettini più antichi dell'Emilia.",
+        "Museo Benedettino e Diocesano d'Arte Sacra (Nonantola): i tesori dell'abbazia e la sezione diocesana, 5 € a persona.",
+        "Centro storico di San Giovanni in Persiceto: i portici del centro, per una passeggiata tranquilla prima o dopo pranzo."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Circa 295 km complessivi (139 km Firenze–Nonantola più spostamenti interni) a 0,129 €/km: circa 38 €.",
+          "min": 38,
+          "max": 38,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A1",
+          "testo": "Firenze–Bologna 8,90 € all'andata; ritorno Modena Sud–Firenze Nord 10,30 € (calcolopercorso.it).",
+          "min": 19,
+          "max": 19,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggi",
+          "testo": "Sosta per lo più gratuita nei centri; prevedere al massimo qualche euro di sosta a pagamento.",
+          "min": 0,
+          "max": 5,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Lamborghini",
+          "testo": "20 € intero solo museo (prezzo indicativo da guida di prenotazione); 90 € con tour della fabbrica, non incluso.",
+          "min": 20,
+          "max": 20,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Benedettino di Nonantola",
+          "testo": "5 € a persona; basilica e cripta senza biglietto indicato.",
+          "min": 5,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "15–20 € in piadineria o locale economico, 25–40 € per un pasto completo con bevande; trattorie di livello come l'Osteria del Mirasole a Persiceto arrivano a 60–100 € alla carta.",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante, pedaggi e parcheggi sono della vettura e si dividono per due; ingressi e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il rientro avviene dall'A1 (uscita Modena Sud per Nonantola, o Bologna Borgo Panigale); i centri sono piccoli, con parcheggi liberi vicino al centro."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Museo Benedettino chiuso il lunedì; martedì–giovedì 9–12:30, venerdì–domenica 9–12:30 e 14–18. Museo Lamborghini aperto tutti i giorni, 9:30–18 da ottobre ad aprile; chiuso il 25 dicembre e l'1 gennaio."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per il museo Lamborghini la prenotazione online è consigliata; il tour della fabbrica va prenotato in anticipo."
+        }
+      ],
+      "note": "Il Museo Benedettino chiude a mezzogiorno nei feriali: fai prima Nonantola in mattinata e il museo Lamborghini nel pomeriggio, aperto tutto il giorno. Il pranzo a Persiceto o a Nonantola conviene prenotarlo nel weekend. I prezzi dei ristoranti variano molto: una piadina costa poco, una trattoria con tortellini e carne molto di più.",
+      "fonti": [
+        "https://calcolopercorso.it/it/distanza/Firenze/Nonantola",
+        "https://lamborghini.com/en-en/museum",
+        "https://www.avygeo.com/it/guida/attivita/3517-museo-lamborghini",
+        "https://www.ilturista.info/da-vedere/abbazia-nonantola-museo-arte-sacra/",
+        "https://www.sluurpy.it/nonantola/economico",
+        "https://www.scattidigusto.it/migliori-trattorie-fuori-bologna"
+      ],
+      "aggiuntaIl": "2026-11-14",
+      "coordinate": {
+        "lat": 44.6767,
+        "lon": 11.0436
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il museo Lamborghini piace ai bambini, ma abbazia e museo d'arte sacra sono lunghe per un bimbo di 4 anni."
+      }
+    },
+    {
       "id": "orbetello-e-monte-argentario-1g",
       "nome": "Orbetello e il Monte Argentario",
       "sottotitolo": "Toscana, Maremma: borgo spagnolo in mezzo alla laguna e promontorio con due porti e forti sul mare",
@@ -5156,6 +5521,125 @@
       "bambini": {
         "adatta": "si",
         "nota": "Il Parco Preistorico di Peccioli con i dinosauri a grandezza naturale piace ai bimbi di 4 anni; il resto è passeggiata tranquilla."
+      }
+    },
+    {
+      "id": "perugia-in-un-giorno-1g",
+      "nome": "Perugia in un giorno",
+      "sottotitolo": "Umbria, il capoluogo sul colle: arte del Perugino, sotterranei etruschi e medievali, a due ore di treno",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno Regionale (Veloce) da Firenze Santa Maria Novella a Perugia: diretto in circa 2h10-2h17, oppure con cambio (a Terontola o altrove) in circa 2h36. Dalla stazione di Fontivegge si sale in centro con il Minimetrò fino a Pincetto, poi scale mobili attraverso la Rocca Paolina. In alternativa in auto (circa 160 km per tratta) con sosta gratuita a Pian di Massiano e Minimetrò, ma carburante e pedaggi A1 pesano più del treno.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 2h10-2h17 in treno diretto; 2h36 con un cambio. Con il Minimetrò si arriva a Corso Vannucci in altri 10-15 minuti.",
+      "durataViaggioMinuti": 150,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: clima mite per salire e scendere le scale e le rampe del centro. A luglio-agosto il sole sul colle è forte; in gennaio-febbraio può fare freddo e umido.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 47,
+      "costoMax": 77,
+      "costoNota": "Treno calcolato dalla tariffa Regionale minima di 16-17 € a tratta; in orari di punta o con cambi il prezzo può essere più alto. Pedaggi A1 per l'auto non verificati: esclusi dal confronto.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il centro storico è raccolto sul colle e si gira a piedi in pochi chilometri, con le scale mobili della Rocca Paolina che tolgono la fatica dei dislivelli. Una giornata basta per la Galleria Nazionale dell'Umbria (2-3 ore), Corso Vannucci con la Fontana Maggiore, il Pozzo etrusco, un pranzo senza fretta e un passaggio in San Pietro. Chi vuole anche l'Ipogeo dei Volumni, i musei minori o la sera in centro può usare la scheda a 2 giorni; il treno da 2h10 rende però la gita in giornata fattibile solo con partenza al mattino presto.",
+      "cosaVedere": [
+        "Galleria Nazionale dell'Umbria, in Corso Vannucci 19 dentro il Palazzo dei Priori: una delle raccolte d'arte più ricche d'Italia, dal XIII al XIX secolo, con Duccio, Piero della Francesca, Perugino e Pinturicchio.",
+        "Corso Vannucci e Piazza IV Novembre: il salotto cittadino con la Fontana Maggiore e la Cattedrale, il posto giusto per capire la forma medievale della città.",
+        "Rocca Paolina: la fortezza papale del Cinquecento, costruita sopra le case medievali, che oggi si attraversa a piedi con le scale mobili tra vie e arcate sotterranee.",
+        "Pozzo etrusco: cisterna monumentale del III secolo a.C. sotto il centro, una visita breve ma insolita per scendere nella Perugia etrusca.",
+        "Basilica di San Pietro: abbazia benedettina fuori dal cuore del centro, con interno ricchissimo di dipinti e un belvedere verso la valle umbra.",
+        "Minimetrò: più che un trasporto è un'esperienza, un sistema sopraelevato disegnato da Jean Nouvel che collega la stazione e il parcheggio al centro."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Regionale da circa 16-17 € a tratta da Firenze S.M.N., quindi 32-34 € A/R a persona in tariffa minima; diretto in 2h10-2h17.",
+          "min": 32,
+          "max": 34,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Minimetrò",
+          "testo": "1,50 € a corsa da Fontivegge a Pincetto (3 € A/R); abbonamento 24 ore turistico a 5,40 €.",
+          "min": 3,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Galleria Nazionale dell'Umbria",
+          "testo": "8 € intero, 2 € ridotto; ingresso gratuito la prima domenica del mese.",
+          "min": 2,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Da 4-10 € per una torta al testo o un panino a 15-22 € in osteria (Osteria a Priori, Osteria i Birbi), fino a 25-30 € in locali di taglio più curato.",
+          "min": 10,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto (confronto)",
+          "testo": "Circa 320 km A/R, 41 € di carburante a 0,129 €/km. Parcheggio gratuito a Pian di Massiano con Minimetrò, oppure Piazza Partigiani a circa 1,70-1,90 € l'ora, massimo circa 17 € al giorno. Pedaggi A1 non verificati e non inclusi; raccordo Bettolle-Perugia gratuito.",
+          "min": 41,
+          "max": 58,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Treno, Minimetrò, ingressi e pranzo sono a persona. L'auto (carburante e parcheggio), solo come alternativa di confronto, è un costo della vettura da dividere per due viaggiatori.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico è in gran parte ZTL: in auto conviene lasciare la macchina a Pian di Massiano (gratuito) e salire col Minimetrò, oppure usare Piazza Partigiani o Piazzale Europa con scale mobili."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Galleria Nazionale dell'Umbria è aperta martedì-domenica 8:30-19:30 e lunedì 12-19:30; verificare gli orari prima di partire. Minimetrò: lunedì-sabato 7-21:20, domenica e festivi 9-21."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per la Galleria; per il Pozzo etrusco e le visite guidate sotterranee conviene controllare orari e posti sui siti ufficiali. Eventi come Umbria Jazz (luglio) e Eurochocolate (ottobre) affollano la città."
+        }
+      ],
+      "note": "Se arrivi in treno, scendi a Fontivegge e prendi il Minimetrò fino a Pincetto: da lì le scale mobili della Rocca Paolina ti portano in centro senza salire a piedi. Il Regionale diretto è la scelta migliore: con il cambio si perdono oltre 20 minuti e la giornata utile si accorcia. La torta al testo con verdure e salumi è lo spuntino perugino tipico: prendila in un forno del centro e risparmia sul pranzo.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/perugia",
+        "https://www.museionline.info/perugia-musei-e-monumenti/galleria-nazionale-dell-umbria",
+        "https://www.travel365.it/perugia-dove-mangiare.htm",
+        "https://www.travel365.it/perugia-come-muoversi.htm",
+        "https://www.telepass.com/it/privati/servizi/parcheggi/parcheggiare-perugia-centro",
+        "https://www.visititaly.eu/it/luoghi-e-itinerari/visita-perugia-sul-minimetro"
+      ],
+      "aggiuntaIl": "2026-11-14",
+      "coordinate": {
+        "lat": 43.1122,
+        "lon": 12.3888
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il Minimetrò e le scale mobili divertono un bimbo di 4 anni, ma la Galleria è lunga e il viaggio di 2h10 per tratta è impegnativo in un solo giorno."
       }
     },
     {
@@ -12698,6 +13182,125 @@
       }
     },
     {
+      "id": "golfo-del-tigullio-2g",
+      "nome": "Golfo del Tigullio: Camogli, Portofino, Rapallo, Chiavari e Sestri Levante",
+      "sottotitolo": "Liguria, un weekend sul golfo tra borghi di pescatori, battelli e baie con una notte a Rapallo o Chiavari",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. a Rapallo o Chiavari (circa 23 collegamenti al giorno, quasi sempre con almeno un cambio, tra Regionale, Intercity e Frecce); sul posto si va avanti con i treni regionali lungo la costa e con i battelli del Servizio Marittimo del Tigullio (Rapallo, Santa Margherita, Portofino, San Fruttuoso) e di Golfo Paradiso (Camogli, San Fruttuoso). L'auto non serve e nei weekend di bel tempo il parcheggio a Portofino e Camogli è un problema.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Da circa 2h16 (collegamento più veloce) a 3h10 (media) in treno da Firenze a Rapallo, con uno o più cambi.",
+      "durataViaggioMinuti": 190,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: mare e luce ottimi, battelli in servizio frequente e meno folla di luglio-agosto. In inverno i battelli per San Fruttuoso sono pochi e il servizio dipende dal meteo.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 145,
+      "costoMax": 273,
+      "costoNota": "Gli ingressi (Abbazia di San Fruttuoso, Castello Brown) e i treni regionali locali sul golfo non sono inclusi perché non verificati; le tariffe dei battelli Rapallo-Portofino e Rapallo-San Fruttuoso risalgono al 2019 e vanno ricontrollate.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il golfo è una sequenza di cittadine a 10-20 minuti di treno o battello l'una dall'altra: in un solo giorno si finisce per scegliere due tappe e correre, mentre con una notte si possono fare Camogli e San Fruttuoso il primo giorno e Portofino, Rapallo e Chiavari-Sestri Levante il secondo, con pranzi seduti e tempo per il lungomare. Camogli, Portofino e Sestri Levante esistono come gite di un giorno; qui il filo conduttore è il battello, con una sola base per dormire. Con due giorni il ritmo resta tranquillo e non serve l'auto.",
+      "cosaVedere": [
+        "Camogli: il borgo di case alte e colorate sul porticciolo, con il castello della Dragonara e il lungomare fino alla basilica di Santa Maria Assunta; da qui parte il battello per San Fruttuoso.",
+        "Baia di San Fruttuoso: l'abbazia medievale dei Doria affacciata su una piccola spiaggia di ciottoli, raggiungibile solo a piedi o in barca, con la statua del Cristo degli Abissi sul fondale.",
+        "Portofino: la piazzetta sul porto, la chiesa di San Giorgio e il Castello Brown con la vista sul golfo; si arriva in battello da Rapallo o Santa Margherita.",
+        "Rapallo: lungomare, castello sul mare e la funivia per il santuario di Montallegro; ottima base per dormire con stazione e imbarco vicini.",
+        "Chiavari: i portici del centro storico e le vie con le botteghe, con trattorie dove assaggiare la focaccia e i pansoti in salsa di noci.",
+        "Sestri Levante: la penisola dell'Isola con la Baia del Silenzio da una parte e la Baia delle Favole dall'altra, ideale per chiudere la gita al tramonto."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte a Rapallo o Chiavari, comodi per stazione e battelli: nelle liste di B&B e hotel del golfo si trovano camere doppie a 55-120 € a notte (Rapallo 61-120 €, Chiavari 55-120 €), fino a 60-150 € a Sestri Levante. Per due viaggiatori sono circa 28-60 € a testa per la notte; la colazione è spesso inclusa. Santa Margherita e Portofino costano di più. Prezzi indicativi da portali di prenotazione, da verificare sulle date scelte.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze-Rapallo/Chiavari A/R",
+          "testo": "Da circa 21 € a tratta (fascia minima trovata su Omio), quindi 42 € A/R in Regionale o prenotando in anticipo; fino a circa 70 € A/R con Intercity/Frecce e prenotazione tardiva (stima).",
+          "min": 42,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Battelli del golfo",
+          "testo": "Rapallo-Portofino A/R 15 €, Rapallo-San Fruttuoso A/R 18 € (tariffe SMT 2019); biglietto unico treno+battello Camogli-San Fruttuoso 8,50 € a tratta (Trenitalia). Si sommano da 15 € (solo Portofino) a circa 33 € (Portofino e San Fruttuoso).",
+          "min": 15,
+          "max": 33,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Una notte in B&B/hotel a 55-120 € a camera doppia, cioè 28-60 € a persona; qui diviso sui 2 giorni (14-30 € al giorno a persona).",
+          "min": 14,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo veloce (focaccia, farinata) 10-15 € più cena in trattoria 20-40 € circa a persona (media 20 € a Chiavari, cena completa 28-44 € secondo guide locali): 30-55 € al giorno.",
+          "min": 30,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Auto (confronto)",
+          "testo": "Circa 280 km a tratta (stima), 560 km A/R: carburante 72 € (0,129 €/km). Si aggiungono pedaggi autostradali e parcheggi a Camogli, Rapallo e Portofino non verificati: la soluzione è sconsigliata per un weekend sul golfo.",
+          "min": 72,
+          "max": 72,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Treno, battelli, alloggio e pasti sono a persona (l'alloggio è la metà di una camera doppia). L'auto, solo come confronto, è una spesa della vettura da dividere per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Portofino non ha parcheggi comodi e il traffico verso la penisola si blocca nei weekend di bel tempo: in treno e battello si evita il problema."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "I battelli possono essere cancellati per maltempo o per pochi passeggeri (il servizio SMT è garantito con almeno 20 persone per imbarco); da novembre a marzo i battelli per San Fruttuoso sono pochi."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "I biglietti SMT si comprano alle biglietterie dei moli; il treno+battello per San Fruttuoso si acquista solo come biglietto unico sul sito Trenitalia. Prenotare il B&B con anticipo per i weekend di primavera."
+        }
+      ],
+      "note": "Per evitare le code dei battelli, a Rapallo prendete il primo imbarco per Portofino e visitate la piazzetta prima dell'arrivo dei gruppi; a San Fruttuoso portate scarpe adatte ai ciottoli e un costume. Se l'orario del battello non vi torna, il treno regionale collega comunque Camogli, Rapallo, Chiavari e Sestri Levante a corse ravvicinate. Controllate sempre gli orari aggiornati dei battelli sui siti degli operatori.",
+      "fonti": [
+        "https://www.omio.it/treni/rapallo/firenze-santa-maria-novella-wf5du",
+        "https://traghettiportofino.it/en/lines-trips/line-1",
+        "https://www.bed-and-breakfast.it/en/macrolocalita/golfo-del-tigullio?prezzo=1",
+        "https://apathtolunch.com/2014/07/portofino-ferry-boat-schedules-from.html",
+        "https://apathtolunch.com/2015/02/camogli-to-san-fruttuoso-ferry-boats.html",
+        "https://www.trenitalia.com/content/trenitalia/it/regionale/collegamenti-regionale/san-fruttuoso-link.html",
+        "https://www.sluurpy.it/chiavari/ristoranti"
+      ],
+      "aggiuntaIl": "2026-11-14",
+      "coordinate": {
+        "lat": 44.35,
+        "lon": 9.22
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Battelli e spiagge piacciono a un bimbo di 4 anni, ma a San Fruttuoso e a Portofino ci sono scalini e sentieri da fare con passeggino in spalla."
+      }
+    },
+    {
       "id": "gorizia-e-il-collio-2g",
       "nome": "Gorizia e il Collio",
       "sottotitolo": "Friuli Venezia Giulia, città di confine con la Slovenia e colline del vino bianco a pochi chilometri",
@@ -13804,6 +14407,136 @@
       }
     },
     {
+      "id": "lago-di-bolsena-e-tuscia-dei-laghi-2g",
+      "nome": "Lago di Bolsena, Montefiascone e la Tuscia dei laghi",
+      "sottotitolo": "Lazio (Tuscia), il più grande lago vulcanico d'Europa con borghi sull'acqua, un'isola farnesiana e la grande villa di Caprarola",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria: A1 Firenze–Orvieto (163 km, circa 1h33 secondo il calcolatore di pedaggi, 11,20 € a tratta), poi circa 40 km di strade statali fino a Bolsena (stima nostra). In totale circa 200 km e 2h20 porta a porta fino al lago. Il treno non conviene: sul lago e tra i borghi i collegamenti sono scarsi e l'auto serve per muoversi tra Bolsena, Capodimonte, Marta, Montefiascone e Caprarola.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h20 in auto (circa 200 km: 163 km di A1 fino a Orvieto più una quarantina di km di statale fino a Bolsena)",
+      "durataViaggioMinuti": 140,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: clima mite, lago luminoso e isola Bisentina aperta (stagione 2026 dal 5 aprile al 1° novembre). In luglio e agosto è piena di bagnanti e caldo; da novembre a febbraio la Bisentina è chiusa e molti locali sul lago riducono gli orari.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 142,
+      "costoMax": 316,
+      "costoNota": "Il minimo esclude l'isola Bisentina e conta pasti economici; il massimo include la visita guidata alla Bisentina (46,50 €) e pasti di pesce di lago. I km sono la somma di andata e ritorno più circa 100 km di spostamenti interni (stima nostra), a 0,129 €/km. I parcheggi non sono quantificati: sul lago sono in gran parte gratuiti o a strisce blu di pochi euro.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le tappe sono sparse su un anello di circa 80-100 km attorno al lago: Bolsena e Montefiascone sul lato est e sud, Capodimonte e Marta sul lato ovest, Caprarola e il Lago di Vico a sud-est. Con due giorni si fanno con calma la visita guidata della Bisentina (circa 2,5-3 ore), Montefiascone con il suo belvedere, un pranzo di pesce di lago e la mattina a Caprarola, senza guidare di corsa. In un giorno si vedrebbe solo un pezzetto del lago; con tre inizierebbe a ripetersi.",
+      "cosaVedere": [
+        "Isola Bisentina: unica isola visitabile del lago, con chiese rinascimentali e il percorso a piedi di circa 1,5 km; si sale in barca da Capodimonte (15 minuti) o da Bolsena (35 minuti) e si entra solo con visita guidata prenotata. Stagione 2026 dal 5 aprile al 1° novembre, chiusa lunedì e mercoledì.",
+        "Capodimonte e il suo promontorio: borgo a forma di penisola, con la Rocca Farnese, il lungolago e il molo da cui partono i battelli; perfetto per una passeggiata al tramonto.",
+        "Bolsena: centro storico a ridosso del castello e della basilica di Santa Cristina, legata al miracolo eucaristico del 1263, con la lunga spiaggia lungolago e i ristoranti di pesce.",
+        "Montefiascone: dalla Rocca dei Papi e dalla cupola del Duomo si vede tutto il lago; è il paese del vino Est! Est!! Est!!!, da assaggiare in una cantina del centro.",
+        "Marta: piccolo porto di pescatori sul lato sud-ovest, utile per un pranzo semplice a base di pesce di lago e per vedere le barche tradizionali.",
+        "Palazzo Farnese a Caprarola: villa pentagonale del Vignola con la celebre scala elicoidale e il cortile circolare, a circa 40 minuti dal lago; è aperto da martedì a domenica e la prima domenica del mese è gratuito.",
+        "Lago di Vico: lago più piccolo, racchiuso in una riserva naturale con boschi di faggio, adatto a una passeggiata sulla riva prima o dopo Caprarola."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte, in B&B o piccoli alberghi a Bolsena, Montefiascone o Capodimonte. Le offerte per due persone osservate per Bolsena e dintorni vanno da circa 60 a 110 € a notte (la maggior parte tra 75 e 95 €), con un solo B&B proprio a Bolsena centro a 110 €. In agosto e nei weekend di festa i prezzi salgono. Conviene dormire sul lago, a Bolsena o Capodimonte, per avere la sera sull'acqua.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Circa 500 km totali (circa 400 km A/R da Firenze più circa 100 km di spostamenti tra i paesi, stima nostra) a 0,129 €/km: circa 64,50 € di carburante.",
+          "min": 65,
+          "max": 65,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A1 fino a Orvieto",
+          "testo": "11,20 € a tratta Firenze–Orvieto, quindi 22,40 € andata e ritorno.",
+          "min": 22,
+          "max": 22,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Una notte in B&B: da circa 60 a 110 € per la camera doppia, cioè 30-55 € a persona.",
+          "min": 30,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Un pasto di pesce di lago costa in media 25-40 € a persona, bevande incluse; si scende a 15-20 € con pizza o panino, si sale a 50 € e oltre nei locali migliori. Per un giorno (pranzo e cena): 30-80 €.",
+          "min": 30,
+          "max": 80,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Isola Bisentina (facoltativa)",
+          "testo": "Visita guidata 25 € più 1,50 € di prenotazione online, più 20 € di barca pagati all'imbarco: 46,50 € a persona. Solo giro in barca senza sbarco: 10 € da Capodimonte.",
+          "min": 0,
+          "max": 47,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Palazzo Farnese a Caprarola",
+          "testo": "10 € intero (8 € quando i giardini sono chiusi); gratis sotto i 18 anni e la prima domenica del mese.",
+          "min": 8,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi (circa 87 € in tutto) sono della vettura e si dividono per due viaggiatori, circa 43,50 € a testa; alloggio, pasti e ingressi sono a persona. Le tariffe dell'isola Bisentina non sono incluse nel minimo.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "L'isola Bisentina si raggiunge solo in barca, con partenza da Capodimonte (15 minuti) o da Bolsena (35 minuti); con il lago mosso dal vento il biglietto resta valido per tutta la stagione."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Bisentina aperta dal 5 aprile al 1° novembre 2026, tutti i giorni tranne lunedì e mercoledì. Palazzo Farnese di Caprarola è aperto da martedì a domenica e chiuso il lunedì e a Natale."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Visita alla Bisentina solo con prenotazione online (sito ufficiale dell'isola); nei giorni festivi i posti finiscono presto. Per Caprarola conviene il biglietto elettronico nei weekend."
+        }
+      ],
+      "note": "Chi parte da Firenze in giornata e dorme sul lago ha il tempo di fare tutto in due giorni: la Bisentina al mattino del primo giorno, Bolsena e Montefiascone nel pomeriggio, Capodimonte e Marta il giorno dopo, Caprarola con il Lago di Vico a chiudere. Il coregone, il pesce tipico del lago, si mangia alla griglia o marinato; ordinatelo dove il menu dichiara pesce di lago e non d'allevamento. Civita di Bagnoregio e Viterbo sono già in catalogo e si possono aggiungere in un weekend più lungo: da Bolsena sono pochi minuti d'auto.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Orvieto/",
+        "https://www.bed-and-breakfast.it/en/budget-bb-bolsena",
+        "https://www.isolabisentina.org/en",
+        "https://www.isolabisentina.org/?p=8733",
+        "https://siviaggia.it/notizie/riapre-isola-bisentina-lago-bolsena-visite-2026/589612/",
+        "https://travel.thewom.it/italia/lazio/palazzo-farnese-di-caprarola.html",
+        "https://www.sluurpy.it/bolsena/pesce",
+        "https://www.viaggiando-italia.it/5-ristoranti-da-provare-sul-lago-di-bolsena-tra-relax-campagna-e-ricca-tradizione-gastronomica/"
+      ],
+      "aggiuntaIl": "2026-11-14",
+      "coordinate": {
+        "lat": 42.644,
+        "lon": 11.985
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Spiaggia e giro in barca piacciono a un bimbo di 4 anni (gratis sotto i 6 anni sulla barca della Bisentina), ma la visita guidata di 2,5-3 ore a piedi è lunga per lui."
+      }
+    },
+    {
       "id": "lago-maggiore-2g",
       "nome": "Lago Maggiore e Isole Borromee",
       "sottotitolo": "Stresa, Isola Bella e Isola Madre: ville e giardini barocchi affacciati sull'acqua",
@@ -14426,6 +15159,133 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Con un bimbo di 4 anni funzionano bene piazze e Sferisterio, ma le cisterne e il teatro sono visite guidate e il tragitto di 3 ore pesa."
+      }
+    },
+    {
+      "id": "marsica-2g",
+      "nome": "Marsica: Avezzano, Alba Fucens, Tagliacozzo, Celano e il Parco Sirente-Velino",
+      "sottotitolo": "Abruzzo, l'ex fondo del lago Fucino: una città romana sul colle, borghi medievali e un castello rinascimentale ai piedi del Velino",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria: da Firenze A1 fino a Roma, poi A24/A25 in direzione Pescara fino ad Avezzano (circa 346 km, 27,50 € di pedaggio a tratta). Le tappe si trovano a 10-25 km una dall'altra e i trasporti pubblici locali sono radi: l'auto è il mezzo che rende possibile il programma.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h20 in auto (346 km, A1 + A24/A25)",
+      "durataViaggioMinuti": 198,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre: giornate lunghe, sentieri del Parco Sirente-Velino aperti e temperature miti sull'altopiano. Da dicembre a febbraio il freddo è serio e la neve può complicare le strade secondarie.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 166,
+      "costoMax": 225,
+      "costoNota": "Il biglietto del Castello Piccolomini non è riportato nelle fonti consultate e non è incluso nel totale (Alba Fucens è gratuita); aggiungere qualche euro a persona.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Tre poli distanti 10-25 km l'uno dall'altro: Alba Fucens (area archeologica a ingresso libero, da 1h30 a 2h), Tagliacozzo (borgo da girare a piedi, circa 2h) e Celano (castello e museo, 1h30-2h) riempiono due giornate senza correre. Il primo giorno copre l'area archeologica e Tagliacozzo, il secondo Celano e un'uscita nel Parco Sirente-Velino. Con una sola giornata si sacrificherebbe o il castello o il borgo, e con 346 km per tratta due giorni giustificano anche il pernottamento.",
+      "cosaVedere": [
+        "Alba Fucens: città romana sul colle sopra Massa d'Albe, con l'impianto urbano leggibile, e la chiesa medievale di San Pietro costruita sul tempio. Ingresso libero, aperta ogni giorno.",
+        "Tagliacozzo: Piazza dell'Obelisco, cuore del borgo medievale, con Palazzo Ducale, le cinque antiche porte e la fontana del Mascherone vicino a Porta dei Marsi.",
+        "Castello Piccolomini di Celano: fortezza quattrocentesca che ospita il Museo d'Arte Sacra della Marsica e la collezione Torlonia con reperti recuperati dal prosciugato lago Fucino.",
+        "Museo della Marsica nel castello: undici sale con tridenti da pesca usati nel lago, un'armatura dell'età del ferro e le porte lignee originali della chiesa di San Pietro di Alba Fucens.",
+        "Parco Regionale Sirente-Velino: dai paesi attorno a Celano parte la salita verso gli altopiani e le montagne, per una passeggiata breve a fine giornata.",
+        "Avezzano: città ricostruita dopo il terremoto del 1915; utile come base per dormire vicino al casello e alla stazione."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte basta. A Tagliacozzo e Avezzano si trovano B&B da circa 59 € a notte per due con colazione e parcheggio (il B&B Tra I Due Parchi, a 15 km da Tagliacozzo, è a 59 €); un 3 stelle in zona Avezzano costa di solito di più, controllare sui portali per le date. Dormire ad Avezzano è comodo per la vicinanza ai caselli A25.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante A/R",
+          "testo": "Circa 692 km A/R più circa 60 km di spostamenti locali, a 0,129 €/km: circa 97 €.",
+          "min": 97,
+          "max": 97,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A1 + A24/A25",
+          "testo": "27,50 € a tratta (346 km Firenze-Avezzano), circa 55 € A/R.",
+          "min": 55,
+          "max": 55,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggi",
+          "testo": "Centri piccoli, parcheggi in genere gratuiti o a poche monete; stima fino a circa 8 € nei due giorni (non verificata sulle fonti).",
+          "min": 0,
+          "max": 8,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio, 1 notte",
+          "testo": "Circa 59-90 € a notte per due in B&B (59 € il B&B Tra I Due Parchi), cioè 30-45 € a persona.",
+          "min": 30,
+          "max": 45,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pizzeria 10-12 € a persona, trattoria 20-30 €; pranzo più cena circa 30-50 € al giorno (prezzi da una guida del 2019, da maggiorare per prudenza).",
+          "min": 30,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Alba Fucens gratuita; Castello Piccolomini a pagamento (prezzo non verificato), gratuito la prima domenica del mese.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Con due viaggiatori carburante, pedaggi e parcheggi (circa 152-160 € in tutto) si dividono a metà; alloggio e pasti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico di Tagliacozzo è stretto e a pendenze: meglio lasciare l'auto fuori dalle porte e girare a piedi. Alba Fucens si raggiunge in auto da Massa d'Albe."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Castello Piccolomini di Celano è aperto tutto l'anno 9:30-18:30 ma chiude il lunedì, la 2ª, 4ª e 5ª domenica del mese e il 25 dicembre. Alba Fucens è aperta ogni giorno, tutto l'anno, a ingresso libero."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione per Alba Fucens (non prevista). Per il castello i biglietti si comprano in loco o online; informazioni al 0863 793730."
+        }
+      ],
+      "note": "Pianifica la giornata del castello in base al calendario: il lunedì e tre domeniche su quattro è chiuso, quindi la combinazione migliore è sabato-domenica solo se è la 1ª o la 3ª domenica. Alba Fucens è senza biglietteria: porta scarpe da camminata, il terreno è sassoso e in salita.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Avezzano/",
+        "https://museiabruzzo.cultura.gov.it/wp-content/uploads/2026/05/Celano-Piccolomini_Carta-della-qualita-dei-servizi.pdf",
+        "https://museiabruzzo.cultura.gov.it/wp-content/uploads/2026/05/Carta-dei-servizi-Alba-Fucens-2026.pdf",
+        "https://www.bed-and-breakfast.it/en/budget-bb-tagliacozzo",
+        "https://lifeinabruzzo.com/castello-piccolomini/",
+        "https://www.voloscontato.it/ristoranti/tagliacozzo-dove-mangiare-bene-spendendo-poco.php",
+        "https://moveo.telepass.com/borgo-di-tagliacozzo-come-arrivare-e-cosa-fare/"
+      ],
+      "aggiuntaIl": "2026-11-14",
+      "coordinate": {
+        "lat": 42.03,
+        "lon": 13.425
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Castello e museo interessano un bimbo di 4 anni per i reperti, ma Alba Fucens è sassosa e il viaggio in auto è lungo."
       }
     },
     {
@@ -15858,6 +16718,145 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Il cortile del Castello per giocare a dame e cavalieri, il Ponte Coperto e le torri piacciono a un bimbo di 4 anni, ma chiese e Certosa sono lunghe e il rientro in auto è di circa tre ore."
+      }
+    },
+    {
+      "id": "pesaro-fano-e-gradara-2g",
+      "nome": "Pesaro, Fano, Gradara e Urbania",
+      "sottotitolo": "Marche settentrionali: città rossiniana sul mare, borgo medievale di Paolo e Francesca e capitale della maiolica sul Metauro",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria: Firenze–Pesaro sono circa 194 km (1h51 secondo i calcolatori di percorso), con pedaggi da circa 5,60 € a tratta sul percorso più breve fino a 15–20 € se si sceglie A1, E45 (gratuita) e A14. Conviene entrare dall'interno passando da Urbania (160 km, circa 1h30): la sera prima di dormire a Pesaro si fa la prima visita. Con tre centri distanti 12–50 km tra loro l'auto è molto più comoda dei mezzi pubblici; il treno via Bologna (cambio sulla linea adriatica) è un'alternativa più lenta, senza il comodo giro tra Urbania e Gradara.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h50 in auto da Firenze a Pesaro (194 km); 1h30 fino a Urbania (160 km)",
+      "durataViaggioMinuti": 111,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre: clima mite e musei con orari estesi. Luglio e agosto sono da evitare per il caldo e i prezzi della riviera: a Pesaro l'albergo costa in media 351 € a notte in agosto contro 61 € a novembre.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 136,
+      "costoMax": 249,
+      "costoNota": "Due viaggiatori che condividono l'auto, una notte. Parcheggi (circa 8–20 € in totale) e la distanza totale (circa 450–480 km con le deviazioni tra le tappe) sono una stima, non una tariffa pubblicata.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le quattro tappe stanno in un raggio di 50 km: Urbania a un'ora da Pesaro, Gradara e Fano a 12–15 km. Una sera e due mattine bastano per il Palazzo Ducale di Urbania con le ceramiche di Casteldurante, i Musei Civici di Pesaro, la Rocca di Gradara (da sola richiede 2–3 ore) e il centro di Fano, senza correre. Un giorno solo costringerebbe a tagliare almeno due tappe; con tre giorni si potrebbe aggiungere Urbino, ma questo è un altro viaggio.",
+      "cosaVedere": [
+        "Palazzo Ducale di Urbania (progetto di Francesco di Giorgio Martini, 1470): ospita il Museo Civico con i due globi di Mercatore del 1541 e 1551, la Pinacoteca e le ceramiche di Casteldurante dal XV al XVIII secolo.",
+        "Musei Civici di Palazzo Mosca a Pesaro: la sala delle maioliche del Ducato di Urbino (Urbino, Casteldurante, Pesaro, Gubbio) e i lustri di Deruta, una vera Wunderkammer in pieno centro.",
+        "Rocca di Gradara: la fortezza malatestiana dove la tradizione colloca la storia di Paolo e Francesca; si visitano le stanze, i camminamenti di ronda e il borgo murato a piedi.",
+        "Centro storico di Fano: Arco d'Augusto, Fortezza Malatesta e le mura romane, con il porto canale dove si mangia il brodetto alla fanese.",
+        "Pesaro lungomare e centro: passeggiata sul lungomare con la Sfera Grande di Arnaldo Pomodoro e Piazza del Popolo, città natale di Rossini."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1 (sabato): partenza da Firenze presto, arrivo a Urbania per le 10; Palazzo Ducale e Museo Civico fino alle 12:30, pranzo in centro. Nel pomeriggio trasferimento a Pesaro (circa 50 km), Musei Civici di Palazzo Mosca fino alle 18:30, passeggiata sul lungomare, cena di pesce e pernottamento."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2 (domenica): mattina alla Rocca di Gradara (apre alle 9:30, 2–3 ore tra stanze, camminamenti e borgo). Pranzo e pomeriggio a Fano: Arco d'Augusto, Fortezza Malatesta e brodetto sul porto. Rientro a Firenze in circa 2 ore."
+        }
+      ],
+      "alloggio": "A Pesaro, in centro o vicino al mare: B&B da 35 a 110 € a notte per due (la maggior parte tra 60 e 95 €); un hotel a 3 stelle costa in media 73 € a notte, con offerte da 44 €. A novembre la media è di 61 €, ad agosto 351 €. Meglio prenotare con circa tre mesi di anticipo. Per un weekend conviene dormire a Pesaro, comoda base per Gradara e Fano.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Circa 450–480 km totali tra andata, spostamenti Urbania–Pesaro–Gradara–Fano e ritorno, a 0,129 €/km: circa 60 €.",
+          "min": 60,
+          "max": 60,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi",
+          "testo": "5,60 € a tratta sul percorso più breve (Firenze–Pesaro) fino a 15–20 € a tratta per A1 + E45 + A14: da 11 a 30 € A/R.",
+          "min": 11,
+          "max": 30,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggi",
+          "testo": "Stima per 2 giorni tra Pesaro, Gradara, Fano e Urbania; molte aree fuori dal centro sono gratuite o a basso costo.",
+          "min": 8,
+          "max": 20,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "60–95 € a notte per due in B&B o hotel 3 stelle: una sola notte, qui ripartita sui 2 giorni (15–24 € a persona al giorno).",
+          "min": 15,
+          "max": 24,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo in piadineria o trattoria 10–20 €, cena di pesce 28–40 € a persona; brodetto alla pesarese 16–22 €.",
+          "min": 25,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Rocca di Gradara 10 € (ridotto 2 €); Palazzo Ducale di Urbania 6 € (ridotto 3 €); Musei Civici di Palazzo Mosca 10 € (ridotto 8 €). Il biglietto unico Gradara a 21 € vale solo dal 1 maggio al 6 settembre 2026.",
+          "min": 16,
+          "max": 26,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante, pedaggi e parcheggi sono della vettura e si dividono per due; alloggio (camera doppia), pasti e ingressi sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico di Pesaro e di Fano ha zone a traffico limitato: lasciare l'auto nei parcheggi periferici e proseguire a piedi. A Gradara il borgo murato è pedonale."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Palazzo Ducale di Urbania è aperto da martedì a sabato (10–12:30 e 15–18) e chiude domenica e lunedì. I Musei Civici di Pesaro da ottobre a maggio aprono martedì–giovedì solo 10–13 e venerdì–domenica 10–18:30. La Rocca di Gradara il lunedì apre solo 9:30–14."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per i singoli visitatori; gli orari sono indicativi, meglio confermarli per telefono (Gradara 0541 964181, Urbania 0722 31315). Prenotare l'alloggio con anticipo nei weekend estivi."
+        }
+      ],
+      "note": "Il giorno ideale per partire è il sabato: Urbania è aperta solo da martedì a sabato e Pesaro ha orario pieno da venerdì a domenica, mentre la domenica la Rocca di Gradara è gratuita la prima del mese (e quindi più affollata). Dopo Urbania, Pesaro e Gradara è comodo fare la sosta pranzo a Fano. Il percorso interno passa dalla Valle del Metauro, quindi vale la pena fermarsi lungo la strada.",
+      "fonti": [
+        "https://www.momondo.it/hotel/pesaro",
+        "https://www.bed-and-breakfast.it/en/pesaro?prezzo=1",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Pesaro/",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Urbania/",
+        "https://blog.wayro.ai/florence-fano-road-trip-hidden-gems-practical-guide",
+        "https://www.museionline.info/marche-musei-monumenti/rocca-di-gradara",
+        "https://www.initaly.it/en/articolo/biglietto-unico-per-gradara-visita-integrata-tra-rocca-musei-e-12583",
+        "https://www.museionline.info/marche-musei-monumenti/palazzo-ducale-di-urbania",
+        "https://www.museionline.info/musei/musei-civici-di-palazzo-mosca",
+        "https://www.sluurpy.it/pesaro/ristoranti"
+      ],
+      "aggiuntaIl": "2026-11-14",
+      "coordinate": {
+        "lat": 43.91,
+        "lon": 12.91
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "La Rocca di Gradara con camminamenti e i rapaci in volo piace ai bimbi di 4 anni, e il lungomare di Pesaro offre spiaggia e giochi; musei di Urbania e Pesaro sono più adatti agli adulti."
       }
     },
     {
@@ -18301,6 +19300,126 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Parco di Villa Panza e lago sono adatti a un bimbo di 4 anni (under 5 gratis a Villa Panza), ma la salita della via sacra è lunga per le gambe piccole."
+      }
+    },
+    {
+      "id": "versilia-e-alpi-apuane-2g",
+      "nome": "Versilia e Alpi Apuane: Pietrasanta, Forte dei Marmi, Carrara e Colonnata",
+      "sottotitolo": "Toscana, un weekend con una notte tra mare, botteghe di scultori e cave di marmo",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria da Firenze: A11 Firenze–Mare fino a Pietrasanta (107 km, circa 1h01, pedaggio 8,10 € a tratta), poi A12 verso Carrara per salire alle cave. L'auto serve davvero: Colonnata, Fantiscritti e Campocecina non hanno collegamenti comodi. In alternativa il treno Firenze–Viareggio/Pietrasanta (con cambio, indicativamente 1h40–2h, orari e tariffe da verificare su Trenitalia) vale solo per la parte di costa, poi per le cave servirebbero bus locali o tour.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h in auto (107 km) fino a Pietrasanta; Carrara ancora 25-30 minuti. Treno come confronto: circa 1h40–2h con cambio.",
+      "durataViaggioMinuti": 61,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre: mare vivibile, luce limpida sulle cave e prezzi dell'alloggio ancora ragionevoli. Luglio e agosto sono il periodo di punta in Versilia, con traffico, spiagge piene e camere care. In inverno molti stabilimenti sono chiusi, ma le cave e i borghi restano godibili.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 141,
+      "costoMax": 257,
+      "costoNota": "Stima per 2 viaggiatori che condividono l'auto, una notte. Il massimo include il tour guidato in minivan alle cave (45 € a persona, prezzo rilevato su una scheda ormai scaduta: da riconfermare). I km locali (circa 60–80 tra Pietrasanta, Forte dei Marmi, Carrara e Colonnata) sono una stima. Il parcheggio non è a numero perché non verificato.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Due giorni bastano per un ritmo comodo ma pieno: il primo è la costa, con Pietrasanta (centro pedonale compatto, botteghe di scultori, Duomo e Museo dei Bozzetti) e una passeggiata a Forte dei Marmi; il secondo è la montagna di marmo, con Fantiscritti, Colonnata e il belvedere di Campocecina. Le distanze interne sono brevi (Pietrasanta–Carrara circa 25 km), quindi si perde poco tempo in macchina. Una sola notte permette di cenare senza fretta e di arrivare alle cave la mattina, quando i cavatori lavorano. Con un solo giorno si dovrebbe scegliere tra mare e cave.",
+      "cosaVedere": [
+        "Pietrasanta, centro storico: Piazza del Duomo con la cattedrale di San Martino, il campanile e le botteghe dove si scolpisce ancora il marmo; è la città di artisti e fonditori e si capisce passeggiando.",
+        "Museo dei Bozzetti Pierluigi Gherardi: ingresso gratuito, raccoglie i bozzetti preparatori degli scultori passati da Pietrasanta; si vede come nasce un'opera prima che diventi marmo o bronzo.",
+        "Forte dei Marmi: il lungomare e il molo, con il Fortino mediceo e la Piazza Garibaldi; fuori stagione è un posto tranquillo dove camminare sulla spiaggia vuota.",
+        "Cava Museo di Fantiscritti (Carrara): non è una cava attiva ma conserva gli attrezzi, la ricostruzione della casa del cavatore e i buoi di marmo a grandezza naturale; si visita su prenotazione e a pagamento.",
+        "Colonnata: borgo dei cavatori sopra Carrara, famoso per il lardo stagionato in vasche di marmo (IGP dal 2004, presidio Slow Food); lo si assaggia su pane caldo nelle larderie o a tavola.",
+        "Campocecina: altopiano in quota nel Parco regionale delle Alpi Apuane, in direzione Fosdinovo, con viste sulle cave e, nelle giornate limpide, sul mare."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte per due in B&B o hotel 3 stelle tra Pietrasanta, Marina di Pietrasanta e Forte dei Marmi: dai circa 70 € (B&B La Bugneta, Pietrasanta) a 90 € (Hotel Versilia, Lido di Camaiore; Hotel Caprice, Marina di Massa), fino a 127–130 € per le sistemazioni migliori; Forte dei Marmi stessa costa molto di più, quindi conviene dormire a Pietrasanta o a Marina di Massa. Fascia usata: 70–130 € a notte per due (35–65 € a persona). Prezzi indicativi dal portale bed-and-breakfast.it, in estate salgono.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Circa 270–290 km complessivi (107 km Firenze–Pietrasanta ciascuna direzione più 60–80 km di spostamenti locali): a 0,129 €/km sono circa 35–37 €.",
+          "min": 35,
+          "max": 37,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A11/A12",
+          "testo": "A11 Firenze–Pietrasanta 8,10 € a tratta, 16,20 € di andata e ritorno; i brevi tratti locali di A12 non sono inclusi.",
+          "min": 16,
+          "max": 17,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "70–130 € a notte per due in B&B o 3 stelle in zona Pietrasanta/Marina di Massa, quindi 35–65 € a persona per la notte.",
+          "min": 35,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Trattorie a Carrara e Colonnata sui 20–30 € a persona (Capinera 20–25, Venanzio circa 30); in Versilia contare qualcosa di più. Fascia al giorno tra pranzo e cena: 40–60 € a persona.",
+          "min": 40,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Tour guidato cave in minivan",
+          "testo": "Facoltativo: 45 € a persona (under 12 25 €), circa 6 ore con Fantiscritti, Colonnata e merenda del cavatore, minimo 4 adulti; prezzo da una scheda scaduta nel 2023, da riconfermare. Museo dei Bozzetti gratuito.",
+          "min": 0,
+          "max": 45,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono costi della vettura e si dividono per due; alloggio (per due), pasti e tour sono a persona. Parcheggio: non verificato, probabili parcheggi a pagamento a Pietrasanta e Forte dei Marmi.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Pietrasanta è in gran parte pedonale/a traffico limitato: conviene lasciare l'auto in un parcheggio perimetrale. La strada per Colonnata e le cave è stretta e frequentata da camion di marmo; le piste sterrate delle cave sono sconsigliate alle auto private."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Museo dei Bozzetti: martedì–sabato 9–19, domenica 16–19, probabile chiusura il lunedì (orari da confermare al +39 0584 795500). Nei fine settimana e nei festivi le cave in attività sono ferme: i cavatori si vedono al lavoro solo nei giorni feriali."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La Cava Museo di Fantiscritti si visita su prenotazione (sito cavamuseo.com); anche tour in minivan o jeep vanno prenotati. Per cena a Colonnata, soprattutto nel weekend, meglio prenotare."
+        }
+      ],
+      "note": "Per vedere i cavatori all'opera programma la salita alle cave il sabato mattina o in un giorno feriale; la domenica restano macchine ferme. Chi non vuole guidare sulle piste può prenotare un tour in jeep o minivan da Carrara. Il lardo si ordina a fette sottili su pane caldo: a Colonnata costa poco (circa 8 € il piatto in una trattoria di Carrara), meglio mangiarlo lì che comprarlo altrove. Per risparmiare dormi a Marina di Massa o a Pietrasanta invece che a Forte dei Marmi.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Pietrasanta/",
+        "https://www.bed-and-breakfast.it/en/budget-bb-forte-dei-marmi",
+        "https://www.museionline.info/musei/cava-museo-fantiscritti",
+        "https://www.visittuscany.com/it/offerte/tour-in-minivan-la-cava-museo-di-fantiscritti-e-colonnata/",
+        "https://www.scattidigusto.it/dove-mangiare-a-massa-carrara-spendendo-poco",
+        "https://www.museionline.info/musei/museo-dei-bozzetti-pierluigi-gherardi",
+        "https://guide.michelin.com/it/it/notizia/features/il-lardo-di-colonnata",
+        "https://www.italia.it/it/toscana/colonnata"
+      ],
+      "aggiuntaIl": "2026-11-14",
+      "coordinate": {
+        "lat": 43.9566,
+        "lon": 10.2278
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Spiaggia e passeggiate vanno bene con un bimbo di 4 anni, ma strade di montagna e visite alle cave sono lunghe."
       }
     },
     {
@@ -24965,6 +26084,172 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Con un bimbo di 4 anni pesano le 4h30-5h25 di auto a tratta; funicolare e borgo di Sant'Agata piacciono, ma musei e santuari sono lunghi per lui."
+      }
+    },
+    {
+      "id": "isole-pontine-3g",
+      "nome": "Isole Pontine: Ponza, Palmarola e Ventotene",
+      "sottotitolo": "Lazio, tre isole del golfo di Gaeta: calette e faraglioni a Ponza, la giornata in barca a Palmarola e la gita a Ventotene",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. a Formia-Gaeta (Frecciarossa, Intercity o Regionale, diretti ma poche corse al giorno: controllare l'orario), poi 10 minuti a piedi/taxi fino al porto di Formia e aliscafo o nave Laziomar per Ponza. Se si preferisce l'auto, a Formia ci sono parcheggi a circa 400 m dal porto con navetta gratuita (da 2,44 € al giorno come prezzo di partenza, da verificare in fase di prenotazione); sulle isole l'auto non serve e le automobili si imbarcano solo sulla nave Laziomar da Formia (da circa 40 € a tratta), quindi conviene lasciarla a terra.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 4h15-4h30 da Firenze a Ponza: 2h35 in Frecciarossa fino a Formia, trasferimento al porto e circa 1h20 di aliscafo (2h30 circa con la nave).",
+      "durataViaggioMinuti": 270,
+      "periodoMiglioreTesto": "Giugno e settembre: il giro in barca di Palmarola opera dal 29 maggio al 3 ottobre, il collegamento Ponza-Ventotene con SNAV solo da giugno a settembre, il mare è caldo e i prezzi non sono ancora quelli di agosto. Luglio e agosto sono i mesi più cari e affollati.",
+      "mesi": [
+        6,
+        9
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 193,
+      "costoMax": 359,
+      "costoNota": "Totale a persona (2 viaggiatori) = trasporti, sbarco, giro Palmarola e alloggio (22-53 € al giorno x 3). I pasti NON sono nel totale: non ho trovato fasce 2025-2026 verificate di pranzo e cena a Ponza e Ventotene (le fonti trovate danno solo categorie di prezzo o prezzi 2020-2021, ad es. circa 40-50 € a cena in ristoranti di mare), quindi la voce resta testuale e va aggiunta a parte. Il pranzo del giorno di Palmarola è incluso nel giro. Il costo dell'alloggio è espresso per 3 giorni dal calcolo dell'app ma vale per 2 notti, ed è già riportato in proporzione. L'auto fino a Formia è solo un confronto e non entra nel totale.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Ponza è un'isola stretta e allungata che si gira in barca o in bus in una mezza giornata; Palmarola è un'isola disabitata raggiungibile solo via mare e il giro con soste bagno e pranzo occupa una giornata intera (partenza alle 11, rientro verso le 16-17). Ventotene si vede in una gita: il borgo, il porto romano e il Carcere di Santo Stefano si esauriscono in poche ore. Con 3 giorni si dorme due notti a Ponza, si fa Palmarola il secondo giorno e Ventotene il terzo, senza correre. Meno di così si dovrebbe scegliere una sola isola; il nodo vero è il viaggio, 4 ore e mezza tra treno e aliscafo.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Firenze-Formia-Ponza. Treno del mattino per Formia-Gaeta (circa 2h35 in Frecciarossa), aliscafo o nave per Ponza (1h20 con l'aliscafo, 27 €; la nave Laziomar costa 17,30-18,20 € ma impiega circa 2h30). Pomeriggio a Ponza porto: passeggiata sul Corso Pisacane, le case colorate e il porto dei pescatori, poi aperitivo con vista al tramonto. Cena con pesce a Santa Maria o in porto."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Palmarola. Giro in barca da Ponza (partenza verso le 11 dal Molo Musco, rientro verso le 16): 43,11 € a persona fino al 6 agosto e dal 1 settembre al 3 ottobre, 50,04 € in agosto, con pranzo a bordo (pasta, acqua, vino e caffè) e soste bagno nelle calette; sono disponibili anche gozzi privati da circa 60 € a persona. Si vedono i faraglioni, la Cala del Porto e il Pizzo Tre Venti. Serata libera a Ponza."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Ventotene e rientro. Con SNAV si va da Ponza a Ventotene in circa 50 minuti (27-34 €, solo da giugno a settembre, 2-4 corse a settimana: scegliere il giorno giusto). Mattina a Ventotene: il porto romano scavato nel tufo, il centro con piazza Castello e il Carcere di Santo Stefano, ricordo del confino politico. Nel pomeriggio da Ventotene a Formia con Laziomar (circa 1h10 col mezzo veloce, 15-22 €) e treno per Firenze (arrivo in serata). Fuori dal periodo SNAV, l'alternativa è tornare a Formia da Ponza e lasciare Ventotene per un'altra volta."
+        }
+      ],
+      "alloggio": "Hotel e B&B a Ponza si trovano soprattutto al porto e a Santa Maria. Prezzi per camera doppia a notte: da circa 66 € (appartamenti), 80-100 € per le sistemazioni più economiche, fino a 160-200 € per quelle di fascia alta; hotel 3 stelle da 95 €. In bassa stagione (marzo) la media è circa 79 € a notte, in luglio circa 279 €. Nei calcoli ho usato 66-160 € per camera, cioè circa 33-80 € a persona a notte, per 2 notti. Per un B&B tipico, 78-160 € a notte per due. La zona del porto è più comoda per i traghetti; Santa Maria è più tranquilla.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R Firenze-Formia-Gaeta",
+          "testo": "Regionale da circa 9 € e Intercity da circa 10 € a tratta; Frecciarossa da circa 29 € a tratta. Per l'andata e ritorno si va da circa 20 € (Regionale/Intercity in anticipo) a circa 58 € (Frecciarossa).",
+          "min": 20,
+          "max": 58,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Formia-Ponza (sola andata)",
+          "testo": "Laziomar: nave 17,30 € (1 novembre-31 marzo) o 18,20 € (1 aprile-31 ottobre); unità veloce 27 € tutto l'anno. Durata circa 1h20 con l'aliscafo.",
+          "min": 17,
+          "max": 27,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ponza-Ventotene (SNAV, sola andata)",
+          "testo": "Da 27 € a 34 € in base al mese; circa 50 minuti; solo giugno-settembre, 2-4 giorni a settimana.",
+          "min": 27,
+          "max": 34,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ventotene-Formia (Laziomar, sola andata)",
+          "testo": "Tra 15 € e 22 €, circa 1h10 col mezzo veloce e 2h-2h30 con la nave.",
+          "min": 15,
+          "max": 22,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Contributo di sbarco (Ponza e Ventotene)",
+          "testo": "Contributo di sbarco 2,50-5 € a Ponza (secondo il periodo) e 2,50-4 € a Ventotene.",
+          "min": 5,
+          "max": 9,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Giro in barca a Palmarola con pranzo",
+          "testo": "43,11 € a persona (29 maggio-6 agosto e 1 settembre-3 ottobre), 50,04 € in agosto; bambini 31,50-40,50 €. Include pranzo a bordo, soste bagno e maschere per lo snorkeling; parte con almeno 10 partecipanti.",
+          "min": 43,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti, espresse al giorno su 3)",
+          "testo": "B&B o hotel 3 stelle, 66-160 € a notte per due, cioè 33-80 € a persona a notte; con 2 notti su 3 giorni sono 22-53 € a persona al giorno.",
+          "min": 22,
+          "max": 53,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Non verificato per il 2025-2026: le pagine consultate (Sluurpy, aggiornate a fine 2025) indicano solo la categoria di prezzo €€ (circa 20 € a persona su Sluurpy, senza menu con prezzi) e Scatti di Gusto (2020-2021) cita circa 40-50 € a cena in ristoranti di mare a Ponza e Ventotene. Nessuna fascia recente utilizzabile, quindi la voce resta senza importi e fuori dal totale; il pranzo del giorno di Palmarola è incluso nel giro in barca.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Auto fino a Formia (confronto)",
+          "testo": "Firenze-Formia 407 km sola andata (814 km A/R) x 0,129 €/km = circa 105 € di carburante; pedaggio autostradale 27,60 € a tratta (circa 55 € A/R) secondo Unipol Move. Totale circa 160 € per la vettura, cioè circa 80 € a persona in due, più il parcheggio a Formia (da 2,44 € al giorno come tariffa di partenza, non incluso). Resta un confronto: il treno è consigliato.",
+          "min": 160,
+          "max": 160,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci nel totale sono a persona (treno, traghetti, sbarco, barca, alloggio); i pasti non sono inclusi perché senza fonte recente. La vettura (carburante, pedaggi, parcheggio) non entra nel totale perché il mezzo consigliato è il treno.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Le auto si imbarcano solo sulla nave Laziomar da Formia (da circa 40 € a tratta); aliscafi e unità veloci trasportano solo passeggeri. A Ventotene l'isola misura circa 1,5 km² e si gira a piedi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Ponza-Ventotene SNAV è stagionale: solo giugno-settembre e 2-4 giorni a settimana (circa 3 corse). Anzio-Ponza (Laziomar, solo passeggeri) opera dal 29 maggio al 27 settembre."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Prenotare con anticipo aliscafi e barca per Palmarola nei weekend e ad agosto; il tour parte solo con almeno 10 partecipanti (cancellazione gratuita fino a 24 ore prima)."
+        }
+      ],
+      "note": "Il trucco che non è scritto sulle guide: il giro di Palmarola con pranzo a bordo costa meno (43 €) delle escursioni private, quindi conviene prenotarlo per tempo e fare il bagno nelle calette con la maschera già con sé. Il ritorno è la parte più delicata: l'ultimo aliscafo da Formia o Ventotene e l'ultimo Frecciarossa per Firenze non sempre coincidono, quindi controllare gli orari prima di fissare il giorno di rientro. Il mare mosso può fermare gli aliscafi, tenere un margine di un giorno se si ha un impegno il giorno dopo. Fuori stagione, tra novembre e marzo, la nave costa meno (17,30 €) ma i giri in barca non operano: questo itinerario è pensato per giugno e settembre.",
+      "fonti": [
+        "https://www.parkingmycar.it/blog/traghetti-per-ponza-orari-parcheggi/",
+        "https://www.parkingmycar.it/blog/traghetti-per-ventotene/",
+        "https://www.ferryhopper.com/it/ferry-routes/direct/ponza-ventotene",
+        "https://www.ferryhopper.com/it/ferries/italy/formia",
+        "https://www.omio.it/treni/firenze/formia",
+        "https://www.kayak.it/Hotel-a-Ponza.47348.hotel.ksp",
+        "https://www.likibu.com/it/appartamenti-affitto-vacanze/ponza/bed-breakfast",
+        "https://www.scattidigusto.it/ponza-10-indirizzi-imperdibili",
+        "https://freedome.it/escursioni-in-barca/palmarola/",
+        "https://www.holidoit.com/e/linea-isola-di-palmarola",
+        "https://www.parkingmycar.it/parcheggio-porto-formia",
+        "https://parclick.it/parcheggio-formia/europarcheggio-porto-di-formia",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Formia",
+        "https://www.sluurpy.it/ponza/ristoranti",
+        "https://www.scattidigusto.it/i-migliori-100-ristoranti-di-mare-a-meno-di-50-euro-isole"
+      ],
+      "aggiuntaIl": "2026-11-14",
+      "coordinate": {
+        "lat": 40.8997,
+        "lon": 12.9606
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni il viaggio di 4h30 e il giro in barca di 6 ore con mare aperto sono impegnativi; il tour ha tariffa bambini (31,50-40,50 €) e a Ponza ci sono calette comode, ma conviene scegliere solo una delle tre isole."
       }
     },
     {
@@ -80658,6 +81943,221 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Con un bimbo di 4 anni servono vaccino contro la febbre gialla e profilassi antimalarica, e i trasferimenti di 5–7 ore in pullman sono pesanti; i castelli raccontano storie crude, mentre Kakum e gli elefanti di Mole lo entusiasmeranno."
+      }
+    },
+    {
+      "id": "giamaica-14g",
+      "nome": "Giamaica: Kingston, Blue Mountains, Port Antonio, Ocho Rios, Montego Bay, Negril e Treasure Beach",
+      "sottotitolo": "Giamaica, Caraibi: il giro completo dell'isola in auto a noleggio, dalle scogliere di Negril al caffè delle Blue Mountains fino alle lagune di Port Antonio",
+      "durataGiorni": 14,
+      "mezzoConsigliato": "Treno da Firenze a Milano e poi a Malpensa, quindi volo Neos senza cambio di aereo Milano Malpensa–Montego Bay: circa 13h40 all'andata e 9h25 al ritorno, con prezzi da 729 € A/R (secondo momondo vola il lunedì e il sabato, ma verificate i giorni sul sito Neos). Si spende meno, ma si viaggia molto di più, con uno o due scali: Air Canada via Toronto o Montréal da 659 € A/R da Roma Fiumicino e da 669 € da Milano; Delta via New York, Boston o Atlanta sui 815–860 €; da Malpensa anche Condor (da 748 €) e American Airlines. Kingston costa di più: da Milano almeno 857 € A/R con Delta. Conviene quindi atterrare e ripartire da Montego Bay, ritirare lì l'auto a noleggio e fare il giro dell'isola, restituendola in aeroporto l'ultimo giorno. Per arrivare a Malpensa o a Fiumicino si prende il Frecciarossa/Italo da Firenze S.M.N. (circa 62–130 € a persona A/R compreso il Malpensa Express: prenotate insieme al volo).",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 19–20 ore porta a porta con il volo Neos senza cambio: 3 ore di treno da Firenze a Malpensa, i controlli in aeroporto, circa 13h40 di volo fino a Montego Bay e poi circa un'ora e mezza di auto fino a Negril. Con uno scalo in Nord America si arriva a 30–37 ore. A novembre la Giamaica è 6 ore indietro rispetto all'Italia.",
+      "durataViaggioMinuti": 1170,
+      "periodoMiglioreTesto": "Da dicembre ad aprile: è la stagione secca, con meno umidità e mare calmo sulla costa nord, ed è il periodo migliore anche per salire sulle Blue Mountains (all'alba fa freddo, portate un pile). Maggio e la prima metà di dicembre costano meno e sono ancora buoni. Da giugno a novembre è la stagione degli uragani; l'uragano Melissa (categoria 5, ottobre 2025) ha colpito soprattutto l'ovest e il sud dell'isola. Settembre e ottobre sono i mesi più a rischio e anche i più piovosi.",
+      "mesi": [
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "mesiDaEvitare": [
+        9,
+        10
+      ],
+      "costoMin": 1448,
+      "costoMax": 3660,
+      "costoNota": "A persona in due, con 13 notti (l'app conta alloggio e pasti su 14 giorni, quindi la stima è prudente). Prezzi in dollari USA convertiti a un cambio indicativo di 1 $ ≈ 0,86 €; i voli sono già in euro (momondo, rilevazione del 13/11/2026). Il carburante è stimato con i parametri del documento (0,129 €/km per circa 900 km di giro): in Giamaica la benzina costa probabilmente meno, quindi la cifra è prudente. Il treno Firenze–Malpensa A/R è compreso (62–130 €, fasce da portali di prenotazione; tariffa Malpensa Express non confermata dal sito Trenord). Non è compreso il rafting sul Rio Grande, se non lo si prende all'interno di un tour.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 2,
+      "percheDurata": "L'isola è lunga circa 235 km, ma le strade sono strette e tortuose, quindi si percorrono pochi chilometri al giorno: da Montego Bay a Negril serve un'ora e mezza, da Treasure Beach a Kingston circa tre ore, dalle Blue Mountains a Port Antonio e da Port Antonio a Ocho Rios un paio d'ore ciascuna. In 14 giorni si fanno sei basi con 2–3 notti ciascuna (Negril, Treasure Beach, Kingston, Blue Mountains, Port Antonio, Ocho Rios). Si guida mezza giornata al massimo e, tra uno spostamento e l'altro, si resta almeno un giorno intero senza auto: c'è il tempo per il mare, per una cascata al giorno e per Kingston con calma. In una settimana bisognerebbe rinunciare a metà isola.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: atterraggio a Montego Bay (aeroporto Sangster), ritiro dell'auto e circa un'ora e mezza di guida verso ovest fino a Negril, lungo la costa e passando per Lucea. Arrivate prima del buio: le strade di campagna sono poco illuminate. Prima notte a Negril."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Negril. La mattina sulla Seven Mile Beach, la lunga spiaggia di sabbia bianca a nord del paese. Nel pomeriggio si va verso il West End, dove la costa diventa una scogliera calcarea con piscine naturali nella roccia; al tramonto, da Rick's Café, si guardano i tuffatori saltare dalla roccia. Per cena tornate in taxi JTB invece di camminare: Viaggiare Sicuri sconsiglia di girare di notte a Negril."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: verso sud-est lungo la costa, passando per Bluefields e Black River, fino a Treasure Beach (circa 2–3 ore). Savanna-la-Mar si attraversa senza fermarsi, perché il governo britannico la segnala tra le zone a rischio. Black River è stata la città più colpita dall'uragano Melissa: se il safari in barca tra mangrovie e coccodrilli è ripartito, si può fare lì una sosta (chiedete prima all'alloggio). Arrivo a Treasure Beach, un villaggio di pescatori senza resort."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: Treasure Beach e dintorni. La mattina all'interno, alle YS Falls, una serie di cascate e pozze tra i pascoli, a circa 45 minuti di auto. Il pomeriggio si va al Lovers' Leap, una scogliera alta sul mare, oppure in barca con i pescatori del villaggio. Ad aprile 2026 il presidente dello Jakes stimava che il 98 % di Treasure Beach fosse stato ripristinato, ma alcuni tratti di strada erano ancora da sistemare."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: da Treasure Beach a Kingston, circa tre ore, quasi tutte sulla superstrada T1 dopo Mandeville e May Pen. Spanish Town si aggira sulla superstrada senza entrare, perché Viaggiare Sicuri la sconsiglia. Si dorme a New Kingston o vicino a Hope Road e si lascia l'auto in hotel. Nel tardo pomeriggio si va a Devon House, villa ottocentesca con giardino, famosa per il gelato e i patties."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: Kingston con Uber o taxi JTB. Bob Marley Museum al 56 di Hope Road, nella casa dove Marley visse e registrò; poi Emancipation Park e la National Gallery of Jamaica a downtown, da raggiungere in taxi e da visitare di giorno. West Kingston, Grant's Pen, August Town e Harbour View vanno evitati. Per il giro in città il governo britannico consiglia di non guidare se non si conosce Kingston."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: si sale sulle Blue Mountains passando per Papine e Irish Town, verso Hardwar Gap e Holywell: in un'ora si passa dal caldo della costa ai boschi di nebbia e alle felci arboree. Si dorme in un lodge o in una piantagione di caffè. Il giro in una piantagione di Blue Mountain coffee spiega come si raccoglie e si tosta uno dei caffè più cari al mondo."
+        },
+        {
+          "giorno": 8,
+          "testo": "Giorno 8: giornata intera in montagna. Chi è allenato sale al Blue Mountain Peak (2.256 m), partendo di notte con una guida per vedere l'alba sopra le nuvole. Chi preferisce un'uscita più tranquilla percorre i sentieri di Holywell e si ferma in una delle caffetterie di Irish Town. Seconda notte in quota."
+        },
+        {
+          "giorno": 9,
+          "testo": "Giorno 9: discesa verso la costa nord-est fino a Port Antonio (circa 2 ore). Chiedete in loco se la strada di montagna per Buff Bay è aperta, perché frane e lavori la chiudono spesso; in alternativa si ripassa da Kingston e si prende la Junction Road. Nel pomeriggio si fa il primo bagno a Frenchman's Cove, dove un fiume d'acqua dolce sfocia nella caletta."
+        },
+        {
+          "giorno": 10,
+          "testo": "Giorno 10: Port Antonio. La mattina alla Blue Lagoon, una laguna profonda in cui sorgenti fredde si mescolano all'acqua di mare. Poi Winnifred Beach, la spiaggia frequentata dai giamaicani, e a pranzo il jerk di Boston Bay, che è considerata la patria del jerk: maiale e pollo affumicati su legno di pimento."
+        },
+        {
+          "giorno": 11,
+          "testo": "Giorno 11: discesa del Rio Grande sulle zattere di bambù guidate dai raftsmen, due o tre ore lente tra le gole verdi. Nel pomeriggio si va alle Reach Falls, cascate e pozze nella foresta a est di Boston Bay. È il giorno in cui la zona di Port Antonio, la più verde e meno turistica dell'isola, si apprezza di più."
+        },
+        {
+          "giorno": 12,
+          "testo": "Giorno 12: da Port Antonio a Ocho Rios lungo la costa nord (circa 2 ore). Lungo la strada, a Port Maria, si sale a Firefly, la casa di Noël Coward affacciata sulla baia. Nel pomeriggio si risalgono le Dunn's River Falls, a gradoni e in fila indiana, con scarpette da scoglio. Andateci tardi, quando le navi da crociera se ne sono andate."
+        },
+        {
+          "giorno": 13,
+          "testo": "Giorno 13: Ocho Rios e l'interno. La mattina alla Blue Hole (Island Gully Falls), pozze turchesi in cui ci si tuffa dalle rocce, molto meno affollata di Dunn's River. Nel pomeriggio chi ama il reggae sale a Nine Mile, il villaggio natale di Bob Marley con il suo mausoleo, oppure va alla Green Grotto, grotte calcaree vicino a Discovery Bay."
+        },
+        {
+          "giorno": 14,
+          "testo": "Giorno 14: da Ocho Rios a Montego Bay sulla superstrada costiera, passando per Falmouth, la cittadina georgiana di Trelawny (circa un'ora e mezza). Se il volo parte tardi c'è ancora tempo per un ultimo bagno alla Doctor's Cave Beach, sulla Hip Strip, poi si restituisce l'auto in aeroporto. A Montego Bay evitate le zone di Flankers, Barrett Town, Glendevon, Rose Heights e Mount Salem."
+        }
+      ],
+      "alloggio": "Le guesthouse e gli hotel economici costano circa 40–60 $ a notte per la camera (JMD 6.000–9.000); gli hotel di fascia media e i boutique hotel 100–165 $. Nelle stanze in affitto più semplici di Montego Bay si trova anche a 20–30 $. Conviene dormire in strutture piccole e gestite da famiglie: a Negril lungo la Seven Mile Beach o sulle scogliere del West End, a Treasure Beach nelle guesthouse sul mare, a Kingston a New Kingston o vicino a Hope Road (zone tranquille, con il parcheggio in hotel), sulle Blue Mountains nei lodge delle piantagioni di caffè, a Port Antonio sulle colline di Drapers e San San e a Ocho Rios fuori dal centro delle crociere. Da dicembre ad aprile prenotate con anticipo. Dopo l'uragano Melissa alcuni hotel di Montego Bay sono ancora in ristrutturazione: i tre Sandals della zona riaprono tra novembre e dicembre 2026.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Italia–Montego Bay",
+          "testo": "Neos senza cambio di aereo Malpensa–Montego Bay da 729 €; Air Canada con scalo in Canada da 659 € (Roma) e da 669 € (Milano); Delta via USA 815–821 € da Roma; molte offerte da Milano tra 670 e 1.010 € (momondo, 13/11/2026).",
+          "min": 660,
+          "max": 1010,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo A/R per Kingston (alternativa)",
+          "testo": "Milano–Kingston da 857 € (Delta, 2 scali) a 926 € (American Airlines): costa di più e il giro dell'isola funziona meglio partendo da Montego Bay.",
+          "min": 857,
+          "max": 926,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Firenze–Malpensa A/R",
+          "testo": "Frecciarossa/Italo Firenze S.M.N.–Milano Centrale A/R: circa 36–100 € (sola andata da 18–26 € con Italo prenotando in anticipo fino a circa 50 € last minute; omio, novembre 2026), più Malpensa Express Milano Centrale–Malpensa A/R circa 26–30 € (13–15 € a tratta). Prenotatelo appena avete gli orari del volo.",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false,
+          "min": 62,
+          "max": 130
+        },
+        {
+          "voce": "Noleggio auto (13 giorni)",
+          "testo": "Circa 40–80 $ al giorno (34–69 €), dalle offerte economiche di Montego Bay alle tariffe medie dell'isola, per 13 giorni con ritiro e riconsegna all'aeroporto di Montego Bay. Si guida a sinistra e la patente italiana è accettata.",
+          "min": 442,
+          "max": 897,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Circa 900 km di giro tra le basi e le escursioni giornaliere, calcolati a 0,129 €/km con i parametri del documento: una stima prudente.",
+          "min": 116,
+          "max": 116,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alternativa senza auto: taxi e transfer",
+          "testo": "Navetta dall'aeroporto di Montego Bay a Negril 20–30 $, transfer privato 60–100 $; taxi turistici per brevi tratte 15–35 $, route taxi collettivi 1,5–4 $. Senza auto le Blue Mountains e il sud diventano complicati.",
+          "min": 17,
+          "max": 86,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Da 40–60 $ a notte in guesthouse a 100–165 $ in un hotel di fascia media, per la camera doppia: da 20 a 82 $ (17–71 €) a persona a notte.",
+          "min": 17,
+          "max": 71,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Spendendo poco, con jerk e patties, si sta sui 7–13 $ al giorno; con un pranzo al chiosco del jerk (5–10 $) e una cena seduti al ristorante (25–50 $ a persona, bevande escluse) si arriva a 30–60 $ al giorno.",
+          "min": 11,
+          "max": 52,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi ed escursioni",
+          "testo": "Si va da 64 $ per Dunn's River Falls (20 $), Bob Marley Museum (24 $) e Blue Hole (20 $) fino a circa 340 $ aggiungendo un tour di Port Antonio con Blue Lagoon, Reach Falls e rafting sul Rio Grande (75–120 $) e uno della costa sud con YS Falls (100–150 $).",
+          "min": 55,
+          "max": 292,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "A persona: volo, treno fino all'aeroporto, alloggio (la camera doppia divisa per due), pasti, ingressi ed escursioni. Della vettura, da dividere in due: noleggio e carburante. Il carburante è stimato con il costo al chilometro del documento.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Viaggiare Sicuri (scheda aggiornata al 12/5/2026) non sconsiglia il viaggio, ma raccomanda estrema prudenza, perché la criminalità legata alle gang è elevata. Sconsiglia West Kingston, Grant's Pen, August Town, Harbour View e Spanish Town e gli spostamenti notturni a Montego Bay e Negril. Il governo britannico aggiunge Savanna-la-Mar e alcune zone di Montego Bay (Flankers, Barrett Town, Glendevon, Rose Heights, Mount Salem), e per andare all'aeroporto di Kingston consiglia la strada per South Camp Road invece di quella per Mountain View. In città usate Uber o i taxi con l'adesivo blu JTB."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Si guida a sinistra, su strade spesso strette, tortuose, mal segnalate e buie di notte, e gli incidenti sono frequenti: pianificate le tappe per arrivare con la luce. Su alcune strade di montagna serve un 4x4; chiedete al noleggio prima di salire sulle Blue Mountains. Possono essere decretati stati di emergenza o coprifuoco locali anche senza preavviso."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Serve il passaporto valido almeno sei mesi; il visto non è richiesto fino a 90 giorni. Il modulo online C5 su enterjamaica.com è obbligatorio e si compila nei 30 giorni prima della partenza. Potrebbero chiedervi il biglietto di ritorno."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "L'uragano Melissa (ottobre 2025) ha danneggiato soprattutto l'ovest e il sud. A luglio 2026 Black River era ancora in ricostruzione, con solo alcune strutture e operatori turistici aperti, mentre Negril, Kingston, Ocho Rios e Port Antonio erano tornate operative. Prima di prenotare chiedete all'alloggio se le escursioni della costa sud funzionano. Da giugno a novembre è stagione degli uragani."
+        }
+      ],
+      "note": "A Kingston lasciate l'auto nel parcheggio dell'hotel e muovetevi in Uber: il traffico di downtown è caotico, e il governo britannico consiglia di non guidarci se non conoscete la città. Il jerk migliore si mangia nei chioschi con il fumo che esce dai bidoni tagliati, non nei ristoranti degli hotel. A Boston Bay, vicino a Port Antonio, i pit sono in fila sulla strada. Alle Dunn's River Falls andate a metà pomeriggio, quando sono ripartiti i gruppi delle navi da crociera, e portate scarpette da scoglio. Alla Blue Hole si paga l'ingresso a una cassa ufficiale: le guide improvvisate al parcheggio chiedono soldi in più. L'acqua del rubinetto non è potabile e la dengue è endemica: tenete a portata di mano repellente e acqua in bottiglia. Comprate il caffè Blue Mountain direttamente nelle piantagioni, perché costa meno che in aeroporto, e tenete presente che la sua importazione può avere limiti doganali. Viaggiare Sicuri consiglia di registrare il viaggio su Dove Siamo nel Mondo.",
+      "fonti": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/JAM.pdf",
+        "https://www.gov.uk/foreign-travel-advice/jamaica/safety-and-security",
+        "https://www.momondo.it/volo/lazio/giamaica",
+        "https://www.momondo.it/volo/lombardia-italia/giamaica",
+        "https://www.jetsetteralerts.com/cost-to-visit-jamaica/",
+        "https://www.amigosim.com/blog/how-much-does-it-cost-to-go-to-jamaica-on-holiday",
+        "https://theworldtravelindex.com/en/caribbean/jamaica/montego-bay/is-montego-bay-expensive",
+        "https://travelnoire.com/jamaica-hurricane-melissa-recovery-travel-guide-2026",
+        "https://jamaica-gleaner.com/article/news/20260428/treasure-beach-rises-again",
+        "https://www.omio.it/viaggi/milano/firenze",
+        "https://www.omio.it/treni/malpensa-aeroporto/milano-centrale-nq4hz",
+        "https://www.edreams.it/treni/firenze-milano/FLR/MIL/"
+      ],
+      "aggiuntaIl": "2026-11-14",
+      "coordinate": {
+        "lat": 18.11,
+        "lon": -77.3
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni sono adatte le spiagge di Negril e Treasure Beach, la Blue Lagoon e la zattera sul Rio Grande; pesano invece il lungo volo con il fuso, le tante ore d'auto su strade tortuose, le zanzare (dengue) e la salita alle Blue Mountains."
       }
     },
     {
