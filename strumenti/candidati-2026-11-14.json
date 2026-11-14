@@ -1,0 +1,232 @@
+[
+ [
+  "savoia-e-vanoise-7g",
+  "Savoia e Vanoise: Chambéry, Aix-les-Bains, Albertville, Val d'Isère e il Beaufortain",
+  7
+ ],
+ [
+  "luberon-alpilles-e-alta-provenza-7g",
+  "Luberon, Alpilles e Alta Provenza: Aix-en-Provence, Gordes, Lourmarin, Forcalquier e Manosque",
+  7
+ ],
+ [
+  "vestfalia-e-ruhr-7g",
+  "Vestfalia e Ruhr: Düsseldorf, Münster, Essen e lo Zollverein, Dortmund, Aquisgrana e il Sauerland",
+  7
+ ],
+ [
+  "sassonia-anhalt-e-brandeburgo-7g",
+  "Sassonia-Anhalt e Brandeburgo: Potsdam, Spreewald, Dessau, Wittenberg, Magdeburgo e Naumburg",
+  7
+ ],
+ [
+  "olanda-meridionale-utrecht-e-zelanda-7g",
+  "Olanda meridionale, Utrecht e Zelanda: Rotterdam, L'Aia, Delft, Utrecht, Dordrecht, Middelburg e il Delta",
+  7
+ ],
+ [
+  "east-anglia-e-lincolnshire-7g",
+  "East Anglia e Lincolnshire: Norwich, i Norfolk Broads, la costa del Suffolk, Ely, Bury St Edmunds e Lincoln",
+  7
+ ],
+ [
+  "irlanda-occidentale-7g",
+  "Irlanda occidentale: Galway, Connemara, Isole Aran, Burren, Cliffs of Moher, Kerry e Dingle",
+  7
+ ],
+ [
+  "piemonte-meridionale-7g",
+  "Piemonte meridionale: Langhe, Roero, Monferrato, Acqui Terme, Alessandria e Alta Val Tanaro",
+  7
+ ],
+ [
+  "romagna-e-montefeltro-7g",
+  "Romagna e Montefeltro: Ravenna, Faenza, Brisighella, Forlì, Cesena, Santarcangelo, San Leo e Valmarecchia",
+  7
+ ],
+ [
+  "norvegia-centrale-7g",
+  "Norvegia centrale: Trondheim, Røros, Kristiansund, la Strada dell'Atlantico, Molde e il Trollstigen",
+  7
+ ],
+ [
+  "polonia-orientale-7g",
+  "Polonia orientale: Lublino, Zamość, Kazimierz Dolny, Białowieża, Białystok e Tykocin",
+  7
+ ],
+ [
+  "boemia-occidentale-e-settentrionale-7g",
+  "Boemia occidentale e settentrionale: Plzeň, Karlovy Vary, Mariánské Lázně, Loket, Liberec e la Svizzera boema",
+  7
+ ],
+ [
+  "albania-meridionale-7g",
+  "Albania meridionale: Valona, Saranda, Butrinto, Ksamil, Argirocastro, Permet e Himara",
+  7
+ ],
+ [
+  "emirati-del-nord-7g",
+  "Emirati del Nord: Sharjah, Ras al-Khaimah, Jebel Jais, Fujairah, Khor Fakkan e Al Ain",
+  7
+ ],
+ [
+  "grecia-centrale-ed-eubea-7g",
+  "Grecia centrale ed Eubea: Delfi, Arachova, Galaxidi, Calcide, Edipsos, Skyros e il Parnaso",
+  7
+ ],
+ [
+  "yorkshire-e-peak-district-7g",
+  "Yorkshire e Peak District: Leeds, Harrogate, Dales, North York Moors, Whitby, Sheffield e Chatsworth",
+  7
+ ],
+ [
+  "lapponia-svedese-7g",
+  "Lapponia svedese: Kiruna, Abisko, Icehotel di Jukkasjärvi, Luleå e il Parco di Sarek",
+  7
+ ],
+ [
+  "ungheria-orientale-e-puszta-7g",
+  "Ungheria orientale e Puszta: Debrecen, Hortobágy, Tokaj, Szeged, Pécs e Kecskemét",
+  7
+ ],
+ [
+  "giamaica-14g",
+  "Giamaica: Kingston, Blue Mountains, Port Antonio, Ocho Rios, Montego Bay, Negril e Treasure Beach",
+  14
+ ],
+ [
+  "penisola-dello-yucatan-completa-14g",
+  "Penisola dello Yucatán completa: Mérida, Campeche, Uxmal, Valladolid, Holbox, Bacalar, Tulum e Cozumel",
+  14
+ ],
+ [
+  "giappone-tokyo-e-il-kanto-14g",
+  "Giappone: Tokyo e il Kanto: Tokyo, Nikko, Kamakura, Hakone, Monte Fuji, penisola di Izu e Yokohama",
+  14
+ ],
+ [
+  "corea-del-sud-meridionale-e-jeju-14g",
+  "Corea del Sud meridionale e Jeju: Busan, Gyeongju, Tongyeong, Suncheon, Jeonju e l'isola di Jeju",
+  14
+ ],
+ [
+  "malesia-peninsulare-14g",
+  "Malesia peninsulare: Kuala Lumpur, Melaka, Cameron Highlands, Penang, Langkawi e le isole Perhentian",
+  14
+ ],
+ [
+  "india-nord-orientale-14g",
+  "India nord-orientale: Assam e Meghalaya: Kaziranga, Majuli, Guwahati, Shillong, Cherrapunji e Dawki",
+  14
+ ],
+ [
+  "sudafrica-occidentale-e-capo-14g",
+  "Sudafrica occidentale: Città del Capo, Penisola del Capo, Winelands, Garden Route, Cederberg e West Coast",
+  14
+ ],
+ [
+  "cina-sud-orientale-fujian-e-jiangxi-14g",
+  "Cina sud-orientale: Fujian e Jiangxi: Xiamen, Quanzhou, Fuzhou, i tulou di Yongding, Wuyishan e Jingdezhen",
+  14
+ ],
+ [
+  "ontario-completo-14g",
+  "Ontario completo: Toronto, Niagara, Ottawa, Kingston e le Thousand Islands, Algonquin, Georgian Bay e la Bruce Peninsula",
+  14
+ ],
+ [
+  "australia-nuovo-galles-del-sud-e-canberra-14g",
+  "Australia: Nuovo Galles del Sud e Canberra: Sydney, Blue Mountains, Hunter Valley, Port Stephens, Jervis Bay, Snowy Mountains e Canberra",
+  14
+ ],
+ [
+  "portogallo-completo-14g",
+  "Portogallo completo in due settimane: Porto, Douro, Coimbra, Lisbona, Sintra, Alentejo e Algarve",
+  14
+ ],
+ [
+  "germania-completa-14g",
+  "Germania completa: Berlino, Dresda, Norimberga, Monaco, Baviera, Heidelberg, Reno, Colonia e Amburgo",
+  14
+ ],
+ [
+  "corfu-e-paxos-3g",
+  "Corfù e Paxos in tre giorni",
+  3
+ ],
+ [
+  "poznan-e-gniezno-3g",
+  "Poznań e Gniezno",
+  3
+ ],
+ [
+  "heraklion-cnosso-e-creta-centrale-3g",
+  "Heraklion, Cnosso e Creta centrale",
+  3
+ ],
+ [
+  "irpinia-e-sannio-3g",
+  "Irpinia e Sannio: Benevento, Avellino, Montevergine, Pietrelcina e Sant'Agata de' Goti",
+  3
+ ],
+ [
+  "piazza-armerina-caltagirone-ed-enna-3g",
+  "Piazza Armerina, Caltagirone ed Enna: la Sicilia interna",
+  3
+ ],
+ [
+  "isole-pontine-3g",
+  "Isole Pontine: Ponza, Palmarola e Ventotene",
+  3
+ ],
+ [
+  "pesaro-fano-e-gradara-2g",
+  "Pesaro, Fano, Gradara e Urbania",
+  2
+ ],
+ [
+  "marsica-2g",
+  "Marsica: Avezzano, Alba Fucens, Tagliacozzo, Celano e il Parco Sirente-Velino",
+  2
+ ],
+ [
+  "lago-di-bolsena-e-tuscia-dei-laghi-2g",
+  "Lago di Bolsena, Montefiascone e la Tuscia dei laghi",
+  2
+ ],
+ [
+  "golfo-del-tigullio-2g",
+  "Golfo del Tigullio: Camogli, Portofino, Rapallo, Chiavari e Sestri Levante",
+  2
+ ],
+ [
+  "versilia-e-alpi-apuane-2g",
+  "Versilia e Alpi Apuane: Pietrasanta, Forte dei Marmi, Carrara e Colonnata",
+  2
+ ],
+ [
+  "nonantola-sant-agata-bolognese-e-persiceto-1g",
+  "Nonantola, Sant'Agata Bolognese e San Giovanni in Persiceto",
+  1
+ ],
+ [
+  "perugia-in-un-giorno-1g",
+  "Perugia in un giorno",
+  1
+ ],
+ [
+  "montaione-castelfiorentino-e-san-vivaldo-1g",
+  "Montaione, Castelfiorentino e San Vivaldo",
+  1
+ ],
+ [
+  "buonconvento-murlo-e-san-giovanni-d-asso-1g",
+  "Buonconvento, Murlo e San Giovanni d'Asso",
+  1
+ ],
+ [
+  "dublino-e-howth-3g",
+  "Dublino, Howth e la costa in tre giorni",
+  3
+ ]
+]

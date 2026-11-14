@@ -1683,6 +1683,11 @@
    3
   ],
   [
+   "corfu-e-paxos-3g",
+   "Corfù e Paxos in tre giorni",
+   3
+  ],
+  [
    "costiera-amalfitana-positano-amalfi-e-ravello-3g",
    "Costiera Amalfitana: Positano, Amalfi e Ravello",
    3
@@ -1710,6 +1715,11 @@
   [
    "dubai-3g",
    "Dubai in tre giorni",
+   3
+  ],
+  [
+   "dublino-e-howth-3g",
+   "Dublino, Howth e la costa in tre giorni",
    3
   ],
   [
@@ -1743,8 +1753,18 @@
    3
   ],
   [
+   "heraklion-cnosso-e-creta-centrale-3g",
+   "Heraklion, Cnosso e Creta centrale",
+   3
+  ],
+  [
    "ibiza-e-formentera-3g",
    "Ibiza e Formentera",
+   3
+  ],
+  [
+   "irpinia-e-sannio-3g",
+   "Irpinia e Sannio: Benevento, Avellino, Montevergine, Pietrelcina e Sant'Agata de' Goti",
    3
   ],
   [
@@ -1840,6 +1860,11 @@
   [
    "pescara-chieti-e-majella-3g",
    "Pescara, Chieti e il Parco della Majella",
+   3
+  ],
+  [
+   "piazza-armerina-caltagirone-ed-enna-3g",
+   "Piazza Armerina, Caltagirone ed Enna: la Sicilia interna",
    3
   ],
   [
@@ -1973,6 +1998,11 @@
    7
   ],
   [
+   "albania-meridionale-7g",
+   "Albania meridionale: Valona, Saranda, Butrinto, Ksamil, Argirocastro, Permet e Himara",
+   7
+  ],
+  [
    "alpi-bavaresi-e-allgau-7g",
    "Alpi bavaresi e Allgäu: Garmisch, Neuschwanstein, Oberammergau, Berchtesgaden e Chiemsee",
    7
@@ -2095,6 +2125,11 @@
   [
    "bodrum-datca-e-marmaris-7g",
    "Bodrum, Datça, Marmaris e Dalyan: la Turchia sud-occidentale",
+   7
+  ],
+  [
+   "boemia-occidentale-e-settentrionale-7g",
+   "Boemia occidentale e settentrionale: Plzeň, Karlovy Vary, Mariánské Lázně, Loket, Liberec e la Svizzera boema",
    7
   ],
   [
@@ -2238,6 +2273,11 @@
    7
   ],
   [
+   "east-anglia-e-lincolnshire-7g",
+   "East Anglia e Lincolnshire: Norwich, i Norfolk Broads, la costa del Suffolk, Ely, Bury St Edmunds e Lincoln",
+   7
+  ],
+  [
    "egeo-nord-orientale-7g",
    "Egeo nord-orientale: Samos, Chios e Lesbo",
    7
@@ -2250,6 +2290,11 @@
   [
    "emirati-arabi-dubai-e-abu-dhabi-7g",
    "Emirati Arabi: Dubai e Abu Dhabi",
+   7
+  ],
+  [
+   "emirati-del-nord-7g",
+   "Emirati del Nord: Sharjah, Ras al-Khaimah, Jebel Jais, Fujairah, Khor Fakkan e Al Ain",
    7
   ],
   [
@@ -2338,6 +2383,11 @@
    7
   ],
   [
+   "grecia-centrale-ed-eubea-7g",
+   "Grecia centrale ed Eubea: Delfi, Arachova, Galaxidi, Calcide, Edipsos, Skyros e il Parnaso",
+   7
+  ],
+  [
    "grecia-del-nord-meteore-pelio-e-calcidica-7g",
    "Grecia del Nord: Meteore, Pelio e Calcidica",
    7
@@ -2360,6 +2410,11 @@
   [
    "irlanda-del-nord-e-donegal-7g",
    "Irlanda del Nord e Donegal: Belfast, Giant's Causeway e la Wild Atlantic Way",
+   7
+  ],
+  [
+   "irlanda-occidentale-7g",
+   "Irlanda occidentale: Galway, Connemara, Isole Aran, Burren, Cliffs of Moher, Kerry e Dingle",
    7
   ],
   [
@@ -2418,6 +2473,11 @@
    7
   ],
   [
+   "lapponia-svedese-7g",
+   "Lapponia svedese: Kiruna, Abisko, Icehotel di Jukkasjärvi, Luleå e il Parco di Sarek",
+   7
+  ],
+  [
    "lazio-del-sud-e-ciociaria-7g",
    "Lazio del Sud: Gaeta, Sperlonga, Ponza, Montecassino e la Ciociaria",
    7
@@ -2465,6 +2525,11 @@
   [
    "lot-e-aveyron-7g",
    "Lot e Aveyron: Cahors, Rocamadour, Conques, Millau e le Gole del Tarn",
+   7
+  ],
+  [
+   "luberon-alpilles-e-alta-provenza-7g",
+   "Luberon, Alpilles e Alta Provenza: Aix-en-Provence, Gordes, Lourmarin, Forcalquier e Manosque",
    7
   ],
   [
@@ -2548,6 +2613,11 @@
    7
   ],
   [
+   "norvegia-centrale-7g",
+   "Norvegia centrale: Trondheim, Røros, Kristiansund, la Strada dell'Atlantico, Molde e il Trollstigen",
+   7
+  ],
+  [
    "norvegia-del-nord-lofoten-tromso-7g",
    "Norvegia del Nord: Lofoten e Tromsø",
    7
@@ -2565,6 +2635,11 @@
   [
    "olanda-del-nord-e-frisia-7g",
    "Olanda del Nord e Frisia: Haarlem, Zaanse Schans, Texel, le isole Frisone e Groninga",
+   7
+  ],
+  [
+   "olanda-meridionale-utrecht-e-zelanda-7g",
+   "Olanda meridionale, Utrecht e Zelanda: Rotterdam, L'Aia, Delft, Utrecht, Dordrecht, Middelburg e il Delta",
    7
   ],
   [
@@ -2598,6 +2673,11 @@
    7
   ],
   [
+   "piemonte-meridionale-7g",
+   "Piemonte meridionale: Langhe, Roero, Monferrato, Acqui Terme, Alessandria e Alta Val Tanaro",
+   7
+  ],
+  [
    "pirenei-andorra-lourdes-e-val-d-aran-7g",
    "Pirenei: Andorra, Lourdes e Val d'Aran",
    7
@@ -2610,6 +2690,11 @@
   [
    "polonia-del-nord-7g",
    "Polonia del Nord: Danzica, Malbork, Toruń e i laghi della Masuria",
+   7
+  ],
+  [
+   "polonia-orientale-7g",
+   "Polonia orientale: Lublino, Zamość, Kazimierz Dolny, Białowieża, Białystok e Tykocin",
    7
   ],
   [
@@ -2643,6 +2728,11 @@
    7
   ],
   [
+   "romagna-e-montefeltro-7g",
+   "Romagna e Montefeltro: Ravenna, Faenza, Brisighella, Forlì, Cesena, Santarcangelo, San Leo e Valmarecchia",
+   7
+  ],
+  [
    "romania-bucovina-maramures-delta-7g",
    "Romania: Bucovina, Maramureș e Delta del Danubio",
    7
@@ -2673,8 +2763,18 @@
    7
   ],
   [
+   "sassonia-anhalt-e-brandeburgo-7g",
+   "Sassonia-Anhalt e Brandeburgo: Potsdam, Spreewald, Dessau, Wittenberg, Magdeburgo e Naumburg",
+   7
+  ],
+  [
    "sassonia-e-turingia-7g",
    "Sassonia e Turingia: Lipsia, Weimar ed Erfurt",
+   7
+  ],
+  [
+   "savoia-e-vanoise-7g",
+   "Savoia e Vanoise: Chambéry, Aix-les-Bains, Albertville, Val d'Isère e il Beaufortain",
    7
   ],
   [
@@ -2793,6 +2893,11 @@
    7
   ],
   [
+   "ungheria-orientale-e-puszta-7g",
+   "Ungheria orientale e Puszta: Debrecen, Hortobágy, Tokaj, Szeged, Pécs e Kecskemét",
+   7
+  ],
+  [
    "valencia-e-murcia-7g",
    "Comunità Valenciana e Murcia: Valencia, Alicante, Cartagena e Murcia",
    7
@@ -2815,6 +2920,16 @@
   [
    "veneto-completo-7g",
    "Veneto completo: Padova, Vicenza, Verona e le Dolomiti bellunesi",
+   7
+  ],
+  [
+   "vestfalia-e-ruhr-7g",
+   "Vestfalia e Ruhr: Düsseldorf, Münster, Essen e lo Zollverein, Dortmund, Aquisgrana e il Sauerland",
+   7
+  ],
+  [
+   "yorkshire-e-peak-district-7g",
+   "Yorkshire e Peak District: Leeds, Harrogate, Dales, North York Moors, Whitby, Sheffield e Chatsworth",
    7
   ],
   [
@@ -2865,6 +2980,11 @@
   [
    "australia-melbourne-tasmania-e-great-ocean-road-14g",
    "Australia: Melbourne, Tasmania e Great Ocean Road",
+   14
+  ],
+  [
+   "australia-nuovo-galles-del-sud-e-canberra-14g",
+   "Australia: Nuovo Galles del Sud e Canberra: Sydney, Blue Mountains, Hunter Valley, Port Stephens, Jervis Bay, Snowy Mountains e Canberra",
    14
   ],
   [
@@ -3003,6 +3123,11 @@
    14
   ],
   [
+   "cina-sud-orientale-fujian-e-jiangxi-14g",
+   "Cina sud-orientale: Fujian e Jiangxi: Xiamen, Quanzhou, Fuzhou, i tulou di Yongding, Wuyishan e Jingdezhen",
+   14
+  ],
+  [
    "colombia-andina-14g",
    "Colombia andina: Bogotá, Medellín, Eje Cafetero, San Agustín e Popayán",
    14
@@ -3010,6 +3135,11 @@
   [
    "colombia-caraibica-14g",
    "Colombia caraibica: Cartagena, Santa Marta, Tayrona, Mompox e San Andrés",
+   14
+  ],
+  [
+   "corea-del-sud-meridionale-e-jeju-14g",
+   "Corea del Sud meridionale e Jeju: Busan, Gyeongju, Tongyeong, Suncheon, Jeonju e l'isola di Jeju",
    14
   ],
   [
@@ -3043,6 +3173,11 @@
    14
   ],
   [
+   "germania-completa-14g",
+   "Germania completa: Berlino, Dresda, Norimberga, Monaco, Baviera, Heidelberg, Reno, Colonia e Amburgo",
+   14
+  ],
+  [
    "ghana-14g",
    "Ghana: Accra, Cape Coast, Kumasi e il Parco di Mole",
    14
@@ -3070,6 +3205,11 @@
   [
    "giappone-shikoku-e-mare-interno-14g",
    "Giappone: Shikoku e il Mare Interno di Seto: Naoshima, Matsuyama, Kochi e Takamatsu",
+   14
+  ],
+  [
+   "giappone-tokyo-e-il-kanto-14g",
+   "Giappone: Tokyo e il Kanto: Tokyo, Nikko, Kamakura, Hakone, Monte Fuji, penisola di Izu e Yokohama",
    14
   ],
   [
@@ -3105,6 +3245,11 @@
   [
    "india-del-sud-kerala-e-tamil-nadu-14g",
    "India del Sud: Kerala e Tamil Nadu",
+   14
+  ],
+  [
+   "india-nord-orientale-14g",
+   "India nord-orientale: Assam e Meghalaya: Kaziranga, Majuli, Guwahati, Shillong, Cherrapunji e Dawki",
    14
   ],
   [
@@ -3168,6 +3313,11 @@
    14
   ],
   [
+   "malesia-peninsulare-14g",
+   "Malesia peninsulare: Kuala Lumpur, Melaka, Cameron Highlands, Penang, Langkawi e le isole Perhentian",
+   14
+  ],
+  [
    "mauritius-e-reunion-14g",
    "Mauritius e Réunion",
    14
@@ -3213,6 +3363,11 @@
    14
   ],
   [
+   "ontario-completo-14g",
+   "Ontario completo: Toronto, Niagara, Ottawa, Kingston e le Thousand Islands, Algonquin, Georgian Bay e la Bruce Peninsula",
+   14
+  ],
+  [
    "panama-14g",
    "Panama: canale, Bocas del Toro, San Blas e Boquete",
    14
@@ -3220,6 +3375,11 @@
   [
    "patagonia-cilena-carretera-austral-e-chiloe-14g",
    "Patagonia cilena: Carretera Austral, Chiloé e Puerto Varas",
+   14
+  ],
+  [
+   "penisola-dello-yucatan-completa-14g",
+   "Penisola dello Yucatán completa: Mérida, Campeche, Uxmal, Valladolid, Holbox, Bacalar, Tulum e Cozumel",
    14
   ],
   [
@@ -3240,6 +3400,11 @@
   [
    "porto-rico-e-isole-vergini-14g",
    "Porto Rico e Isole Vergini",
+   14
+  ],
+  [
+   "portogallo-completo-14g",
+   "Portogallo completo in due settimane: Porto, Douro, Coimbra, Lisbona, Sintra, Alentejo e Algarve",
    14
   ],
   [
@@ -3300,6 +3465,11 @@
   [
    "stato-di-new-york-completo-14g",
    "Stato di New York completo: Manhattan, Hudson Valley, Catskills, Adirondacks, Finger Lakes e Niagara",
+   14
+  ],
+  [
+   "sudafrica-occidentale-e-capo-14g",
+   "Sudafrica occidentale: Città del Capo, Penisola del Capo, Winelands, Garden Route, Cederberg e West Coast",
    14
   ],
   [
@@ -3542,6 +3712,7 @@
   "lione-vienne-e-beaujolais-3g",
   "san-gallo-appenzello-e-lago-di-costanza-3g",
   "goteborg-e-bohuslan-3g",
-  "dalmazia-meridionale-7g"
+  "dalmazia-meridionale-7g",
+  "poznan-e-gniezno-3g"
  ]
 }
