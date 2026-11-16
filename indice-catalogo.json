@@ -1668,6 +1668,11 @@
    3
   ],
   [
+   "birmingham-stratford-e-warwick-3g",
+   "Birmingham, Stratford-upon-Avon e Warwick",
+   3
+  ],
+  [
    "breslavia-3g",
    "Breslavia",
    3
@@ -1733,6 +1738,11 @@
    3
   ],
   [
+   "cosenza-e-la-sila-3g",
+   "Cosenza, la Sila e Camigliatello",
+   3
+  ],
+  [
    "costiera-amalfitana-positano-amalfi-e-ravello-3g",
    "Costiera Amalfitana: Positano, Amalfi e Ravello",
    3
@@ -1785,6 +1795,16 @@
   [
    "ginevra-e-losanna-3g",
    "Ginevra e Losanna",
+   3
+  ],
+  [
+   "girona-figueres-e-costa-brava-3g",
+   "Girona, Figueres e la Costa Brava",
+   3
+  ],
+  [
+   "glasgow-loch-lomond-e-stirling-3g",
+   "Glasgow, Loch Lomond e Stirling",
    3
   ],
   [
@@ -1865,6 +1885,11 @@
   [
    "maiorca-palma-e-tramuntana-3g",
    "Maiorca: Palma, la Serra de Tramuntana e Sóller",
+   3
+  ],
+  [
+   "malmo-lund-e-scania-3g",
+   "Malmö, Lund e la Scania",
    3
   ],
   [
@@ -2028,6 +2053,11 @@
    3
   ],
   [
+   "york-leeds-e-costa-dello-yorkshire-3g",
+   "York, Leeds e la costa dello Yorkshire",
+   3
+  ],
+  [
    "zagabria-3g",
    "Zagabria",
    3
@@ -2088,6 +2118,11 @@
    7
   ],
   [
+   "alto-atlante-e-valli-berbere-7g",
+   "Alto Atlante e valli berbere: Imlil, Toubkal, Ourika, Ouirgane, Telouet e Aït Ben Haddou",
+   7
+  ],
+  [
    "alvernia-e-lione-7g",
    "Alvernia e Lione: Clermont-Ferrand, Puy de Dôme, Le Puy-en-Velay e Vichy",
    7
@@ -2095,6 +2130,11 @@
   [
    "anatolia-centrale-7g",
    "Anatolia centrale: Ankara, Hattusa, Safranbolu, Konya e il Lago Salato",
+   7
+  ],
+  [
+   "andalusia-occidentale-7g",
+   "Andalusia occidentale: Cadice, Jerez, Sanlúcar, Doñana, Huelva e la Sierra de Aracena",
    7
   ],
   [
@@ -2178,6 +2218,11 @@
    7
   ],
   [
+   "boemia-meridionale-e-vysocina-7g",
+   "Boemia meridionale e Vysočina: Český Krumlov, České Budějovice, Třeboň, Telč, Tábor e Kutná Hora",
+   7
+  ],
+  [
    "boemia-occidentale-e-settentrionale-7g",
    "Boemia occidentale e settentrionale: Plzeň, Karlovy Vary, Mariánské Lázně, Loket, Liberec e la Svizzera boema",
    7
@@ -2253,6 +2298,11 @@
    7
   ],
   [
+   "charente-saintonge-e-poitou-7g",
+   "Charente, Saintonge e Poitou: Angoulême, Cognac, Saintes, Royan, Poitiers e il Futuroscope",
+   7
+  ],
+  [
    "cicladi-centrali-7g",
    "Cicladi centrali: Naxos, Paros, Antiparos e le Piccole Cicladi",
    7
@@ -2280,6 +2330,11 @@
   [
    "cornovaglia-e-devon-7g",
    "Cornovaglia e Devon",
+   7
+  ],
+  [
+   "corsica-meridionale-7g",
+   "Corsica meridionale: Ajaccio, Bonifacio, Porto-Vecchio, Sartène, Alta Rocca e Bavella",
    7
   ],
   [
@@ -2468,8 +2523,18 @@
    7
   ],
   [
+   "irlanda-sud-orientale-7g",
+   "Irlanda sud-orientale: Cork, Kinsale, Waterford, Kilkenny, Cashel e le Wicklow Mountains",
+   7
+  ],
+  [
    "isola-d-elba-completa-7g",
    "Isola d'Elba completa: Portoferraio, Monte Capanne, le spiagge della costa ovest e Pianosa",
+   7
+  ],
+  [
+   "isole-danesi-7g",
+   "Isole danesi: Fionia (Odense), Møn, Lolland-Falster e Bornholm",
    7
   ],
   [
@@ -2698,8 +2763,23 @@
    7
   ],
   [
+   "orcadi-shetland-e-caithness-7g",
+   "Orcadi, Shetland e Caithness: Kirkwall, Skara Brae, Lerwick e John o' Groats",
+   7
+  ],
+  [
    "paesi-baschi-e-navarra-7g",
    "Paesi Baschi e Navarra",
+   7
+  ],
+  [
+   "paesi-bassi-orientali-7g",
+   "Paesi Bassi orientali: Hoge Veluwe, Arnhem, Nimega, Deventer, Zwolle e Giethoorn",
+   7
+  ],
+  [
+   "palatinato-e-saarland-7g",
+   "Palatinato e Saarland: Heidelberg, Spira, Worms, la Strada del Vino tedesca, Saarbrücken e la Saarschleife",
    7
   ],
   [
@@ -2743,6 +2823,11 @@
    7
   ],
   [
+   "polonia-occidentale-7g",
+   "Polonia occidentale: Poznań, Gniezno, Breslavia, Świdnica, il castello di Książ e Szczecin",
+   7
+  ],
+  [
    "polonia-orientale-7g",
    "Polonia orientale: Lublino, Zamość, Kazimierz Dolny, Białowieża, Białystok e Tykocin",
    7
@@ -2755,6 +2840,11 @@
   [
    "portogallo-del-nord-7g",
    "Portogallo del Nord: Porto, Minho e Trás-os-Montes",
+   7
+  ],
+  [
+   "prealpi-venete-e-grande-guerra-7g",
+   "Prealpi venete e Grande Guerra: Altopiano di Asiago, Monte Grappa, Pasubio, Valsugana e Vittorio Veneto",
    7
   ],
   [
@@ -2828,6 +2918,11 @@
    7
   ],
   [
+   "schleswig-holstein-7g",
+   "Schleswig-Holstein: Kiel, Flensburg, Sylt, Husum, Heligoland e il Mare dei Wadden",
+   7
+  ],
+  [
    "scozia-highlands-e-ebridi-7g",
    "Scozia: Highlands e Ebridi: Inverness, Skye, Mull e Glencoe",
    7
@@ -2865,6 +2960,11 @@
   [
    "sporadi-7g",
    "Sporadi: Skiathos, Skopelos e Alonissos",
+   7
+  ],
+  [
+   "svezia-centrale-dalarna-e-varmland-7g",
+   "Svezia centrale: Dalarna, il Lago Siljan, Falun, Värmland e Örebro",
    7
   ],
   [
@@ -2978,6 +3078,11 @@
    7
   ],
   [
+   "wessex-hampshire-wiltshire-e-isola-di-wight-7g",
+   "Wessex: Winchester, Salisbury, New Forest, Portsmouth e l'Isola di Wight",
+   7
+  ],
+  [
    "yorkshire-e-peak-district-7g",
    "Yorkshire e Peak District: Leeds, Harrogate, Dales, North York Moors, Whitby, Sheffield e Chatsworth",
    7
@@ -2995,6 +3100,11 @@
   [
    "antille-olandesi-14g",
    "Antille olandesi: Aruba, Curaçao e Bonaire",
+   14
+  ],
+  [
+   "appalachi-e-kentucky-14g",
+   "Stati Uniti: Appalachi e Kentucky: Great Smoky Mountains, Shenandoah, Louisville, Lexington e Mammoth Cave",
    14
   ],
   [
@@ -3065,6 +3175,11 @@
   [
    "bolivia-14g",
    "Bolivia",
+   14
+  ],
+  [
+   "borneo-indonesiano-kalimantan-14g",
+   "Borneo indonesiano, Kalimantan: Tanjung Puting, il fiume Mahakam, Banjarmasin e le isole Derawan",
    14
   ],
   [
@@ -3163,6 +3278,11 @@
    14
   ],
   [
+   "cina-del-nord-est-e-shandong-14g",
+   "Cina del Nord-Est e Shandong: Harbin, Shenyang, Dalian, Qingdao, Tai Shan e Qufu",
+   14
+  ],
+  [
    "cina-occidentale-sichuan-e-tre-gole-14g",
    "Cina occidentale: Sichuan, Chongqing e le Tre Gole dello Yangtze",
    14
@@ -3193,6 +3313,16 @@
    14
   ],
   [
+   "corea-del-sud-orientale-e-gangwon-14g",
+   "Corea del Sud orientale e Gangwon: Seoraksan, Gangneung, Andong, Daegu, Pohang e l'isola di Ulleungdo",
+   14
+  ],
+  [
+   "dakota-black-hills-e-grandi-pianure-14g",
+   "Stati Uniti: Dakota, Black Hills e Grandi Pianure: Badlands, Mount Rushmore, Devils Tower, Theodore Roosevelt e Nebraska",
+   14
+  ],
+  [
    "egitto-completo-cairo-nilo-e-mar-rosso-14g",
    "Egitto completo: Cairo, Nilo e Mar Rosso",
    14
@@ -3220,6 +3350,11 @@
   [
    "florida-14g",
    "Florida: Miami, Keys, Everglades e la costa del Golfo",
+   14
+  ],
+  [
+   "gansu-qinghai-e-via-della-seta-cinese-14g",
+   "Gansu e Qinghai, la Via della Seta cinese: Lanzhou, Zhangye, Jiayuguan, Dunhuang, Xining e il Lago Qinghai",
    14
   ],
   [
@@ -3298,6 +3433,11 @@
    14
   ],
   [
+   "india-deccan-hyderabad-e-karnataka-14g",
+   "India, il Deccan: Hyderabad, Bangalore, Mysore, Coorg, Badami, Pattadakal e Bijapur",
+   14
+  ],
+  [
    "india-del-sud-kerala-e-tamil-nadu-14g",
    "India del Sud: Kerala e Tamil Nadu",
    14
@@ -3315,6 +3455,11 @@
   [
    "india-orientale-14g",
    "India orientale: Calcutta, Odisha, Darjeeling e Sikkim",
+   14
+  ],
+  [
+   "india-punjab-e-uttarakhand-14g",
+   "India: Punjab e Uttarakhand: Amritsar, Chandigarh, Rishikesh, Haridwar, Jim Corbett e Nainital",
    14
   ],
   [
@@ -3398,6 +3543,11 @@
    14
   ],
   [
+   "mongolia-occidentale-e-del-nord-14g",
+   "Mongolia occidentale e del Nord: Khövsgöl, Altai, Bayan-Ölgii e i cacciatori con le aquile",
+   14
+  ],
+  [
    "montagne-rocciose-usa-14g",
    "Stati Uniti: Montagne Rocciose, Yellowstone, Grand Teton e Colorado",
    14
@@ -3475,6 +3625,11 @@
   [
    "repubblica-dominicana-14g",
    "Repubblica Dominicana",
+   14
+  ],
+  [
+   "route-66-da-chicago-a-santa-monica-14g",
+   "Stati Uniti: la Route 66 da Chicago a Santa Monica",
    14
   ],
   [
@@ -3583,6 +3738,11 @@
    14
   ],
   [
+   "yukon-e-columbia-britannica-settentrionale-14g",
+   "Yukon e Columbia Britannica settentrionale: Whitehorse, Kluane, Dawson City, Skagway e l'Inside Passage",
+   14
+  ],
+  [
    "yunnan-e-guangxi-14g",
    "Cina del Sud-Ovest: Yunnan e Guangxi",
    14
@@ -3590,6 +3750,11 @@
   [
    "zambia-e-malawi-14g",
    "Zambia e Malawi: Cascate Vittoria, South Luangwa e il lago",
+   14
+  ],
+  [
+   "zimbabwe-completo-14g",
+   "Zimbabwe completo: Harare, Great Zimbabwe, Matobo, Hwange, Mana Pools e le Cascate Vittoria",
    14
   ]
  ],
@@ -3768,6 +3933,9 @@
   "san-gallo-appenzello-e-lago-di-costanza-3g",
   "goteborg-e-bohuslan-3g",
   "dalmazia-meridionale-7g",
-  "poznan-e-gniezno-3g"
+  "poznan-e-gniezno-3g",
+  "georgia-occidentale-7g",
+  "pamphylia-e-cilicia-7g",
+  "qatar-e-bahrein-7g"
  ]
 }
