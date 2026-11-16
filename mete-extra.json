@@ -11172,6 +11172,155 @@
       "aggiuntaIl": "2026-08-21"
     },
     {
+      "id": "biella-oropa-e-il-ricetto-di-candelo-2g",
+      "nome": "Biella, Oropa e il Ricetto di Candelo",
+      "sottotitolo": "Piemonte, ai piedi delle Alpi Biellesi: il Sacro Monte patrimonio UNESCO, un borgo fortificato intatto, i parchi dei rododendri e la città della lana",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria: da Firenze si prende la A1 fino a Milano e poi la A4 verso Torino con uscita a Santhià o Carisio, da cui si sale a Biella (circa 409 km, 4 ore). L'auto serve davvero sul posto, perché Oropa (13 km da Biella), Candelo, Pollone con il Parco Burcina e la Panoramica Zegna sono in direzioni diverse e i bus di valle sono rari. Il treno è possibile ma richiede uno o due cambi (Torino o Santhià) e 4h30–6h a tratta.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 4 ore in auto (409 km, pedaggio 36 € a tratta); in treno 4h30–6h con cambi a Torino o Santhià",
+      "durataViaggioMinuti": 245,
+      "periodoMiglioreTesto": "Da metà maggio a inizio giugno fioriscono i rododendri del Parco Burcina e della Conca dei Rododendri dell'Oasi Zegna, il motivo migliore per scegliere queste date. Settembre e ottobre regalano aria limpida a Oropa e il foliage dei faggi rossi della Burcina; aprile va bene per il Ricetto e la città. In pieno inverno il Santuario resta aperto ma la Panoramica Zegna e il Mucrone sono terreno da neve.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [],
+      "costoMin": 181,
+      "costoMax": 245,
+      "costoNota": "Il totale è a persona per due viaggiatori che condividono l'auto e dormono una notte a Biella. La funivia Oropa–Lago del Mucrone e il bus 909 che sostituisce la funicolare del Piazzo non hanno un listino verificabile online e restano fuori dal totale.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Il Biellese sta tutto in un raggio di 15 km da Biella, ma le quattro cose che valgono il viaggio sono su strade diverse: il Sacro Monte di Oropa in alto a nord, il Ricetto di Candelo in pianura a sud-est, il Parco Burcina a Pollone verso ovest e la Panoramica Zegna a est. Con quattro ore di strada da Firenze un solo giorno sarebbe una corsa; in due giorni si dedica una mezza giornata piena a Oropa (Santuario, le dodici cappelle del Sacro Monte, la salita al Lago del Mucrone) e si distribuiscono borgo medievale, parco e città della lana nel resto del tempo, con una cena di polenta concia in mezzo. Un terzo giorno aggiungerebbe solo Oropa a piedi o Bielmonte, non cose nuove.",
+      "cosaVedere": [
+        "Il Santuario di Oropa, il più grande santuario mariano delle Alpi, con la Basilica Antica e la Madonna Nera, la Basilica Superiore e i chiostri monumentali: si entra gratis e il Museo dei Tesori con gli Appartamenti Reali dei Savoia costa 3 €.",
+        "Il Sacro Monte di Oropa, dodici cappelle con statue in terracotta policroma sparse nel bosco sopra il Santuario, patrimonio UNESCO con gli altri Sacri Monti piemontesi e lombardi: un'ora di passeggiata in salita, da fare la mattina.",
+        "La funivia Oropa–Lago del Mucrone, che porta a 1.900 metri sotto il Monte Mucrone: dal laghetto si vede tutta la pianura fino al Monte Rosa; alternativa a piedi sul sentiero della Pissa.",
+        "Il Ricetto di Candelo, borgo fortificato del Trecento con circa duecento cellule in ciottoli di fiume e vie acciottolate, costruito dai contadini per custodire vino e raccolti: accesso libero, si gira in un'ora e mezzo con l'Ecomuseo della vitivinicoltura.",
+        "Il Piazzo, la Biella alta medievale con le case porticate di piazza Cisterna e i palazzi nobiliari: ci si sale a piedi dalle coste o con il bus 909, perché la funicolare storica è ferma da settembre 2025.",
+        "Il Parco Burcina 'Felice Piacenza' a Pollone, 57 ettari di giardino all'inglese voluto da una famiglia di lanieri: la Valle dei Rododendri fiorisce tra metà maggio e inizio giugno e in autunno i faggi rossi del Brich si accendono; ingresso gratuito dall'alba al tramonto.",
+        "L'Oasi Zegna e la Panoramica Zegna, la strada che Ermenegildo Zegna fece costruire da Trivero fino a Bielmonte a 1.500 metri: a fine maggio la Conca dei Rododendri, tutto l'anno un balcone sulle Alpi, accesso libero."
+      ],
+      "itinerario": null,
+      "alloggio": "Si dorme a Biella, meglio al Piazzo o in centro, per cenare a piedi. Un B&B nel borgo alto costa 80–93 € a notte in doppia (B&B Del Piazzo, B&B Chiara), un hotel tre stelle in centro parte da circa 110–120 €: in tutto 40–60 € a persona per la notte. In alternativa si dorme a Oropa stessa, negli alloggi del Santuario, per vedere il Sacro Monte nel silenzio della sera.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante (circa 880 km in tutto)",
+          "testo": "Firenze–Biella sono 409 km a tratta più una sessantina di km fra Oropa, Candelo, Pollone e Trivero: circa 880 km a 0,129 €/km (parametro del documento) fanno 114 €; i calcolatori di percorso stimano 52–67 € di carburante per la sola andata, quindi 105–134 € andata e ritorno.",
+          "min": 105,
+          "max": 134,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi autostradali A/R",
+          "testo": "A1 e A4 fino a Santhià: 35,70–36,50 € a tratta per un'auto di classe A, cioè 71–73 € andata e ritorno.",
+          "min": 71,
+          "max": 73,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (1 notte)",
+          "testo": "B&B al Piazzo o hotel in centro a Biella, 80–120 € a notte in doppia: 40–60 € a persona.",
+          "min": 40,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Un pranzo con la polenta concia (10–14 € il piatto, 12–20 € con bevanda) e una cena in trattoria a 26–38 €: in media 25–39 € al giorno a persona, meno nelle trattorie di valle.",
+          "min": 25,
+          "max": 39,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Museo dei Tesori e Appartamenti Reali di Oropa",
+          "testo": "Biglietto intero 3 €, ridotto 2 € (listino 2024). Santuario, Sacro Monte, Ricetto di Candelo, Parco Burcina e Oasi Zegna sono gratuiti.",
+          "min": 3,
+          "max": 3,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Funivia Oropa–Lago del Mucrone",
+          "testo": "Nessun listino 2026 pubblicato online: il prezzo si verifica alla biglietteria o chiamando il Santuario; in alternativa si sale a piedi lungo il sentiero della Pissa.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alternativa: treno Firenze–Biella A/R",
+          "testo": "Con cambio a Torino o Santhià: biglietti da 45–47 € a tratta, prezzo medio 51 €, cioè 90–102 € andata e ritorno; ma poi Oropa, Candelo e la Burcina si raggiungono solo con bus rari (Biella–Oropa 1,80 € a corsa).",
+          "min": 90,
+          "max": 102,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e si dividono per due viaggiatori; alloggio, pasti e museo sono a persona. Il treno è un'alternativa e non entra nel totale.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "La funicolare Biella–Piazzo è chiusa a tempo indeterminato dal 1° settembre 2025 per guasti ripetuti: al borgo alto si sale a piedi o con il bus sostitutivo 909 (a pagamento, 7:15–21:30 nei giorni feriali)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Museo del Territorio Biellese risulta chiuso per lavori di riallestimento: verificare la riapertura prima di contarci. Il Museo dei Tesori di Oropa apre con orari ridotti nei giorni feriali e pieni nel fine settimana."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il Ricetto di Candelo è ad accesso libero, ma durante 'Candelo in Fiore' (maggio, negli anni pari) e il Borgo di Babbo Natale si paga un biglietto e si fa la fila; le visite guidate della Pro Loco vanno prenotate."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "La Panoramica Zegna e la strada per Oropa sono di montagna: in inverno servono pneumatici da neve o catene a bordo, e il Lago del Mucrone sopra i 1.900 metri è terreno innevato fino a maggio."
+        }
+      ],
+      "note": "Ordinate il primo giorno in modo da essere a Oropa la mattina: il Sacro Monte si sale a piedi in un'ora e i gruppi arrivano dopo mezzogiorno. La polenta concia, fatta con toma e burro fuso, è il piatto da provare alla Croce Bianca di Oropa stessa o nelle trattorie di valle, che costano meno del centro. A Candelo evitate il sabato pomeriggio se c'è un evento: il Ricetto è piccolo e si riempie. Se andate tra metà maggio e inizio giugno, fate la Burcina al mattino presto e la Conca dei Rododendri dell'Oasi Zegna nel pomeriggio: sono le due fioriture più fotografate del Piemonte e cadono insieme. Per il Lago del Mucrone verificate che la funivia sia in esercizio: ha stagioni di apertura e chiusure per manutenzione, e il prezzo non è pubblicato online.",
+      "fonti": [
+        "https://calcolopercorso.it/it/distanza/Firenze/Biella",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Biella/",
+        "https://www.omio.it/treni/biella-s-paolo/firenze-santa-maria-novella-rng8j",
+        "https://uk.trip.com/trains/italy/route/biella-s-paolo-to-firenze-s-m-novella",
+        "https://www.trenitalia.com/it/regionale/collegamenti-regionale/santuario-di-oropa.html",
+        "https://www.museionline.info/musei/museo-dei-tesori-e-appartamenti-reali-dei-savoia",
+        "https://www.sacrimonti.org/en/servizi-oropa",
+        "https://www.ilpost.it/2025/09/05/funicolare-biella-chiusa/",
+        "https://6abiella.substack.com/p/il-giorno-della-navetta",
+        "https://travel.thewom.it/italia/piemonte/ricetto-di-candelo.html",
+        "https://www.italia.it/it/piemonte/biella/riserva-naturale-parco-burcina-felice-piacenza",
+        "https://travel.thewom.it/italia/piemonte/parco-della-burcina.html",
+        "https://moveo.telepass.com/oasi-zegna-percorsi/",
+        "https://www.casevacanza.it/casa-vacanze-biella",
+        "https://www.es.kayak.com/Biella-Hoteles-B-B-Del-Piazzo.550911.ksp",
+        "https://www.sluurpy.it/biella",
+        "https://abbonamentomusei.it/en/mostra/dialoghi/"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 45.5665,
+        "lon": 8.053
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Il Ricetto si gira in mezz'ora tra vicoli senza auto, la Burcina è un prato enorme e la funivia di Oropa piace a tutti; solo le quattro ore di viaggio pesano, meglio spezzarle con una sosta."
+      }
+    },
+    {
       "id": "bobbio-e-val-trebbia-2g",
       "nome": "Bobbio e la Val Trebbia",
       "sottotitolo": "Emilia-Romagna (Piacenza), il borgo dell'abbazia di San Colombano e del Ponte Gobbo sul fiume Trebbia",
@@ -33518,6 +33667,206 @@
         "https://www.viaggiaresicuri.it/schede_paese/pdf/BGR.pdf"
       ],
       "aggiuntaIl": "2026-09-07"
+    },
+    {
+      "id": "stintino-la-pelosa-e-l-asinara-3g",
+      "nome": "Stintino, La Pelosa e il Parco dell'Asinara",
+      "sottotitolo": "Sardegna nord-occidentale: la spiaggia a numero chiuso più famosa dell'isola, un'intera isola-parco senza auto dove vivono gli asinelli bianchi e la basilica romanica di Porto Torres",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo Ryanair Pisa–Alghero (1h05, un volo al giorno quasi tutto l'anno, il più comodo parte alle 6:10) oppure Bologna–Alghero (1h15), poi auto a noleggio ritirata in aeroporto: Stintino è a 34 km, circa 40 minuti. Fino a Pisa conviene l'auto propria sulla FI-PI-LI gratuita con parcheggio nei lotti privati dell'aeroporto; il treno con il Pisa Mover è l'alternativa.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 5 ore porta a porta: 1h15 fino a Pisa, 1h05 di volo, ritiro dell'auto e 40 minuti fino a Stintino",
+      "durataViaggioMinuti": 300,
+      "periodoMiglioreTesto": "Maggio–giugno e settembre–ottobre: il mare della Pelosa è già o ancora caldo, le barche per l'Asinara fanno servizio, i B&B costano 100–120 € invece dei 150 di agosto e il numero chiuso della spiaggia è facile da prenotare. Luglio e agosto funzionano ma la Pelosa va prenotata con giorni di anticipo e il noleggio auto costa il doppio. Da novembre a marzo Ryanair riduce le frequenze su Alghero e il traghetto Delcomar per l'Asinara resta l'unico accesso.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        12,
+        1,
+        2
+      ],
+      "costoMin": 366,
+      "costoMax": 681,
+      "costoNota": "A persona per due viaggiatori che condividono il noleggio, con due notti in B&B a Stintino. Il minimo corrisponde a maggio o ottobre con volo in offerta, il massimo a luglio–settembre. Il treno fino a Pisa e il traghetto Delcomar sono alternative dichiarate e non sommate.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 3,
+      "percheDurata": "La punta nord-occidentale della Sardegna sta in un triangolo di 30 km fra l'aeroporto di Alghero, Stintino e Porto Torres, ma le tre cose da fare occupano ciascuna una giornata vera: la Pelosa con Capo Falcone e la torre merita un pomeriggio intero di mare (e il biglietto vale un giorno), l'Asinara si visita solo con un'escursione organizzata di 7–8 ore tra barca, trenino o fuoristrada e soste a Cala d'Oliva e al carcere di Fornelli, e Porto Torres con la basilica di San Gavino e gli scavi di Turris Libisonis riempie la mattina del ritorno. In due giorni si dovrebbe scegliere fra spiaggia e isola; in sette si finirebbe per fare Alghero, già nel documento.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: volo del mattino da Pisa ad Alghero (il Ryanair delle 6:10 atterra poco dopo le 7), ritiro dell'auto e 40 minuti fino a Stintino. Mattina al paese: il porto vecchio con i gozzi, il Museo della Tonnara (MuT) se apre nella fascia mattutina, un pranzo di pesce al porto. Pomeriggio alla Pelosa con il biglietto prenotato: sabbia bianca, acqua bassa fino alla Torre della Pelosa e all'Isola Piana, con l'Asinara davanti. Verso il tramonto si sale in auto a Capo Falcone, il promontorio con la torre spagnola che chiude il golfo."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: giornata intera all'Asinara, l'isola-parco che è stata lazzaretto, campo di prigionia e carcere di massima sicurezza fino al 1997. Si parte da Stintino con una barca che include il giro con il trenino, oppure si prende il traghetto Delcomar da Porto Torres alle 10 per Cala Reale (1h15) e si prenota a parte fuoristrada, minivan o bici con un operatore autorizzato: auto private non ne entrano. Tappe classiche: Cala Reale con il palazzo reale e l'ospedale, Cala d'Oliva con il borgo e il carcere, Fornelli con il supercarcere, le spiagge di Cala Sabina e Cala d'Arena viste dall'alto, e gli asinelli bianchi albini che girano liberi. Rientro in serata; il MuT apre d'estate dalle 18:30 alle 23."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: mattina a Porto Torres, 25 minuti da Stintino. La basilica di San Gavino è la più grande chiesa romanica della Sardegna, con due absidi contrapposte e la cripta dei martiri turritani (3 €); a due passi l'Antiquarium Turritano e il parco archeologico di Turris Libisonis con le terme centrali e il ponte romano a sette arcate. Se il volo è serale, pomeriggio alla spiaggia di Platamona o alle Saline di Stintino, poi riconsegna dell'auto in aeroporto e volo per Pisa."
+        }
+      ],
+      "alloggio": "Si dorme a Stintino, in B&B o piccolo hotel vicino al porto, così la Pelosa è a 3 km e le barche per l'Asinara partono sotto casa. Prezzo medio per notte dei B&B in doppia: 111 € a giugno, 126 € a luglio, 152 € ad agosto, 120 € a settembre; fuori stagione si trovano camere a 95–100 € (B&B Diana's, Sa Serra, Il Gatto Pescatore, La Posada). Per due notti sono 95–152 € a persona. Porto Torres ha hotel più economici ma è una città portuale senza il fascino del paese.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo Pisa–Alghero A/R (Ryanair)",
+          "testo": "Da 14,99 € a tratta in offerta; andata e ritorno osservati a 34 € a luglio e fino a 107 € in alta stagione o sotto data. Da Bologna fasce simili (41 € a luglio).",
+          "min": 34,
+          "max": 107,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto fino a Pisa aeroporto e parcheggio 3 giorni",
+          "testo": "FI-PI-LI gratuita, 85 km a tratta: circa 22 € di carburante andata e ritorno (parametro del documento), più 4–20 € al giorno nei parcheggi privati con navetta intorno all'aeroporto, cioè 12–60 € per tre giorni.",
+          "min": 34,
+          "max": 82,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alternativa: treno Firenze–Pisa Centrale + Pisa Mover A/R",
+          "testo": "Regionale Firenze–Pisa 9,30–21,50 € a tratta, Pisa Mover 6,50 € a corsa (10 € andata e ritorno secondo alcune guide): 31–56 € a persona andata e ritorno.",
+          "min": 31,
+          "max": 56,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto, 3 giorni",
+          "testo": "Utilitaria all'aeroporto di Alghero: media 27 € al giorno in bassa stagione e 44 € sull'anno, fino a 59–64 € al giorno a luglio per un'auto media (Europcar 35–48 €).",
+          "min": 27,
+          "max": 64,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Carburante in Sardegna",
+          "testo": "Aeroporto–Stintino 34 km, Stintino–Porto Torres 25 km e i giri a Capo Falcone e Platamona: circa 150 km in tre giorni, 19 € a 0,129 €/km.",
+          "min": 19,
+          "max": 19,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti)",
+          "testo": "B&B a Stintino 95–152 € a notte in doppia secondo il mese: 95–152 € a persona per le due notti.",
+          "min": 95,
+          "max": 152,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 15–20 € (menu fisso a 30 € al Capo Falcone), cena di pesce 20–30 € a persona, di più sul lungomare: 35–50 € al giorno.",
+          "min": 35,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Spiaggia La Pelosa (numero chiuso)",
+          "testo": "Dal 15 maggio al 15 ottobre ingresso solo con prenotazione online su spiaggialapelosa.it, massimo 1.500 persone al giorno, 3,50 € a persona al giorno (gratis sotto i 12 anni): 3,50–7 € per uno o due pomeriggi.",
+          "min": 3.5,
+          "max": 7,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Giornata all'Asinara (barca + visita guidata)",
+          "testo": "Barca da Stintino con giro in trenino del Parco da 53 € a persona (7–7,5 ore); escursioni in fuoristrada da 70 €; gite in barca con pranzo 50–110 €.",
+          "min": 53,
+          "max": 110,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alternativa: traghetto Delcomar Porto Torres–Cala Reale A/R",
+          "testo": "Linea pubblica tutto l'anno, due corse al giorno (10:00 e 18:00 in estate), 1h15: 10–12 € a tratta, 20–24 € andata e ritorno; sull'isola va poi pagata la visita con un operatore autorizzato (fuoristrada da 70 €) o il noleggio bici.",
+          "min": 20,
+          "max": 24,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Musei (MuT e San Gavino)",
+          "testo": "Museo della Tonnara di Stintino 5 € (listino 2023), basilica di San Gavino 3 € (2025); l'Antiquarium Turritano non pubblica il prezzo.",
+          "min": 8,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Volo, alloggio, pasti, Pelosa, Asinara e musei sono a persona. Auto fino a Pisa con parcheggio, noleggio e carburante in Sardegna sono della vettura e si dividono per due. Treno con Pisa Mover e traghetto Delcomar sono alternative dichiarate e non entrano nel totale.",
+      "vincoli": [
+        {
+          "categoria": "prenotazioni",
+          "testo": "La Pelosa è a numero chiuso dal 15 maggio al 15 ottobre: 1.500 ingressi al giorno, prenotazione obbligatoria online con QR code e biglietto di 3,50 €; nei weekend di luglio e agosto i posti finiscono giorni prima."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "All'Asinara non entrano veicoli privati, nemmeno con il traghetto: ci si muove solo con gli operatori autorizzati dal Parco (trenino, fuoristrada, minivan, bici, trekking guidati) o a piedi da Cala Reale."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il traghetto Delcomar fa due corse al giorno e gli orari cambiano con la stagione; le barche da Stintino operano da primavera ad autunno. Il MuT apre d'estate la sera (18:30–23) e negli altri mesi solo su prenotazione."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Ryanair ha annunciato per l'inverno 2026 un taglio del 15% dei voli su Alghero: fuori stagione verificare che il giorno di partenza abbia il volo e preferire Bologna se Pisa manca."
+        }
+      ],
+      "note": "Prenotate la Pelosa prima del volo, non dopo: il QR code resta valido per tutte le prenotazioni future e le date di luglio e agosto finiscono. Alla spiaggia non si entra con stuoie e asciugamani che trattengono la sabbia: serve la stuoia regolamentare o il telo pulito, e si esce con i piedi sciacquati alle docce. Per l'Asinara la barca da Stintino con il trenino è la soluzione comoda, ma il traghetto Delcomar da Porto Torres più un fuoristrada prenotato a parte permette di scegliere la guida e di restare a Cala d'Oliva per il bagno. Il Ryanair delle 6:10 da Pisa trasforma il giorno 1 in una giornata piena: dormire a Firenze e partire alle 4 è faticoso ma vale mezza giornata di mare. Fuori stagione, se il volo Pisa–Alghero manca, Bologna–Alghero costa simile e Bologna si raggiunge in 40 minuti di treno.",
+      "fonti": [
+        "https://www.ryanair.com/gb/en/flights/flights-from-pisa-to-alghero",
+        "https://www.skyscanner.ie/routes/aho/psa/alghero-sardinia-to-pisa-international.html",
+        "https://it.trip.com/hot/voli-alghero-bologna-ryanair/",
+        "https://www.aeroportodialghero.it/public/Network/202510_Network_Winter_Aho.pdf",
+        "https://www.unionesarda.it/en/sardinia/ryanair-is-reducing-flights-to-northern-sardinia-quot-the-abolition-of-the-surcharge-is-overdue-and-it-won39-t-be-for-the-whole-yearquot-wturt6h2?amp=1",
+        "https://www.telepass.com/it/privati/servizi/parcheggi/parcheggio-aeroporto-pisa",
+        "https://www.trenitalia.com/it/regionale/collegamenti-regionale/collegamenti-con-l-aeroporto-galileo-galilei-di-pisa.html",
+        "https://www.virail.it/treni-pisa-firenze",
+        "https://www.momondo.it/noleggio-auto/Alghero-Fertilia-AHO-cap.ksp",
+        "https://www.kayak.it/Autonoleggi-economici-Alghero.32049.cars.ksp",
+        "https://www.percorsokm.it/it/come-arrivare-a-Stintino",
+        "https://www.likibu.com/it/appartamenti-affitto-vacanze/stintino/bed-breakfast",
+        "https://www.bed-and-breakfast.it/en/stintino?prezzo=1",
+        "https://www.voloscontato.it/ristoranti/stintino-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.sluurpy.it/stintino/ristorante/82775/skipper",
+        "https://www.greenme.it/viaggi/italia/sardegna-2026-tutte-le-spiagge-a-numero-chiuso-come-prenotare-gia-da-ora-e-quanto-costa/",
+        "https://www.trend-online.com/viaggi/spiaggia-pelosa-stintino-prezzi/",
+        "https://www.parcoasinara.org/en/visiting-the-park/",
+        "https://www.holidoit.com/cosa-fare/visitare-asinara",
+        "https://www.civitatis.com/it/stintino/escursione-asinara/",
+        "https://www.ferryhopper.com/it/ferry-routes/direct/porto-torres-asinara",
+        "https://www.directferries.it/porto_torres_asinara_traghetto.htm",
+        "https://museionline.info/musei/museo-della-tonnara-a-stintino",
+        "https://museionline.info/sardegna-musei-monumenti/basilica-di-san-gavino-san-proto-e-san-gianuario"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 40.9394,
+        "lon": 8.2258
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "La Pelosa ha acqua bassa per decine di metri ed è perfetta per un bimbo di 4 anni; all'Asinara il trenino e gli asinelli bianchi lo divertono, ma la giornata è lunga (7 ore) e va presa con calma."
+      }
     },
     {
       "id": "stoccolma-3g",
@@ -70792,6 +71141,245 @@
       "bambini": {
         "adatta": "si",
         "nota": "Spiagge di sabbia come Koukounaries e traversate brevi (sotto i 5 anni gratis sui traghetti), ma il giorno di viaggio con scalo è lungo e la scalinata di Agios Ioannis va fatta in braccio."
+      }
+    },
+    {
+      "id": "svalbard-longyearbyen-e-isfjorden-7g",
+      "nome": "Svalbard: Longyearbyen, Isfjorden e Pyramiden",
+      "sottotitolo": "Norvegia artica, 78° Nord: la città più settentrionale del mondo, ghiacciai che scendono nel fiordo, la città fantasma sovietica di Pyramiden, cani da slitta e miniere di carbone",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Treno Firenze–Bologna e Marconi Express fino all'aeroporto, volo diretto Norwegian Bologna–Oslo Gardermoen (2h45, pochi giorni a settimana) e coincidenza SAS o Norwegian Oslo–Longyearbyen (circa 3 ore, voli giornalieri). A Longyearbyen non serve un'auto: il paese si gira a piedi, l'aeroporto è collegato dal Flybussen e tutto ciò che sta fuori dall'abitato si fa con tour organizzati, perché oltre i cartelli dell'orso polare si esce solo armati o con una guida.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 12 ore porta a porta: 40 minuti di treno, 2h45 di volo per Oslo, scalo di 2–3 ore e 3 ore di volo fino a Longyearbyen",
+      "durataViaggioMinuti": 720,
+      "periodoMiglioreTesto": "Due stagioni molto diverse. L'inverno luminoso, da marzo a maggio, è il periodo dei cani da slitta sulla neve, delle motoslitte e delle grotte di ghiaccio, con il sole che torna e la luce che cresce ogni giorno. L'estate polare, da giugno a settembre, è quella delle gite in barca a Pyramiden e ai ghiacciai, delle escursioni a piedi e del sole di mezzanotte (da fine aprile a fine agosto). Da novembre a fine gennaio c'è la notte polare: aurore ma niente paesaggio, molti musei chiusi e poche attività. Giugno e luglio sono i mesi più cari per i voli interni norvegesi.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "mesiDaEvitare": [
+        11,
+        12,
+        1
+      ],
+      "costoMin": 1311,
+      "costoMax": 3099,
+      "costoNota": "Prezzi in corone norvegesi convertiti a circa 0,086 € per corona e in dollari a circa 0,86 €, cambi indicativi. A persona, viaggiando in due, con sei notti a Longyearbyen: il minimo corrisponde alla guesthouse di Nybyen con colazione e ai voli prenotati con mesi di anticipo fuori da giugno–luglio, il massimo a un hotel in centro e ai voli di piena estate. Le motoslitte, le escursioni guidate a piedi e la cena a Camp Barentz non hanno un listino verificato e restano fuori dal totale.",
+      "dipendenzaAuto": "autista-tour",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Le Svalbard non si girano: si sta a Longyearbyen e si esce ogni giorno con una guida, perché fuori dall'abitato vige l'obbligo di protezione dagli orsi polari. Arrivarci costa un giorno intero di viaggio con due voli, quindi un fine settimana lungo non ha senso. In sette giorni si hanno cinque giornate piene sul posto: una per il paese con il museo e la miniera Gruve 3, una in barca fino a Pyramiden e al ghiacciaio Nordenskiöld, una con i cani da slitta in Bolterdalen, una per un'escursione guidata o la seconda gita nel fiordo, e una di riserva per il meteo, che qui cancella barche e voli senza preavviso. Quattordici giorni servirebbero solo per una spedizione in nave intorno all'arcipelago, un altro viaggio e un altro budget.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: treno Firenze–Bologna e Marconi Express fino all'aeroporto, volo Norwegian per Oslo Gardermoen (2h45). A Oslo si passa il controllo documenti, perché le Svalbard sono fuori dall'area Schengen, e si prende la coincidenza SAS o Norwegian per Longyearbyen (3 ore), spesso serale con arrivo in tarda notte. Flybussen (170 NOK andata e ritorno) o navetta della guesthouse fino all'alloggio. Se la coincidenza non torna nello stesso giorno, notte all'aeroporto di Oslo e partenza il mattino dopo."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Longyearbyen a piedi. Lo Svalbard Museum (160 NOK) spiega orsi, trichechi, cacciatori e miniere ed è il modo giusto per cominciare; poi la chiesa in legno sempre aperta, lo Svalbardbutikken dove tutta la città fa la spesa tax-free, i cartelli con l'orso polare che segnano il confine dell'abitato. Pomeriggio alla miniera Gruve 3, sull'altopiano accanto all'aeroporto, con il tour di tre ore in tuta da minatore (1.090 NOK, età minima 12 anni) e la vista dall'esterno del Global Seed Vault, il deposito mondiale dei semi che non si visita. Cena allo Svalbar o al Coal Miners' Bar & Grill."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3 (estate): gita in barca di 7–9 ore nell'Isfjorden fino a Pyramiden, la città mineraria sovietica abbandonata nel 1998 con il busto di Lenin più a nord del mondo, la piscina, il cinema e un solo hotel aperto, e al fronte del ghiacciaio Nordenskiöld, con soste a Skansbukta e avvistamento di foche, trichechi e uccelli marini. In inverno (marzo–maggio) la stessa giornata si fa in motoslitta verso Tempelfjorden con una guida, prezzo da verificare con gli operatori."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: cani da slitta con Green Dog Svalbard in Bolterdalen, a mezz'ora dal paese: in inverno sulla neve verso il ghiacciaio Scott Turner (1.840–2.390 NOK), da giugno a ottobre sul carrello a ruote lungo la costa (1.690–1.890 NOK). Si guida la propria slitta, con la guida armata davanti. Pomeriggio libero a Nybyen, il quartiere delle vecchie baracche dei minatori sotto il ghiacciaio Larsbreen."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: escursione guidata a piedi, scelta secondo stagione e gambe: la salita al Plateau o al Sarkofagen sopra il paese, la caccia ai fossili alla morena del Longyearbreen, oppure la grotta di ghiaccio dentro il ghiacciaio in inverno. Nel pomeriggio il tour guidato della centrale della vecchia teleferica del carbone (Cableway Central, 400 NOK, da maggio a settembre), da cui partivano i cavi che portavano il carbone al porto."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: giornata di riserva, da usare se una barca o i cani sono stati cancellati per vento o nebbia, cosa frequente. Altrimenti seconda gita nel fiordo verso Barentsburg, l'insediamento russo ancora attivo, o verso il ghiacciaio Esmark; in inverno una caccia all'aurora fuori dalle luci del paese. Serata al Gruvelageret, ristorante nell'ex magazzino della compagnia mineraria (prenotazione obbligatoria), o al Polfareren dello Svalbard Hotell."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: volo del mattino Longyearbyen–Oslo, nuovo controllo documenti a Gardermoen, coincidenza Norwegian per Bologna e treno per Firenze, con arrivo in serata. Comprate il salmone affumicato e i superalcolici allo Svalbardbutikken prima di partire: il tax-free è l'unica cosa economica dell'arcipelago."
+        }
+      ],
+      "alloggio": "Longyearbyen ha un paio di migliaia di posti letto in tre fasce. Economica: Gjestehuset 102 a Nybyen, l'ostello dei vecchi minatori, 395–400 NOK a persona a notte con colazione (circa 34 €) e navetta aeroporto a 100 NOK; Haugen Pensjonat, nove camere semplici, da 88 $ la camera. Media: Coal Miners' Cabins, sempre a Nybyen, circa 154 $ a notte in doppia ad aprile e 26.700 ¥ (circa 165 €) a giugno. Alta: Funken Lodge (366 $), Radisson Blu Polar (337–408 $, il più centrale) e Basecamp Hotel (290–507 $), con aprile e l'estate come mesi più cari. Per sei notti si va da 204 € a persona in ostello a circa 1.050 € in hotel. Nybyen è a 25 minuti a piedi dal centro, lungo una strada illuminata ma fuori dall'abitato in senso stretto: di notte in inverno si prende il taxi.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze–Bologna Centrale A/R",
+          "testo": "Frecciarossa e Italo in 37–41 minuti da 9 € a tratta con anticipo, prezzo medio circa 20 €; Regionale da 6 €: 18–40 € andata e ritorno.",
+          "min": 18,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Marconi Express A/R",
+          "testo": "Monorotaia Bologna Centrale–aeroporto in 7 minuti: 23,30 € andata e ritorno (ritorno entro 30 giorni), 12,80 € la corsa singola.",
+          "min": 23.3,
+          "max": 23.3,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Bologna–Oslo A/R (Norwegian)",
+          "testo": "Diretto, 2h45, pochi giorni a settimana: andata e ritorno 146–220 € nelle tariffe standard rilevate da Kayak, 246–349 € secondo Momondo, con minimi sotto i 150 € fuori stagione.",
+          "min": 146,
+          "max": 349,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Oslo–Longyearbyen A/R (SAS o Norwegian)",
+          "testo": "Circa 3 ore, voli giornalieri: andata e ritorno 223–484 € secondo Momondo, 245–488 € nelle tariffe standard di Kayak (minimo 190 €); gennaio è il mese più economico (circa 217 €), giugno il più caro (circa 492 €).",
+          "min": 223,
+          "max": 488,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Flybussen aeroporto–Longyearbyen A/R",
+          "testo": "Bus che aspetta ogni volo e ferma a tutti gli hotel: 170 NOK andata e ritorno, circa 15 €.",
+          "min": 15,
+          "max": 15,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "Da 395 NOK a persona a notte con colazione al Gjestehuset 102 (circa 34 €, 204 € per sei notti) fino a 337–408 $ a notte in doppia al Radisson Blu o alla Funken Lodge (circa 145–175 € a persona, fino a 1.050 € per sei notti); i Coal Miners' Cabins stanno in mezzo a circa 66 € a persona a notte.",
+          "min": 204,
+          "max": 1050,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pasto economico 190–210 NOK, birra alla spina 0,5 l circa 70 NOK, cena in un ristorante medio 300–500 NOK a persona: con spesa allo Svalbardbutikken per colazioni e pranzi si sta sui 350 NOK al giorno (30 €), con due pasti fuori si arriva a 800 NOK (69 €).",
+          "min": 30,
+          "max": 69,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Gita in barca a Pyramiden e ghiacciaio Nordenskiöld",
+          "testo": "Giornata intera di 7–9 ore: 2.550 NOK a persona con Arctic Explorer (10.200 NOK per quattro), 2.995 NOK il catamarano ibrido di Hurtigruten Svalbard per ghiacciaio e fauna, 3.922 NOK la barca coperta di Grumant con pranzo a Pyramiden: 219–337 €.",
+          "min": 219,
+          "max": 337,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cani da slitta (Green Dog Svalbard)",
+          "testo": "Mezza giornata: 1.690–1.890 NOK sul carrello a ruote da giugno a ottobre, 1.840–2.390 NOK sulla neve verso il ghiacciaio Scott Turner o in Bolterdalen: 145–206 €.",
+          "min": 145,
+          "max": 206,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Miniera Gruve 3",
+          "testo": "Tour guidato di 3 ore nella miniera di carbone chiusa nel 1996: 1.090 NOK (circa 94 €), minimo due partecipanti, età minima 12 anni.",
+          "min": 94,
+          "max": 94,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Svalbard Museum",
+          "testo": "Biglietto adulti 160 NOK (circa 14 €), studenti 110, under 18 gratis; visita guidata 285 NOK compreso l'ingresso.",
+          "min": 14,
+          "max": 14,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Escursioni guidate a piedi, motoslitta, Cableway Central",
+          "testo": "Il tour della Cableway Central costa 400 NOK (circa 34 €, maggio–settembre); escursioni a piedi con guida armata, grotta di ghiaccio e motoslitta non hanno un listino verificato: vanno chiesti agli operatori (Svalbard Adventures, Hurtigruten Svalbard, Better Moments) e restano fuori dal totale.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutto è a persona: non ci sono voci della vettura, perché a Longyearbyen non si noleggia un'auto e ogni uscita è un tour guidato. La riga delle escursioni senza listino è dichiarata ma non sommata.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Fuori dall'abitato di Longyearbyen il Governatore impone di portare mezzi per allontanare gli orsi polari e raccomanda un fucile: in pratica si esce solo con una guida armata o con un'arma presa in prestito dopo il corso. Dal 2025 valgono anche le nuove regole ambientali: distanza minima di 500 m dagli orsi da marzo a giugno e 300 m negli altri mesi, droni vietati nelle aree protette, massimo 200 passeggeri per nave nei parchi."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Le Svalbard sono fuori dallo spazio Schengen: a Oslo Gardermoen si passa il controllo documenti all'andata e al ritorno. Per gli italiani basta la carta d'identità valida per l'espatrio, ma compagnie e Governatore raccomandano il passaporto."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Le gite in barca a Pyramiden e ai ghiacciai si fanno solo da giugno a settembre circa, quando il fiordo è libero; il North Pole Expedition Museum chiude nella stagione buia da novembre a metà gennaio; la miniera Gruve 3 parte solo con almeno due iscritti e sopra i 12 anni."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "In alta stagione (marzo–aprile e luglio–agosto) barche, cani e miniera vanno prenotati settimane prima; il Gruvelageret accetta solo su prenotazione. Il vento cancella spesso le uscite: tenere un giorno libero e scegliere operatori che rimborsano, come Green Dog."
+        }
+      ],
+      "note": "Prendete il volo per Longyearbyen con un margine largo a Oslo: i bagagli vanno ritirati e reimbarcati perché il controllo documenti dell'uscita Schengen avviene lì, e un ritardo del Norwegian da Bologna può far perdere l'unico volo serale. Tutto quello che esce dal paese costa 2.000–4.000 corone a persona: scegliete una gita in barca e una con i cani e fate il resto a piedi, il museo, Gruve 3 e la chiesa riempiono già due giornate. Sul posto non serve contante e non esiste il noleggio auto nel senso italiano; in compenso tutto è tax-free e i superalcolici si comprano con la carta di quota dei residenti o con il biglietto aereo in mano. Vestitevi a strati anche in luglio: sul fiordo in barca fa 2–5 gradi con il vento. Se trovate il Norwegian Bologna–Oslo pieno, Pisa–Oslo Torp con Ryanair esiste ma atterra in un altro aeroporto a 110 km da Gardermoen: non è una buona alternativa per la coincidenza.",
+      "fonti": [
+        "https://www.kayak.it/voli/Oslo-e-altri-aeroporti-OSL/Bologna-Aeroporto-Guglielmo-Marconi-BLQ",
+        "https://www.momondo.it/volo/bologna/oslo",
+        "https://www.kayak.it/voli/Oslo-Gardermoen-OSL/Longyearbyen-Svalbard-LYR",
+        "https://www.momondo.it/volo/aeroporto-di-oslo-gardermoen-osl/longyearbyen",
+        "https://www.flightconnections.com/flights-from-osl-to-lyr",
+        "https://www.omio.it/treni/firenze/bologna",
+        "https://virail.it/treni-bologna-firenze",
+        "https://www.marconiexpress.it/wp-content/uploads/2025/03/ME_In-sintesi_01-2025.pdf",
+        "https://loudavymkrokem.cz/it/svalbard-norvegia-cosa-vedere/",
+        "https://svalbardmuseum.no/en/opening-hours-and-prices",
+        "https://en.visitsvalbard.com/things-to-do/coal-mine-3-visit-gruve-3-as-p2523693",
+        "https://en.visitsvalbard.com/things-to-do/visit-the-cabelway-central-day-pass-gruve-3-as-p7853603",
+        "https://en.visitsvalbard.com/things-to-do/wildlife-and-glacier-hybrid-catamaran-tour-hurtigruten-svalbard-p5213823",
+        "https://app.advcollective.com/local-experts/water-activities-pyramiden-glacier-ghost-town-tour-grumant-arctic-travel",
+        "https://www.earthtrekkers.com/svalbard-budget-how-much-does-it-cost-to-visit-svalbard/",
+        "https://www.visitnorway.com/listings/dog-sledding-in-bolterdalen-green-dog-svalbard/22421/",
+        "https://www.visitnorway.no/listings/med-hundeslede-til-scott-turner-breen-green-dog-svalbard/22422/",
+        "https://en.visitsvalbard.com/things-to-do/dog-sledding-on-wheels-green-dog-svalbard-p2522003",
+        "https://gjestehuset102.no/?p=444",
+        "https://www.svalbardblues.com/en/?p=13894",
+        "https://www.kayak.com/Longyearbyen-Hotels-Haugen-Pensjonat-Svalbard.2768774.ksp",
+        "https://www.hotelscombined.ae/Hotel/Radisson_Blu_Polar_Hotel_Spitsbergen.htm",
+        "https://www.travelocity.com/Longyearbyen-Hotels.d2189.Travel-Guide-Hotels",
+        "https://www.orbitz.com/Destinations-In-Svalbard-Adventure-Sport-Hotel.0-0-d11722-tAdventureSportHotel.Hotel-Filter-Destinations",
+        "https://citycost.org/longyearbyen/",
+        "https://hikersbay.com/prices/norway/p/longyearbyen?lang=nl",
+        "https://www.sysselmesteren.no/en/weapon/",
+        "https://www.sysselmesteren.no/contentassets/3d26a3d0d69840c6b0dc5c0d1ab595fa/isbjorn-plakat.pdf",
+        "https://www.regjeringen.no/en/whats-new/endringer-i-miljoregelverket-pa-svalbard/id3024960",
+        "https://polarjournal.net/environment-over-tourism-on-svalbard-new-rules-from-january-2025/",
+        "https://www.sysselmesteren.no/en/entry-and-residence/",
+        "https://www.norway.no/it/italy/servizi-informazioni/visita/visitare-le-svalbard/",
+        "https://hurtigrutensvalbard.com/en/travel-to-svalbard/best-time-to-visit-svalbard-month-by-month-guide",
+        "https://www.lifeinnorway.net/best-time-to-visit-svalbard",
+        "https://en.visitsvalbard.com/things-to-do/north-pole-expedition-museum-p3500533"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 78.2232,
+        "lon": 15.6267
+      },
+      "bambini": {
+        "adatta": "no",
+        "nota": "Dodici ore di viaggio, freddo artico anche d'estate, tour con età minime (Gruve 3 dai 12 anni) e l'obbligo di guida armata fuori dal paese: non è un viaggio per un bimbo di 4 anni."
       }
     },
     {
