@@ -509,6 +509,135 @@
       }
     },
     {
+      "id": "calci-certosa-e-monte-pisano-1g",
+      "nome": "Calci, la Certosa e il Monte Pisano",
+      "sottotitolo": "Toscana, la Certosa monumentale, il museo dei dinosauri e dei cetacei e i borghi ai piedi del Monte Serra",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria: FI-PI-LI (gratuita) fino a Pisa, poi circa 13 km sulla provinciale verso la Valgraziosa fino a Calci, in tutto circa 100 km e 1h10-1h20. In alternativa treno regionale Firenze–Pisa Centrale (circa 1h) e bus urbano/extraurbano per Calci (circa 30-40 minuti): fattibile, ma le corse sono rade e il tempo totale supera 2 ore a tratta.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h15 in auto (circa 100 km); con treno più bus oltre 2h.",
+      "durataViaggioMinuti": 75,
+      "periodoMiglioreTesto": "Marzo-giugno e settembre-novembre: clima mite per salire sul Monte Serra e girare i chiostri. Luglio e agosto sono caldi, e in estate il Monte Serra è a rischio incendi (nel 2018 una parte del versante è bruciata).",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 31,
+      "costoMax": 66,
+      "costoNota": "Il costo dell'auto (carburante, 200 km A/R) è diviso per due viaggiatori; il treno più il bus è indicato solo come confronto, senza una tariffa verificata. Vicopisano è opzionale e visitabile solo nel fine settimana.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "La Certosa e il Museo di Storia Naturale stanno nello stesso complesso, a poche centinaia di metri a piedi l'uno dall'altro: insieme riempiono una mattina o un pomeriggio senza fretta. Vicopisano è a 10 minuti d'auto e la salita al Monte Serra (circa 12 km di strada dal paese) o una breve camminata nell'uliveto completano il giorno senza correre. Con il rientro a Firenze in 1h15 non serve pernottare.",
+      "cosaVedere": [
+        "Certosa monumentale di Calci (Museo Nazionale): monastero certosino del XIV secolo, ridisegnato nel Settecento con facciata barocca, chiostri, la Chiesa, la Farmacia e gli appartamenti del Priore; si visita su prenotazione.",
+        "Museo di Storia Naturale dell'Università di Pisa, dentro la Certosa: circa 5.000 m² su tre piani, con la Galleria dei Cetacei, scheletri di dinosauri e il più grande acquario d'acqua dolce d'Italia (60.000 litri).",
+        "Il borgo di Calci e la Pieve dei Santi Giovanni ed Ermolao, con la valle degli uliveti che circonda la Certosa: l'olio della Valgraziosa è tra i più noti del Pisano.",
+        "Monte Serra (914-917 m), la cima del Monte Pisano: dal paese salgono circa 12 km con 870 m di dislivello sulla SP56, panorama su Pisa, la costa e le Apuane nelle giornate limpide.",
+        "Vicopisano: borgo medievale a 10 minuti d'auto, con la Rocca del Brunelleschi (Maschio, Cassero, camminamento del Soccorso) e le torri del paese; la rocca apre solo sabato e domenica."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante)",
+          "testo": "Circa 100 km a tratta, 200 km A/R a 0,129 €/km: circa 26 € di carburante. FI-PI-LI gratuita, nessun pedaggio; parcheggio nei pressi della Certosa senza costo verificato.",
+          "min": 26,
+          "max": 26,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno + bus (confronto)",
+          "testo": "Regionale Firenze–Pisa e bus per Calci: alternativa più lenta, senza tariffa verificata nel dettaglio.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Certosa monumentale",
+          "testo": "5 € intero, 2 € ridotto; gratuita la prima domenica del mese. Visita con prenotazione.",
+          "min": 2,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo di Storia Naturale",
+          "testo": "8 € intero, 4 € ridotto, acquario e mostre temporanee inclusi.",
+          "min": 4,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rocca del Brunelleschi (Vicopisano, opzionale)",
+          "testo": "5 € intero, 3 € ridotto solo Rocca; 7 € intero con Palazzo Pretorio. Solo sabato e domenica.",
+          "min": 0,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 12 € per un panino o una pizza in paese, fino a 35 € a persona per un menu fisso (primo, secondo, dolce, bevande escluse) in agriturismo.",
+          "min": 12,
+          "max": 35,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Il carburante dell'auto (26 €) è della vettura e si divide per due viaggiatori (13 € a testa); biglietti e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Serve l'auto: i bus per Calci sono rari nel fine settimana. La salita al Monte Serra passa per strade strette e in estate può essere chiusa per il rischio incendi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Certosa è chiusa il lunedì (martedì-sabato 8:30-18:00 o 18:30, domenica 8:30-12:30). Il Museo di Storia Naturale in inverno apre 9-19 (domenica 9-20), in estate 10-20. La Rocca di Vicopisano apre solo sabato (15:30-19) e domenica (10-12:30 e 15:30-19)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La visita alla Certosa richiede prenotazione telefonica (050 938430). Il Museo di Storia Naturale non richiede prenotazione per i singoli. Per la Rocca i gruppi oltre 15 persone devono prenotare."
+        }
+      ],
+      "note": "Abbina la Certosa alla mattina e riserva il pomeriggio al museo: il museo regge bene anche con la pioggia, quindi conviene tenerlo come piano B. Il pranzo in agriturismo (Al Palazzaccio e altri) va prenotato nel weekend. Se vai sabato o domenica aggiungi Vicopisano: la Rocca è visitabile solo con guida volontaria di circa 1h30, con scale. Gli orari cambiano da stagione a stagione, quindi telefona prima di partire: i siti ufficiali segnalano di confermarli.",
+      "fonti": [
+        "https://www.museionline.info/tipologie-museo/certosa-monumentale-di-calci",
+        "https://www.beniculturali.it/luogo/certosa-monumentale-di-calci",
+        "https://museionline.info/musei/museo-di-storia-naturale-dell-universita-di-pisa",
+        "https://www.museionline.info/toscana-musei-monumenti/rocca-del-brunelleschi",
+        "https://www.terredipisa.it/en/?p=16249",
+        "https://www.agriturismi.it/it/toscana/calci/agriturismo_al_palazzaccio/ristorante",
+        "https://climbfinder.com/en/climbs/monte-serra-calci"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 43.7226,
+        "lon": 10.5199
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Il museo con dinosauri, cetacei e acquario piace molto a un bimbo di 4 anni; la Rocca di Vicopisano ha scale ripide."
+      }
+    },
+    {
       "id": "camogli-e-san-fruttuoso-1g",
       "nome": "Camogli e San Fruttuoso",
       "sottotitolo": "Liguria, il borgo di pescatori dalle case a otto piani e l'abbazia sul mare raggiungibile solo in battello o a piedi",
@@ -626,6 +755,108 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Il battello e la spiaggetta piacciono a un bimbo di 4 anni (viaggia a 11 €, abbazia gratis), ma sono circa 6 ore di treno in totale e il sentiero non è adatto."
+      }
+    },
+    {
+      "id": "capalbio-e-il-giardino-dei-tarocchi-1g",
+      "nome": "Capalbio, il Giardino dei Tarocchi e il Lago di Burano",
+      "sottotitolo": "Toscana, Maremma: il borgo di Capalbio, le sculture di Niki de Saint Phalle e l'oasi WWF sul lago",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria da Firenze: FI-PI-LI fino a Livorno, poi Aurelia (SS1) verso sud fino a Capalbio, circa 255 km per tratta. Il Giardino dei Tarocchi è a Garavicchio, a una decina di km dalla stazione di Capalbio Scalo, e l'Oasi di Burano è a Capalbio Scalo: senza auto i trasferimenti interni non sono praticabili. Come confronto, si può arrivare in treno fino a Capalbio Scalo con cambi (circa 3h30 e oltre), ma poi serve comunque un mezzo per raggiungere giardino e lago.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h15-2h30 in auto (circa 255 km per tratta tra FI-PI-LI e Aurelia).",
+      "durataViaggioMinuti": 140,
+      "periodoMiglioreTesto": "Da aprile a metà ottobre, perché il Giardino dei Tarocchi apre solo dal 1° aprile al 15 ottobre (2026) con orario 14:30-19:30. In primavera e a settembre-ottobre il clima è mite; luglio e agosto sono affollati e caldi, con traffico verso il mare.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 58,
+      "costoMax": 83,
+      "costoNota": "La tariffa della visita guidata WWF al Lago di Burano non è pubblicata sul sito: non è inclusa nel totale, da chiedere all'Oasi.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il Giardino dei Tarocchi apre solo il pomeriggio (14:30-19:30) e richiede circa due ore di visita libera tra le grandi sculture; la mattina resta per il borgo medievale di Capalbio, a pochi minuti d'auto, e per il pranzo. Il Lago di Burano, nei weekend, ha visite guidate alle 10:00 e alle 14:30, quindi si incastra solo scegliendo una delle due attrazioni principali come secondo pilastro. Con il viaggio di oltre due ore per tratta una giornata piena è il formato giusto, mentre con un pernottamento si potrebbero fare entrambe con calma.",
+      "cosaVedere": [
+        "Giardino dei Tarocchi (Garavicchio): 22 grandi sculture colorate di Niki de Saint Phalle ispirate agli Arcani Maggiori, rivestite di specchi e ceramiche; si visita in autonomia, senza percorso obbligato.",
+        "Borgo medievale di Capalbio: cinta muraria intatta, vicoli in pietra e il camminamento sulle mura con vista sulla Maremma fino al mare.",
+        "Oasi WWF Lago di Burano: circa 410 ettari tra lago, dune e macchia mediterranea, con uccelli acquatici soprattutto d'inverno e daini nel bosco; l'accesso individuale è solo con visita guidata.",
+        "Pranzo in trattoria nel borgo: cucina maremmana (acquacotta, cinghiale, tortelli) a prezzi contenuti rispetto alla costa."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "Circa 510 km A/R a 0,129 €/km (benzina 1,98 €/l, 6,5 l/100 km): circa 66 € per la vettura; FI-PI-LI e Aurelia senza pedaggio, parcheggio gratuito al Giardino.",
+          "min": 66,
+          "max": 66,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Giardino dei Tarocchi",
+          "testo": "15 € intero, 10 € ridotto (7-22 anni e over 65); gratuito fino a 6 anni.",
+          "min": 10,
+          "max": 15,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "15-20 € in pizzeria, 25-35 € in trattoria a Capalbio (spesa media a persona).",
+          "min": 15,
+          "max": 35,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Il carburante è della vettura e va diviso tra i due viaggiatori (circa 33 € a testa); ingresso e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il Giardino dei Tarocchi è aperto dal 1° aprile al 15 ottobre 2026, tutti i giorni 14:30-19:30 (ultimo ingresso 18:15); in inverno è chiuso."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Ingressi contingentati: biglietto online sul sito ufficiale del Giardino consigliato. Visita al Lago di Burano solo guidata e con prenotazione entro le 13:00 del giorno prima (WhatsApp 388 4231098, lagodiburano@wwf.it)."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Lago di Burano: dal 22 settembre al 10 maggio visite guidate sabato, domenica e festivi alle 10:00 e 14:30; dal 11 maggio al 21 settembre lunedì, mercoledì, sabato e domenica alle 17:30; chiusa 24-26 dicembre e 31 dicembre-1 gennaio e con allerta meteo."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Parcheggio gratuito presso il Giardino dei Tarocchi; senza auto non si raggiungono né giardino né oasi in modo pratico."
+        }
+      ],
+      "note": "Il giardino e l'oasi non si abbinano in tutti i giorni: tra il 22 settembre e il 10 maggio la visita guidata WWF delle 10:00 di sabato o domenica lascia il tempo per pranzare e arrivare al giardino per le 14:30. Il giardino è aperto solo il pomeriggio, quindi non anticipare l'arrivo. Il treno è un'alternativa solo teorica: la stazione di Capalbio Scalo è a una decina di km dal giardino.",
+      "fonti": [
+        "https://siviaggia.it/notizie/giardino-dei-tarocchi-toscana-apertura-2026/581818/",
+        "https://www.greenme.it/viaggi/italia/giardino-tarocchi-capalbio-visitare/",
+        "https://www.voloscontato.it/ristoranti/capalbio-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.wwf.it/dove-interveniamo/il-nostro-lavoro-in-italia/oasi/lago-di-burano/",
+        "https://www.visittuscany.com/it/attrazioni/riserva-naturale-del-lago-di-burano/",
+        "https://quimaremmatoscana.it/en/posts/Giardino-dei-Tarocchi"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 42.4,
+        "lon": 11.37
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Le sculture colorate del giardino piacciono a un bimbo di 4 anni (gratis fino a 6 anni), ma il viaggio è lungo."
       }
     },
     {
@@ -3431,6 +3662,129 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "A un bimbo di 4 anni piacciono tribuna, box e parco; i musei sono tranquilli e poco interattivi, e il tour guidato (da 7 anni) non è pensato per lui."
+      }
+    },
+    {
+      "id": "larderello-e-le-biancane-1g",
+      "nome": "Larderello, Monterotondo Marittimo e le Biancane",
+      "sottotitolo": "Toscana, la terra dei soffioni: dove nacque l'energia geotermica, tra vapori, museo multimediale e sentieri sulle colline bianche",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria da Firenze: circa 1h40-2h fino a Larderello (Pomarance) passando da Colle Val d'Elsa e Volterra, oppure via FI-PI-LI e Pontedera/Volterra. Da Larderello a Monterotondo Marittimo servono altri 20-25 minuti di strada di collina. Il trasporto pubblico è praticamente assente su questo itinerario: l'auto serve per muoversi tra le tre tappe.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h40-2h in auto da Firenze a Larderello; circa 2h15 fino a Monterotondo Marittimo. Per l'intero giro (Firenze-Larderello-Monterotondo-Firenze) si stimano circa 280 km.",
+      "durataViaggioMinuti": 110,
+      "periodoMiglioreTesto": "Marzo-giugno e settembre-novembre: temperature miti per camminare tra le fumarole. D'inverno il sentiero è bello ma può essere fangoso e le giornate corte; in piena estate il caldo si somma ai vapori.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 38,
+      "costoMax": 50,
+      "costoNota": "Il carburante (circa 36 € per il giro di 280 km stimati, 0,129 €/km) è diviso per due viaggiatori. Se si aggiunge la camminata guidata alle Biancane (da 20 € a persona, minimo 6 partecipanti) il totale sale di circa 20 €.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le tre tappe sono vicine tra loro (Larderello, Sasso Pisano e Monterotondo Marittimo distano al massimo 20-25 minuti di strada) e ognuna richiede da 1 a 2 ore: museo di Larderello al mattino, pranzo a Monterotondo, MUBIA e anello delle Biancane nel pomeriggio. Con l'ora e mezza abbondante di viaggio ogni tratta, una giornata piena basta per vedere tutto con calma; un pernottamento servirebbe solo a chi volesse aggiungere Volterra o le terme.",
+      "cosaVedere": [
+        "Museo della Geotermia di Larderello (Piazza Leopolda): modelli, antichi attrezzi di perforazione e immagini raccontano come qui, dal primo Ottocento, si passò dall'estrazione dell'acido borico alla prima produzione elettrica da vapore al mondo; l'ingresso è gratuito.",
+        "Il paesaggio di Larderello con i vapori che salgono dalle torri di raffreddamento e dai tubi della centrale: uno scenario industriale unico in Italia, spettacolare soprattutto nelle giornate fredde e umide.",
+        "MUBIA, il Geomuseo delle Biancane a Monterotondo Marittimo, ricavato in una ex centrale geotermica: la 'geonave' multimediale simula un viaggio verso l'interno della Terra e il laboratorio del professor Lidenbrock (ispirato a Jules Verne) spiega rocce e minerali.",
+        "Parco naturalistico delle Biancane: sentiero tra fumarole, suoli bianchi acidi e acque calde, con un belvedere sulle colline. È l'unico posto toscano dove il fenomeno geotermico naturale si vede così da vicino.",
+        "Borgo di Monterotondo Marittimo: paese medievale di collina dove pranzare in trattoria prima di scendere al museo."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "Circa 280 km A/R stimati (Firenze-Larderello-Monterotondo-Firenze) a 0,129 €/km (benzina 1,98 €/l, 6,5 l/100 km): circa 36 €. Strade statali e provinciali senza pedaggio sul percorso via Colle Val d'Elsa/Volterra; FI-PI-LI gratuita.",
+          "min": 36,
+          "max": 36,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo della Geotermia di Larderello",
+          "testo": "Ingresso gratuito (dati museionline e Terre di Pisa).",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "MUBIA - Geomuseo delle Biancane",
+          "testo": "7 € intero, 5 € ridotto, con audioguida.",
+          "min": 5,
+          "max": 7,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 15-25 € a persona nelle trattorie di Monterotondo Marittimo (prezzo medio indicato intorno ai 20 €).",
+          "min": 15,
+          "max": 25,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Camminata guidata alle Biancane (facoltativa)",
+          "testo": "Da 20 € a persona con guida ambientale, circa 2 ore e 2,5-3 km, minimo 6 partecipanti, con partenza dal MUBIA; non inclusa nel totale.",
+          "min": 20,
+          "max": 20,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Il carburante (circa 36 €) è della vettura e si divide per due viaggiatori; ingressi e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "MUBIA aperto da martedì a domenica, 10-13 e 15-18, chiuso il lunedì: la visita ricade tra le 13 e le 15 nella pausa, quindi il pranzo si incastra bene. Il Museo di Larderello risulta aperto martedì-domenica 9-17 secondo un elenco, ma altre fonti lo danno aperto tutti i giorni 9:30-17:30: confermare per telefono (0588 67724)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per il museo di Larderello una fonte indica la prenotazione obbligatoria; le visite alla centrale e al soffione sono per gruppi su richiesta. La camminata guidata alle Biancane richiede almeno 6 partecipanti e prenotazione all'organizzatore."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Nessuna ZTL rilevante nelle tre tappe. Strade di collina con molte curve: calcolare tempi più lunghi del navigatore se piove o c'è nebbia."
+        }
+      ],
+      "note": "Le tre fonti consultate danno orari discordanti per il museo di Larderello e alcuni dati sono del 2019-2023: telefonare prima di partire è il consiglio più utile. A Sasso Pisano e ai Lagoni del Sasso le manifestazioni geotermiche naturali si possono vedere liberamente in ogni stagione: è un'ottima sosta fuori programma sulla strada tra le due tappe. Portare scarpe da trekking e non vestiti chiari: il suolo delle Biancane è acido e fangoso, e l'odore di zolfo è forte.",
+      "fonti": [
+        "https://www.visittuscany.com/it/attrazioni/il-museo-della-geotermia-di-larderello/",
+        "https://www.visittuscany.com/it/offerte/l-energia-dal-cuore-della-terra-escursione-al-geosito-delle-biancane",
+        "https://www.museionline.info/musei/museo-della-geotermia-di-larderello",
+        "https://www.museionline.info/musei/museo-delle-biancane",
+        "https://www.isprambiente.gov.it/it/attivita/museo/regioni/musei/museo-della-geotermia-enel",
+        "https://www.lanazione.it/pubbliredazionali/maremma-toscana-monterotondo-marittimo-nasce-mubia-il-futuristico-geomuseo-delle-biancane-1.4507551",
+        "https://www.terredipisa.it/en/?p=27794",
+        "https://www.sluurpy.it/monterotondo-marittimo/ristoranti",
+        "https://www.italia.it/it/toscana/monterotondo-marittimo/dove-mangiare/che-ce-ce",
+        "https://www.percorsokm.it/it/come-arrivare-a-Pomarance"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 43.2328,
+        "lon": 10.8744
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "La geonave del MUBIA e le fumarole piacciono ai bimbi, il sentiero è breve; attenzione al suolo caldo e alle zone recintate."
       }
     },
     {
@@ -8399,6 +8753,120 @@
       }
     },
     {
+      "id": "tuscania-vulci-e-montalto-di-castro-1g",
+      "nome": "Tuscania, Vulci e Montalto di Castro",
+      "sottotitolo": "Lazio (Tuscia), le basiliche romaniche di Tuscania e la città etrusca di Vulci sul canyon del Fiora",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria da Firenze: la Tuscia settentrionale non ha treni utili. Percorso senza pedaggi (raccordo Firenze–Siena, superstrada Siena–Grosseto, poi Aurelia verso Montalto di Castro e Vulci) oppure A1 fino a Orvieto e poi Viterbo/Tuscania, più veloce ma a pagamento (pedaggio da verificare). Tra Tuscania e Vulci ci sono circa 30 km di strade provinciali.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h20-2h40 in auto fino a Tuscania (circa 250-280 km a seconda del percorso); Tuscania–Vulci circa 35-40 minuti.",
+      "durataViaggioMinuti": 150,
+      "periodoMiglioreTesto": "Primavera e autunno: luce calda sul tufo, temperature miti per camminare nel parco di Vulci. In piena estate nel parco manca l'ombra e fa molto caldo.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 59,
+      "costoMax": 86,
+      "costoNota": "Auto stimata su circa 560 km A/R (incluso lo spostamento Tuscania–Vulci) a 0,129 €/km, circa 72 € per la vettura, divisi in due; percorso consigliato senza pedaggi. Il biglietto di Vulci è dato 8-10 € perché le fonti consultate riportano cifre diverse.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le due tappe stanno in una giornata piena senza correre: Tuscania si gira a piedi in 3 ore tra San Pietro, Santa Maria Maggiore, la Torre di Lavello e una necropoli. Il parco di Vulci chiede altre 3 ore tra città antica, necropoli, Ponte del Diavolo e castello con museo. Con 2h30 di viaggio all'andata e al ritorno il ritmo è pieno ma regge; un pernottamento in zona permetterebbe di aggiungere Tarquinia o il lago di Bolsena.",
+      "cosaVedere": [
+        "Basilica di San Pietro a Tuscania: sorge sull'antica acropoli etrusca, con facciata dal grande rosone, portale con lavorazione cosmatesca e una cripta a 28 colonne in gran parte romane; ingresso gratuito ma visita spesso su richiesta.",
+        "Chiesa di Santa Maria Maggiore: consacrata nel 1206, ha il portale in marmo con due leoni di pietra e un interno a tre navate con pilastri affrescati, a pochi minuti da San Pietro.",
+        "Parco della Torre di Lavello: il belvedere migliore sulle due chiese e sulla valle del Marta, ideale per la foto con la luce del pomeriggio.",
+        "Necropoli di Madonna dell'Olivo e Grotta della Regina, circa 2 km da Tuscania: tombe a camera, sarcofagi con scene di Amazzonomachia e una rete di gallerie misteriose; ingresso gratuito, aperta mercoledì-domenica.",
+        "Museo Archeologico Nazionale di Tuscania, nel chiostro di Santa Maria del Riposo: i sarcofagi e i corredi che hanno dato alla città il soprannome di città dei sarcofagi.",
+        "Parco archeologico di Vulci (circa 120 ettari sul Fiora): basoli romani, mura, la Domus del Criptoportico, le necropoli e il Tumulo della Cuccumella, il più grande tumulo dell'Etruria meridionale.",
+        "Castello dell'Abbadia e Ponte del Diavolo: il castello medievale ospita il museo con i reperti di Vulci; il ponte a un'arcata sorvola il canyon a circa 30 metri.",
+        "Tomba François: gli affreschi originali sono a Roma (collezione Torlonia), ma a Canino c'è una ricostruzione a grandezza naturale al museo della ricerca archeologica."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante)",
+          "testo": "Circa 560 km A/R a 0,129 €/km, circa 72 € totali per la vettura; percorso consigliato via Siena-Grosseto-Aurelia senza pedaggi.",
+          "min": 72,
+          "max": 72,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parco di Vulci - biglietto",
+          "testo": "8 € intero secondo il materiale informativo del parco, 10 € intero (6 € ridotto) secondo altra scheda, museo del castello compreso o separato da verificare; gratuito la prima domenica del mese.",
+          "min": 8,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Chiese e necropoli di Tuscania",
+          "testo": "San Pietro e la necropoli di Madonna dell'Olivo sono a ingresso gratuito; eventuale offerta libera.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "15-20 € per un panino o un piatto veloce; 25-40 € per un pasto completo in trattoria a Tuscania (fascia indicativa da portali di recensioni).",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante della vettura diviso per due viaggiatori; biglietti e pranzo a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Parcheggio ampio fuori dalle mura a Tuscania; il centro si gira a piedi. A Vulci l'area è molto estesa: a piedi servono scarpe comode, nei weekend c'è una navetta interna."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Parco di Vulci: martedì-domenica 9-18 secondo la scheda consultata, chiuso il lunedì; necropoli di Madonna dell'Olivo aperta mercoledì-domenica 10:30-13 e 15:30-18. Controllare gli orari prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "San Pietro a Tuscania è visitabile su richiesta (telefono sulla scheda del sito museionline.info); a Vulci le visite guidate e quelle serali richiedono prenotazione."
+        }
+      ],
+      "note": "Fate prima Tuscania la mattina (le chiese chiudono presto per la pausa) e Vulci nel pomeriggio, quando la luce sul canyon e sul tufo è migliore. Controllate gli orari invernali: da novembre le giornate sono corte e il parco di Vulci è da girare con le ultime ore di luce. Tenete un'ora di margine per il ritorno.",
+      "fonti": [
+        "https://travel.thewom.it/italia/un-parco-segreto-tra-lazio-e-toscana-vulci.html",
+        "https://www.museionline.info/lazio-musei-monumenti/parco-naturalistico-archeologico-di-vulci",
+        "https://alternativasostenibile.it/sites/default/files/informazioni_sul_Parco_di_Vulci.pdf",
+        "https://travel.thewom.it/italia/lazio/tuscania-lazio.html",
+        "https://www.museionline.info/lazio-musei-monumenti/basilica-di-san-pietro-tuscania",
+        "https://www.museionline.info/lazio-musei-monumenti/necropoli-madonna-dellolivo-grotta-della-regina",
+        "https://www.sluurpy.it/tuscania/canoli"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 42.4197,
+        "lon": 11.8708
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il parco di Vulci con ponte e castello piace, ma le distanze a piedi e 5 ore di auto totali pesano su un bimbo di 4 anni."
+      }
+    },
+    {
       "id": "umbertide-e-montone-1g",
       "nome": "Umbertide e Montone",
       "sottotitolo": "Umbria, due borghi dell'Alta Valle del Tevere: la rocca di Umbertide e il borgo medievale di Montone",
@@ -9786,6 +10254,125 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Il sentiero 697 per la Pietra è fattibile con un bimbo di 4 anni in circa un'ora, ma ripido in alcuni tratti e senza passeggino; i castelli sono tranquilli."
+      }
+    },
+    {
+      "id": "assisi-spello-e-monte-subasio-2g",
+      "nome": "Assisi, Spello e il Monte Subasio",
+      "sottotitolo": "Umbria, la città di San Francesco, il borgo delle infiorate e i boschi dell'Eremo delle Carceri in un weekend lento",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno Regionale diretto Firenze S.M.N.–Assisi (linea via Terontola, circa 2h40–2h58, una decina di corse al giorno); la stazione è a Santa Maria degli Angeli, a valle, e da lì un bus urbano sale ad Assisi. Spello è a una fermata di treno da Assisi sulla stessa linea. In alternativa in auto da Firenze (A1 e raccordo Valdichiana/E45 verso Perugia), comoda se si vuole salire all'Eremo senza dipendere da navette o taxi.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 2h40–2h58 in Regionale diretto più il bus dalla stazione verso il centro; alcune corse hanno cambio e arrivano a 5h.",
+      "durataViaggioMinuti": 195,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre: clima mite, boschi del Subasio verdi o dorati e meno caldo. Ottobre è il mese dell'olio nuovo. Luglio e agosto sono caldi e affollati.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 123,
+      "costoMax": 268,
+      "costoNota": "Stima per una notte e due giorni, con treno Regionale, tre pasti e una notte in camera doppia divisa in due. Le fasce dei pasti vengono da una stima per persona di sito di recensioni, non da menu verificati.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "In un giorno solo Assisi si riduce alla Basilica e a una passeggiata. Con una notte si aggiungono l'Eremo delle Carceri, a circa 4 km dal centro e a 800 m di quota nei boschi del Subasio, e la Rocca Maggiore al tramonto. Il secondo giorno basta per Spello, a una fermata di treno, con i vicoli in salita, le chiese affrescate e l'olio. Il ritmo resta quello di un weekend: si dorme ad Assisi, che la sera, svuotata dai pullman, ha un'altra atmosfera.",
+      "cosaVedere": [
+        "Basilica di San Francesco: ingresso gratuito e senza prenotazione, con il ciclo di Giotto in 28 scene nella chiesa superiore e la tomba del santo nella cripta. Meglio presto al mattino o dopo le 16.",
+        "Eremo delle Carceri: santuario nel bosco del Subasio a circa 4 km da Assisi, con la grotta di San Francesco, il pozzo e un belvedere sulla piana di Spoleto. Si visita gratuitamente, dalle 6:15 circa fino a sera.",
+        "Rocca Maggiore: fortezza trecentesca raggiungibile in circa 25 minuti da Piazza del Comune, con ingresso intorno ai 3 €; è il punto migliore per il tramonto sulla valle.",
+        "Piazza del Comune e il centro di Assisi: il tempio romano di Minerva e le vie in pietra rosa e bianca del Subasio, da girare la sera quando i gruppi sono ripartiti.",
+        "Spello: borgo umbro di vicoli ripidi a una fermata di treno da Assisi, noto per le fioriture e per l'olio; è la tappa lenta del secondo giorno."
+      ],
+      "itinerario": null,
+      "alloggio": "Un esempio verificato: all'Hotel Fontebella, 4 stelle a circa 10 minuti a piedi dal centro, le camere classiche costano da 88 a 188 € a notte per due (rilevazione di fine ottobre, quindi bassa stagione). B&B e 3 stelle non sono stati verificati: per un posto vicino a Porta Nuova o Piazza del Comune conviene prenotare con anticipo, specie nei weekend di ottobre e a Pasqua.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Regionale Firenze–Assisi circa 17–18 € a tratta, quindi 34–36 € a persona A/R; più cari con cambi o Frecciarossa via Roma.",
+          "min": 34,
+          "max": 36,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (1 notte)",
+          "testo": "Camera doppia da 88 a 188 € per due (Hotel Fontebella), cioè 44–94 € a persona per la notte.",
+          "min": 44,
+          "max": 94,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti (pranzo, cena, pranzo)",
+          "testo": "Circa 15–20 € nei posti più economici, 25–40 € con bevande, fino a 50 € nei locali più eleganti; tre pasti.",
+          "min": 45,
+          "max": 120,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Taxi o navetta per l'Eremo",
+          "testo": "Taxi circa 15 € a tratta fino all'Eremo; a piedi si sale in circa 1h30 e il costo è zero.",
+          "min": 0,
+          "max": 15,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rocca Maggiore",
+          "testo": "Circa 3 €, inclusa in alcuni biglietti cumulativi dei musei; Basilica ed Eremo gratuiti.",
+          "min": 0,
+          "max": 3,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona, con due viaggiatori che dividono la camera doppia. In auto aggiungere carburante e pedaggi (non verificati qui) e il parcheggio, voci della vettura da dividere per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "La stazione è a Santa Maria degli Angeli, a valle: serve il bus urbano o un taxi per salire. In auto i parcheggi fuori le mura (Mojano, Porta San Pietro, Giovanni Paolo II) evitano il centro; le tariffe non sono pubblicate nelle fonti consultate."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Eremo delle Carceri: lunedì–venerdì 6:15–19:00, sabato 6:15–18:00, domenica 7:15–19:00."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione per Basilica ed Eremo; conviene prenotare l'alloggio e, nei weekend, il tavolo per cena. Controllare gli orari dei treni di ritorno, perché i diretti serali sono pochi."
+        }
+      ],
+      "note": "Per vedere l'Eremo senza folla salire alle 7:30 con il taxi o a piedi prima che arrivino i gruppi, poi tornare in centro a piedi lungo la strada in discesa. Se si prende il treno la domenica, l'ultima corsa diretta per Firenze è alle 19:06 (arrivo 21:50 circa): confermare sempre l'orario prima di prenotare la cena.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/assisi",
+        "https://www.omio.it/treni/assisi/firenze",
+        "https://italyplanner.com/assisi-guide.html",
+        "https://www.italia.it/it/umbria/perugia/eremo-delle-carceri",
+        "https://www.momondo.it/hotel/assisi/Hotel-Fontebella.mhd27250.ksp",
+        "https://www.unipolmove.it/?p=3898",
+        "https://www.sluurpy.it/assisi/economico",
+        "https://www.voloscontato.it/ristoranti/assisi-dove-mangiare-bene-spendendo-poco.php"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 43.0707,
+        "lon": 12.6196
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Basilica e Rocca piacciono ai bambini, ma salite e scalini sono stancanti per un bimbo di 4 anni e il viaggio in treno è lungo."
       }
     },
     {
@@ -11917,6 +12504,137 @@
       }
     },
     {
+      "id": "citta-del-tufo-e-saturnia-2g",
+      "nome": "Città del Tufo e Saturnia: Pitigliano, Sorano, Sovana e le terme",
+      "sottotitolo": "Maremma toscana, tre borghi di tufo con vie cave etrusche e le acque calde di Saturnia",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria da Firenze: raccordo Firenze–Siena, poi Siena–Grosseto (SS223) e la provinciale per Manciano e Pitigliano, circa 215 km senza pedaggi. I borghi della Città del Tufo e Saturnia distano pochi chilometri di strada di campagna l'uno dall'altro e i mezzi pubblici sono radi: l'auto è indispensabile, anche per raggiungere le Cascate del Mulino al tramonto.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h30 in auto (circa 215 km, senza pedaggi), più 15-30 minuti tra un borgo e l'altro.",
+      "durataViaggioMinuti": 150,
+      "periodoMiglioreTesto": "Marzo-giugno e settembre-novembre: temperature miti per camminare nelle vie cave e bagno caldo piacevole. In pieno inverno le terme sono al massimo del fascino (vapore nell'aria fredda) ma le giornate sono corte; a luglio-agosto fa troppo caldo per le vie cave e le cascate sono affollatissime.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 151,
+      "costoMax": 260,
+      "costoNota": "Stime per due viaggiatori con una notte in zona. Pranzo e cena: 15-30 € a pasto a persona (spesa media indicata per le trattorie di Pitigliano), quindi 30-60 € al giorno per due pasti. Ingresso necropoli di Sovana (3,50 €) ricavato da una fonte datata, non riconfermato sul sito ufficiale: da verificare.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 4,
+      "percheDurata": "In un solo giorno si vede o la Città del Tufo o Saturnia, mai bene entrambe. Pitigliano, Sorano e Sovana distano 8-15 km l'una dall'altra ma ognuna merita 2-3 ore: la necropoli di Sovana con la Tomba Ildebranda, la via cava di San Sebastiano (pareti alte fino a 25 m), la Fortezza Orsini di Sorano e il ghetto ebraico di Pitigliano. Il secondo giorno lascia spazio alle Cascate del Mulino al tramonto e a un bagno nel Parco Termale senza guardare l'orologio, con la notte in zona che evita il rientro a Firenze di sera tardi.",
+      "cosaVedere": [
+        "Pitigliano: il borgo scolpito nel tufo sopra la gola, con l'acquedotto mediceo, Palazzo Orsini con i suoi musei e il quartiere del ghetto ebraico con sinagoga, detto la Piccola Gerusalemme.",
+        "Sovana: Tomba Ildebranda e le tombe a tempio della necropoli etrusca, più il Duomo e Palazzo Pretorio, sede del centro visite del Parco Città del Tufo.",
+        "Via cava di San Sebastiano: corridoio scavato dagli Etruschi con pareti alte fino a 25 m, da percorrere a piedi tra tombe e felci, un'esperienza che non si ha da nessun'altra parte in Toscana.",
+        "Sorano: borgo a strapiombo con la Fortezza Orsini (museo e visite guidate) e le vie cave di San Rocco.",
+        "Cascate del Mulino di Saturnia: vasche di travertino con acqua a circa 37 °C, gratuite e aperte sempre; meglio dopo le 18, quando i gruppi se ne vanno.",
+        "Parco Termale di Saturnia: piscine termali con ingresso giornaliero, utile per chi vuole un bagno tranquillo e con servizi."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte per due tra 50 e 115 € in B&B o agriturismo: Pitigliano circa 60-87 € (Villa Etruria 60, Il Tufo Rosa 87), Manciano 50-69 €, Saturnia agriturismi da circa 90-115 €. Conviene dormire a Pitigliano o a Manciano, a metà tra borghi e terme.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "Circa 500 km tra andata, ritorno e spostamenti interni a 0,129 €/km: circa 65 €, nessun pedaggio sul percorso Siena-Grosseto.",
+          "min": 65,
+          "max": 65,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Terme di Saturnia",
+          "testo": "Parco Termale da 30 € al giorno (le Cascate del Mulino sono gratuite).",
+          "min": 30,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Necropoli di Sovana e Parco Città del Tufo",
+          "testo": "Circa 3,50 € l'ingresso alla necropoli, 10 € con guida inclusa di biglietto.",
+          "min": 3.5,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Fortezza Orsini di Sorano",
+          "testo": "Ingresso al museo secondo tariffa del polo museale; visita guidata a 10 €.",
+          "min": 0,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "50-115 € a notte per due in B&B o agriturismo, colazione inclusa; una notte.",
+          "min": 25,
+          "max": 57.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo e cena",
+          "testo": "Spesa media di 15-30 € a pasto a persona nelle trattorie di Pitigliano (Il Grillo 20-30 €, La Pappalpomodoro 20-25 €, Locanda del Pozzo Antico 15-30 €), cioè 30-60 € al giorno con pranzo e cena.",
+          "min": 30,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Il carburante è della vettura e va diviso per due; ingressi, alloggio (metà camera) e pasti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nei centri di Pitigliano, Sorano e Sovana i parcheggi si trovano ai margini dei borghi: poi si va a piedi su salite ripide e acciottolato."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Parco Termale di Saturnia chiude alle 17 dal 1 novembre al 31 marzo (19 da aprile a ottobre); le Cascate del Mulino restano accessibili sempre. Verifica orari e giorni di chiusura dei musei prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Visite guidate a Sovana e Sorano su prenotazione (tel. 0564 633099); il weekend e i ponti conviene prenotare anche l'alloggio."
+        }
+      ],
+      "note": "Porta scarpe chiuse e una torcia piccola per le vie cave, e un costume e ciabatte per le cascate anche d'inverno. Alle cascate vai dopo le 18 per la luce migliore, ma ricorda che dopo il tramonto il buio e il freddo sono veri: asciugamano grande e accappatoio sono d'obbligo. A Pitigliano la Madonna delle Grazie è un bel punto per il tramonto sulla gola, ma chi vuole le terme deve scegliere. Combina i tre borghi il primo giorno e le terme nel pomeriggio del secondo, con la mattina libera per la via cava.",
+      "fonti": [
+        "https://www.travel365.it/saturnia-cosa-vedere.htm",
+        "https://www.bed-and-breakfast.it/en/sorano/hamlet/sovana",
+        "https://www.visittuscany.com/it/offerte/sovana-la-necropoli-etrusca/",
+        "https://www.lanazione.it/grosseto/cosa-fare/visite-parco-citta-tufo-8dc98b71",
+        "https://museidimaremma.it/?p=4122",
+        "https://www.firenzemadeintuscany.com/it/articolo/pitigliano-sorano-e-sovana-cosa-vedere-e-dove-mangiare/",
+        "https://www.voloscontato.it/ristoranti/pitigliano-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.swipein.restaurant/en/restaurant/trattoria-il-grillo-pitigliano"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 42.6342,
+        "lon": 11.6692
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Cascate e borghi piacciono, ma salite, scalini e vie cave sono faticosi con un bimbo di 4 anni e l'acqua termale è calda."
+      }
+    },
+    {
       "id": "colli-euganei-2g",
       "nome": "Colli Euganei: Abano, Este, Monselice e Arquà Petrarca",
       "sottotitolo": "Veneto, i colli vulcanici a sud di Padova con borghi murati, castelli e terme",
@@ -12025,6 +12743,183 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Castello e Sette Chiese sono un po' lunghi e in salita per un bimbo di 4 anni, ma Este e le mura si fanno bene e il castello ha ridotti e ingresso gratuito sotto i 6 anni."
+      }
+    },
+    {
+      "id": "colonia-in-due-giorni-2g",
+      "nome": "Colonia in due giorni",
+      "sottotitolo": "Renania Settentrionale-Vestfalia, Germania: solo Colonia, con il Duomo, i musei e le birrerie della Altstadt",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Volo diretto Eurowings Pisa–Colonia/Bonn (circa 1h40), operato il giovedì e il sabato: andata giovedì sera, ritorno sabato, così restano il venerdì intero e gran parte del sabato. Da Firenze a Pisa Aeroporto in treno regionale più Pisa Mover; a Colonia dall'aeroporto si arriva alla stazione centrale (Hauptbahnhof) in S-Bahn in circa 15 minuti, a un passo dal Duomo. Verificare giorni e orari sul sito Eurowings prima di prenotare: il calendario cambia con la stagione.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 5h30 porta a porta: treno Firenze–Pisa Aeroporto e Pisa Mover (circa 1h20), imbarco, volo di 1h40, S-Bahn fino al Duomo (circa 15–20 minuti). Stima.",
+      "durataViaggioMinuti": 330,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre per le passeggiate sul Reno e la salita al campanile; dicembre per i mercatini sotto il Duomo, ma con folla e prezzi alti. Gennaio e febbraio sono freddi e umidi; luglio e agosto non sono proibitivi ma i voli del giovedì e sabato costano di più.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        12
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 279,
+      "costoMax": 571,
+      "costoNota": "Volo: fascia da circa 52–60 € a tratta (minimo osservato) fino a 252 € andata e ritorno (esempio maggio); i prezzi cambiano molto con la data. Alloggio e pasti sono calcolati per 2 giorni/2 notti.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Il centro di Colonia è compatto: dal Duomo alla Altstadt, al Museo Ludwig e al Museo del Cioccolato sul Reno ci sono pochi chilometri, tutti percorribili a piedi. Due giorni pieni bastano per la salita al campanile (533 gradini), due musei veri, una passeggiata sull'Hohenzollernbrücke e una serata in Brauhaus senza correre. Con un giorno solo si taglia il Ludwig o il Cioccolato; con tre si scivola verso Düsseldorf e Bonn, già coperte dalla scheda di 3 giorni.",
+      "cosaVedere": [
+        "Kölner Dom: dal 1° luglio 2026 l'interno costa 12 €; il campanile (533 gradini, senza ascensore, 8 €) regala la vista migliore sul Reno e sui ponti. Il Tesoro (Domschatzkammer) costa altri 8 €.",
+        "Museum Ludwig (19,80 €): la più grande raccolta di Pop Art fuori dagli Stati Uniti, più Picasso e avanguardie russe; sta accanto al Duomo, perfetto per la mattina.",
+        "Römisch-Germanisches Museum (6 €): la sede storica è in ristrutturazione e la collezione romana di Colonia è ora al Belgisches Haus (Cäcilienstraße 46), con una selezione di reperti. Il celebre mosaico di Dioniso non è visibile.",
+        "Schokoladenmuseum (17,50 €) sul Reno: serra tropicale con piante di cacao, fabbrica visibile dall'interno e fontana di cioccolato alta tre metri; orari 10–18, ma una fonte lo dà chiuso il lunedì: verificare.",
+        "Altstadt e lungoreno: Alter Markt, Groß St. Martin e il Heinzelmännchenbrunnen, poi la Hohenzollernbrücke a piedi per la vista sullo skyline.",
+        "Brauhaus: Kölsch servito in bicchierini da 0,2 l a 2–3 € e piatti tipici (Himmel un Äd, Halver Hahn) da 18–25 € nella Altstadt."
+      ],
+      "itinerario": null,
+      "alloggio": "Doppia in hotel 3 stelle o B&B nella Altstadt, vicino alla stazione o a Deutz: circa 70–110 € a notte per due (35–55 € a persona); un posto in ostello costa 20–35 €. Conviene dormire entro un chilometro dal Duomo, così l'aeroporto si raggiunge con la S-Bahn dalla stazione centrale. Prenotare con 3 settimane di anticipo abbassa i prezzi.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Pisa–Colonia/Bonn",
+          "testo": "Eurowings diretto, giovedì e sabato: da circa 52–60 € a tratta (minimo osservato) a 252 € andata e ritorno in una data di maggio.",
+          "min": 105,
+          "max": 252,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Firenze–Pisa Aeroporto con Pisa Mover",
+          "testo": "30,40 € A/R a persona tra treno regionale e Pisa Mover.",
+          "min": 30.4,
+          "max": 30.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto Firenze–Pisa (alternativa)",
+          "testo": "85 km FI-PI-LI gratuita: circa 22 € di benzina e 12–18 € di parcheggio per 2 giorni, a vettura.",
+          "min": 34,
+          "max": 40,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "S-Bahn aeroporto CGN–centro A/R",
+          "testo": "Circa 3 € a tratta fino alla stazione centrale (15 minuti).",
+          "min": 6,
+          "max": 7,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Trasporto urbano",
+          "testo": "Il centro si gira a piedi; biglietto giornaliero a 24 ore circa 9 € se serve per Deutz o per i musei più lontani.",
+          "min": 0,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Duomo e campanile",
+          "testo": "12 € ingresso interno dal 1° luglio 2026; +8 € salita alla torre; Tesoro +8 € (non conteggiato).",
+          "min": 12,
+          "max": 20,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museum Ludwig",
+          "testo": "19,80 € intero; gratuito fino ai 18 anni.",
+          "min": 0,
+          "max": 19.8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Römisch-Germanisches Museum",
+          "testo": "6 € intero (sede provvisoria Belgisches Haus).",
+          "min": 0,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Schokoladenmuseum",
+          "testo": "17,50 € intero, 10 € sotto i 18 anni.",
+          "min": 0,
+          "max": 17.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "70–110 € a notte per due in B&B o hotel 3 stelle, 2 notti.",
+          "min": 35,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 10–15 € (menu a due portate) o 4 € di street food; cena in Brauhaus 18–25 € nella Altstadt.",
+          "min": 28,
+          "max": 45,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona (volo, treno, S-Bahn, ingressi, alloggio diviso per due, pasti). Solo l'auto per Pisa è della vettura e non entra nel totale, perché si consiglia il treno.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il Duomo è gratuito solo per preghiera e messe dal transetto nord (circa 6–20); la visita turistica richiede biglietto dal 1° luglio 2026 e si ferma durante le funzioni."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Römisch-Germanisches Museum provvisorio chiude il martedì; il Museum Ludwig chiude il lunedì. Il campanile chiude alle 16 da novembre a febbraio e alle 18 da marzo a ottobre."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il volo diretto c'è solo giovedì e sabato: se si perde, non c'è alternativa diretta. Consigliato il biglietto a fascia oraria per il Museo del Cioccolato e per il Duomo nei fine settimana."
+        }
+      ],
+      "note": "Il consiglio che si trova solo sul posto: il lato nord del Duomo, dalla parte della stazione, ha un ingresso gratuito per preghiera, utile per un'occhiata dall'interno senza pagare. Il volo del giovedì sera arriva tardi: dormire vicino alla stazione. Se la salita al campanile è troppo ripida, la funivia sul Reno (circa 8 € A/R, solo aprile–ottobre) dà una vista alternativa. Un bambino di 4 anni sale il campanile solo con un genitore.",
+      "fonti": [
+        "https://www.omio.it/voli/pisa/colonia-gne9t",
+        "https://www.momondo.it/volo/pisa/colonia",
+        "https://www.nomadotravel.app/en/attractions/cologne-cathedral",
+        "https://tickets.koelner-dom.de/en",
+        "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/deutschland/sehenswuerdigkeiten-koeln/",
+        "https://www.nomadotravel.app/de/attractions/romano-germanic-museum",
+        "https://museenkoeln.de/portal/pages/4096.aspx",
+        "https://www.nomadotravel.app/de/guides/cologne-on-a-budget",
+        "https://chasingwhereabouts.com/blog/things-to-do-in-cologne",
+        "https://www.tiqets.com/de/tickets-schokoladenmuseum-koln-l147267/"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 50.9413,
+        "lon": 6.9583
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il Museo del Cioccolato piace ai bimbi di 4 anni, ma i 533 gradini del campanile e il volo di giovedì sera sono impegnativi."
       }
     },
     {
@@ -15601,6 +16496,155 @@
       }
     },
     {
+      "id": "modena-completa-e-motor-valley-2g",
+      "nome": "Modena completa e la Motor Valley",
+      "sottotitolo": "Emilia-Romagna, il centro UNESCO di Modena il primo giorno e i musei Ferrari tra Modena e Maranello il secondo",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. o Rifredi a Modena: diretto Regionale in circa 1h27 (da 14-19 € a tratta) oppure Italo/Frecciarossa via Bologna in circa 1h05-1h15 (fino a 33 € nei diretti più cari, con tariffe base anche molto più basse se prenotate in anticipo). Il centro di Modena si gira a piedi; per Maranello c'è la navetta riservata ai visitatori dei musei Ferrari dalla stazione di Modena. In alternativa l'auto lungo l'A1 (Firenze-Bologna 8,90 € a tratta, poi A1/A22 fino a Modena), utile solo se si vuole girare liberamente tra Modena e Maranello.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 1h30 porta a porta in treno (1h27 col diretto da Rifredi, 1h05-1h15 con l'alta velocità via Bologna); circa 1h45 in auto.",
+      "durataViaggioMinuti": 100,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: clima mite, Ghirlandina aperta fino a sera e niente caldo padano. Evitare luglio e agosto (afa, molte botteghe chiuse per ferie); a gennaio-febbraio la nebbia è frequente ma i musei restano comodi e vuoti.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 200,
+      "costoMax": 332,
+      "costoNota": "Una notte in camera doppia (costo diviso per due) e due giorni di pasti. Il biglietto dei musei Ferrari è quello combinato Modena + Maranello, la navetta tra le sedi si paga a parte (prezzo non verificato).",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Modena e Maranello sono già in catalogo come gite singole, ma in giornata vanno tagliate: chi arriva alle 9 e deve rientrare in tarda serata rinuncia o al Duomo o a uno dei due musei. In due giorni con una notte a Modena si fa tutto con calma: il primo giorno il centro UNESCO (Duomo, Ghirlandina, Palazzo Comunale, Acetaia, Mercato Albinelli, Palazzo Ducale nel weekend) a piedi in meno di 1 km; il secondo i due musei Ferrari, distanti 20 km l'uno dall'altro, senza correre per l'ultima navetta (una ogni 90 minuti). L'unica sera libera permette una cena lunga in trattoria.",
+      "cosaVedere": [
+        "Duomo e Torre Ghirlandina: la cattedrale romanica di Lanfranco e Wiligelmo con la torre di circa 200 gradini, patrimonio UNESCO; dalla cima si vede tutta la pianura fino agli Appennini.",
+        "Musei del Duomo e Sale Storiche del Palazzo Comunale: rilievi originali di Wiligelmo e le sale affrescate del municipio, tutto compreso nel biglietto unico UNESCO da 6 €.",
+        "Acetaia Comunale: visita guidata tra le botti dell'aceto balsamico tradizionale nel sottotetto del Palazzo Comunale, con assaggio; solo in orari fissi (venerdì pomeriggio, weekend).",
+        "Mercato Storico Albinelli: banchi di Parmigiano, salumi e tortellini freschi dal 1931, ottimo per il pranzo veloce o per l'aperitivo.",
+        "Palazzo Ducale: la reggia barocca degli Este, oggi Accademia Militare, visitabile solo con tour guidato nel weekend.",
+        "Museo Enzo Ferrari di Modena: l'edificio giallo a forma di cofano accanto alla casa natale di Enzo Ferrari, con auto d'epoca e di Formula 1.",
+        "Museo Ferrari di Maranello: davanti alla fabbrica, con le monoposto da corsa, i simulatori e la galleria dei piloti; la pista di Fiorano si intravede dal circuito esterno."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: treno del mattino da Firenze, arrivo a Modena verso le 10; a piedi in 10 minuti in Piazza Grande. Duomo, Ghirlandina e Musei del Duomo con il biglietto unico, pranzo al Mercato Albinelli, nel pomeriggio Sale Storiche, Via Emilia e (se sabato, domenica o venerdì alle 15.30) la visita all'Acetaia. Nel weekend tour guidato di Palazzo Ducale. Cena in trattoria con tortellini in brodo e gnocco fritto, notte in centro."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: colazione e mattina al Museo Enzo Ferrari di Modena (a 5 minuti dalla stazione). Navetta per Maranello (circa 40 minuti, una corsa ogni 90 minuti tra le 9.40 e le 17), pranzo a Maranello, pomeriggio al Museo Ferrari con simulatori e circuito esterno. Rientro a Modena con l'ultima navetta e treno serale per Firenze."
+        }
+      ],
+      "alloggio": "Una notte a Modena: sul comparatore le camere partono da circa 55 € (B&B economici) e gli hotel a 2 stelle sono in media a 80 € a notte, a 4 stelle circa 114 €; la fascia realistica per un B&B o un 3 stelle in centro è 75-130 € per camera doppia. Prezzi più alti il venerdì (media 145 €) e a marzo, più bassi in agosto (67 €) e il lunedì (88 €). Conviene dormire in centro tra Piazza Grande e la stazione, per spostarsi a piedi.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R Firenze-Modena",
+          "testo": "14-33 € a tratta, 28-66 € A/R: Regionale diretto da Rifredi circa 19 €, regionale con cambio da 14 €, alta velocità fino a 33 € nei diretti più cari; Italo con tariffe base molto più basse se si prenota in anticipo.",
+          "min": 28,
+          "max": 66,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto (alternativa)",
+          "testo": "Circa 290 km A/R: circa 37 € di carburante (0,129 €/km) più 17,80 € di pedaggio A1 Firenze-Bologna A/R, a cui va aggiunto il tratto Bologna-Modena non verificato; più parcheggio a pagamento in centro.",
+          "min": 55,
+          "max": 55,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (1 notte)",
+          "testo": "75-130 € per camera doppia in B&B o hotel 2-3 stelle, cioè 38-65 € a persona per la notte.",
+          "min": 38,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Colazione, pranzo e cena: pranzo al mercato o in trattoria 20-25 €, cena in trattoria 35-40 € (menu degustazione da 35-40 €, coperto 3 €), circa 45-70 € al giorno.",
+          "min": 45,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Biglietto unico UNESCO Modena",
+          "testo": "6 € per Ghirlandina (3 € da sola), Sale Storiche, Acetaia (2 €) e Musei del Duomo (4 €), valido anche in giorni diversi.",
+          "min": 6,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Palazzo Ducale (tour)",
+          "testo": "10 € intero, 8 € per 6-12 anni; solo con visita guidata nel weekend e prenotazione, quindi il costo è zero se si salta.",
+          "min": 0,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Musei Ferrari (Modena + Maranello)",
+          "testo": "Biglietto combinato da circa 38 € a persona sui rivenditori ufficiali (circa 42 € nella versione con data fissa); i biglietti singoli sono sui 20 € l'uno. La navetta fra i musei è a parte.",
+          "min": 38,
+          "max": 45,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona; con il treno non c'è nessuna spesa di vettura. L'auto è indicata solo come confronto e non entra nel totale.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico di Modena è ZTL: se si viene in auto si lascia la vettura in un parcheggio di scambio fuori dalle mura. In treno non serve, la stazione è a circa 10-15 minuti a piedi da Piazza Grande."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Musei del Duomo chiusi il lunedì. Torre Ghirlandina aperta martedì-domenica, con chiusura anticipata alle 17.30 da ottobre a marzo. Acetaia Comunale solo con visite guidate (venerdì 15.30 e 16.30; sabato, domenica e festivi 10.30, 11.30, 15.30, 16.30). Chiusi 1 gennaio, Pasqua e 25 dicembre."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Palazzo Ducale solo con visita guidata nel weekend (massimo 25 persone, da prenotare). Il Museo Ferrari di Maranello ha una fascia oraria prenotata e valida solo per quella sede: meglio comprare il combinato online. La navetta ha una corsa ogni 90 minuti."
+        }
+      ],
+      "note": "Da sapere: la navetta dei musei Ferrari parte dal binario 4 del piazzale della stazione di Modena e l'ultima corsa è nel pomeriggio, quindi controlla gli orari del giorno prima. Se vuoi risparmiare, i biglietti dei musei Ferrari si trovano online a prezzi più bassi del botteghino. Chi viaggia di venerdì o sabato può includere l'Acetaia nel primo giorno, che rende il percorso più ricco. Modena è bellissima anche la sera, quando Piazza Grande si svuota e il Duomo resta illuminato.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/modena",
+        "https://www.momondo.it/hotel/modena",
+        "https://www.visitmodena.it/en/assets/allegati/unico-per-unesco.pdf/@@download/file",
+        "https://www.italia.it/it/emilia-romagna/cosa-fare/cosa-vedere-a-modena-in-un-giorno-itinerario",
+        "https://www.visititaly.eu/it/tickets/biglietti-per-ferrari-experience-museo-ferrari-e-museo-enzo-ferrari-p975171",
+        "https://www.headout.com/it/musei/combinazione-di-biglietti-museo-ferrari-di-maranello-e-museo-enzo-ferrari-di-modena-e-17219",
+        "https://motori.quotidiano.net/?p=303991",
+        "https://www.scattidigusto.it/dove-mangiare-a-modena-spendendo-poco-trattorie/"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 44.6471,
+        "lon": 10.9252
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Ai bimbi di 4 anni piacciono auto e simulatori dei musei Ferrari, ma la Ghirlandina (circa 200 gradini) e le visite guidate non sono adatte."
+      }
+    },
+    {
       "id": "nuoro-orgosolo-e-il-supramonte-2g",
       "nome": "Nuoro, Orgosolo e il Supramonte",
       "sottotitolo": "Sardegna centrale, Barbagia: murales, maschere di Mamoiada, sorgenti e gole del Supramonte",
@@ -17004,6 +18048,171 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Porto piano e giro in barca piacciono ai bimbi, ma 6h30 di viaggio ciascun senso, con nave di 2h30, sono pesanti a 4 anni, e la Chiaia di Luna e il sentiero di Punta Incenso non si fanno con un piccolo."
+      }
+    },
+    {
+      "id": "porto-in-due-giorni-2g",
+      "nome": "Porto in due giorni",
+      "sottotitolo": "Portogallo, la città sul Douro con Ribeira, azulejos, librerie e le cantine del Porto a Gaia",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Volo diretto Ryanair Pisa (PSA) – Porto (OPO), circa 2h45 secondo i comparatori, operato solo alcuni giorni a settimana (indicati lunedì, giovedì e sabato: controllare l'orario sul sito Ryanair prima di fissare le date). Da Firenze a Pisa Aeroporto in treno più Pisa Mover (30,40 € A/R a persona); in alternativa in auto da Firenze (FI-PI-LI gratuita) con parcheggio. A Porto la metro linea E porta dall'aeroporto in centro in circa 30–35 minuti per 2 € a tratta.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 6h30 porta a porta: trasferimento Firenze–aeroporto di Pisa, presentazione in aeroporto, 2h45 di volo diretto e circa 35 minuti di metro fino al centro di Porto.",
+      "durataViaggioMinuti": 400,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre: clima mite e luce lunga. Novembre è il mese in cui i comparatori segnalano le tariffe aeree più basse, ma è piovoso; in luglio e agosto i prezzi salgono e le cantine di Gaia e Ribeira sono affollate.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 293,
+      "costoMax": 577,
+      "costoNota": "Prezzi in euro, da fonti 2026. Il volo è la voce più variabile: 97 € è la media A/R di novembre su Kayak, 182 € la media dei 12 mesi (con picchi fino a 271 €). Ryanair: bagaglio a mano e posto a pagamento a parte. Il totale conta 2 notti.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il centro di Porto è compatto ma in forte pendenza: Ribeira, Sé, Clérigos, Lello e Palácio da Bolsa stanno tutti in un raggio di meno di due chilometri, ma salite e discese rallentano. Due giorni bastano per le sei visite principali, una traversata del Dom Luís I e un pomeriggio di cantine a Vila Nova de Gaia senza correre. Con la sola città non servono giorni extra: la Valle del Douro e le gite fuori città sono materia della scheda da tre giorni già a catalogo.",
+      "cosaVedere": [
+        "Ribeira e il Cais da Ribeira: il quartiere patrimonio UNESCO sul fiume, con case colorate a strapiombo, vicoli e ristoranti sulla banchina; il posto migliore per capire la città.",
+        "Ponte Dom Luís I: ponte in ferro a due piani, da attraversare a piedi sul livello superiore per la vista sul Douro e le cantine di Gaia (il piano inferiore è il più comodo con i bambini).",
+        "Palácio da Bolsa: l'ex Borsa dell'Ottocento si visita solo con tour guidato di circa 30 minuti; il Salão Árabe con stucchi dorati è la sala che vale da sola la visita (circa 14 €).",
+        "Livraria Lello: una delle librerie più celebri d'Europa, con scalone rosso e soffitto in legno dipinto; 8 € di ingresso, scontabili sull'acquisto di un libro, da prenotare online.",
+        "Torre dos Clérigos: 8 € il biglietto torre più museo; la salita ripaga con la vista a 360° sui tetti di Porto, e la torre è il riferimento per orientarsi.",
+        "Cantine del Porto a Vila Nova de Gaia: tour e degustazione nei lodge (Taylor's da 25 €, Graham's da 40 €, Ferreira da 23 €, tour base 18–20 €), da raggiungere a piedi dal ponte.",
+        "Stazione di São Bento: gratis, con la sala d'ingresso rivestita di azulejos blu e bianchi che raccontano la storia del Portogallo; poco distante la Sé, la cattedrale fortificata."
+      ],
+      "itinerario": null,
+      "alloggio": "Circa 50–70 € a notte per una doppia in guesthouse economica, 80–150 € per una doppia in guesthouse o aparthotel di fascia media (fonte blog di viaggio, da verificare sui motori di prenotazione); in alta stagione i prezzi salgono. Zone consigliate: Baixa e Aliados (vicino alla stazione di São Bento e alla metro), oppure Ribeira, più suggestiva ma con molte scale. Qui sono calcolati 25–60 € a notte a persona in doppia, per 2 notti.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo Ryanair Pisa–Porto A/R",
+          "testo": "Volo diretto Ryanair, A/R tipicamente 131–271 € su Kayak (media annua 182 €, media novembre 97 €); su Momondo A/R 168–271 € con minimo recente 92 €.",
+          "min": 97,
+          "max": 182,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Firenze–Aeroporto di Pisa (treno + Pisa Mover)",
+          "testo": "30,40 € A/R a persona tra treno e Pisa Mover.",
+          "min": 30,
+          "max": 31,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto a Pisa (alternativa)",
+          "testo": "Circa 22 € di benzina per 85 km A/R (FI-PI-LI gratuita) più 12–18 € di parcheggio per 2 giorni: la scelta conviene solo in due.",
+          "min": 34,
+          "max": 40,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Trasporti a Porto",
+          "testo": "Metro dall'aeroporto 2 € a tratta (4 € A/R); funicolare dos Guindais 4 € a corsa e tram storico linea 1 verso Foz 4,50 € a corsa.",
+          "min": 4,
+          "max": 13,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Livraria Lello",
+          "testo": "8 € a persona, scontabili sull'acquisto di un libro.",
+          "min": 8,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Torre dos Clérigos",
+          "testo": "6 € solo torre secondo guide di viaggio; 8 € biglietto giornaliero torre più museo sul sito ufficiale. Gratis fino a 10 anni.",
+          "min": 6,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Palácio da Bolsa",
+          "testo": "Circa 14 € la visita guidata di 30 minuti; entrata solo con tour. Bambini fino a 12 anni gratis se accompagnati.",
+          "min": 14,
+          "max": 14,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cantina a Vila Nova de Gaia",
+          "testo": "Tour base 18–20 €; Ferreira da 23 €, Taylor's da 25 €, Graham's da 40 €; i tawny premium arrivano a 35–55 €.",
+          "min": 18,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Doppia 50–120 € a notte tra guesthouse economica e fascia media, quindi 25–60 € a notte a persona.",
+          "min": 25,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Colazione 4–6 €, pranzo con menu do dia 9–14 € o alla carta 15–25 €, cena con vino 20–50 €.",
+          "min": 33,
+          "max": 81,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona (volo, ingressi, alloggio in doppia, pasti). L'auto fino a Pisa è un'alternativa: i 34–40 € di benzina e parcheggio sono della vettura e vanno divisi per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico è su forti dislivelli e con selciato: scarpe comode. Con il volo è inutile l'auto a Porto; a Pisa il parcheggio dell'aeroporto è a pagamento."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Palácio da Bolsa apre 9:00–18:30 con tour di 30 minuti in portoghese, inglese, spagnolo e francese, ed è chiuso il 5, 10, 21, 22 e 25 dicembre. La Torre dos Clérigos è aperta 9:00–19:00."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Palácio da Bolsa: non si compra il biglietto per il giorno stesso, prenotare online prima. Livraria Lello: voucher online obbligatorio da fare in anticipo. Il volo diretto non è quotidiano: verificare le date su Ryanair."
+        }
+      ],
+      "note": "Il Palácio da Bolsa e la Torre dos Clérigos hanno un pacchetto combinato (Bolsa + Torre + MMIPO a 21 € sul sito della Torre): se si fanno entrambi conviene. Il consiglio che si trova solo sul posto: attraversare il Dom Luís I sul piano superiore all'andata e tornare con la funicolare dos Guindais (4 €) per risparmiare la salita; le cantine migliori si prenotano anche per l'orario del tramonto. Il volo parte da Pisa: portare solo il bagaglio a mano per tenere basso il prezzo Ryanair. Sono tutti prezzi da verificare al momento della prenotazione.",
+      "fonti": [
+        "https://www.kayak.it/voli/Pisa-San-Giusto-PSA/Porto-OPO",
+        "https://www.momondo.it/volo/pisa/oporto",
+        "https://portotraveltips.blogspot.com/2026/03/porto-travel-costs.html",
+        "https://eurocityguide.com/portugal/porto-3-day-itinerary",
+        "https://antigo.torredosclerigos.pt/it/ticket-office",
+        "https://www.discover-portugal.com/port-wine-tasting-in-porto/",
+        "https://booking.visitportoandnorth.travel/en/experiences/palacio-da-bolsa/guided-tour-of-the-palacio-da-bolsa/"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 41.1496,
+        "lon": -8.611
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni le salite e il selciato stancano; Torre dos Clérigos (gratis fino a 10 anni) e Palácio da Bolsa (gratis fino a 12) sono accessibili, ma meglio usare funicolare e tram."
       }
     },
     {
@@ -41884,6 +43093,197 @@
       }
     },
     {
+      "id": "bulgaria-sud-occidentale-rila-pirin-e-rodopi-7g",
+      "nome": "Bulgaria sud-occidentale: Rila, Pirin, Bansko, Melnik e i Rodopi",
+      "sottotitolo": "Bulgaria, una settimana in auto tra i tre massicci del sud-ovest: laghi glaciali, monasteri, vino di Melnik e villaggi di pietra dei Rodopi",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Treno Firenze–Bologna e Marconi Express fino al Marconi, poi volo diretto Ryanair Bologna–Sofia (circa 1h50, pochi giorni a settimana). All'aeroporto di Sofia si ritira l'auto a noleggio e si esce subito verso sud: Sofia qui è solo la porta d'ingresso, la città si vede con la scheda «Sofia e Plovdiv». Da Firenze non ci sono voli diretti per Sofia: il collegamento con prezzo 2026 verificato parte da Bologna.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 1h50 di volo Bologna–Sofia; porta a porta, con treno, Marconi Express, attesa in aeroporto e ritiro dell'auto, circa 5h20. Dall'aeroporto ai piedi del Rila (Sapareva Banya) circa 1h30 d'auto.",
+      "durataViaggioMinuti": 320,
+      "periodoMiglioreTesto": "Da fine giugno a settembre: i Sette Laghi e i laghi del Pirin sono liberi dalla neve solo in estate e settembre è il mese migliore tra meteo e folla. A ottobre la seggiovia dei Sette Laghi di solito chiude per manutenzione; da novembre a maggio i laghi sono ghiacciati e sotto la neve e Bansko diventa una stazione sciistica, un altro viaggio. Luglio e agosto sono i mesi più cari per il noleggio.",
+      "mesi": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "mesiDaEvitare": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "costoMin": 452,
+      "costoMax": 832,
+      "costoNota": "Dal 2026 la Bulgaria usa l'euro; alcune fonti su alloggio e pasti sono in dollari USA, convertiti a circa 0,92 €/USD. Il carburante è calcolato sui chilometri stimati dell'anello. Grotte dei Rodopi, parcheggi e degustazioni a Melnik sono esclusi.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le tappe sono quattro zone di montagna distinte, collegate da strade lente: il Rila con i Sette Laghi e il Monastero, la valle della Struma con Melnik e Rozhen, il Pirin sopra Bansko e i Rodopi occidentali con Trigrad e Shiroka Laka. I due trekking (Sette Laghi, 3–5 ore, e i laghi sotto il Vihren) prendono ciascuno una giornata intera, e il primo e l'ultimo giorno se ne vanno tra volo e strada. Con sette giorni si dorme in quattro basi senza correre; con meno si sacrificano i Rodopi, con di più si aggiungerebbe solo altra strada.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: treno per Bologna, Marconi Express e volo Ryanair delle 08:45, arrivo a Sofia alle 11:35. Ritiro dell'auto in aeroporto, controllando che la vignetta elettronica sia attiva sulla targa. Si va dritti verso sud: in circa 1h30 si è a Sapareva Banya, cittadina termale ai piedi del Rila con il suo geyser di acqua bollente che sbuffa in mezzo alla piazza. Spesa per il picnic di domani e notte in una guesthouse del paese o più in alto, verso Panichishte."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: i Sette Laghi di Rila. Si sale a Panichishte e si è alla seggiovia all'apertura delle 9: nei weekend e verso mezzogiorno la coda diventa lunga. Venti minuti di seggiovia, poi l'anello di circa 8,4 km con 500 m di dislivello che passa lago dopo lago, dal Rene all'Occhio, fino al punto più alto, la Lacrima (2.535 m), da cui si vedono tutti e sette i laghi uno sotto l'altro. Si calcolano 3–5 ore con le soste; l'ultima discesa della seggiovia è intorno alle 16:30. In serata trasferimento nella valle del Rilska e notte vicino al monastero."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Monastero di Rila al mattino presto, prima dei pullman da Sofia. Il cortile con le arcate a strisce bianche e nere, la chiesa della Natività affrescata anche sotto il portico esterno, la Torre di Hrelyo, l'unica parte medievale rimasta, e il museo storico (circa 4 €, contanti; spalle e ginocchia coperte). Poi si scende verso la valle della Struma fino a Melnik, il paese più piccolo della Bulgaria: case del Risorgimento bianche e di legno, la casa Kordopulov con le cantine scavate nella roccia, e a fine giornata le piramidi di sabbia che si accendono di arancio al tramonto. Cena con un bicchiere di Shiroka melnishka loza, il vitigno locale."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: a piedi da Melnik al Monastero di Rozhen per il sentiero che risale il letto del torrente tra le piramidi di sabbia, poi rientro; chi vuole risparmiare le gambe ci va in auto e cammina solo tra le guglie. Nel pomeriggio si sale verso il Pirin fino a Bansko: il centro vecchio di ciottoli e muri di pietra, la chiesa della Santa Trinità con il campanile, la casa di Velyanov con i soffitti dipinti. Cena in una mehana con la kapama, lo stufato di carni e crauti cotto a lungo nel coccio, piatto simbolo della zona."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: Parco nazionale del Pirin. Si risale in auto la valle della Bunderitsa, con sosta al pino di Baikushev, uno degli alberi più antichi della Bulgaria, fino al rifugio Vihren sotto la piramide di marmo del Vihren. Da qui si cammina verso i laghi di Banderitsa, il lago Okoto e il lago dei Pesci: mezza giornata abbondante di sentiero su prati e massi, molto meno affollata dei Sette Laghi. Rientro a Bansko per la seconda notte."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: traversata dei Rodopi occidentali. Da Bansko si passa per il lago di Dospat e si scende alla gola di Trigrad, un canyon dalle pareti verticali dove la strada corre accanto al fiume. Visita guidata alla Gola del Diavolo, la grotta dove il fiume Trigrad sparisce sotto la montagna con una cascata nella sala principale, e alla vicina grotta di Yagodina, con le sue gallerie concrezionate su più livelli. Per Devin si arriva a Shiroka Laka: case bianche con i tetti di lastre di pietra, ponti ad arco sul torrente e una scuola di musica popolare che tiene viva la cornamusa dei Rodopi. Notte in paese."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: passeggiata presto tra le case di Shiroka Laka, poi rientro verso Sofia per Plovdiv e l'autostrada Trakia, mezza giornata di strada. Riconsegna dell'auto all'aeroporto e volo per Bologna. Se il volo di ritorno disponibile è al mattino presto, conviene fare i Rodopi il giorno 5, il Pirin il 6 e dormire l'ultima notte più vicino a Sofia."
+        }
+      ],
+      "alloggio": "Quattro basi: Sapareva Banya o Panichishte (1 notte) per essere alla seggiovia all'apertura, una guesthouse nella valle del Monastero di Rila (1 notte), Melnik (1 notte), Bansko (2 notti) e Shiroka Laka o Trigrad (1 notte). A Bansko le guesthouse partono da circa 37–40 USD a notte la doppia (Guest Rooms Bansko, Petar Guest House) e arrivano a 80–87 USD nelle case boutique come Momini Dvori o Bashtin Dom, con una media intorno a 55 USD; gli hotel 2–3 stelle stanno tra 38 e 44 USD e un mid-range tra 55 e 64 €. Fascia realistica: 35–70 € a notte la doppia, più alta d'inverno con lo sci, non d'estate. Scegliete strutture con parcheggio e, a Bansko, nel centro vecchio pedonale o subito fuori: le serate si passano a piedi tra le mehane.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo A/R Bologna–Sofia",
+          "testo": "Ryanair diretto BLQ–SOF, circa 1h50 (andata 08:45–11:35 nelle rilevazioni di ottobre 2026); tariffe tipiche 70–205 € A/R su Momondo e 92–158 € su Kayak, con offerte sporadiche da 32 €. Bagaglio in stiva escluso: con scarponi e giacche per la montagna conviene metterlo in conto.",
+          "min": 70,
+          "max": 160,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Accesso all'aeroporto di Bologna",
+          "testo": "Treno Firenze–Bologna A/R 20–50 € più Marconi Express 23,20 € A/R, secondo i parametri del documento.",
+          "min": 43.2,
+          "max": 73.2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto 7 giorni",
+          "testo": "All'aeroporto di Sofia un'auto piccola costa in media 8–23 € al giorno (circa 12 € la media Kayak), con luglio e agosto i mesi più cari (31 € al giorno di media su Kayak, fino a circa 45 € ad agosto su DiscoverCars): 60–220 € per la settimana.",
+          "min": 60,
+          "max": 220,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Vignetta elettronica settimanale",
+          "testo": "10 € la settimanale dal 1° agosto 2026 (giornaliera 5,30 €, weekend 6,60 €); molte auto a noleggio ce l'hanno già, ma va verificato al ritiro.",
+          "min": 10,
+          "max": 10,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Anello di circa 820–900 km (stima del percorso Sofia–Sapareva Banya–Rila–Melnik–Bansko–Rodopi–Sofia) a 0,129 €/km, il parametro del documento; in Bulgaria la benzina costa meno che in Italia, quindi è un tetto prudente.",
+          "min": 106,
+          "max": 116,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "Guesthouse e hotel 2–3 stelle a Bansko 35–70 € a notte la doppia (Booking da circa 37 a 87 USD, media intorno a 55 USD; hotel medi 38–44 USD su Champion Traveler); nei villaggi dei Rodopi e a Melnik si sta nella stessa fascia. Sei notti 210–420 € per due.",
+          "min": 105,
+          "max": 210,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Circa 18–28 € al giorno a testa (Bansko): pasto in mehana economica 8–10 €, cena di tre portate in un buon ristorante 18–28 €.",
+          "min": 18,
+          "max": 28,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Seggiovia dei Sette Laghi",
+          "testo": "16 € A/R a persona (gennaio 2026), metà prezzo per i bambini; meglio avere contanti.",
+          "min": 16,
+          "max": 16,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Monastero di Rila, museo storico",
+          "testo": "Monastero e chiesa a ingresso libero; museo circa 8 lev, cioè circa 4 €, solo contanti.",
+          "min": 4,
+          "max": 4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Grotte dei Rodopi",
+          "testo": "Gola del Diavolo e grotta di Yagodina si visitano solo con visita guidata a pagamento in loco; prezzi 2026 non verificati, quindi fuori dal totale.",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Volo, accesso all'aeroporto, alloggio (doppia divisa per due), pasti, seggiovia e ingressi sono a persona. Noleggio, vignetta e carburante sono della vettura e si dividono a metà.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Senz'auto il giro non si fa: i Sette Laghi, il rifugio Vihren e la gola di Trigrad sono a fondo valle o in quota, serviti al più da bus rari fino al paese più vicino. Per guidare sulle strade nazionali serve la vignetta elettronica (10 € la settimana dal 1° agosto 2026); l'ultimo tratto verso Panichishte non è riasfaltato di recente e il parcheggio sotto la seggiovia è a pagamento in contanti."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La seggiovia dei Sette Laghi va dal martedì alla domenica 9:00–16:30, il lunedì solo dalle 12:30, ed è ferma per manutenzione l'ultimo lunedì del mese; chiude inoltre per circa due settimane tra metà aprile e inizio maggio e per buona parte di ottobre. Il museo del Monastero di Rila accetta solo contanti."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il volo diretto Bologna–Sofia vola pochi giorni a settimana e gli orari cambiano tra stagioni: fissate prima il volo, poi noleggio e alloggi. In luglio e agosto il noleggio costa due-tre volte la media: va prenotato con largo anticipo."
+        }
+      ],
+      "note": "Il segreto dei Sette Laghi è l'orario: chi è alla seggiovia alle 9 di un giorno feriale cammina quasi da solo, chi arriva a mezzogiorno di sabato fa la coda sia in salita sia in discesa. In quota fa freddo anche ad agosto: giacca antivento e scarponi, il sentiero è facile ma sassoso. Tenete sempre contanti in tasca: seggiovia, parcheggi di montagna e museo di Rila non sempre accettano la carta. A Melnik non si beve solo al ristorante: le cantine scavate nella roccia sotto le case si visitano e vendono il vino sfuso. Il rientro dell'ultimo giorno passa da Plovdiv, quindi la scheda «Sofia e Plovdiv» si incastra bene come prolungamento, mentre la «Bulgaria completa» passa già dal Monastero di Rila: chi l'ha fatta può ripartire direttamente dai Sette Laghi.",
+      "fonti": [
+        "https://www.momondo.it/volo/bologna/sofia",
+        "https://www.kayak.it/voli/Bologna-Aeroporto-Guglielmo-Marconi-BLQ/Sofia-SOF",
+        "https://www.kayak.it/Autonoleggio-Aeroporto-di-Sofia.SOF.cap.ksp",
+        "https://www.discovercars.com/it/bulgaria/sofia/SOF",
+        "https://bntnews.bg/news/government-approves-new-vignette-prices-effective-from-1-august-1405655news.html",
+        "https://www.booking.com/guest-house/city/bg/bansko.html?aid=837909",
+        "https://championtraveler.com/price/cost-of-a-trip-to-bansko-bg",
+        "https://theworldtravelindex.com/en/europe/bulgaria/bansko/is-bansko-expensive",
+        "https://eternalarrival.com/?p=74227",
+        "https://thebettervacation.com/sofia/the-seven-rila-lakes-sofia/amp/",
+        "https://privateguidebulgaria.com/?p=666"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 41.838,
+        "lon": 23.488
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Auto per ore su strade di montagna e due trekking di mezza giornata in quota: con un bimbo di 4 anni servono lo zaino porta-bimbo e l'anello dei Sette Laghi va accorciato ai primi laghi; Melnik, Bansko e le grotte vanno invece benissimo."
+      }
+    },
+    {
       "id": "calabria-completa-7g",
       "nome": "Calabria completa",
       "sottotitolo": "Calabria, dal Tirreno di Tropea all'altopiano della Sila, dalla Locride greca allo Stretto di Scilla",
@@ -49809,6 +51209,209 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "I castelli con torri, camminamenti e tunnel piacciono molto ai bambini e sotto i 5 anni entrano gratis, ma con un bimbo di 4 anni le giornate in auto, i sentieri sulle scogliere e la salita allo Snowdon vanno accorciati."
+      }
+    },
+    {
+      "id": "galles-del-sud-7g",
+      "nome": "Galles del Sud: Cardiff, Brecon Beacons, Pembrokeshire e la penisola di Gower",
+      "sottotitolo": "Regno Unito, Galles meridionale: una settimana lenta tra la capitale, le montagne di Bannau Brycheiniog e le scogliere del Pembrokeshire Coast Path",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Volo diretto easyJet Pisa (PSA) – Bristol (BRS), circa 2h25, 3–4 frequenze a settimana anche d'inverno; a Bristol si ritira l'auto a noleggio e si entra in Galles passando il ponte sul Severn (Cardiff è a circa un'ora). Da Firenze all'aeroporto di Pisa conviene il treno fino a Pisa Centrale e poi il Pisa Mover (30,40 € A/R a persona). Non esistono voli diretti da Firenze o Bologna su Cardiff o Bristol: Pisa è l'unica porta comoda. Le giornate del volo vanno scelte sul calendario easyJet, perché la rotta non è quotidiana.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 7 ore porta a porta fino a Cardiff: 1h15 treno + Pisa Mover, attesa in aeroporto, 2h25 di volo, ritiro dell'auto e circa 1 ora di guida da Bristol Airport a Cardiff (il fuso orario regala un'ora all'andata).",
+      "durataViaggioMinuti": 420,
+      "periodoMiglioreTesto": "Da maggio a settembre: giornate lunghe (indispensabili per camminare sul Coast Path e salire al Pen y Fan), mare abbastanza calmo per le gite in barca e i puffini sulle isole del Pembrokeshire tra fine primavera e inizio estate. Luglio e agosto sono belli ma Tenby e Rhossili si riempiono e il B&B costa di più (giugno è il mese più caro per Tenby secondo Kayak). Da novembre a febbraio buio presto, vento e pioggia rendono il sentiero costiero poco piacevole, anche se il volo costa meno.",
+      "mesi": [
+        5,
+        6,
+        7,
+        9
+      ],
+      "mesiDaEvitare": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "costoMin": 782,
+      "costoMax": 1580,
+      "costoNota": "Prezzi britannici convertiti al cambio indicativo 1 £ ≈ 1,15 €. Il volo è la fascia 'a partire da' easyJet per mese (bagaglio da stiva escluso). Alloggio calcolato su 6 notti. Il carburante usa il prezzo britannico della benzina (1,39–1,61 £/l a giugno 2026) su circa 900 km totali, non il parametro italiano del documento.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il catalogo ha già un Galles completo in 7 giorni. Questa scheda fa solo il sud con calma, e le tappe sono poche e vicine: Cardiff merita due giorni pieni (castello, musei nazionali gratuiti, St Fagans). Big Pit e Brecon Beacons stanno sulla strada verso ovest, poi ci sono due notti a St Davids per camminare sul Pembrokeshire Coast Path senza guardare l'orologio, una a Tenby per il sud della contea e l'ultima mattina sul Gower, a meno di due ore dall'aeroporto. Con questo ritmo non ci sono giornate solo di guida: ogni trasferimento lungo si ferma a metà su un sentiero o un castello.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: treno e Pisa Mover per l'aeroporto, volo easyJet su Bristol, ritiro dell'auto e circa un'ora di strada fino a Cardiff. Si lascia l'auto in hotel e il primo giro si fa a piedi: Cardiff Bay al tramonto, con il Wales Millennium Centre, il Senedd in legno e vetro e la chiesetta norvegese dove fu battezzato Roald Dahl. Cena sulla baia o nei vicoli vittoriani del centro."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: al mattino St Fagans (gratuito, 10–16, parcheggio 7 £), il museo all'aperto con oltre 40 edifici gallesi smontati e rimontati: fattorie, una scuola, la fila di case dei minatori arredate decennio per decennio. Servono almeno tre ore. Nel pomeriggio Cardiff Castle (16,50 £; il tour degli appartamenti vittoriani costa 5 £ in più e si prenota solo in biglietteria), con le sale neogotiche di William Burges, poi una passeggiata in Bute Park. Se non è lunedì, una puntata al National Museum Cardiff, gratuito, con gli impressionisti delle sorelle Davies."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: verso nord fino a Blaenavon, paesaggio industriale patrimonio UNESCO. A Big Pit (gratis, 9:30–17) si scende in gabbia a circa 90 metri con un ex minatore come guida, per circa 50 minuti al buio con elmetto e lampada: è la visita più potente del viaggio. L'ultimo turno sottoterra parte alle 15:30. Poi si sale a Brecon, cittadina di mercato ai piedi dei Beacons, con la cattedrale e il canale. Notte a Brecon o in un pub con camere nei dintorni."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: mattina in montagna a Bannau Brycheiniog. Si sale al Pen y Fan, la vetta più alta del sud della Gran Bretagna, dal parcheggio di Pont ar Daf sulla A470 (mezza giornata a passo tranquillo, con nebbia e vento da mettere in conto). In alternativa, se piove, il Waterfall Country di Ystradfellte, dove si cammina dietro la cascata di Sgwd yr Eira. Nel pomeriggio lungo trasferimento verso ovest fino a St Davids, la città più piccola del Regno Unito."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: giornata intera a St Davids. Al mattino la cattedrale (ingresso libero, offerta suggerita 5 £), in una conca nascosta proprio perché non la vedessero i pirati dal mare, e accanto il palazzo vescovile in rovina. Poi il Pembrokeshire Coast Path ad anello da Whitesands Bay a St Davids Head, con il promontorio di Carn Llidi, oppure verso sud fino alla cappella di St Non sulle scogliere. Da maggio a luglio vale una gita in barca verso Ramsey o Skomer per vedere uccelli marini e puffini. Le barche partono da St Justinian o da Martin's Haven: prenotare e controllare il meteo."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: verso sud. Prima Pembroke Castle, dove nacque Enrico VII Tudor, con il grande mastio rotondo e la Wogan Cavern che si apre sul fiume. Poi la tenuta di Stackpole: si cammina dai laghetti delle ninfee di Bosherston a Broad Haven South e si arriva a Barafundle Bay, la spiaggia senza strada che compare in tutte le classifiche. Se il poligono militare di Castlemartin è aperto, si fa una deviazione a Stack Rocks e al Green Bridge of Wales. Sera a Tenby, tra le case color pastello sul porto e le mura medievali. Notte a Tenby."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: un'ora e mezza di strada fino alla penisola di Gower. A Rhossili si percorre il prato sopra la lunga baia fino alla punta di Worm's Head, raggiungibile a piedi solo intorno alla bassa marea (gli orari sono esposti al centro visitatori del National Trust). Se c'è tempo, una sosta a Three Cliffs Bay. Nel pomeriggio circa due ore di strada fino a Bristol Airport per riconsegnare l'auto: easyJet ha partenze fino a sera, ma per l'ultimo giorno conviene scegliere un volo serale."
+        }
+      ],
+      "alloggio": "Sei notti in totale: due a Cardiff (centro o Cardiff Bay), una a Brecon, due a St Davids e una a Tenby. Nel Pembrokeshire una camera doppia costa di solito 100–185 € a notte. Su Kayak i B&B di Tenby partono da circa 123 € e in media costano 150 € a notte infrasettimanale e 175 € nel weekend, mentre su Booking pub con camere e piccoli hotel tra Lamphey, Kilgetty e Tenby stanno tra 105 e 140 $, e St Davids intorno a 185 $. Giugno è il mese più caro e ottobre il più conveniente. Quasi sempre la colazione gallese completa è inclusa e copre fino al pranzo. Per le notti di luglio e agosto a Tenby e St Davids conviene prenotare con largo anticipo, secondo Kayak almeno 54 giorni prima.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo easyJet Pisa–Bristol A/R",
+          "testo": "Diretto in circa 2h25. Su Skyscanner le tariffe A/R minime per mese vanno da 65 € (febbraio-marzo) a 122–139 € (luglio-settembre) e fino a 217 € (ottobre). Il bagaglio da stiva si paga a parte.",
+          "min": 65,
+          "max": 220,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Firenze–aeroporto di Pisa",
+          "testo": "Treno fino a Pisa Centrale e Pisa Mover: 30,40 € A/R a persona (parametro del documento).",
+          "min": 30.4,
+          "max": 30.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "B&B, pub con camere o hotel semplice a 100–185 € a notte la doppia, cioè 50–93 € a persona a notte, per sei notti.",
+          "min": 300,
+          "max": 555,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo semplice (pub, caffè, fish and chips) a 10–20 £ e cena di tre portate a 22–45 £ a persona (43–90 £ per due). In totale 32–65 £, cioè circa 37–75 € al giorno a persona. Colazione inclusa nel B&B.",
+          "min": 37,
+          "max": 75,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Cardiff Castle",
+          "testo": "16,50 £ l'intero (13 £ senior/studenti), più 5 £ per il tour guidato degli appartamenti: circa 19–25 €.",
+          "min": 19,
+          "max": 25,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "St Fagans e Big Pit",
+          "testo": "Entrambi i musei nazionali sono gratuiti, compreso il tour sottoterra di Big Pit. Si paga solo il parcheggio di St Fagans (voce a parte).",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cattedrale di St Davids",
+          "testo": "Ingresso libero, offerta suggerita di 5 £ (circa 6 €).",
+          "min": 0,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pembroke Castle",
+          "testo": "Ingresso a pagamento. Non sono riuscito a verificare la tariffa 2026, quindi va controllata sul sito del castello e non è inclusa nel totale.",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto 7 giorni (Bristol Airport)",
+          "testo": "Utilitaria (Polo, i20, Sandero) da 10–14 £ al giorno nelle offerte più basse. La media per le auto piccole è 24 £ al giorno, ma nel weekend le tariffe raddoppiano. Su 7 giorni si spendono circa 100–280 £, cioè 115–320 €, senza franchigia ridotta.",
+          "min": 115,
+          "max": 320,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "Circa 900 km in tutto (Bristol–Cardiff–Blaenavon–Brecon–St Davids–Tenby–Gower–Bristol più gli spostamenti locali). Con 6,5 l/100 km sono circa 58 litri, a 1,39–1,61 £/l: circa 95–110 €.",
+          "min": 95,
+          "max": 110,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggio St Fagans",
+          "testo": "7 £ per l'intera giornata (circa 8 €). Gli altri parcheggi del National Trust (Stackpole, Rhossili) sono a pagamento per i non soci e non sono inclusi nel totale.",
+          "min": 8,
+          "max": 8,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Volo, accesso all'aeroporto, alloggio (la doppia è divisa per due), pasti e ingressi sono a persona. Noleggio, carburante e parcheggi sono della vettura e si dividono a metà tra i due viaggiatori.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Si guida a sinistra e nel Pembrokeshire molte strade verso le spiagge sono a una sola corsia tra siepi alte, con piazzole per incrociarsi: serve un'auto piccola. Stack Rocks e il Green Bridge of Wales si trovano dentro il poligono militare di Castlemartin e la strada viene chiusa nei giorni di esercitazione."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Worm's Head (Gower) si raggiunge a piedi solo in una finestra intorno alla bassa marea. Chi resta bloccato oltre il passaggio deve aspettare la marea successiva, quindi conviene controllare gli orari al centro visitatori di Rhossili."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "St Fagans apre tutti i giorni dalle 10 alle 16 e chiude il 24, 25 e 26 dicembre e il 1° gennaio. Il National Museum Cardiff chiude il lunedì. A Big Pit l'ultimo tour sottoterra parte alle 15:30 e i bambini devono essere alti almeno 1 metro."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il volo Pisa–Bristol ha solo 3–4 frequenze a settimana: le date del viaggio vanno costruite sul calendario easyJet. Cardiff Castle non richiede prenotazione e il tour guidato degli appartamenti si chiede solo in biglietteria il giorno stesso. Le barche per Ramsey e Skomer e i B&B estivi di Tenby e St Davids vanno prenotati in anticipo."
+        }
+      ],
+      "note": "La cattedrale di St Davids si scopre solo all'ultimo: sta in una valletta sotto il livello del paese, scelta apposta per nasconderla ai razziatori vichinghi. Si arriva a piedi dalla piazza e poi si scende la scalinata verso la navata. A Big Pit telefoni, orologi e tutto ciò che ha una batteria restano in superficie: si scende con elmetto e lampada da minatore, quindi si fotografa prima e dopo. Nel Pembrokeshire conviene tenere a portata di mano gli orari delle maree anche per le spiagge: a Barafundle e Broad Haven South con l'alta marea la sabbia quasi sparisce. Nei musei nazionali gallesi l'ingresso è libero ovunque, quindi in una giornata di pioggia a Cardiff il National Museum è il piano B perfetto. Se si viaggia in luglio o agosto, Tenby va presa di sera: di giorno il centro murato è pieno di gite. Rispetto alla scheda 'Galles' già in catalogo, qui si rinuncia allo Snowdonia per avere giornate intere a piedi sul Coast Path.",
+      "fonti": [
+        "https://www.skyscanner.ie/routes/psa/brs/pisa-international-to-bristol.html",
+        "https://www.kayak.ie/Tenby-Hotels_B-B.Tbb.49336.hotel.ksp",
+        "https://www.booking.com/region/gb/pembrokeshire.html",
+        "https://www.expatica.com/uk/cost-of-living/cardiff/",
+        "https://www.momondo.co.uk/car-hire/Bristol-BRS-cap.ksp",
+        "https://www.cardiffcastle.com/tickets/",
+        "https://www.cardiffcastle.com/times-prices/",
+        "https://museum.wales/stfagans/visit/",
+        "https://traveltrade.visitwales.com/product/t2167106",
+        "https://wales.org/historic-wales-step-back-in-time-at-the-top-8-welsh-museums/",
+        "https://wales.org/6-of-the-best-must-see-museums-and-attractions-in-wales/",
+        "https://www.which.co.uk/reviews/uk-destinations/article/best-value-days-out-in-the-uk-aOzLe0y9QbHX"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 51.7,
+        "lon": -3.9
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "St Fagans, le spiagge e Cardiff funzionano con un bimbo di 4 anni. Il Pen y Fan e i tratti del Coast Path sulle scogliere senza parapetti no, e a Big Pit si scende solo superando 1 metro di altezza."
       }
     },
     {
@@ -71037,6 +72640,228 @@
       "bambini": {
         "adatta": "si",
         "nota": "Va bene per un bambino di 4 anni: ciclabile in piano, funivie gratuite fino ai nati dal 2018 e passeggiate brevi in quota; contare però 4 ore d'auto all'andata e al ritorno."
+      }
+    },
+    {
+      "id": "tunisia-centrale-e-sahel-7g",
+      "nome": "Tunisia centrale e Sahel: Sousse, Monastir, Kairouan, El Jem, Mahdia e Kerkennah",
+      "sottotitolo": "Tunisia, la costa del Sahel e l'entroterra di Kairouan in treno, louage e traghetto, con Tunisi solo come porta d'ingresso",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. a Bologna Centrale e Marconi Express fino al Marconi, poi volo diretto Bologna (BLQ)–Tunisi Cartagine (TUN): lo operano Tunisair (lunedì, mercoledì, sabato) e Nouvelair (lunedì, giovedì, venerdì, sabato), circa 1h37 di volo. Da Firenze e da Pisa non ci sono diretti utili per questa zona, e da Bologna Kayak non elenca Monastir o Enfidha. All'arrivo si va in taxi alla stazione di Tunis Ville e si prende il treno SNCFT per Sousse (circa 2h20). In Tunisia si gira senza auto: treni sulla linea costiera Sousse–El Jem–Sfax, Métro du Sahel per Monastir e Mahdia, louage (taxi collettivi) per Kairouan, che non ha la ferrovia, e il traghetto Sonotrak da Sfax per Kerkennah.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 8 ore porta a porta fino a Sousse: un'ora e mezza tra treno e Marconi Express con il margine per l'imbarco, circa 1h37 di volo, controlli all'arrivo e taxi fino a Tunis Ville, poi circa 2h20–2h30 di treno per Sousse.",
+      "durataViaggioMinuti": 480,
+      "periodoMiglioreTesto": "Marzo-maggio e ottobre-novembre: si gira a piedi nelle medine e sulle gradinate dell'anfiteatro senza il caldo estivo, e novembre è anche il mese in cui il volo da Bologna costa meno (mediana Kayak 120 € A/R). Luglio e agosto sono torridi nell'entroterra di Kairouan ed El Jem, il volo arriva a una mediana di 392 € e Sousse e Monastir sono piene di vacanzieri dei resort. Dicembre ha voli cari (mediana 360 €). In Ramadan gli orari di treni e locali cambiano: verificarli prima.",
+      "mesi": [
+        3,
+        4,
+        5,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 342,
+      "costoMax": 922,
+      "costoNota": "Prezzi in dinari tunisini (TND) convertiti a circa 3,37 TND per euro, il cambio usato da Hostelworld a ottobre 2026. Volo senza bagaglio in stiva. Alloggio contato su 6 notti con la camera doppia divisa in due. Restano fuori dal totale il traghetto per Kerkennah, i taxi (aeroporto di Tunisi–stazione e corse brevi in città) e il noleggio delle bici sull'isola, perché per il 2026 non si sono trovate tariffe verificate: sono tutte spese di pochi euro.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le sei tappe stanno in un triangolo di circa 130 km tra Sousse, Kairouan e Sfax, collegate da treni, Métro du Sahel e louage che non superano le due ore per tratta: si cambia letto solo tre volte. Sousse merita un giorno intero tra medina, Ribat e mosaici del museo; Kairouan, El Jem e Mahdia una giornata ciascuna; Kerkennah ha bisogno di una notte, perché il traghetto da Sfax impiega un'ora a tratta. Monastir si vede in una mattina sulla via del ritorno. In meno giorni si salterebbe Kerkennah o si correrebbe a Kairouan; in più si allungherebbe solo il mare.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: treno Firenze–Bologna e Marconi Express, volo diretto per Tunisi Cartagine. Taxi fino alla stazione di Tunis Ville e treno SNCFT per Sousse Ville (circa 2h20; prendere la 1a classe, costa pochi dinari in più). In stazione a Sousse un taxi per l'hotel costa 10-20 TND a seconda della distanza. Sera sul lungomare di Boujaafar e prima cena di pesce."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Sousse a piedi. La medina, patrimonio UNESCO, è ancora chiusa dalle mura aghlabidi: si entra dal lato del porto e si sale al Ribat, il convento-fortezza dell'VIII secolo, dalla cui torre di guardia si vede tutta la città vecchia, poi la Grande Moschea accanto, con il cortile essenziale e senza minareto. Nel pomeriggio il Museo archeologico nella Kasbah, sul punto più alto della medina: la sua collezione di mosaici romani è la seconda del paese dopo il Bardo. Tramonto sulle mura."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: giornata a Kairouan in louage (Kairouan non ha la ferrovia), la città santa dei musulmani del Maghreb. La Grande Moschea di Sidi Oqba, del IX secolo, è la più antica dell'Africa del Nord: si visita il cortile immenso e si guarda la sala di preghiera, con la sua selva di colonne romane di recupero, dalle porte aperte. Poi i bacini aghlabidi, le vasche circolari che portavano l'acqua alla città, la zaouia di Sidi Sahab con le maioliche, e la medina dei tappeti. Comprare i makroud, i dolci di semola e datteri, appena fritti. Rientro a Sousse in louage."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: treno del mattino da Sousse Ville a El Jem (circa 1h16). L'anfiteatro romano del III secolo è a pochi minuti a piedi dalla stazione ed è tra i meglio conservati al mondo: si cammina nei sotterranei dove aspettavano le belve e si sale fino all'ultimo anello. Con lo stesso biglietto il museo, un chilometro più a sud, con mosaici e la ricostruzione di una villa romana. Nel pomeriggio treno per Sfax (circa 50 minuti), giro nella medina, la più autentica della costa perché quasi senza turisti, e notte a Sfax."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: traghetto Sonotrak dal terminal di Sfax a Sidi Youssef, sull'isola di Chergui (circa un'ora; dal 1 settembre 2026 dieci corse per senso, la prima alle 4:15 e l'ultima alle 22:00 da Sfax). A Kerkennah si va in bici: la strada principale di circa 45 km attraversa Remla e arriva a El Attaya, passando sul vecchio passaggio di origine romana tra Chergui e Gharbi. In mare si vedono le charfia, le trappole da pesca di fronde di palma iscritte all'UNESCO nel 2020; d'inverno ci sono fenicotteri e spatole. Notte sull'isola, cena di polpo."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: traghetto del mattino per Sfax e louage per Mahdia, la capitale fatimide su una penisola stretta. Si entra in medina dalla Skifa el Kahla, la porta fortificata scura e lunghissima; poi la Grande Moschea del X secolo, il Borj el Kebir sulla punta e il cimitero marino bianco che scende fino al faro di Cap Afrique. Pomeriggio in spiaggia o al porto dei pescatori, notte a Mahdia."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: Métro du Sahel da Mahdia a Monastir di primo mattino. Il Ribat di Monastir, con le mura color sabbia sul mare, si vede in un'ora e mezza; accanto il mausoleo di Bourguiba con le cupole dorate. Poi treno per Tunisi (circa 9 TND in seconda) e volo serale per Bologna. Se l'orario del volo non lo permette, spostare Monastir alla sera del giorno 6 e partire da Sousse la mattina del 7."
+        }
+      ],
+      "alloggio": "A Sousse Logitravel mostra hotel da 29 € a notte (Houria Palace) a 92 € (Seabel Alhambra) di tariffa media; a fine novembre 2026 il Marhaba Beach e il Marhaba Salem erano a 50 € per due adulti e una notte, il Marhaba Palace a 74 €. A Mahdia si va da 36 € (Mahdia Beach) a 79 € (Iberostar Royal El Mansour), con molti hotel sui 44-64 €; fa eccezione El Borj a 159 €. Per Sfax e Kerkennah non si sono trovate tariffe verificate; si conta la stessa fascia di 30-90 € a camera, cioè 15-45 € a testa per notte. Conviene dormire a Sousse in medina o vicino a Bab Jedid (tre notti, base per Kairouan), poi una notte a Sfax, una a Kerkennah e una a Mahdia sulla penisola. I grandi resort di Port El Kantaoui e della Zone Touristique sono comodi solo con l'auto.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze–Bologna e Marconi Express A/R",
+          "testo": "Treno Firenze–Bologna A/R 20-50 € e Marconi Express 23,20 € A/R a persona, parametri del documento.",
+          "min": 43,
+          "max": 74,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Bologna–Tunisi A/R",
+          "testo": "Diretto Tunisair o Nouvelair, circa 1h37. Kayak trova a novembre 2026 offerte A/R da 112-117 €; la fascia standard è 147-350 € e i diretti costano in media 199 €. Novembre è il mese più economico (mediana 120 €), agosto (392 €) e dicembre (360 €) i più cari. Bagaglio in stiva escluso.",
+          "min": 112,
+          "max": 350,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treni SNCFT in Tunisia",
+          "testo": "Tunisi–Sousse 7,6 TND in seconda e 10,3 in prima, Monastir–Tunisi 9,2 in seconda; Sousse–El Jem–Sfax costa meno di Tunisi–Sfax (12,4-16,8 TND). In tutto circa 22-35 TND; la Carte Bleue di 7 giorni costa 40-60 TND. Cioè 7-18 € a testa.",
+          "min": 7,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Métro du Sahel",
+          "testo": "Sousse–Monastir–Mahdia, un treno ogni 40 minuti circa dalle 5 alle 22; la corsa costa pochi dinari (meno di 1 $). Due-tre corse in tutto.",
+          "min": 1,
+          "max": 3,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Louage",
+          "testo": "Sousse–Kairouan andata e ritorno e Sfax–Mahdia: i louage costano circa 1,60-3,20 $ a tratta sulle distanze brevi e 10-14 TND (3-4 €) su Tunisi–Sousse. Per tre tratte 5-12 € a testa.",
+          "min": 5,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Kairouan, biglietto dei monumenti",
+          "testo": "Dall'aprile 2026 i siti di categoria A, tra cui Kairouan ed El Jem, costano 30 TND per i non residenti (45 TND dal gennaio 2027), circa 9 €.",
+          "min": 9,
+          "max": 9,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Anfiteatro e museo di El Jem",
+          "testo": "Categoria A, 30 TND dall'aprile 2026 secondo il nuovo decreto; Hostelworld a ottobre 2026 riporta ancora 20 TND per gli stranieri, museo compreso. Circa 6-9 €.",
+          "min": 6,
+          "max": 9,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ribat di Monastir",
+          "testo": "Il decreto 2026 mette i musei regionali come quello di Monastir in categoria C (10 TND), i siti maggiori in categoria B (20 TND); il Ribat non è elencato per nome, quindi si conta 10-20 TND, circa 3-6 €.",
+          "min": 3,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo archeologico di Sousse",
+          "testo": "Museo regionale di categoria C, 10 TND fissi (circa 3 €). Il Ribat di Sousse e i monumenti di Mahdia non hanno tariffe 2026 verificate e restano fuori.",
+          "min": 3,
+          "max": 3,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "Hotel di Sousse 29-92 € a notte, di Mahdia 36-79 €; a fine novembre 2026 doppie a 50-74 € per due. Con 30-90 € a camera si spendono 15-45 € a testa a notte, 90-270 € per sei notti.",
+          "min": 90,
+          "max": 270,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Brik 1,5-2,5 TND, lablabi 3-5, couscous in un locale tunisino 8-15 TND, pasto di fascia media 20-35 TND; circa 50 TND al giorno per tre pasti. Si spendono 30-80 TND, cioè 9-24 € al giorno a testa.",
+          "min": 9,
+          "max": 24,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Traghetto Sfax–Kerkennah A/R",
+          "testo": "Sonotrak, circa un'ora a tratta, dieci corse per senso dal 1 settembre 2026. La tariffa 2026 non è riportata dalle fonti consultate: si paga in biglietteria prima dell'imbarco ed è descritta come molto economica. Fuori dal totale.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto (alternativa)",
+          "testo": "Un'auto standard costa da circa 35 $ al giorno (circa 30 €), più cara con il cambio automatico e di solito con la formula pieno-pieno. Serve solo se si vogliono i resort fuori città: non entra nel totale.",
+          "min": 30,
+          "max": 30,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Tutto è a persona: treni, voli, louage, ingressi e pasti si pagano a testa, l'alloggio è la doppia divisa in due. L'unica voce della vettura è il noleggio, indicato solo come alternativa e da dividere per due se lo si sceglie.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Viaggiare Sicuri non sconsiglia la Tunisia: non è tra i 28 paesi sconsigliati dalla Farnesina nel 2026. Le zone da evitare sono i confini con Libia e Algeria e i massicci del Chaambi e di Kasserine, lontani dalla linea costiera. Il dinaro è una valuta chiusa: si cambia all'arrivo e si tengono banconote piccole, perché i POS spesso non funzionano."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Kairouan non ha la ferrovia: si va in louage, che parte quando è pieno, quindi conviene arrivare alla stazione dei louage di Sousse la mattina presto. Per Kerkennah c'è solo il traghetto da Sfax: d'inverno le corse sono meno e in estate si fa la fila per le auto."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "I biglietti dei treni SNCFT si comprano solo allo sportello, possibilmente il giorno prima per la 1a classe: non c'è app. Il volo da Bologna non è quotidiano (Tunisair lun-mer-sab, Nouvelair lun-gio-ven-sab), quindi le date del viaggio dipendono da lui."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Le sale di preghiera delle moschee, compresa la Grande Moschea di Kairouan, sono riservate ai musulmani: si visitano cortile e porticati, con spalle e gambe coperte. Il venerdì a mezzogiorno è meglio non programmare le moschee. Durante il Ramadan cambiano gli orari dei treni e molti locali aprono solo dopo il tramonto."
+        }
+      ],
+      "note": "A Kairouan il biglietto unico dei monumenti va tenuto in tasca fino a sera, perché lo si mostra a ogni sito. A El Jem prendere il treno delle 8:28 da Sousse Ville (quello partito da Tunisi alle 6:05): arriva alle 9:46, prima dei pullman dei tour da Sousse e Hammamet, e lascia il tempo di ripartire per Sfax nel pomeriggio. Dall'aeroporto di Tunisi al treno serve un taxi: contrattare o chiedere il tassametro prima di salire. La Métro du Sahel ha una fermata all'aeroporto di Monastir, utile per chi trovasse un volo su Monastir in stagione. Le 3 schede già in catalogo sulla Tunisia (Tunisi, Cartagine e Sidi Bou Said; Tunisia completa; Tunisia del Sud) si abbinano bene: chi ha già fatto il Sud può scendere fino a Sfax e saltare il deserto. Per bere birra o vino servono i bar degli hotel; in medina non si trova alcol.",
+      "fonti": [
+        "https://www.kayak.it/voli/Bologna-Aeroporto-Guglielmo-Marconi-BLQ/Tunisi-Cartagine-TUN",
+        "https://www.kayak.it/voli/Bologna-Aeroporto-Guglielmo-Marconi-BLQ/Tunisia-TN0",
+        "https://managers.tn/2026/04/01/voici-les-nouveaux-tarifs-pour-les-musees-et-sites-historiques-en-tunisie/",
+        "https://www.seat61.com/train-travel-in-tunisia.htm",
+        "https://appsavvytraveller.com/tunisia-train-travel-guide/",
+        "https://appsavvytraveller.com/day-trips-from-sfax/",
+        "https://www.hostelworld.com/blog/africa/tunisia/",
+        "https://www.amigosim.com/blog/what-is-the-average-cost-to-travel-to-tunisia",
+        "https://www.logitravel.it/hotel/tunisia/governatorato-di-susa/sousse--eyJjaXR5IjoiMzAwMTU1MzcifQ==",
+        "https://www.logitravel.it/hotel/--eyJjaXR5IjoiMTgzNjUifQ==",
+        "https://www.money.it/i-paesi-piu-pericolosi-al-mondo-secondo-la-farnesina-nel-2026",
+        "https://www.travel-tramp.com/?p=18605"
+      ],
+      "aggiuntaIl": "2026-11-16",
+      "coordinate": {
+        "lat": 35.8256,
+        "lon": 10.6411
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "L'anfiteatro di El Jem, il Ribat e le spiagge di Mahdia piacciono a un bimbo di 4 anni, ma tre cambi di letto, louage stretti e il traghetto rendono il giro faticoso: meglio lasciare fuori Kerkennah e restare più notti a Sousse."
       }
     },
     {

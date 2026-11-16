@@ -863,8 +863,18 @@
    1
   ],
   [
+   "calci-certosa-e-monte-pisano-1g",
+   "Calci, la Certosa e il Monte Pisano",
+   1
+  ],
+  [
    "camogli-e-san-fruttuoso-1g",
    "Camogli e San Fruttuoso",
+   1
+  ],
+  [
+   "capalbio-e-il-giardino-dei-tarocchi-1g",
+   "Capalbio, il Giardino dei Tarocchi e il Lago di Burano",
    1
   ],
   [
@@ -980,6 +990,11 @@
   [
    "imola-1g",
    "Imola",
+   1
+  ],
+  [
+   "larderello-e-le-biancane-1g",
+   "Larderello, Monterotondo Marittimo e le Biancane",
    1
   ],
   [
@@ -1198,6 +1213,11 @@
    1
   ],
   [
+   "tuscania-vulci-e-montalto-di-castro-1g",
+   "Tuscania, Vulci e Montalto di Castro",
+   1
+  ],
+  [
    "umbertide-e-montone-1g",
    "Umbertide e Montone",
    1
@@ -1250,6 +1270,11 @@
   [
    "appennino-reggiano-e-canossa-2g",
    "Appennino reggiano: Pietra di Bismantova, Castelnovo ne' Monti e Canossa",
+   2
+  ],
+  [
+   "assisi-spello-e-monte-subasio-2g",
+   "Assisi, Spello e il Monte Subasio",
    2
   ],
   [
@@ -1338,8 +1363,18 @@
    2
   ],
   [
+   "citta-del-tufo-e-saturnia-2g",
+   "Città del Tufo e Saturnia: Pitigliano, Sorano, Sovana e le terme",
+   2
+  ],
+  [
    "colli-euganei-2g",
    "Colli Euganei: Abano, Este, Monselice e Arquà Petrarca",
+   2
+  ],
+  [
+   "colonia-in-due-giorni-2g",
+   "Colonia in due giorni",
    2
   ],
   [
@@ -1478,6 +1513,11 @@
    2
   ],
   [
+   "modena-completa-e-motor-valley-2g",
+   "Modena completa e la Motor Valley",
+   2
+  ],
+  [
    "nuoro-orgosolo-e-il-supramonte-2g",
    "Nuoro, Orgosolo e il Supramonte",
    2
@@ -1525,6 +1565,11 @@
   [
    "ponza-2g",
    "Ponza",
+   2
+  ],
+  [
+   "porto-in-due-giorni-2g",
+   "Porto in due giorni",
    2
   ],
   [
@@ -2258,6 +2303,11 @@
    7
   ],
   [
+   "bulgaria-sud-occidentale-rila-pirin-e-rodopi-7g",
+   "Bulgaria sud-occidentale: Rila, Pirin, Bansko, Melnik e i Rodopi",
+   7
+  ],
+  [
    "calabria-completa-7g",
    "Calabria completa",
    7
@@ -2455,6 +2505,11 @@
   [
    "galles-7g",
    "Galles",
+   7
+  ],
+  [
+   "galles-del-sud-7g",
+   "Galles del Sud: Cardiff, Brecon Beacons, Pembrokeshire e la penisola di Gower",
    7
   ],
   [
@@ -3010,6 +3065,11 @@
   [
    "trentino-orientale-7g",
    "Trentino orientale: Val di Fiemme, Val di Fassa, Primiero e la Valsugana",
+   7
+  ],
+  [
+   "tunisia-centrale-e-sahel-7g",
+   "Tunisia centrale e Sahel: Sousse, Monastir, Kairouan, El Jem, Mahdia e Kerkennah",
    7
   ],
   [

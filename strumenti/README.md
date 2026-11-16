@@ -193,3 +193,26 @@ doppioni.
   un'unica chiamata e si aspetta l'ondata (~5-9 minuti per ondata di opus).
 - `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
   pubblicato solo su `viaggi-dati`.
+
+## Nota dalla run del 16 novembre 2026
+- Primo turno: 36 agenti in cinque ondate (30 da 7-14 giorni con opus, 6 da 3 giorni con sonnet)
+  più 2 completamenti (Schleswig-Holstein: noleggio, Autozug Sylt e traghetto Heligoland;
+  Kalimantan: houseboat sul Mahakam e speedboat Derawan), tetto 5 WebSearch ciascuno: 33 schede
+  valide e 3 SKIP (Qatar e Bahrein: avviso Farnesina sulla regione del Golfo, viaggi non essenziali
+  da posticipare; Pamphylia e Cilicia: nessun diretto per Antalya da FLR/PSA/BLQ; Georgia
+  occidentale: i Wizz su Kutaisi partono solo da Venezia, Malpensa e Fiumicino). Pubblicate
+  subito 33 schede (commit 3c73322, catalogo a 751).
+- Secondo turno (`send_later` dopo 3 minuti): 5 mete da 2 giorni + 4 da 1 giorno (sonnet) + 3
+  sostitute da 7 giorni (Bulgaria sud-occidentale, Tunisia centrale e Sahel, Galles del Sud, opus)
+  in un'unica ondata di 12, tutte valide, più un completamento pasti per Città del Tufo. Totale
+  notte: 45 mete nuove (4 da 1, 5 da 2, 6 da 3, 18 da 7, 12 da 14), catalogo a 763.
+- Il catalogo è ormai saturo per Europa e Asia: prima di scegliere i candidati stampare i nomi
+  completi dell'indice per area (molte idee «nuove» erano già dentro: Tenerife, Sumatra,
+  Maramureș, Ebridi, Pacifico nord-ovest, Palawan). Restano scoperti soprattutto sotto-regioni
+  di Paesi grandi (Cina NE, Gansu, Corea orientale, Deccan, Route 66, Black Hills, Yukon).
+- Le parole delle «escluse» valgono anche dentro nomi lunghi: «Siviglia» nel nome di una scheda
+  andalusa la fa bocciare; rinominare prima di lanciare l'agente.
+- Restano testuali e fuori dal totale solo voci marginali (ingressi minori, e-Visa, un traghetto
+  locale, alternative con `confronto: true`), dichiarate in `costoNota`.
+- `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
+  pubblicato solo su `viaggi-dati`.
