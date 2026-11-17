@@ -216,3 +216,24 @@ doppioni.
   locale, alternative con `confronto: true`), dichiarate in `costoNota`.
 - `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
   pubblicato solo su `viaggi-dati`.
+
+## Nota dalla run del 17 novembre 2026
+- Primo turno: 34 agenti in cinque ondate (30 da 7-14 giorni con opus, 3 da 3 giorni con sonnet)
+  più un completamento pasti (Calabria tirrenica), tetto 5 WebSearch ciascuno: 30 schede valide e
+  4 SKIP (Giura e Franca Contea: 733 km e 8h di auto senza volo diretto; Podgorica, Lanzarote e
+  Amman a 3 giorni: nessun volo diretto 2026 verificabile da FLR/PSA/BLQ, il Ryanair per Amman è
+  sospeso fino a ottobre 2026 per la crisi dello spazio aereo). Pubblicate subito 26 schede (commit
+  a43e738, catalogo a 792); 5 tenute in `pending/` (Padova pasti, Corsica e Galles carburante,
+  Moravia treni interni, Cook/Samoa noleggio e traghetto). La scheda del Pacifico è stata rinominata
+  «Isole Cook e Samoa» perché l'agente ha escluso Tonga dall'itinerario (solo voli con scalo): se un
+  agente ridimensiona la meta, allineare id e nome prima di pubblicare.
+- Secondo turno (`send_later` dopo 3 minuti): 5 completamenti + 14 mete nuove (Chișinău, Elba, Lago
+  Maggiore e Sciacca da 3 come sostitute, Peloponneso settentrionale da 7 come sostituta del Giura,
+  5 da 2 giorni e 4 da 1) in tre ondate, più 8 completamenti pasti: quasi tutte le schede sonnet da
+  1-3 giorni erano uscite senza pasti numerici nonostante la richiesta nel prompt. Totale notte:
+  45 mete nuove (4 da 1, 5 da 2, 6 da 3, 18 da 7, 12 da 14), catalogo a 811.
+- Le mete da 3 giorni oltreconfine ormai reggono solo con voli diretti certi: Podgorica, Amman,
+  Lanzarote da PSA sono saltate; per il 2026 conviene verificare la rotta prima di proporle (molte
+  rotte Ryanair stagionali o sospese). Restano buone le sostitute domestiche (Elba, Lago Maggiore).
+- `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
+  pubblicato solo su `viaggi-dati`.

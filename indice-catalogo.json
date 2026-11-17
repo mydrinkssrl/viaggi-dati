@@ -978,6 +978,11 @@
    1
   ],
   [
+   "fiumalbo-pievepelago-e-il-lago-santo-1g",
+   "Fiumalbo, Pievepelago e il Lago Santo modenese",
+   1
+  ],
+  [
    "foligno-bevagna-e-montefalco-1g",
    "Foligno, Bevagna e Montefalco",
    1
@@ -988,8 +993,18 @@
    1
   ],
   [
+   "grosseto-roselle-e-la-diaccia-botrona-1g",
+   "Grosseto, Roselle e la Diaccia Botrona",
+   1
+  ],
+  [
    "imola-1g",
    "Imola",
+   1
+  ],
+  [
+   "impruneta-san-casciano-e-badia-a-passignano-1g",
+   "Impruneta, San Casciano Val di Pesa e Badia a Passignano",
    1
   ],
   [
@@ -1160,6 +1175,11 @@
   [
    "san-leo-e-montefeltro-1g",
    "San Leo, Pennabilli e il Montefeltro",
+   1
+  ],
+  [
+   "san-quirico-d-orcia-bagno-vignoni-e-castiglione-d-orcia-1g",
+   "San Quirico d'Orcia, Bagno Vignoni e Castiglione d'Orcia",
    1
   ],
   [
@@ -1463,6 +1483,11 @@
    2
   ],
   [
+   "la-spezia-lerici-e-il-golfo-dei-poeti-2g",
+   "La Spezia, Lerici e il Golfo dei Poeti",
+   2
+  ],
+  [
    "lago-d-iseo-e-franciacorta-2g",
    "Lago d'Iseo e Franciacorta",
    2
@@ -1533,6 +1558,11 @@
    2
   ],
   [
+   "oltrepo-pavese-2g",
+   "Oltrepò Pavese: Varzi, Zavattarello, Salice Terme e Fortunago",
+   2
+  ],
+  [
    "orvieto-todi-e-valle-del-tevere-2g",
    "Orvieto, Todi e la Valle del Tevere",
    2
@@ -1570,6 +1600,11 @@
   [
    "ponza-2g",
    "Ponza",
+   2
+  ],
+  [
+   "pordenone-san-daniele-spilimbergo-e-valvasone-2g",
+   "Pordenone, San Daniele, Spilimbergo e Valvasone",
    2
   ],
   [
@@ -1613,6 +1648,11 @@
    2
   ],
   [
+   "soave-valpolicella-e-lessinia-2g",
+   "Soave, Valpolicella e la Lessinia",
+   2
+  ],
+  [
    "sorrento-e-la-penisola-sorrentina-2g",
    "Sorrento, Massa Lubrense e la Baia di Ieranto",
    2
@@ -1620,6 +1660,11 @@
   [
    "sulmona-e-scanno-2g",
    "Sulmona e Scanno",
+   2
+  ],
+  [
+   "sutri-nepi-calcata-e-caprarola-2g",
+   "Sutri, Nepi, Calcata e Caprarola: la Tuscia dei Farnese",
    2
   ],
   [
@@ -1778,6 +1823,11 @@
    3
   ],
   [
+   "chisinau-cricova-e-orheiul-vechi-3g",
+   "Chișinău, le cantine di Cricova e Orheiul Vechi",
+   3
+  ],
+  [
    "cluj-napoca-turda-e-alba-iulia-3g",
    "Cluj-Napoca, Turda e Alba Iulia",
    3
@@ -1888,6 +1938,11 @@
    3
   ],
   [
+   "isola-d-elba-in-tre-giorni-3g",
+   "Isola d'Elba in tre giorni: Portoferraio, Capoliveri, Marciana e il Monte Capanne",
+   3
+  ],
+  [
    "isole-pontine-3g",
    "Isole Pontine: Ponza, Palmarola e Ventotene",
    3
@@ -1910,6 +1965,11 @@
   [
    "lago-di-garda-in-tre-giorni-3g",
    "Lago di Garda in tre giorni: Sirmione, Gardone, Limone, Riva e Malcesine",
+   3
+  ],
+  [
+   "lago-maggiore-completo-3g",
+   "Lago Maggiore completo: Stresa, le Isole Borromee, il Mottarone, Verbania e Cannobio",
    3
   ],
   [
@@ -1988,6 +2048,11 @@
    3
   ],
   [
+   "padova-vicenza-e-le-ville-del-palladio-3g",
+   "Padova, Vicenza e le ville del Palladio",
+   3
+  ],
+  [
    "pescara-chieti-e-majella-3g",
    "Pescara, Chieti e il Parco della Majella",
    3
@@ -2040,6 +2105,11 @@
   [
    "sardegna-est-golfo-di-orosei-3g",
    "Sardegna est: Golfo di Orosei, Cala Gonone e Dorgali",
+   3
+  ],
+  [
+   "sciacca-selinunte-e-la-sicilia-sud-occidentale-3g",
+   "Sciacca, Selinunte, Menfi e Caltabellotta: la Sicilia sud-occidentale",
    3
   ],
   [
@@ -2423,6 +2493,11 @@
    7
   ],
   [
+   "corsica-settentrionale-7g",
+   "Corsica settentrionale: Bastia, Capo Corso, Saint-Florent, Calvi, la Balagne e Corte",
+   7
+  ],
+  [
    "costa-licia-7g",
    "Costa licia: Antalya, Kaş e Fethiye",
    7
@@ -2555,6 +2630,11 @@
   [
    "galles-7g",
    "Galles",
+   7
+  ],
+  [
+   "galles-del-nord-7g",
+   "Galles del Nord: Snowdonia, Anglesey, Conwy, Llandudno, Portmeirion e Chester",
    7
   ],
   [
@@ -2838,6 +2918,11 @@
    7
   ],
   [
+   "moravia-7g",
+   "Moravia: Brno, Olomouc, Lednice-Valtice, Mikulov, Kroměříž e il Carso moravo",
+   7
+  ],
+  [
    "nord-della-francia-7g",
    "Nord della Francia: Lilla, Amiens, Arras e la Baia della Somme",
    7
@@ -2915,6 +3000,11 @@
   [
    "peloponneso-meridionale-7g",
    "Peloponneso meridionale: Messenia, Mani e Laconia: Kalamata, Pylos, Monemvasia e Mystras",
+   7
+  ],
+  [
+   "peloponneso-settentrionale-e-golfo-di-corinto-7g",
+   "Peloponneso settentrionale e Golfo di Corinto: Patrasso, Kalavryta, Nafpaktos, Galaxidi, Corinto, Nemea e Loutraki",
    7
   ],
   [
@@ -3755,6 +3845,11 @@
   [
    "ontario-completo-14g",
    "Ontario completo: Toronto, Niagara, Ottawa, Kingston e le Thousand Islands, Algonquin, Georgian Bay e la Bruce Peninsula",
+   14
+  ],
+  [
+   "pacifico-del-sud-isole-cook-e-samoa-14g",
+   "Pacifico del Sud: Isole Cook e Samoa: Rarotonga, Aitutaki, Upolu e Savai'i",
    14
   ],
   [
