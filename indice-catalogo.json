@@ -1758,6 +1758,11 @@
    3
   ],
   [
+   "carloforte-sant-antioco-e-il-sulcis-3g",
+   "Carloforte, Sant'Antioco e il Sulcis",
+   3
+  ],
+  [
    "casablanca-e-el-jadida-3g",
    "Casablanca, El Jadida e Azemmour",
    3
@@ -2123,6 +2128,11 @@
    3
   ],
   [
+   "abruzzo-dei-parchi-7g",
+   "Abruzzo dei parchi: Gran Sasso, Campo Imperatore, Majella, Parco Nazionale d'Abruzzo, Scanno e Sulmona",
+   7
+  ],
+  [
    "abruzzo-e-molise-7g",
    "Abruzzo e Molise",
    7
@@ -2155,6 +2165,11 @@
   [
    "alpi-marittime-e-verdon-7g",
    "Costa Azzurra e Alpi Marittime: Nizza, Mentone, Mercantour e Gole del Verdon",
+   7
+  ],
+  [
+   "alpi-orobie-e-val-camonica-7g",
+   "Alpi Orobie e Val Camonica: Val Brembana, Val Seriana, Presolana, Capo di Ponte e il Lago d'Idro",
    7
   ],
   [
@@ -2323,6 +2338,11 @@
    7
   ],
   [
+   "calabria-tirrenica-e-pollino-7g",
+   "Calabria tirrenica e Pollino: Tropea, Pizzo, Diamante, Scalea, Civita, Morano Calabro e la Sila",
+   7
+  ],
+  [
    "cantabria-e-rioja-7g",
    "Cantabria e La Rioja: Santander, Picos de Europa, Burgos e Logroño",
    7
@@ -2388,6 +2408,11 @@
    7
   ],
   [
+   "corfu-completa-7g",
+   "Corfù completa: Kerkyra, Paleokastritsa, Kassiopi, l'Achilleion, Paxos e Antipaxos",
+   7
+  ],
+  [
    "cornovaglia-e-devon-7g",
    "Cornovaglia e Devon",
    7
@@ -2413,6 +2438,11 @@
    7
   ],
   [
+   "creta-occidentale-7g",
+   "Creta occidentale: Chania, Rethymno, Elafonisi, Balos, le gole di Samaria e Sfakia",
+   7
+  ],
+  [
    "creta-orientale-7g",
    "Creta orientale: Heraklion, Agios Nikolaos, Sitia, Ierapetra e l'altopiano di Lassithi",
    7
@@ -2428,6 +2458,11 @@
    7
   ],
   [
+   "dodecaneso-centrale-7g",
+   "Dodecaneso centrale: Rodi, Symi, Tilos, Halki e Lindos",
+   7
+  ],
+  [
    "dodecaneso-rodi-kos-e-patmos-7g",
    "Dodecaneso: Rodi, Kos e Patmos",
    7
@@ -2440,6 +2475,11 @@
   [
    "east-anglia-e-lincolnshire-7g",
    "East Anglia e Lincolnshire: Norwich, i Norfolk Broads, la costa del Suffolk, Ely, Bury St Edmunds e Lincoln",
+   7
+  ],
+  [
+   "ebridi-esterne-7g",
+   "Ebridi Esterne: Lewis, Harris, Uist, Barra e la costa nord-occidentale della Scozia",
    7
   ],
   [
@@ -2623,6 +2663,16 @@
    7
   ],
   [
+   "istria-completa-7g",
+   "Istria completa: Pola, Rovigno, Parenzo, Motovun, Grisignana, Pisino e Opatija",
+   7
+  ],
+  [
+   "jutland-7g",
+   "Jutland: Aarhus, Aalborg, Skagen, Ribe, Billund e la costa del Mare del Nord",
+   7
+  ],
+  [
    "kalymnos-leros-lipsi-e-patmos-7g",
    "Kalymnos, Leros, Lipsi e Patmos: il Dodecaneso settentrionale da Kos",
    7
@@ -2728,6 +2778,11 @@
    7
   ],
   [
+   "madrid-e-la-sua-comunita-7g",
+   "Madrid e la sua Comunità: Alcalá de Henares, Aranjuez, El Escorial, Chinchón e la Sierra de Guadarrama",
+   7
+  ],
+  [
    "maiorca-completa-7g",
    "Maiorca completa",
    7
@@ -2770,6 +2825,11 @@
   [
    "meclemburgo-e-costa-baltica-7g",
    "Meclemburgo-Pomerania: Rügen, Stralsund, Rostock e Schwerin",
+   7
+  ],
+  [
+   "minorca-in-una-settimana-7g",
+   "Minorca in una settimana: Ciutadella, Maó, le cale del sud, il Camí de Cavalls e Fornells",
    7
   ],
   [
@@ -3058,6 +3118,11 @@
    7
   ],
   [
+   "svizzera-nord-orientale-7g",
+   "Svizzera nord-orientale: Zurigo, Sciaffusa e le cascate del Reno, San Gallo, Appenzello, il Lago di Costanza e il Liechtenstein",
+   7
+  ],
+  [
    "svizzera-orientale-grigioni-engadina-7g",
    "Svizzera orientale: Grigioni, Engadina e Trenino del Bernina",
    7
@@ -3118,8 +3183,18 @@
    7
   ],
   [
+   "ungheria-occidentale-7g",
+   "Ungheria occidentale: Sopron, Győr, Pannonhalma, Kőszeg, Szombathely, Hévíz e Keszthely",
+   7
+  ],
+  [
    "ungheria-orientale-e-puszta-7g",
    "Ungheria orientale e Puszta: Debrecen, Hortobágy, Tokaj, Szeged, Pécs e Kecskemét",
+   7
+  ],
+  [
+   "val-di-noto-7g",
+   "Val di Noto: Siracusa, Noto, Ragusa, Modica, Scicli, Vendicari e Marzamemi",
    7
   ],
   [
@@ -3178,6 +3253,11 @@
    14
   ],
   [
+   "antille-sopravento-settentrionali-14g",
+   "Antille Sopravento settentrionali: Antigua e Barbuda, Saint Kitts e Nevis, Dominica, Montserrat e Saint-Martin",
+   14
+  ],
+  [
    "appalachi-e-kentucky-14g",
    "Stati Uniti: Appalachi e Kentucky: Great Smoky Mountains, Shenandoah, Louisville, Lexington e Mammoth Cave",
    14
@@ -3205,6 +3285,11 @@
   [
    "australia-del-sud-14g",
    "Australia del Sud: Adelaide, Kangaroo Island, Barossa e Flinders Ranges",
+   14
+  ],
+  [
+   "australia-kimberley-e-pilbara-14g",
+   "Australia: Kimberley e Pilbara: Broome, Cape Leveque, Gibb River Road, Purnululu, Karijini ed Exmouth",
    14
   ],
   [
@@ -3240,6 +3325,11 @@
   [
    "balcani-occidentali-in-auto-14g",
    "Balcani occidentali in auto: Slovenia, Croazia, Bosnia, Montenegro e Albania",
+   14
+  ],
+  [
+   "benin-e-togo-14g",
+   "Benin e Togo: Cotonou, Ouidah, Ganvié, Abomey, Porto-Novo, Lomé, Kpalimé e Togoville",
    14
   ],
   [
@@ -3358,6 +3448,11 @@
    14
   ],
   [
+   "cina-mongolia-interna-e-ningxia-14g",
+   "Cina: Mongolia Interna e Ningxia: Hohhot, le praterie di Xilamuren, Baotou, il deserto di Kubuqi, Yinchuan, le tombe Xixia e Shapotou",
+   14
+  ],
+  [
    "cina-occidentale-sichuan-e-tre-gole-14g",
    "Cina occidentale: Sichuan, Chongqing e le Tre Gole dello Yangtze",
    14
@@ -3468,6 +3563,11 @@
    14
   ],
   [
+   "giappone-okinawa-e-isole-ryukyu-14g",
+   "Giappone: Okinawa e le isole Ryukyu: Naha, Kerama, Miyako, Ishigaki, Iriomote, Amami e Yakushima",
+   14
+  ],
+  [
    "giappone-shikoku-e-mare-interno-14g",
    "Giappone: Shikoku e il Mare Interno di Seto: Naoshima, Matsuyama, Kochi e Takamatsu",
    14
@@ -3503,8 +3603,18 @@
    14
   ],
   [
+   "india-calcutta-sundarbans-e-andamane-14g",
+   "India: Calcutta, Sundarbans e le Isole Andamane: Port Blair, Havelock, Neil e Ross Island",
+   14
+  ],
+  [
    "india-centrale-madhya-pradesh-14g",
    "India centrale: Madhya Pradesh: Khajuraho, Orchha, Bhopal, Sanchi e le tigri di Kanha e Bandhavgarh",
+   14
+  ],
+  [
+   "india-circuito-buddhista-uttar-pradesh-e-bihar-14g",
+   "India: Uttar Pradesh orientale e Bihar, il circuito buddhista: Lucknow, Varanasi, Sarnath, Kushinagar, Bodhgaya, Nalanda e Patna",
    14
   ],
   [
@@ -3733,8 +3843,23 @@
    14
   ],
   [
+   "stati-uniti-civil-rights-trail-14g",
+   "Stati Uniti: Georgia, Alabama e Mississippi lungo il Civil Rights Trail: Atlanta, Montgomery, Selma, Birmingham, Jackson, il Delta del Mississippi e Natchez",
+   14
+  ],
+  [
    "stati-uniti-del-sud-new-orleans-nashville-e-memphis-14g",
    "Stati Uniti del Sud: New Orleans, Nashville e Memphis",
+   14
+  ],
+  [
+   "stati-uniti-mid-atlantic-14g",
+   "Stati Uniti: Mid-Atlantic: Pittsburgh, Fallingwater, Gettysburg, Lancaster County, Baltimora, Annapolis, la Chesapeake Bay e il Delaware",
+   14
+  ],
+  [
+   "stati-uniti-montana-idaho-e-glacier-14g",
+   "Stati Uniti: Montana, Idaho e Glacier National Park: Glacier, Flathead Lake, Missoula, Bozeman, Sun Valley e i Sawtooth",
    14
   ],
   [
@@ -3745,6 +3870,11 @@
   [
    "stati-uniti-parchi-del-sud-ovest-14g",
    "Stati Uniti: parchi del Sud-Ovest: Zion, Bryce, Arches, Monument Valley e Grand Canyon",
+   14
+  ],
+  [
+   "stati-uniti-upper-midwest-e-northwoods-14g",
+   "Stati Uniti: Upper Midwest e Northwoods: Minneapolis, Duluth, North Shore, Boundary Waters, Apostle Islands, Door County e Pictured Rocks",
    14
   ],
   [
@@ -4013,6 +4143,10 @@
   "pamphylia-e-cilicia-7g",
   "qatar-e-bahrein-7g",
   "katowice-e-l-alta-slesia-3g",
-  "suceava-e-i-monasteri-della-bucovina-3g"
+  "suceava-e-i-monasteri-della-bucovina-3g",
+  "giura-e-franca-contea-7g",
+  "podgorica-cettigne-lago-di-scutari-e-budva-3g",
+  "lanzarote-in-tre-giorni-3g",
+  "amman-jerash-e-il-mar-morto-3g"
  ]
 }
