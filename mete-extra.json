@@ -259,6 +259,117 @@
       }
     },
     {
+      "id": "borgo-a-mozzano-e-val-di-lima-1g",
+      "nome": "Borgo a Mozzano, il Ponte del Diavolo e la Val di Lima",
+      "sottotitolo": "Toscana, il ponte medievale più enigmatico sul Serchio e le terme ottocentesche di Bagni di Lucca",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno regionale Trenitalia da Firenze S.M.N. sulla linea Lucca–Aulla (di norma con cambio a Lucca), fermata Borgo a Mozzano; la stazione di Bagni di Lucca si trova a pochi km dal centro termale, quindi serve un breve tratto in bus locale o taxi. Chi ha l'auto propria raggiunge entrambe le tappe più comodamente (circa 1h30 via A11 o strade ordinarie), ma il treno basta per la giornata.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 1h55 in treno in media (1h41 la corsa più veloce, circa 9 collegamenti al giorno, primo alle 6:03 e ultimo alle 19:09); più il tragitto a piedi fino al ponte.",
+      "durataViaggioMinuti": 130,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre per camminare lungo il Serchio e il Lima con clima mite; in autunno i boschi della Val di Lima sono molto belli. Luglio e agosto sono caldi e le terme all'aperto perdono fascino; in inverno si può comunque visitare il ponte e fare la grotta a vapore.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 35,
+      "costoMax": 55,
+      "costoNota": "Il totale comprende treno A/R e pranzo. Non ho trovato un listino 2026 verificabile per i trattamenti del Bagno Bernabò né per le visite guidate al Casinò: restano fuori dal totale (ponte e passeggiata sono gratuiti). Il costo dell'auto propria è indicato solo come confronto, senza cifre, perché non ho verificato km e pedaggi su una fonte.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il Ponte della Maddalena si vede in mezz'ora, ma il resto della giornata è la Val di Lima: Bagni di Lucca è a pochi km, con Ponte a Serraglio, il Ponte delle Catene, il Real Casinò e, sulla collina dei Bagni Caldi, le grotte a vapore dello stabilimento termale. Tre soste vere, una passeggiata e un pranzo riempiono una giornata senza correre; per un secondo giorno non c'è abbastanza da giustificare il pernottamento, a meno di aggiungere l'Orrido di Botri o Barga.",
+      "cosaVedere": [
+        "Ponte della Maddalena (Ponte del Diavolo) a Borgo a Mozzano: ponte medievale a schiena d'asino con arcate asimmetriche, attribuito a Matilde di Canossa (XI secolo); la leggenda dice che il diavolo lo costruì in una notte in cambio della prima anima a passare, e fu beffato con una capra. Si attraversa gratis a piedi.",
+        "Torre del Bargiglio e centro storico di Borgo a Mozzano: la torre di avvistamento medievale è una breve escursione con vista fino alle Apuane, a Barga e a Bagni di Lucca; in paese ci sono la chiesa di San Jacopo e il Museo della Memoria sulla Linea Gotica.",
+        "Ponte a Serraglio e Ponte delle Catene a Bagni di Lucca: il cuore ottocentesco del paese; il Ponte delle Catene, opera di Lorenzo Nottolini, è uno dei più antichi ponti in ferro ancora in piedi.",
+        "Real Casinò (Casinò Municipale) di Bagni di Lucca: edificio liberty-neoclassico inaugurato nel 1839, ricordo di quando la località era una delle stazioni termali più eleganti d'Europa; vicino ci sono la prima chiesa anglicana d'Italia e il cimitero inglese.",
+        "Bagni Caldi e terme (Bagno Bernabò, ex Jean Varraud): sulla collina sopra Ponte a Serraglio, a circa 10 minuti a piedi; si fa la grotta di vapore, quella piccola ottocentesca era la grotta privata di Paolina Bonaparte. Prezzi da chiedere al sito dello stabilimento.",
+        "Val di Lima e dintorni: la valle del torrente Lima e i suoi borghi, con possibile estensione verso Coreglia Antelminelli, Barga o l'Orrido di Botri se si ha l'auto."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Regionale 10,20-12,60 € a tratta (circa 11 € in media), quindi 20-25 € A/R a persona, di norma con un cambio.",
+          "min": 20,
+          "max": 25,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 15-30 € a persona: pizzeria o osteria sotto i 15-18 €, trattoria in zona intorno ai 20 €, 25-30 € con piatto tipico o ristorante più curato.",
+          "min": 15,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto propria (confronto)",
+          "testo": "Alternativa comoda per unire ponte e Bagni di Lucca; carburante a 0,129 €/km più eventuali pedaggi A11 e parcheggio. Cifre non verificate su fonte, quindi non incluse.",
+          "min": null,
+          "max": null,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Terme e visite guidate",
+          "testo": "Ponte e passeggiate gratuiti; trattamenti termali e grotta a vapore a pagamento, listino non verificato per il 2026.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Treno e pranzo sono a persona; l'auto, se usata, sarebbe una spesa della vettura divisa fra i due viaggiatori.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "In treno la stazione di Borgo a Mozzano è a circa 1-2 km dal ponte, a piedi; per Bagni di Lucca serve il collegamento locale dalla stazione verso Ponte a Serraglio."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Ponte della Maddalena è sempre visitabile all'aperto; terme, Casinò e Museo della Memoria hanno orari propri e spesso ridotti fuori stagione: verificare prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per la grotta a vapore e i trattamenti conviene prenotare allo stabilimento termale (tel. 0583 87221 citato dalle guide)."
+        }
+      ],
+      "note": "Il ponte si vede meglio dal lato del fiume o dalla strada verso Rocca, non solo camminandoci sopra: da lì si legge la forma a gobba d'asino e l'arcata maggiore asimmetrica. In paese cerca il biroldo (salume di testa di maiale) e i necci di farina di neccio DOP. Gli orari dei treni sono pochi: fissa il rientro in anticipo, l'ultimo collegamento dalla zona può partire presto la sera.",
+      "fonti": [
+        "https://virail.it/treni-firenze-borgo_a_mozzano",
+        "https://www.sluurpy.it/borgo-a-mozzano/ristoranti",
+        "https://www.voloscontato.it/ristoranti/borgo-a-mozzano-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.visittuscany.com/it/localita/bagni-di-lucca/",
+        "https://www.visittuscany.com/it/idee/5-cose-da-fare-a-borgo-a-mozzano/",
+        "https://bellabagnidilucca.com/2015/04/21/terme-thermal-baths",
+        "https://www.lanazione.it/lucca/cronaca/bagno-bernabo-anno-da-record-crescita-vertiginosa-dal-2022-86a434dc"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 43.9967,
+        "lon": 10.5481
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Il ponte con la leggenda della capra piace a un bimbo di 4 anni e si cammina bene; le grotte termali non sono adatte ai più piccoli."
+      }
+    },
+    {
       "id": "brescello-guastalla-e-gualtieri-1g",
       "nome": "Brescello, Guastalla e Gualtieri: la Bassa reggiana di Don Camillo",
       "sottotitolo": "Emilia-Romagna, tre borghi sul Po tra il set dei film di Don Camillo, i Gonzaga e il pittore Ligabue",
@@ -506,6 +617,108 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Con un bimbo di 4 anni i musei sono brevi e il borgo murato è comodo, ma il tragitto in auto è lungo e curvo."
+      }
+    },
+    {
+      "id": "cagli-gola-del-furlo-e-acqualagna-1g",
+      "nome": "Cagli, la Gola del Furlo e Acqualagna",
+      "sottotitolo": "Marche, una giornata tra borgo di Francesco di Giorgio Martini, canyon romano del Furlo e capitale del tartufo",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria: da Firenze con l'A1 fino ad Arezzo, poi E45 verso Sansepolcro e la statale per la Bocca Trabaria/Apecchio fino ad Acqualagna e Cagli. Senza auto i collegamenti pubblici sono lunghi e con cambi: per muoversi tra Furlo, Acqualagna e Cagli l'auto è praticamente necessaria.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h30-2h45 in auto, circa 205 km a tratta (stima del percorso, non ricavata da un sito di navigazione).",
+      "durataViaggioMinuti": 155,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: sentieri del Furlo più piacevoli e, in autunno, stagione del tartufo bianco. A luglio-agosto fa caldo e il tartufo fresco manca.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 42,
+      "costoMax": 82,
+      "costoNota": "Il chilometraggio (circa 205 km a tratta, 410 km A/R) è una stima non verificata su un sito di navigazione; il carburante usa i 0,129 €/km del documento. Il pedaggio A1 Firenze-Arezzo non è stato verificato e non è incluso. Il pranzo è una fascia da guide online (15-50 €), non da un listino 2026 di un singolo locale.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "I tre poli stanno su pochi chilometri della Via Flaminia: Acqualagna e l'ingresso della gola distano pochi minuti, Cagli è a una ventina di minuti. In una giornata si fanno una camminata nella riserva, il centro di Cagli con il Torrione e un pranzo al tartufo senza correre. Il viaggio di oltre due ore e mezza a tratta toglie però tempo: oltre le tre mete non conviene aggiungere altro.",
+      "cosaVedere": [
+        "Gola del Furlo: canyon scavato dal fiume Candigliano tra Monte Pietralata e Monte Paganuccio, dentro la Riserva Naturale Statale istituita nel 2001, con pareti alte centinaia di metri e rapaci come l'aquila reale e il falco pellegrino.",
+        "Galleria romana del Furlo: tunnel scavato nel 76 d.C. per ordine di Vespasiano lungo la Via Flaminia, accanto a una galleria più piccola di epoca etrusca; la vecchia strada nella gola è più scenografica dei tunnel moderni.",
+        "Sentieri della riserva: rete di percorsi segnalati su entrambi i versanti; il più noto sale alla Terrazza del Furlo, con vista su tutta la gola.",
+        "Acqualagna: capitale del tartufo, dove si mangia e si compra tartufo (bianco in autunno) in ristoranti, botteghe e, in stagione, alla Fiera nazionale del tartufo bianco.",
+        "Torrione Martiniano di Cagli: fortificazione attribuita a Francesco di Giorgio Martini (lavori in corso nel 1481), con il passaggio sotterraneo del soccorso coperto che la collega ai resti della Rocca.",
+        "Centro storico di Cagli: borgo sulla Flaminia da girare a piedi, con il Teatro comunale compreso nel biglietto del Torrione."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto da Firenze",
+          "testo": "Circa 410 km A/R (stima) a 0,129 €/km: circa 53 € di carburante; pedaggio A1 Firenze-Arezzo non verificato, escluso. Costo diviso tra due viaggiatori.",
+          "min": 53,
+          "max": 53,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Torrione e Teatro di Cagli",
+          "testo": "5 € intero, 2,50 € ridotto; aperto nel fine settimana.",
+          "min": 0,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Da circa 15-20 € (pizzeria, chiosco al Furlo da 8-15 €) a 25-40 € per un pasto completo a Cagli, fino a 40-50 € in un ristorante al tartufo del centro di Acqualagna.",
+          "min": 15,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Il carburante è della vettura e si divide per due; ingresso e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Non sono emersi dalle fonti consultate dati su ZTL o parcheggi a pagamento a Cagli e Acqualagna: verificare in loco. Per il Furlo la vecchia strada nella gola è la più panoramica."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Torrione di Cagli risulta aperto sabato e domenica 9:30-18:00 (fonte da riconfermare con il sito, tel. +39 0721 780731): in settimana non si visita."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La Fiera del tartufo 2026 era indicata dal 25 ottobre al 15 novembre (date contrastanti, inizio 24 o 25 ottobre) ed è già conclusa: per il 2027 controllare acqualagna.com/fiera-nazionale. Nei weekend di fiera prenotare il pranzo."
+        }
+      ],
+      "note": "Viaggio lungo: partire presto e andare a Cagli di sabato o domenica per il Torrione. Il tartufo fresco si trova in autunno; fuori stagione si mangia con tartufo nero o conservato. Il Chiosco dell'Abbazia al Furlo è una pausa economica da 8-15 € a persona. Tra Apecchio e Acqualagna la strada panoramica vale il tragitto; in alternativa si può fare Urbino.",
+      "fonti": [
+        "https://www.voloscontato.it/ristoranti/acqualagna-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.sluurpy.it/cagli/ristorante",
+        "https://www.sluurpy.it/acqualagna/ristoranti",
+        "https://www.dolcevia.com/en/events/italy/white-truffle-fair-acqualagna/",
+        "https://www.italia.it/it/marche/cagli/musei/riserva-naturale-statale-gola-del-furlo",
+        "https://www.museionline.info/marche-musei-monumenti/rocca-torrione-di-cagli",
+        "https://www.motorbox.com/auto/magazine/vivere-auto/citta-di-castello-fossombrone"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 43.6,
+        "lon": 12.65
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il Furlo e il Torrione piacciono, ma il viaggio di oltre 2h30 a tratta e le camminate sono pesanti per un bimbo di 4 anni."
       }
     },
     {
@@ -3333,6 +3546,110 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Il giro del lago e il pranzo vanno bene con un bimbo di 4 anni, il Monte Giovo no."
+      }
+    },
+    {
+      "id": "fivizzano-ed-equi-terme-1g",
+      "nome": "Fivizzano, Equi Terme e le Grotte di Equi",
+      "sottotitolo": "Toscana (Lunigiana), borgo mediceo e grotte carsiche ai piedi delle Alpi Apuane",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria da Firenze: A11 fino a Lucca/Viareggio, poi A12 fino ad Aulla e strada provinciale verso Fivizzano ed Equi Terme (in alternativa la Cisa, più lunga). Circa 165 km e 1h34 fino a Fivizzano, con 13,30 € di pedaggio a tratta (Unipol Move); Equi Terme è pochi chilometri oltre, distanza non verificata separatamente. Senza auto la giornata non è praticabile: i bus locali verso Equi sono rari.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h35 in auto da Firenze a Fivizzano (165 km, stima Unipol Move); Equi Terme è pochi chilometri oltre, quindi circa 1h40 porta a porta (tempo finale non verificato su fonte).",
+      "durataViaggioMinuti": 100,
+      "periodoMiglioreTesto": "Da aprile a ottobre, quando le grotte sono aperte al pubblico; da novembre a marzo la visita avviene solo su richiesta per gruppi organizzati. Maggio-giugno e settembre sono i mesi più comodi: in grotta la temperatura è bassa tutto l'anno, fuori l'estate è piacevole.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costoMin": 78,
+      "costoMax": 78,
+      "costoNota": "Il totale somma biglietto grotte (13 € intero, fonte museionline aggiornata a novembre 2024, listino 2026 non confermato sul sito ufficiale), pranzo medio da 30 € in agriturismo e metà della vettura: 330 km A/R x 0,129 €/km = 42,57 € di carburante più 26,60 € di pedaggi A11/A12 (13,30 € a tratta), cioè 69,17 € divisi per due. Il parcheggio non è incluso: non è stato trovato un prezzo. Km e pedaggio riguardano Firenze-Fivizzano; Equi Terme è pochi km oltre.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Fivizzano ha un centro piccolo che si gira in un'ora a piedi, Equi Terme dista pochi chilometri e la grotta turistica dura circa 50 minuti, il museo con la Tecchia preistorica circa 40. Con il pranzo restano tempo per una passeggiata nel borgo e per l'eventuale tirolese o il percorso kids. Non servono più giorni, ma il viaggio in auto è lungo: conviene partire presto.",
+      "cosaVedere": [
+        "Grotta turistica di Equi: circa 50 minuti tra stalattiti, stalagmiti e laghetti sotterranei, con la parte fossile della Buca e la grotta delle concrezioni attive scoperta nel 1985.",
+        "Museo delle Grotte di Equi (intitolato a Paolo Grassi) e Tecchia preistorica: circa 40 minuti, con lo scheletro di orso delle caverne e i reperti degli scavi tornati da Firenze.",
+        "ApuanGeoLab e Lapidarium Apuanum: il centro visite del parco, con geologia interattiva delle Alpi Apuane, utile se il meteo è brutto.",
+        "Centro storico di Fivizzano: borgo mediceo di Lunigiana, da girare a piedi con le sue piazze e le fontane.",
+        "Attività opzionali all'aperto: tirolese di 200 metri sul torrente, parco avventura per bambini e parete di arrampicata all'ingresso delle grotte."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Grotte di Equi - biglietto",
+          "testo": "13 € intero, 8 € ridotto (fonte museionline, ultimo aggiornamento 30/11/2024; verificare il listino 2026 sul sito ufficiale). Tirolese e speleo-avventura a parte.",
+          "min": 13,
+          "max": 13,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 30 € a persona di menù medio in un agriturismo di Fivizzano (fonte agriturismi.it); un solo dato, senza una fascia 2026 più ampia.",
+          "min": 30,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto da Firenze (carburante, pedaggi A11/A12, parcheggio)",
+          "testo": "330 km A/R (165 km a tratta, fonte Unipol Move) a 0,129 €/km = circa 42,57 € di carburante, più 26,60 € di pedaggi A11/A12 (13,30 € a tratta Firenze-Fivizzano). Parcheggio non incluso: prezzo non trovato. Voce della vettura, da dividere per due.",
+          "min": 69.17,
+          "max": 69.17,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Biglietto e pranzo sono a persona; carburante e pedaggi (69,17 € A/R) sono della vettura e vanno divisi tra i due viaggiatori (34,59 € a testa); il parcheggio non è quantificato.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Le grotte sono aperte da aprile a ottobre; da novembre a marzo solo su richiesta per gruppi organizzati e scuole. Confermare gli orari ai +39 338 5814482 (numero indicato su museionline)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per attività come speleo-avventura e visite guidate conviene prenotare; l'agriturismo Le chianine dei Tognoli a Fivizzano richiede la prenotazione del tavolo."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Senza auto la giornata non è fattibile in modo ragionevole: Equi Terme è in Lunigiana, fuori dalle linee ferroviarie principali."
+        }
+      ],
+      "note": "Per l'ultimo ingresso e gli orari esatti del 2026 chiamare prima: le fonti consultate non riportano il calendario annuale. In grotta fa fresco tutto l'anno, quindi portare una felpa anche in estate. Il percorso è stato reso senza barriere dopo i lavori del 2023, quindi è accessibile anche a chi ha difficoltà motorie. Dopo le grotte vale una sosta a Pontremoli per i testaroli, se si vuole allungare la giornata.",
+      "fonti": [
+        "https://www.visittuscany.com/it/attrazioni/geo-archeo-adventure-park-delle-grotte-di-equi/",
+        "https://www.museionline.info/toscana-musei-monumenti/grotte-di-equi-terme",
+        "https://www.lanazione.it/massa-carrara/cronaca/grotta-e-museo-senza-barriere-sotto-terra-arrivano-il-segnale-wi-fi-e-le-telecamere-per-la-sicurezza-c222219e",
+        "https://www.agriturismi.it/it/toscana/fivizzano/agriturismo_di_la_dall_acqua/ristorante",
+        "https://agriturismo.it/en/farmhouse/tuscany/massa-carrara/LechianinedeiTognoli-1031636/restaurant.html",
+        "https://www.scattidigusto.it/liguria-migliori-testaroli-pontremoli-osteria-san-francesco-lupo",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Fivizzano/",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Aulla/"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 44.1736,
+        "lon": 10.0997
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Grotta breve e senza barriere, con parco avventura per bambini; il viaggio in auto è però lungo per un bimbo di 4 anni."
       }
     },
     {
@@ -7676,6 +7993,100 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Il treno è breve e il museo è piccolo, ma la degustazione dura circa 2 ore tra cantine e adulti; per un bimbo di 4 anni conviene scegliere una cantina con spazio all'aperto."
+      }
+    },
+    {
+      "id": "san-benedetto-in-alpe-e-acquacheta-1g",
+      "nome": "San Benedetto in Alpe, la cascata dell'Acquacheta e Portico di Romagna",
+      "sottotitolo": "Emilia-Romagna, oltre il Passo del Muraglione: il borgo di Dante, la cascata dell'Inferno e un paese di pietra sul Montone",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria da Firenze lungo la SS 67 Tosco-Romagnola: Dicomano, San Godenzo, Passo del Muraglione (907 m) e discesa a San Benedetto in Alpe, circa 80 km per tratta. Senza auto non c'è un'alternativa comoda: la linea bus ATR 127 parte da Forlì e passa da Muraglione, San Benedetto e Portico, ma è pensata per i collegamenti locali.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h30 in auto (circa 80 km, strada di montagna con molte curve, stima da carta; nessuna fonte di tempo verificata)",
+      "durataViaggioMinuti": 90,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: la cascata è più ricca d'acqua in primavera e il clima è fresco; in estate il caldo allunga la fatica. In inverno il Muraglione può avere neve o ghiaccio e i tratti vicino alla cascata diventano scivolosi.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        12
+      ],
+      "costoMin": 31,
+      "costoMax": 41,
+      "costoNota": "Carburante calcolato con il parametro 0,129 €/km su circa 160 km A/R (km stimati, non verificati su una fonte): circa 21 € per la vettura, 10,50 € a persona in due. Nessun pedaggio sulla SS 67. Non ho trovato fonti verificate su parcheggio (in paese e a Passo della Peschiera non risultano tariffe, da controllare sul posto) né su ingressi: il sentiero e il borgo sono liberi. Pranzo 20-30 €: fascia della Beccona su Sluurpy, la guida stima 25-40 € per un pasto completo a Portico.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "L'Acquacheta è l'attrazione che occupa la giornata: tra andata e ritorno servono 6-7 ore di cammino (Komoot dà 16 km e circa 6 ore per l'anello classico, Montagna.tv 7 ore A/R con circa 750 m di dislivello). Restano il tempo per l'abbazia in rovina di San Benedetto, per un pranzo o una piadina e per fermarsi a Portico di Romagna, a pochi chilometri. Aggiungere altro significherebbe correre, e la guida in discesa verso Firenze va fatta con la luce.",
+      "cosaVedere": [
+        "Cascata dell'Acquacheta: un salto di circa 70 m (90 m totali) sul torrente Montone, citata da Dante nell'Inferno per il rombo dell'acqua; il fragore è massimo con l'acqua alta.",
+        "San Benedetto in Alpe: il borgo di partenza del sentiero, con la chiesa romanica e i resti del monastero benedettino che Dante conobbe.",
+        "Molino dei Romiti e bivacco Ca' del Rospo lungo il sentiero: il mulino dove secondo la tradizione Dante sostò e un vecchio riparo per gli attrezzi.",
+        "Lavane: la pozza sotto le cascate, popolare per un bagno in estate.",
+        "Ponte della Maestà e Borgo al Ponte a Portico di Romagna: ponte ad arco unico sul Montone con la pavimentazione originale.",
+        "Palazzo Portinari e Torre dell'orologio a Portico: legati a Folco Portinari, padre di Beatrice, e al vecchio castello."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "Circa 160 km A/R a 0,129 €/km, circa 21 € per la vettura. Nessun pedaggio sulla SS 67; km stimati.",
+          "min": 21,
+          "max": 21,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "20-30 € a persona: La Beccona a Portico (fascia indicata su Sluurpy); in trattoria con pasto completo la stessa guida stima 25-40 €.",
+          "min": 20,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Il carburante è della vettura e si divide per due (circa 10,50 € a testa); il pranzo è a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Si arriva solo in auto per la SS 67 dal Passo del Muraglione, strada di montagna con curve. Il sentiero inizia a San Benedetto in Alpe (CAI 429 e 555, o dal Passo della Peschiera); se il parcheggio è pieno si lascia l'auto lungo la strada."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il sentiero ha difficoltà E ma è lungo e a tratti scivoloso; le giornate corte da ottobre a febbraio vanno pianificate. Gli orari di locali come La Beccona vanno verificati: una recensione riporta chiusure in inverno."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione per il sentiero. Per il pranzo conviene chiamare prima: La Beccona 0543 967475."
+        }
+      ],
+      "note": "Parti presto: il tempo giusto è circa 3 ore all'andata (VisitTuscany) e altrettante al ritorno, più la sosta. Porta scarpe da trekking con buona suola, bastoncini per le salite ripide, acqua e giacca; il sentiero attraversa tratti rocciosi e boschi. Per un'alternativa breve il sito del paese consiglia l'itinerario di 4,5 km verso la cascata. Il Passo del Muraglione è anche una buona sosta panoramica all'andata.",
+      "fonti": [
+        "https://www.montagna.tv/226963/la-cascata-dellacquacheta/",
+        "https://www.komoot.com/it-it/smarttour/e987176383/la-cascata-dell-acquacheta-e-del-lavane-giro-ad-anello",
+        "https://www.visittuscany.com/it/attrazioni/cascata-dell-acquacheta/",
+        "https://italia.it/en/emilia-romagna/forli-cesena/cascata-dell-acquacheta",
+        "https://it.wikivoyage.org/wiki/Portico_di_Romagna",
+        "https://www.sluurpy.it/portico-di-romagna/ristorante",
+        "https://www.sluurpy.it/ristorante/portico-di-romagna/118714/la-beccona",
+        "https://www.visittuscany.com/it/itinerari/in-moto-verso-il-passo-del-muraglione/"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 44.0722,
+        "lon": 11.6772
+      },
+      "bambini": {
+        "adatta": "no",
+        "nota": "Sei o sette ore di cammino con 600-750 m di dislivello sono troppe per un bimbo di 4 anni; si può fare solo il borgo e Portico."
       }
     },
     {
@@ -15410,6 +15821,147 @@
       }
     },
     {
+      "id": "ivrea-aglie-e-il-canavese-2g",
+      "nome": "Ivrea, Agliè e il Canavese: Castello di Masino e la Serra morenica",
+      "sottotitolo": "Piemonte, la città Olivetti patrimonio Unesco e i castelli del Canavese ai piedi della Serra",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria: da Firenze circa 395 km (A1 fino a Bologna, poi A21/A4 verso Torino e A5 fino a Ivrea), 3h46 secondo il calcolo di percorso. In auto si raggiungono senza problemi Masino e Agliè, che col treno richiedono bus o taxi. Confronto: treno via Torino Porta Nuova e poi regionale per Ivrea, con cambio a Bologna o Milano; non ho trovato una tariffa verificata, quindi non è inserita nei costi.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h45 in auto (395 km, sola andata); in treno via Torino più lungo, con almeno due cambi.",
+      "durataViaggioMinuti": 226,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: il Castello di Masino è aperto dal 14 febbraio al 1° novembre con orario 10-18 e il parco è al meglio. A novembre-dicembre si visita con orario ridotto (10-17), mentre da metà dicembre a metà febbraio Masino non risulta aperto. A febbraio ci sono lo Storico Carnevale di Ivrea e la Battaglia delle arance, bellissimi ma affollati.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2
+      ],
+      "costoMin": 202,
+      "costoMax": 277,
+      "costoNota": "Due viaggiatori che condividono l'auto: carburante 0,129 €/km su 790 km A/R, pedaggio 38,40 € a tratta. Parcheggio non conteggiato: a Masino è gratuito nel parco, a Ivrea e Agliè non ho trovato una tariffa verificata.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Dall'Ivrea Olivetti ad Agliè e Masino le distanze sono di 15-25 km, quindi si dorme una notte a Ivrea e non si perde tempo negli spostamenti. Il primo giorno è dedicato alla città industriale Unesco (circa 2 km a piedi tra gli edifici Olivetti, più il castello e la cattedrale), il secondo ai due castelli, ciascuno da due ore circa, con una pausa nel parco di Masino. Con un solo giorno si dovrebbe tagliare o la città o un castello, con tre giorni si andrebbe verso Torino e la Serra con ritmo troppo rilassato. Il viaggio di 3h45 per tratta rende poco sensato il giornaliero.",
+      "cosaVedere": [
+        "Ivrea città industriale del XX secolo (Unesco): il percorso del MaAM, museo a cielo aperto di circa 2 km con 7 stazioni, porta tra fabbriche, uffici, case e servizi sociali che Olivetti costruì per i suoi lavoratori; è l'esempio italiano di fabbrica pensata per le persone.",
+        "Laboratorio-Museo Tecnologic@mente: macchine da scrivere e computer Olivetti,; vale per capire cosa si produceva in quegli edifici.",
+        "Castello di Ivrea e Duomo: il castello fu costruito nel 1358 da Amedeo VI di Savoia e usato come prigione dal 1750 al 1970; vicino sorge la cattedrale con mille anni di storia.",
+        "Castello e Parco di Masino a Caravino (FAI): residenza storica con un grande parco, nel Canavese ai piedi della Serra morenica.",
+        "Castello Ducale di Agliè: residenza sabauda con appartamenti reali e giardini; chiuso lunedì e martedì, è il luogo giusto per una mattinata di visita guidata.",
+        "Chiesa di San Bernardino: affreschi rinascimentali del Quattrocento, aperta al pubblico solo per eventi, quindi controllare prima il calendario."
+      ],
+      "itinerario": null,
+      "alloggio": "A Ivrea una camera doppia in B&B costa circa 89-90 € a notte (Il Tuchino in centro 89 €, B&B Cascina Moncrava in collina 90 €); i B&B nei dintorni (Viverone, Torre Canavese, Bollengo) partono da 60-85 €. Per gli hotel il prezzo medio a Ivrea è di circa 87 € a notte, con una fascia osservata da 51 a 126 €. Conviene dormire nel centro di Ivrea, dove si lascia l'auto e si cena a piedi.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "790 km A/R × 0,129 €/km, circa 102 €.",
+          "min": 102,
+          "max": 102,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi autostradali",
+          "testo": "38,40 € a tratta Firenze-Ivrea, 76,80 € A/R (classe A).",
+          "min": 77,
+          "max": 77,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Una notte in camera doppia, 60-90 € a camera (B&B a Ivrea 89-90 €, dintorni da 60 €): 30-45 € a persona.",
+          "min": 30,
+          "max": 45,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 10-20 € (La Gusteria, Alla Modina), cena in trattoria 20-40 € (Subrich 25, San Giovanni 30-40): 30-55 € al giorno a persona.",
+          "min": 30,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Castello e Parco di Masino",
+          "testo": "15 € intero (castello e parco), 21 € con visita guidata; gratuito fino a 5 anni, 8 € da 6 a 18 anni.",
+          "min": 15,
+          "max": 21,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Castello Ducale di Agliè",
+          "testo": "8 € intero, 2 € ridotto; gratuito sotto i 18 anni; biglietto da acquistare online.",
+          "min": 8,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Tecnologic@mente",
+          "testo": "10 € intero; facoltativo.",
+          "min": 0,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e sono divisi per due; alloggio, pasti e ingressi sono a persona. Il treno via Torino è solo un'alternativa e non è nei costi: non ho una tariffa verificata.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il Castello di Masino è aperto da mercoledì a domenica (10-18 fino al 1° novembre, 10-17 dal 4 novembre al 13 dicembre). Il Castello di Agliè chiude lunedì e martedì, aperto 9-13 e 14-18 da mercoledì a domenica: l'unico incrocio utile sono mercoledì-domenica."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Agliè richiede il biglietto acquistato in anticipo (museiitaliani.it); Masino vende i biglietti online su ticket.fondoambiente.it, con gruppi da almeno 20 persone su richiesta."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Il parcheggio nel parco di Masino è gratuito. A Ivrea e Agliè i centri hanno aree pedonali e ZTL: verificare con la struttura dove lasciare l'auto prima di arrivare."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "L'Ivrea UNESCO Visitor Centre apre 10-18 con prenotazione il martedì, mercoledì e giovedì; la guida di gruppo costa 40 €."
+        }
+      ],
+      "note": "Il fine settimana è il momento giusto: sabato mattina il Museo Tecnologic@mente è aperto 10-13 e 15-18, e domenica i due castelli sono entrambi aperti, evitando il lunedì-martedì di Agliè. Le Officine ICO si vedono solo dall'esterno, ma bastano per capire l'architettura della fabbrica. In inverno controllare gli orari di Masino, che chiude da metà dicembre a metà febbraio. Da non perdere la torta 900 e la zuppa di pane e cipolle tra i piatti del posto.",
+      "fonti": [
+        "https://www.fondoambiente.it/luoghi/castello-e-parco-di-masino/visita",
+        "https://abbonamentomusei.it/en/spazio_espositivo/castello-ducale-di-aglie/",
+        "https://www.bed-and-breakfast.it/en/ivrea?prezzo=1",
+        "https://www.momondo.it/hotel/ivrea",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Ivrea/",
+        "https://www.italia.it/it/piemonte/ivrea/cosa-fare/ivrea-citta-industriale-xx-secolo",
+        "https://www.travel365.it/cosa-vedere-ivrea.htm"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 45.4663,
+        "lon": 7.8737
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Masino è gratuito fino a 5 anni e ha un grande parco, ma il viaggio di 3h45 per tratta è lungo per un bimbo di 4 anni e la parte Olivetti è per adulti."
+      }
+    },
+    {
       "id": "jesi-fabriano-e-camerino-2g",
       "nome": "Jesi, Fabriano e Camerino",
       "sottotitolo": "Marche interne: Lotto a Jesi, la carta filigranata di Fabriano e il borgo universitario di Camerino",
@@ -16249,6 +16801,131 @@
         "https://www.conoscounposto.com/weekend-lago-maggiore-cosa-vedere-dove-mangiare-stresa-e-dintorni/"
       ],
       "aggiuntaIl": "2026-09-14"
+    },
+    {
+      "id": "lecco-e-la-valsassina-2g",
+      "nome": "Lecco, la Valsassina e il ramo orientale del Lario",
+      "sottotitolo": "Lombardia, il ramo di Lecco del lago di Como: città manzoniana, Varenna e le valli delle Grigne",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. a Milano Centrale (Frecciarossa o Italo, circa 1h50-2h), poi treno Trenord Milano Centrale-Lecco (circa 40 minuti, una corsa quasi ogni ora dalle 6:20 alle 21:20). Con Lecco come base, Varenna e Bellano si raggiungono in treno sulla linea per Sondrio. In alternativa auto propria via A1 e A4/A52 (circa 300 km a tratta), utile solo per la Valsassina interna.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 3h10 in media con Frecciarossa/Italo più regionale Trenord (Omio); il Trenord Milano-Lecco dura circa 40 minuti.",
+      "durataViaggioMinuti": 191,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: Castello di Vezio e giardini di Villa Monastero sono aperti e il lago è limpido. Luglio e agosto sono affollati e afosi; l'Orrido di Bellano a novembre ha orari ridotti.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8,
+        12,
+        1
+      ],
+      "costoMin": 165,
+      "costoMax": 334,
+      "costoNota": "Il tetto del treno (76 € A/R) è una stima prudente: la fonte verifica solo il minimo di circa 19 € a tratta. Alloggio e pasti sono moltiplicati per 2 giorni. Pedaggi autostradali e biglietto della funivia dei Piani di Bobbio non verificati, quindi esclusi.",
+      "dipendenzaAuto": "auto-opzionale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Lecco città è compatta: il lungolago, il ponte Azzone Visconti, Palazzo delle Paure e i luoghi manzoniani di Pescarenico occupano una mezza giornata. Il secondo giorno basta per il treno fino a Varenna (Villa Monastero, Castello di Vezio) e una sosta a Bellano per l'Orrido, con i passaggi in battello o treno tra le tappe. Con due notti si evita la corsa di una gita giornaliera e si lascia tempo per una passeggiata sul Sentiero del Viandante. La Valsassina interna (Barzio, Piani di Bobbio) richiede una terza giornata o l'auto.",
+      "cosaVedere": [
+        "Lungolago di Lecco e ponte Azzone Visconti (XIV secolo): passeggiata con vista sul Resegone, punto di partenza ideale.",
+        "Palazzo delle Paure e Torre Viscontea: esposizioni e Museo della Montagna e dell'Alpinismo Lecchese, utile per capire il rapporto della città con le Grigne.",
+        "Pescarenico e Villa Manzoni: i luoghi dei Promessi Sposi, con il Museo Manzoniano.",
+        "Varenna e Villa Monastero: vicoli sul lago e una villa con giardino botanico lungo circa 2 km sulla riva.",
+        "Castello di Vezio: rovina sulla collina sopra Varenna con vista a 360 gradi sul lago, raggiungibile a piedi in una ventina di minuti.",
+        "Orrido di Bellano: forra scavata dal Pioverna, percorsa su passerelle sospese a pochi metri dall'acqua.",
+        "Mandello del Lario: il Museo Moto Guzzi e il centro storico colorato, tappa per chi ama le moto."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte a Lecco in B&B o hotel 3 stelle costa circa 60-95 € per due (B&B in città a 95 € nel campione di Bedandbreakfast.it, 60-75 € nelle località vicine). Sul lago, a Lezzeno, i B&B salgono a 150-190 €. Dormire vicino alla stazione di Lecco o a Malgrate permette di muoversi in treno; la media degli hotel su Momondo è più alta (circa 90 € a gennaio, 187 € a dicembre).",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze-Lecco A/R",
+          "testo": "Da circa 19 € a tratta in Frecciarossa/Italo più regionale (Omio); stima 38-76 € A/R, più caro vicino alla partenza.",
+          "min": 38,
+          "max": 76,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto propria (confronto)",
+          "testo": "Circa 600 km A/R a 0,129 €/km: circa 77 € di carburante; pedaggi A1 e A4/A52 non verificati.",
+          "min": 77,
+          "max": 77,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "60-95 € a notte in B&B o 3 stelle per due (Lecco).",
+          "min": 30,
+          "max": 48,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo in pizzeria 10-20 €, cena in trattoria 20-45 € a persona.",
+          "min": 30,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Castello di Vezio 7 €, Orrido di Bellano 7 €, Villa Monastero casa museo e giardino 18 € intero.",
+          "min": 7,
+          "max": 32,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Con il treno tutte le voci sono a persona. L'auto, usata solo come confronto, è una voce di vettura da dividere per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il treno è sufficiente per Lecco, Mandello, Varenna e Bellano; la Valsassina interna e i Piani di Bobbio richiedono bus o auto. Il parcheggio alla funivia di Barzio costa circa 5 € al giorno."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La casa museo di Villa Monastero è chiusa martedì e mercoledì (10-17 negli altri giorni); il giardino è aperto ogni giorno 9:30-19:30. Il Castello di Vezio è aperto tutti i giorni dal 1° marzo al 1° dicembre, poi solo nei weekend con bel tempo. L'Orrido a novembre apre 10-17 nei feriali."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per Vezio e Orrido; i biglietti si comprano in loco, Vezio anche online. Prenotare l'alloggio con anticipo nei weekend estivi."
+        }
+      ],
+      "note": "Il treno per Varenna passa per Mandello e conviene scendere a Varenna-Esino per Villa Monastero, poi risalire a piedi al castello. Il biglietto cumulativo Orrido più Cà del Diavol costa 10 € nei feriali e 15 € nei festivi e ad agosto: solo l'Orrido costa 7 €. Verifica gli orari dei battelli di Navigazione Laghi se vuoi tornare a Lecco in barca. Con un bimbo piccolo meglio saltare il Sentiero del Viandante.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/lecco",
+        "https://www.trenord.it/linee-e-orari/tratte/milano-centrale-lecco/",
+        "https://www.momondo.it/hotel/lecco",
+        "https://www.bedandbreakfast.it/it/lecco/1",
+        "https://www.sluurpy.it/lecco/ristoranti",
+        "https://www.castellodivezio.it/EN/prices.html",
+        "https://abbonamentomusei.it/en/spazio_espositivo/villa-monastero-di-varenna/",
+        "https://travel.thewom.it/italia/lombardia/orrido-di-bellano.html",
+        "https://travel.thewom.it/italia/lombardia/lago-di-lecco.html",
+        "https://siviaggia.it/idee-di-viaggio/piani-bobbio-piste-sci-rifugi/315504/"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 45.856,
+        "lon": 9.397
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Lungolago, Vezio (gratis fino a 5 anni) e Orrido sono fattibili, ma passerelle sospese e salite a piedi richiedono attenzione con un bimbo di 4 anni."
+      }
     },
     {
       "id": "lione-2g",
@@ -17360,6 +18037,126 @@
       }
     },
     {
+      "id": "monza-e-la-brianza-2g",
+      "nome": "Monza, la Villa Reale e la Brianza dei laghi",
+      "sottotitolo": "Lombardia, la reggia neoclassica con il suo parco e i piccoli laghi morenici della Brianza",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno alta velocità (Frecciarossa/Italo) da Firenze S.M.N. a Milano Centrale in circa 1h55-2h05, poi treno regionale dalla stessa Milano Centrale a Monza (circa 11 km, mezz'ora scarsa con attesa). In auto sono circa 265 km per tratta via A1 e A4/A52: ha senso solo per raggiungere i laghi brianzoli, ma in centro a Monza c'è ZTL.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 2h50-3h porta a porta in treno (alta velocità fino a Milano più regionale per Monza); in auto circa 3h per 265 km a tratta.",
+      "durataViaggioMinuti": 180,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: il Parco si vive a piedi o in bici, i laghi sono limpidi e il caldo è sopportabile. Evitare luglio-agosto (afa padana, molte attività chiuse) e il weekend del Gran Premio d'Italia a settembre, quando alberghi e treni si riempiono e i prezzi salgono.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 133,
+      "costoMax": 358,
+      "costoNota": "Il treno regionale Milano Centrale-Monza (poche unità di euro a tratta) non è stato verificato su una fonte e non è incluso nelle voci. Il pernottamento è conteggiato per ogni giorno secondo la regola dell'app, quindi la stima è prudente. La forbice larga riflette la differenza tra biglietti alta velocità last minute e prenotati in anticipo.",
+      "dipendenzaAuto": "auto-opzionale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il centro di Monza è raccolto e si gira a piedi: Duomo, Arengario e Cappella Espiatoria stanno in mezza giornata. La Villa Reale con gli Appartamenti e i Giardini ne richiede un'altra, e il Parco (700 ettari, uno dei più grandi parchi recintati d'Europa) merita una passeggiata o un giro in bici senza fretta. Il secondo giorno resta libero per la Brianza dei laghi, tipo il lago di Pusiano e i laghetti vicini, con poche tappe e tempi tranquilli. Una giornata sola costringerebbe a scegliere; tre sarebbero troppe.",
+      "cosaVedere": [
+        "Villa Reale: la reggia neoclassica del Piermarini (1777-1780) voluta dagli Asburgo, con gli Appartamenti Reali, quelli Privati e il Belvedere, visitabili anche con biglietti separati.",
+        "Giardini Reali e Parco di Monza: un'enorme area verde recintata con ville, mulini e cascine, dove si cammina per ore all'ombra; l'autodromo è all'interno, a margine del percorso.",
+        "Duomo di Monza: facciata a fasce bianche e verdi e, al suo interno, la Corona Ferrea e la Cappella di Teodolinda affrescata dagli Zavattari.",
+        "Arengario e piazza Roma: il palazzo comunale medievale sospeso su archi, cuore civile della città, a pochi passi dal fiume Lambro.",
+        "Cappella Espiatoria: piccolo sacrario neogotico costruito dove fu ucciso Umberto I, tappa breve vicino ai giardini.",
+        "Lago di Pusiano e i laghi brianzoli: sponde tranquille e sentieri pianeggianti in un paesaggio morenico, per una mezza giornata fuori dalla città."
+      ],
+      "itinerario": null,
+      "alloggio": "Hotel a 3 stelle a Monza: da circa 44 € (B&B Hotel Milano-Monza, tariffa minima recente) a una media di 109 € a notte per camera doppia; a novembre i prezzi medi sono i più bassi, mentre a settembre (Gran Premio) salgono molto. Conviene dormire vicino alla stazione o in centro, dove si lascia l'auto e ci si sposta a piedi.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno alta velocità A/R",
+          "testo": "Firenze-Milano Centrale: da 12,45 € a tratta fino a circa 54,63 € (tariffa economica del giorno più alta nel campione), quindi 25-109 € A/R a seconda dell'anticipo. Durata 1h54-2h04.",
+          "min": 25,
+          "max": 109,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto propria (confronto)",
+          "testo": "Circa 530 km A/R (251 km Firenze-Milano più il tratto per Monza) a 0,129 €/km: circa 68 € di carburante; i pedaggi A1/A4 non sono stati verificati.",
+          "min": 68,
+          "max": 68,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingressi Villa Reale",
+          "testo": "Appartamenti Reali da 4 €, Privati da 5 €, combinato da 6 €; biglietto pieno Villa Reale 15 € (ridotto 12 €, gratuito sotto i 14 anni e con Abbonamento Musei Lombardia).",
+          "min": 4,
+          "max": 15,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "44-109 € a notte per una doppia in hotel 3 stelle, quindi 22-55 € a persona.",
+          "min": 22,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo in pizzeria 10-20 €; cena completa in trattoria 30-42 € a persona (ristoranti stellati molto più cari).",
+          "min": 30,
+          "max": 62,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Treno, ingressi, alloggio e pasti sono a persona; l'auto, usata solo come confronto, è una spesa della vettura divisa per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Monza ha una ZTL: con l'auto conviene lasciarla fuori e arrivare a piedi. Per i laghi brianzoli l'auto o un taxi aiutano, perché i mezzi pubblici sono radi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Nel periodo invernale la Villa Reale apre da mercoledì a venerdì 10-16 (ultimo ingresso 15) e nel weekend e nei festivi 10:30-18:30; lunedì e martedì risulta chiusa. Gli orari cambiano con le stagioni: controllare prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Si consiglia l'acquisto online dei biglietti della Villa Reale, soprattutto nei weekend e durante mostre ed eventi. Prenotare con anticipo anche i treni alta velocità per avere le tariffe basse."
+        }
+      ],
+      "note": "Conviene organizzare il viaggio in modo che la Villa Reale cada tra mercoledì e domenica, altrimenti si trova chiuso. Il Parco ha molti ingressi: chi arriva in treno entra dal lato della stazione e attraversa a piedi il tratto fino alla Villa. Per i laghi della Brianza meglio scegliere una mattina limpida e portare un pranzo al sacco o fermarsi in una trattoria di paese, dove si spende meno che a Monza. Chi vuole risparmiare può prendere un regionale lento ma più economico da Firenze a Milano, mettendo in conto parecchie ore in più.",
+      "fonti": [
+        "https://www.momondo.it/hotel/monza",
+        "https://www.sluurpy.it/monza/ristoranti",
+        "https://it.trip.com/treni/italia/viaggio/milano-centrale-firenze/",
+        "https://www.omio.it/treni/firenze/milano-lambrate-m2m3s",
+        "https://reggiadimonza.it/wp-content/uploads/2025/12/C.S.-Nuovo-Piano-Tariffe-Villa-Reale_-17-Dicembre-2025.pdf",
+        "https://turismo.monza.it/en/events/villa-reale-26476",
+        "https://www.scattidigusto.it/il-circolino-monza-ristorante-menu-prezzi",
+        "https://www.trenitalia.com/it/regionale/lombardia/biglietterie-in-lombardia.html"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 45.5845,
+        "lon": 9.2744
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Il Parco è enorme e pianeggiante, ideale per un bimbo di 4 anni; la Villa Reale è gratuita sotto i 14 anni."
+      }
+    },
+    {
       "id": "nuoro-orgosolo-e-il-supramonte-2g",
       "nome": "Nuoro, Orgosolo e il Supramonte",
       "sottotitolo": "Sardegna centrale, Barbagia: murales, maschere di Mamoiada, sorgenti e gole del Supramonte",
@@ -18222,6 +19019,125 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Città a misura di passeggino con castello e lungomare, ma il volo e le terrazze della cattedrale (vietate sotto i 9 anni) pesano con un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "parco-del-circeo-e-giardino-di-ninfa-2g",
+      "nome": "Parco del Circeo e Giardino di Ninfa: Sabaudia, San Felice Circeo, Terracina e Sermoneta",
+      "sottotitolo": "Lazio, tra dune, promontorio del Circeo, città pontine e il giardino romantico di Ninfa",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria da Firenze: A1 fino all'area di Roma e poi verso sud-est fino a Sabaudia (circa 377 km, 3h36 secondo Unipol Move). L'auto serve anche sul posto: Sabaudia, San Felice, Terracina e Sermoneta/Ninfa distano tra loro 15-40 km e i collegamenti pubblici sono scarsi.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h40-4h15 in auto (377-382 km, quasi tutti sull'A1), a seconda del traffico intorno a Roma.",
+      "durataViaggioMinuti": 216,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: Ninfa è in fioritura e il mare e le dune sono godibili senza folla. Il Giardino di Ninfa apre solo da marzo a inizio novembre, nei fine settimana e nei festivi.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 182,
+      "costoMax": 341,
+      "costoNota": "Alloggio e hotel: prezzi Booking.com in dollari (da circa 67 a 160 USD a notte per due), convertiti in euro con cambio indicativo di 0,86. Costo a persona con 2 viaggiatori: vettura divisa per due. Parcheggi non inclusi (non verificati).",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le quattro tappe stanno in un raggio di circa 40 km: un giorno copre Sabaudia e il promontorio di San Felice con il centro storico e il tratto di costa, il secondo Terracina e poi Sermoneta e il Giardino di Ninfa, che ha ingressi contingentati e richiede 1,5-2 ore di visita. Con una sola notte si evita di fare 750 km in giornata, ma restano pochi margini: serve un weekend di apertura di Ninfa e non c'è spazio per altre tappe.",
+      "cosaVedere": [
+        "Giardino di Ninfa: rovine medievali sommerse da rose, ciliegi e piante rampicanti lungo un fiumiciattolo, ingresso solo con visita guidata a gruppi e posti contingentati.",
+        "Sermoneta: borgo medievale a pochi km da Ninfa, con il Castello Caetani e le mura ben conservate, ideale per il pranzo.",
+        "Sabaudia: città razionalista fondata negli anni Trenta, con piazza del Comune, torre civica e il lago di Paola sul quale si affaccia.",
+        "Promontorio del Circeo a San Felice Circeo: sentieri nel Parco Nazionale con viste sul golfo, la Torre Paola e il centro storico ai piedi della rocca.",
+        "Terracina: il Tempio di Giove Anxur in cima al colle, la Cattedrale con il foro romano e il lungomare.",
+        "Dune di Sabaudia e Lago di Paola: spiaggia selvaggia a ridosso del Parco, lunga passeggiata tra duna e macchia mediterranea."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte tra Sabaudia e San Felice Circeo. Su Booking.com i B&B partono da circa 67-90 USD (circa 57-77 €) a camera doppia per le strutture più semplici e arrivano a circa 160 USD (circa 138 €) per le migliori, quindi 57-138 € per due, cioè 29-69 € a persona per una notte con colazione. Sabaudia è più economica; San Felice è più comoda per il promontorio.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Circa 885 km totali (377 km di andata, 377 di ritorno, circa 130 km tra le tappe) a 0,129 €/km: circa 114 €.",
+          "min": 114,
+          "max": 114,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A1",
+          "testo": "24,30 € a tratta secondo Unipol Move, quindi circa 48,60 € A/R.",
+          "min": 48.6,
+          "max": 48.6,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Giardino di Ninfa - biglietto",
+          "testo": "15,75 € l'ingresso standard, 20,75 € nelle sessioni al tramonto (visite serali venerdì-domenica dal 3 luglio al 30 agosto 2026).",
+          "min": 16,
+          "max": 21,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "57-138 € a notte per due in B&B (da circa 67 a 160 USD su Booking.com), una notte: 29-69 € a persona.",
+          "min": 29,
+          "max": 69,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 12-28 € (pizza, fritto di pesce, pizzeria sul mare), cena 16-50 €: pesce a San Felice 35-50 € a persona a cena.",
+          "min": 28,
+          "max": 85,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e si dividono per due; biglietto di Ninfa, alloggio e pasti sono a persona. L'alloggio è per una notte, non moltiplicato.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il Giardino di Ninfa nel 2026 ha aperto dal 21 marzo all'8 novembre, solo nei fine settimana e nei festivi: la scheda va ricontrollata per il 2027 sul sito della Fondazione. Con la data odierna (18 novembre 2026) i cancelli sono chiusi, salvo aperture straordinarie (come l'8 dicembre nel 2025)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Gli ingressi a Ninfa sono contingentati e vanno prenotati in anticipo sul portale della Fondazione, soprattutto nei ponti di aprile e maggio."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Auto necessaria tra le tappe. Parcheggi non verificati: in alta stagione a San Felice e Sabaudia sul mare i parcheggi si riempiono presto, meglio arrivare di mattina."
+        }
+      ],
+      "note": "Concentra Ninfa nella mattina del secondo giorno, appena aperti, quando c'è meno gente, e sali a Sermoneta per pranzo. Il pesce migliore a San Felice è nei locali sul porto: prenota la cena. Il viaggio di ritorno da Sermoneta a Firenze è di circa 4 ore: parti entro le 15 per evitare il traffico della domenica sera sull'A1.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Sabaudia/",
+        "https://distanzechilometriche.net/firenze-sabaudia/",
+        "https://www.sportoutdoor24.it/news/giardino-di-ninfa-calendario-prezzi-2026-lazio/",
+        "https://www.giardinodininfa.eu/en/products/sabato-10-ottobre-2026-giardino-di-ninfa",
+        "https://www.booking.com/bed-and-breakfast/city/it/sabaudia.html?aid=813495",
+        "https://www.voloscontato.it/ristoranti/san-felice-circeo-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.sluurpy.it/san-felice-circeo"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 41.29,
+        "lon": 13.03
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Spiaggia e dune piacciono a un bimbo di 4 anni, ma il viaggio è lungo e Ninfa richiede una visita guidata a piedi di circa un'ora e mezza."
       }
     },
     {
@@ -21762,6 +22678,128 @@
       }
     },
     {
+      "id": "vercelli-novara-e-le-risaie-2g",
+      "nome": "Vercelli, Novara e le risaie",
+      "sottotitolo": "Piemonte orientale, due città del riso tra gotico, cupola antonelliana e distese d'acqua",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. con cambio a Milano (Frecciarossa o Intercity fino a Milano, poi Regionale per Vercelli), oppure via Bologna. Non esiste un diretto: si contano da 1 a 2 cambi. Tra Vercelli e Novara si usa il Regionale, che passa spesso. In auto sono 392 km per tratta, circa 3h45.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Da 2h48 a 3h06 con la combinazione più veloce, circa 4h25 di media con i cambi; in auto 3h45 (392 km).",
+      "durataViaggioMinuti": 270,
+      "periodoMiglioreTesto": "Fine aprile-inizio maggio, quando le risaie sono allagate e riflettono il cielo come una scacchiera; settembre-ottobre per la raccolta e il riso nuovo. Evitare luglio-agosto (caldo umido, zanzare) e gennaio (nebbia fitta).",
+      "mesi": [
+        4,
+        5,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        7,
+        8
+      ],
+      "costoMin": 161,
+      "costoMax": 358,
+      "costoNota": "Totale a persona con 2 viaggiatori, 1 notte. La fascia larga dipende dal prezzo del treno (da 31 € a tratta con Regionale/Intercity, media 60 €) e da quanto si spende a tavola.",
+      "dipendenzaAuto": "auto-opzionale",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Vercelli ha un centro di poche vie a portici: Sant'Andrea, il Duomo con la Biblioteca Capitolare, il Museo Borgogna e il Museo Leone riempiono bene un giorno. Il secondo giorno va a Novara, a mezz'ora di Regionale, per la cupola di San Gaudenzio, il Broletto e il centro. Il viaggio da Firenze costa quasi mezza giornata per tratta, quindi una sola giornata sarebbe di corsa. Con una notte a Vercelli resta anche il tempo per un'uscita in bicicletta tra le risaie.",
+      "cosaVedere": [
+        "Basilica di Sant'Andrea a Vercelli (1219-1227): uno dei primi esempi di gotico in Italia, con un chiostro tranquillo.",
+        "Duomo di Sant'Eusebio e Biblioteca Capitolare: custodisce il Codice Vercellese, manoscritto del X secolo in inglese antico.",
+        "Museo Borgogna: museo-casa con dipinti italiani e fiamminghi, comodo da visitare a piedi dal centro.",
+        "Museo Leone: raccolta storica e artistica in un complesso di edifici del centro, aperto solo il pomeriggio nei giorni feriali.",
+        "Piazza Cavour e Torre dell'Angelo: il cuore medievale di Vercelli con i portici, per il caffè e la passeggiata serale.",
+        "Basilica di San Gaudenzio a Novara: la cupola dell'Antonelli domina la città, ingresso libero e circa 30 minuti di visita.",
+        "Broletto di Novara: cortile sempre accessibile e Galleria d'Arte Moderna al suo interno.",
+        "Risaie e Principato di Lucedio: abbazia cistercense del 1123, dove si iniziò a coltivare il riso, raggiungibile in bici o auto."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte a Vercelli in centro. Gli hotel in zona vanno da 64 a 127 € a notte per camera doppia, media 84 €, con giugno a 66 € e luglio a 120 €. I B&B nei dintorni (Santhià, Novara) partono da circa 50-80 € a notte per due.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R Firenze-Vercelli",
+          "testo": "Da 31 € a tratta con Regionale o Intercity, media circa 60 € (Frecciarossa da 48 €); A/R 62-120 € a persona.",
+          "min": 62,
+          "max": 120,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio, 1 notte",
+          "testo": "64-127 € a notte per due in hotel, cioè 32-64 € a persona.",
+          "min": 32,
+          "max": 64,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo e cena: 15-20 € in locale economico, 25-40 € in trattoria con bevande.",
+          "min": 30,
+          "max": 80,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Museo Leone 9 € (ridotto 7 €), Galleria d'Arte Moderna al Broletto 5 €; Sant'Andrea e San Gaudenzio gratuiti o quasi.",
+          "min": 7,
+          "max": 14,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto propria (confronto)",
+          "testo": "392 km per tratta: 784 km A/R a 0,129 €/km sono circa 101 € di carburante, più 34,60 € di pedaggio per tratta (69,20 € A/R); circa 170 € per la vettura.",
+          "min": 170,
+          "max": 170,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Treno, alloggio (diviso per due), pasti e ingressi sono a persona. L'auto, usata solo come confronto, è un costo della vettura da dividere per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Vercelli e quello di Novara sono vicini alle stazioni e si girano a piedi. Il Castello Visconteo di Novara di solito non è visitabile all'interno, se non durante mostre."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Museo Leone è chiuso il lunedì; martedì-venerdì apre 15:00-17:30, sabato e domenica 10:30-12:30 e 14:30-17:30. San Gaudenzio è aperto 8-12 e 14:30-19."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per le visite principali; i prezzi dei treni variano di giorno in giorno, quindi conviene prenotare con anticipo."
+        }
+      ],
+      "note": "Organizzare il giorno a Vercelli tra martedì e domenica per trovare il Museo Leone aperto, meglio nel fine settimana. Per le risaie bastano la bici e qualche ora: da fine aprile ai primi di maggio, con i campi allagati, è il momento più bello. Il piatto da provare è la panissa vercellese, a base di riso e fagioli.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze-santa-maria-novella/vercelli-4x5uf",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Vercelli/",
+        "https://www.momondo.it/hotel/vercelli",
+        "https://www.bed-and-breakfast.it/en/budget-bb-vercelli",
+        "https://abbonamentomusei.it/en/spazio_espositivo/museo-leone/",
+        "https://www.sluurpy.it/vercelli/trattoria",
+        "https://www.travel365.it/novara-cosa-vedere.htm",
+        "https://travel.thewom.it/italia/piemonte/vercelli/vercelli-cosa-vedere.html"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 45.3203,
+        "lon": 8.4189
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il viaggio in treno con cambi è lungo per un bimbo di 4 anni; le risaie in bici e il centro a piedi sono piacevoli, i musei meno."
+      }
+    },
+    {
       "id": "versilia-e-alpi-apuane-2g",
       "nome": "Versilia e Alpi Apuane: Pietrasanta, Forte dei Marmi, Carrara e Colonnata",
       "sottotitolo": "Toscana, un weekend con una notte tra mare, botteghe di scultori e cave di marmo",
@@ -23137,6 +24175,198 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Per un bimbo di 4 anni il parco di Kalemegdan è comodo, ma il volo serale e le visite guidate di 45 minuti nei musei sono pesanti."
+      }
+    },
+    {
+      "id": "bergamo-brescia-e-franciacorta-3g",
+      "nome": "Bergamo, Brescia e la Franciacorta in tre giorni",
+      "sottotitolo": "Lombardia orientale, due città capitali della cultura 2023 e le colline del metodo classico fra i due capoluoghi",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Treno diretto Frecciarossa o Italo da Firenze S.M.N. a Brescia (circa 2h25, poche corse dirette al giorno), poi base a Brescia. Per Bergamo si usa il regionale Brescia–Bergamo (circa un'ora, 6–7 € a tratta); per la Franciacorta serve una soluzione locale (taxi o noleggio con conducente, bici, cantina con navetta) oppure l'auto propria, che però va confrontata con il treno.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 2h25 in treno diretto Firenze–Brescia (3h30 porta a porta con trasferimenti, secondo Omio); in auto il sito stima circa 3h con 65 € di carburante e pedaggi.",
+      "durataViaggioMinuti": 170,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre: clima mite per Città Alta e le colline, e in Franciacorta è la stagione consigliata (a settembre c'è il Festival Franciacorta in Cantina, a giugno il Summer Festival). Luglio e agosto sono caldi e afosi nella pianura lombarda.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 247,
+      "costoMax": 518,
+      "costoNota": "Il totale comprende treni (anche Brescia–Iseo), ingressi, una degustazione in cantina, 2 notti di alloggio e i pasti (35–65 € al giorno a persona, per 3 giorni; il pranzo in cantina da 39 € può sostituire un pranzo). Il costo di taxi, NCC o bici in Franciacorta non è incluso. La fascia dell'alloggio a Brescia è indicativa, ricavata dai dati di Bergamo.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Tre giorni danno un ritmo da viaggio e non da corsa: un giorno intero a Brescia (Santa Giulia, area romana del Capitolium, Piazza della Loggia e il Castello sul colle Cidneo bastano a riempire una giornata senza fretta), un giorno dedicato alla Franciacorta con una o due cantine e un pranzo lento, e un giorno a Bergamo, dove Città Alta si gira a piedi in poche ore e resta tempo per l'Accademia Carrara in Città Bassa. Le distanze interne sono piccole: Brescia–Bergamo è circa un'ora di regionale, e la Franciacorta è a mezz'ora dalla città. In due giorni si dovrebbe sacrificare una delle tre anime del viaggio; in quattro la Franciacorta senza auto rischierebbe di diventare ripetitiva.",
+      "cosaVedere": [
+        "Museo di Santa Giulia a Brescia: complesso monastico di oltre 14.000 m² con domus romane e mosaici, affreschi rinascimentali e archi medievali, tra i musei più ricchi della Lombardia.",
+        "Capitolium e Teatro Romano di Brescia: il tempio fatto costruire da Vespasiano nel 73 d.C. custodisce la Vittoria Alata in un allestimento di luce firmato da Juan Navarro Baldeweg.",
+        "Piazza della Loggia e i due Duomi di Brescia: la piazza civica rinascimentale con la torre dell'orologio, accanto al Duomo Vecchio, rotondo e romanico, e al Duomo Nuovo seicentesco.",
+        "Castello di Brescia sul colle Cidneo: fortezza medievale con panorama sui tetti della città e sulle colline prealpine.",
+        "Franciacorta: colline fra il lago d'Iseo, il Monte Orfano e il Monte Alto, con cantine che fanno visita e degustazione del DOCG metodo classico (Erbusco, Adro, Capriolo, Corte Franca) e la riserva delle Torbiere del Sebino.",
+        "Città Alta di Bergamo: Piazza Vecchia, la Basilica di Santa Maria Maggiore, la Cappella Colleoni (gratuita) e il Campanone, tutto dentro le mura venete.",
+        "Accademia Carrara a Bergamo: pinacoteca in Città Bassa con ingresso a 10 €, ottima per mezza giornata.",
+        "Funicolare per Città Alta: si prende con lo stesso biglietto del bus (1,30 € a corsa) e vale da sola il percorso."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Brescia. Frecciarossa o Italo la mattina presto da Firenze, arrivo a Brescia per le 10:30 circa e valigie in hotel. Con il biglietto integrato (19 €) si visita il Museo di Santa Giulia (ultimo ingresso 17:15 in inverno) e l'area romana con Capitolium, Teatro e Vittoria Alata. Il pomeriggio si sale al Castello sul colle Cidneo per il panorama e si scende a Piazza della Loggia e ai due Duomi. A cena casoncelli alla bresciana e un pirlo come aperitivo."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Franciacorta. Giornata sulle colline del Franciacorta DOCG: si raggiunge la zona di Iseo/Erbusco con l'opzione più pratica (taxi o NCC prenotato, o una cantina con navetta; l'auto propria semplifica tutto). Mattina con visita e degustazione in una cantina prenotata (da circa 12–40 € a persona), pranzo in cantina o in agriturismo (le formule con pranzo partono da 39 €), pomeriggio in una seconda cantina o alla riserva delle Torbiere del Sebino. Rientro a Brescia per cena."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Bergamo. Regionale Brescia–Bergamo in circa un'ora; funicolare a Città Alta e giro a piedi fra Piazza Vecchia, Cappella Colleoni, Basilica di Santa Maria Maggiore e Campanone. Pranzo in Città Alta, poi discesa in Città Bassa per l'Accademia Carrara. Rientro a Brescia e Frecciarossa/Italo serale per Firenze (verificare l'ultimo diretto)."
+        }
+      ],
+      "alloggio": "Base a Brescia, vicino alla stazione o in centro, per due notti. Sul fronte Bergamo le fonti consultate indicano per B&B e pensioni circa 26–106 € a notte (media del campione intorno a 56 €) e per gli hotel prezzi di partenza di 40–55 €, con una media di circa 142 € a notte; novembre risulta il mese più economico e settembre il più caro. Per Brescia non ho trovato una fonte di prezzi verificata: la fascia usata nel conteggio (28–70 € a persona a notte, cioè 56–140 € a camera doppia) è ricavata dai dati di Bergamo e va considerata indicativa.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze–Brescia A/R",
+          "testo": "Frecciarossa/Italo diretti, 2h24–2h28. Da 15,90 € (Italo) a 59 € a tratta; tipico 32–39 € a tratta. Stima A/R 32–78 € prenotando con anticipo.",
+          "min": 32,
+          "max": 78,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Brescia–Bergamo A/R",
+          "testo": "Regionale, 6–7 € a tratta, circa un'ora.",
+          "min": 12,
+          "max": 14,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Brescia: biglietto integrato musei e area romana",
+          "testo": "19 € intero (Santa Giulia, area romana con Capitolium e Vittoria Alata, altri musei civici); 16 € over 65 e abbonati, 12 € under 26. Valido fino al 22 agosto 2027.",
+          "min": 12,
+          "max": 19,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Bergamo: ingressi",
+          "testo": "Accademia Carrara 10 € (8 € ridotto), Basilica di Santa Maria Maggiore 5 €, Campanone 5 €; Cappella Colleoni e Duomo gratuiti.",
+          "min": 8,
+          "max": 20,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Bergamo: funicolare Città Alta A/R",
+          "testo": "1,30 € a corsa con il biglietto bus urbano.",
+          "min": 3,
+          "max": 3,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Franciacorta: visita e degustazione in cantina",
+          "testo": "Da circa 12 € (Ricci Curbastro, visita classica) fino a 40 € (Tenuta Ambrosini); formule con pranzo da 39 € fino a 75 € in agriturismo.",
+          "min": 12,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Brescia–Iseo A/R (Trenord)",
+          "testo": "Regionale/Regionale Veloce, circa 30 minuti (23–36), circa 3,30–4,31 € a tratta secondo Virail; A/R circa 7–9 €. Da Iseo servono comunque taxi/NCC o bici per le cantine.",
+          "min": 7,
+          "max": 9,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti a Brescia)",
+          "testo": "Indicativo: 56–140 € a camera doppia a notte, cioè 28–70 € a persona a notte, 56–140 € a persona per le due notti.",
+          "min": 56,
+          "max": 140,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo e cena a persona. Bergamo: casoncelli 10 €, polenta taragna da 6 €; scontrino medio 15 € (Osteria della Dogana, menu fisso a pranzo 10 €), 20 € (Trattoria del Teatro, Parietti), 25 € (La Colombina, Ol Giopì), 30 € (Cozzi). Brescia: Trattoria Mezzeria 30–35 € per due portate escluse bevande; Trattoria Vantini menu di lavoro a pranzo circa 13 € e cena circa 35 € secondo recensioni. Fascia giornaliera: minimo pranzo 15 + cena 20, massimo pranzo 30 + cena 35.",
+          "min": 35,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Auto propria A/R (confronto)",
+          "testo": "Omio indica circa 212 km di distanza, 3h07 porta a porta e un costo medio di 65 € tra carburante e pedaggi (non specifica se per tratta: qui cautelativamente 130 € A/R per vettura). A questo si aggiunge il parcheggio, non verificato.",
+          "min": 130,
+          "max": 130,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Treni, ingressi, degustazioni e alloggio sono a persona. L'auto propria è la sola voce di vettura e va divisa per due: serve solo come confronto con il treno e non entra nel totale.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "In Franciacorta senza auto gli spostamenti sono il punto debole: le cantine sono sparse sulle colline. Prevedere taxi o NCC prenotato in anticipo, o scegliere cantine con navetta o raggiungibili in bici (esistono cinque percorsi ciclabili segnalati)."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "A Bergamo la Città Alta si raggiunge con la funicolare (biglietto bus da 1,30 €); in auto sono presenti limitazioni di accesso nel centro storico, quindi conviene arrivare in treno."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Evitare il lunedì: il Museo di Santa Giulia è chiuso, così come Cappella Colleoni e Campanone a Bergamo. Il martedì l'Accademia Carrara apre solo 9–13 e il Palazzo della Ragione è chiuso. Santa Giulia in inverno (1 ottobre–31 maggio) apre 10–18 con ultimo ingresso alle 17:15."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Le degustazioni in Franciacorta si prenotano online per data e orario (cancellazione spesso gratuita fino al giorno prima). Italo e Frecciarossa diretti per Brescia sono poche corse al giorno (circa 4–5): prenotare in anticipo per i prezzi più bassi."
+        }
+      ],
+      "note": "Il biglietto integrato di Brescia è valido fino al 22 agosto 2027, quindi si può spezzare tra mattina e pomeriggio senza fretta. A Bergamo il biglietto del bus urbano (1,30 €) vale anche per la funicolare, cosa che molti non sanno. Il giorno ideale per la Franciacorta è un mercoledì o un giovedì, quando le cantine hanno meno gruppi. Se si ha l'auto, il viaggio diventa più semplice ma Brescia e Bergamo hanno ZTL e parcheggi da pianificare: meglio lasciare l'auto in un parcheggio periferico. I prezzi dei pasti possono cambiare: controllarli prima di prenotare. Il Brescia–Iseo dura circa 30 minuti; verificare gli orari su Trenord.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/brescia",
+        "https://www.kombo.co/it/treno-Brescia-Firenze",
+        "https://www.omio.it/treni/brescia/bergamo",
+        "https://www.omio.it/viaggi/brescia/firenze",
+        "https://www.holidu.it/f/bnb-pensione-bergamo-italia",
+        "https://www.momondo.it/hotel/bergamo",
+        "https://www.bresciamusei.com/en/museums-and-venues/santa-giulia-museum/",
+        "https://www.travel365.it/bergamo-cosa-vedere.htm",
+        "https://www.visititaly.eu/it/luoghi-e-itinerari/cosa-vedere-a-brescia",
+        "https://www.holidoit.com/degustazioni-franciacorta",
+        "https://www.winedering.com/it/guided-tour-and-classic-tasting-at-ricci-curbastro-winery_d933_travel",
+        "https://travel.thewom.it/italia/lombardia/brescia/strada-del-franciacorta.html",
+        "https://www.travel365.it/bergamo-dove-mangiare.htm",
+        "https://www.bresciaatavola.it/en/restaurants/trattoria-mezzeria-brescia/",
+        "https://pos.do/it/brescia/ristorante/trattoria-vantini",
+        "https://virail.it/treni-brescia-iseo"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 45.5416,
+        "lon": 10.2118
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Castello di Brescia, funicolare e Città Alta vanno bene con un bimbo di 4 anni, ma il giorno di degustazioni in Franciacorta è poco adatto e ci sono molti spostamenti in treno."
       }
     },
     {
@@ -37204,6 +38434,143 @@
       }
     },
     {
+      "id": "ticino-in-tre-giorni-3g",
+      "nome": "Ticino in tre giorni: Lugano, Locarno, Bellinzona e la Valle Verzasca",
+      "sottotitolo": "Svizzera italiana, laghi, castelli UNESCO e una valle di acque smeraldo a poche ore da Milano",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. a Lugano via Milano Centrale (Frecciarossa/Italo fino a Milano, poi EuroCity/TILO per Lugano): circa 3h35-3h45 stazione a stazione, con circa 165 corse settimanali. Esiste anche un EuroCity diretto Firenze-Lugano delle 7:50 ma impiega 5h38. Poi si resta senza auto: Lugano-Bellinzona-Locarno in treno e la Valle Verzasca con l'autopostale da Locarno. Dormendo in una struttura aderente si riceve il Ticino Ticket, che rende gratuiti i trasporti pubblici del cantone (treni solo fino al confine di Stato).",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 3h35-3h45 in treno da Firenze a Lugano via Milano (porta a porta circa 4 ore); in auto circa 375 km e 3h45 secondo Rome2rio.",
+      "durataViaggioMinuti": 240,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: clima mite, castelli di Bellinzona aperti tutti i giorni (la stagione 2027 è annunciata dal 19 marzo al 7 novembre) e valle meno assalita che in estate. Luglio e agosto sono i mesi più cari e la linea autopostale della Verzasca è segnalata come molto affollata; novembre è invece il mese più economico per gli hotel, ma con castelli chiusi.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 306,
+      "costoMax": 681,
+      "costoNota": "Totale a persona con 2 viaggiatori: treno A/R (raddoppio del prezzo a tratta 39-84 € di Omio), 2 notti di alloggio (18-48 € al giorno a persona su 3 giorni), Fortezza Pass (28 CHF, circa 30 €) e pasti (48-113 € al giorno a persona, per 3 giorni). Conversione indicativa 1 CHF = 1,07 €. I prezzi dei pasti vengono da menu online di ristoranti di Locarno e Lugano che non riportano l'anno: sono fasce indicative, non tariffe 2026 certificate; per Bellinzona non ho trovato prezzi. Con il Ticino Ticket i trasporti locali sono gratuiti; senza, non ho prezzi verificati per treni/autopostale/battelli locali. L'auto è solo confronto e non entra nel totale.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Tre giorni bastano per tre blocchi senza correre: Lugano e il suo lago (centro, funicolare, battello), Bellinzona con i tre castelli UNESCO più Locarno, e una mattinata intera in Valle Verzasca. Le distanze interne sono piccole: da Gordola alla diga ci sono 3,7 km e circa 10 minuti, a Lavertezzo 25 minuti e a Sonogno circa un'ora di strada; i treni tra Lugano, Bellinzona e Locarno collegano le tappe in tempi brevi. Con due notti si evita la fretta, ma il viaggio da Firenze porta via circa quattro ore per tratta: il primo e l'ultimo giorno sono parziali.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza presto da Firenze S.M.N. via Milano e arrivo a Lugano a metà mattina. Si passeggia nel centro e sul lungolago, poi si sale in funicolare al Monte Brè o al Monte San Salvatore per la vista sul Ceresio (il Ticino Ticket dà sconti del 30% sul Brè e del 20% sul San Salvatore) e, con il tempo che resta, si fa un giro in battello (sconto 20% con il Ticket). Pernottamento a Lugano, possibilmente in una struttura aderente al Ticino Ticket."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: in treno a Bellinzona per visitare Castelgrande, Montebello e Sasso Corbaro, sito UNESCO: il Fortezza Pass costa da 28 CHF e include anche i musei e le mostre temporanee. Dopo pranzo si prosegue per Locarno, con il lungolago e la piazza Grande, e ci si sposta in vista del giorno dopo. Pernottamento a Locarno, dove gli alloggi costano meno che a Lugano."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: autopostale da Locarno verso la Valle Verzasca (fermate Diga Verzasca, Lavertezzo Paese per il Ponte dei Salti e Sonogno per il museo della valle). Il percorso a piedi consigliato è un tratto del Sentiero Verzasca n. 74, antica mulattiera dalla diga a Sonogno, facile e interrompibile alle fermate dell'autopostale. Rientro a Locarno e treno via Bellinzona e Milano verso Firenze, con arrivo serale: conviene lasciare buon margine per le coincidenze."
+        }
+      ],
+      "alloggio": "Fasce a notte, per camera doppia e convertite in euro, da fonti di prenotazione consultate: a Lugano un 3 stelle come l'Ibis Lugano Paradiso ha una tariffa media di 144 € a notte (Logitravel); a Locarno la camera più economica trovata è di 53 € in un 2 stelle (EasyRooms dell'Angelo, Momondo), mentre l'Ostello Palagiovani chiede 45-150 CHF (circa 48-160 €) e il Locarno Youth Hostel parte da 48 CHF (circa 51 €) per le camere. Quindi circa 53-144 € a notte per due, cioè 27-72 € a persona. Consiglio: una notte a Lugano e una a Locarno, e scegliere una struttura tra le oltre 500 aderenti al Ticino Ticket per avere i trasporti gratuiti. I dati di Momondo sono incoerenti tra sezioni della stessa pagina (media indicata sia 258 che 263 €): verificare le date reali prima di prenotare.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R Firenze-Lugano",
+          "testo": "Omio indica 39-84 € a tratta per Firenze-Lugano (corsa più economica da 39 €, il massimo visto 84 €): A/R ottenuto raddoppiando i prezzi, quindi 78-168 € a persona. Rome2rio dà 63-151 USD per la corsa via Milano, dato non convertito.",
+          "min": 78,
+          "max": 168,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "2 notti a 53-144 € per camera doppia = 27-72 € a persona a notte, ossia 54-144 € per le 2 notti. Per rispettare il calcolo al giorno su 3 giorni, la cifra mostrata è 18-48 € a persona al giorno.",
+          "min": 18,
+          "max": 48,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Fortezza Pass Bellinzona",
+          "testo": "Da 28 CHF (circa 30 € al cambio indicativo di 1,07): Castelgrande, Montebello, Sasso Corbaro, musei e mostre temporanee; con il Ticino Ticket il prezzo è ridotto (importo non verificato).",
+          "min": 30,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto propria (confronto)",
+          "testo": "Circa 375 km a tratta (Rome2rio), 750 km A/R a 0,129 €/km di carburante: circa 97 €. Vignetta svizzera 2026: 40 CHF (circa 43 €), sia adesiva sia digitale (TCS). Totale vettura circa 140 €, da dividere per due; pedaggi autostradali italiani non verificati, quindi non sommati. In valle i parcheggi di lunga sosta costano 12 CHF all'ora secondo Fondazione Verzasca.",
+          "min": 140,
+          "max": 140,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo e cena in osteria/grotto e ristorante, a persona al giorno, in CHF convertiti a circa 1,07 €/CHF. Minimo circa 48 € (45 CHF): due primi a 19,50 CHF (Birraria Locarno, primi 19,50-24 CHF) più acqua o bibita 3 CHF a pasto. Massimo circa 113 € (106 CHF): menu a 3 portate da 47 CHF a pranzo a Lugano (Ristorante Pestalozzi, bevande escluse, acqua e caffè 6 CHF) e a cena una specialità da 36 CHF (Birraria, 22,50-36 CHF) con dolce 8 CHF e vino 6,20 CHF. Menu online senza anno esplicito: prezzi indicativi.",
+          "min": 48,
+          "max": 113,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Treno, alloggio, pasti e Fortezza Pass sono a persona. Carburante e vignetta dell'auto (solo confronto) sono della vettura e si dividono per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il Ticino Ticket vale solo se si pernotta in una struttura aderente (contattare l'alloggio prima di prenotare); rende gratuiti treni e bus del cantone, ma i treni FFS/TILO solo fino al confine di Stato; per la linea della Verzasca e per i battelli sul Ceresio la fonte non è chiara, verificare."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "La strada della Valle Verzasca ha tornanti stretti e, secondo il documento 2026 della Fondazione Verzasca, tra fine aprile e settembre sono previsti lavori tra Gordola e Sonogno: conviene l'autopostale. Nei parcheggi di lunga sosta la tariffa è di 12 CHF all'ora."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "I tre castelli di Bellinzona sono aperti tutti i giorni 10-18 dal 19 marzo al 7 novembre (calendario annunciato per il 2027): fuori stagione non si possono visitare, quindi evitare l'inverno per questo itinerario."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per l'autopostale individuale; i gruppi da 10 persone devono prenotare i posti entro le 15:00 di due giorni lavorativi prima. Le visite guidate della diga sono solo per gruppi su prenotazione."
+        }
+      ],
+      "note": "Chi ha un solo giorno in più può fermarsi a Lugano anche la sera: il battello e la funicolare sono più belli al tramonto. Un consiglio che conta: la Verzasca va fatta di mattina presto e fuori da luglio-agosto, perché in estate l'autopostale è molto affollato; sul Sentiero 74 si può camminare da una fermata all'altra e riprendere il bus. Il pic-nic è vietato nelle aree di sosta della valle, ammesso solo in quelle attrezzate (es. vicino a Larici). Via treno il rientro da Locarno a Firenze richiede tutta la serata: non prenotare treni stretti.",
+      "fonti": [
+        "https://www.ticino.ch/it/ticket.html",
+        "https://www.ticino.ch/it/ticket/partner/public-transport.html",
+        "https://www.myswissalps.com/wp-content/uploads/ticino-ticket-2026.pdf",
+        "https://www.omio.it/treni/firenze/lugano",
+        "https://www.rome2rio.com/s/Tuscany/Lugano",
+        "https://booking.bellinzonaevalli.ch/en/products/bellinzona-pass",
+        "https://www.postauto.ch/it/idee-per-escursioni/valle-verzasca",
+        "https://fondazioneverzasca.ch/data/files/archivio/informazioniperviaggioconbusprivato-valleverzasca-2026.pdf",
+        "https://www.logitravel.it/hotel/svizzera/ticino/lugano/hotel-locanda-castagnola--hotel-1916464",
+        "https://www.momondo.it/hotel/canton-ticino.ksp",
+        "https://www.ascona-locarno.com/en/hotels/details/Locarno-Youth-Hostel/13606",
+        "https://www.ascona-locarno.com/dam/jcr:30e0fbf6-f797-407a-bec7-eac8190c09ca/Accommodation_2026_Gruppi.pdf",
+        "https://www.ascona-locarno.com/pdf/ristorazione/Menu_Birraria_Locarno.pdf",
+        "https://www.pestalozzi-lugano.ch/assets/Prezzi_info-sale/Business-Lunch-italiano-Ristorante-Pestalozzi-3-portate.pdf",
+        "https://www.tcs.ch/it/il-tcs/stampa/comunicati-stampa-2026/vignetta-autostradale.php"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 46.195,
+        "lon": 9.024
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Funicolari, battello e castelli piacciono a un bimbo di 4 anni, ma i trasferimenti lunghi e i tornanti verso la Verzasca sono faticosi."
+      }
+    },
+    {
       "id": "trani-e-castel-del-monte-3g",
       "nome": "Trani, Castel del Monte, Barletta e Andria",
       "sottotitolo": "Puglia, la costa romanica della Terra di Bari e la fortezza ottagonale di Federico II",
@@ -42559,6 +43926,188 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Spiagge e paesi piacciono a un bimbo di 4 anni, ma i trasferimenti in auto sono lunghi e i sentieri dell'Alpujarra vogliono lo zaino porta-bimbo."
+      }
+    },
+    {
+      "id": "appennino-tosco-emiliano-7g",
+      "nome": "Appennino tosco-emiliano: Parco nazionale, Cerreto, Monte Cimone, Corno alle Scale e le terme di Porretta",
+      "sottotitolo": "Emilia-Romagna e Toscana, una settimana sul crinale dal Reno al Passo del Cerreto, tra laghi glaciali, le cime più alte dell'Appennino settentrionale e un bagno termale",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Auto propria, indispensabile: si sale a Porretta Terme dalla Porrettana (SS64) o con l'A1 fino a Sasso Marconi, si traversa il crinale verso Sestola e il Frignano e si chiude a Cerreto Laghi, nel Parco nazionale, rientrando a Firenze per il Passo del Cerreto e la Lunigiana. Con i mezzi pubblici Firenze–Cerreto Laghi richiede da 4h39 (treno + bus via Aulla) a oltre 5 ore, e tra una valle e l'altra non ci sono collegamenti utili.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h17 in auto da Firenze a Cerreto Laghi (circa 175 km); la prima tappa, Porretta, è più vicina. In treno + bus via Aulla 4h39, in solo bus circa 5h06.",
+      "durataViaggioMinuti": 137,
+      "periodoMiglioreTesto": "Da giugno a inizio ottobre: rifugi e sentieri aperti, impianti estivi in funzione nei mesi centrali, fresco anche ad agosto sopra i 1500 metri; settembre e la prima metà di ottobre sono i mesi più tranquilli, con le faggete che cambiano colore. Da evitare marzo-aprile (neve marcia sui crinali, molte strutture chiuse fra le due stagioni) e novembre, piovoso e con gran parte dei servizi fermi.",
+      "mesi": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        3,
+        4,
+        11
+      ],
+      "costoMin": 460,
+      "costoMax": 1030,
+      "costoNota": "Pasti inclusi con fascia 30-80 € a persona al giorno (stima Sluurpy per Sestola e Fanano, FAQ del 20/03/2025, non menu 2026 dei singoli locali). Seggiovia del Cimone esclusa dal totale: la tariffa estiva 2026 non è pubblicata nelle fonti consultate (articoli solo sugli skipass stagionali; info su cimonesci.it). Le terme usano il listino pubblicato a febbraio 2025. Chilometraggio complessivo stimato: solo la tratta Firenze–Cerreto Laghi (175 km) è verificata; pedaggio del ritorno non verificato.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le tre zone (Alto Reno con il Corno alle Scale, il Frignano con il Cimone, il crinale reggiano del Parco nazionale con Cerreto) sono valli parallele separate da strade di montagna lente: ognuna merita due notti e almeno una giornata intera a piedi, perché laghi e cime si raggiungono solo con escursioni di mezza o intera giornata. Sette giorni permettono di fare un'escursione vera al giorno, mettere una mezza giornata di terme a Porretta e spostarsi senza guidare più di due ore per tappa; in meno tempo si finisce per vedere i crinali dal finestrino.",
+      "cosaVedere": [
+        "Terme di Porretta: acque termali usate dall'epoca romana nel borgo sul Reno; con il percorso benessere di quattro ore (piscina termale, percorso vascolare, sauna) si scioglie la fatica dei giorni di cammino.",
+        "Corno alle Scale e Lago Scaffaiolo: il crinale più alto del Bolognese, con il laghetto in sella sul confine tosco-emiliano e le cascate del Dardagna sotto il santuario di Madonna dell'Acero.",
+        "Monte Cimone: la vetta più alta dell'Appennino settentrionale; dalla cima nelle giornate limpide si abbraccia la pianura fino alle Alpi. Dal 2026 la seggiovia Lamaccione–Pian Cavallaro gira anche d'estate.",
+        "Sestola e il Lago della Ninfa: il borgo con la rocca sul Frignano e il laghetto fra le faggete, base comoda per il Cimone.",
+        "Cerreto Laghi e Lago Pranda: piccoli laghi glaciali dentro il Parco nazionale, punto di partenza per il Monte La Nuda e per la traversata dei crinali verso il Passo del Cerreto.",
+        "Lago Santo modenese: uno dei laghi glaciali più ampi dell'Appennino emiliano, sopra Pievepelago, con i rifugi sulla riva."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Firenze–Porretta Terme. Partenza in mattinata per la Porrettana; arrivo per pranzo e pomeriggio alle Terme di Porretta (percorso benessere di 4 ore con piscina termale e sauna, o bagno termale semplice di un'ora). Passeggiata serale nel borgo lungo il Reno e cena in paese. Pernottamento a Porretta."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Corno alle Scale. In auto fino a Madonna dell'Acero e alle cascate del Dardagna, poi salita a piedi al Lago Scaffaiolo e al crinale del Corno alle Scale, con vista sulla Toscana da un lato e sulla valle del Reno dall'altro. Giornata intera di cammino con pranzo al sacco o in rifugio; rientro a Porretta."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Lago di Suviana e trasferimento a Sestola. Mattinata lenta sulle rive del Lago di Suviana, poi strada di montagna per Lizzano in Belvedere e Fanano fino a Sestola. Pomeriggio al borgo e alla rocca, tramonto al Lago della Ninfa. Pernottamento a Sestola."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: Monte Cimone. Dal Passo del Lupo o da Lamaccione, salita alla vetta (con la seggiovia fino a Pian Cavallaro se in funzione, verificando date e orari col Consorzio del Cimone). Pranzo in quota e discesa a piedi tra i pascoli; sera a Sestola."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: Lago Santo e trasferimento nel Parco nazionale. Mattina a Pievepelago e passeggiata nel bosco fino al Lago Santo modenese; sosta a Fiumalbo, borgo in pietra ai piedi dell'Abetone. Nel pomeriggio lungo trasferimento per le strade del crinale reggiano (Frassinoro, Villa Minozzo) fino a Cerreto Laghi. Pernottamento a Cerreto o a Collagna."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: Monte La Nuda e laghi del Cerreto. Escursione dal paese al Monte La Nuda lungo i sentieri del Parco nazionale, discesa al Lago Pranda e giro del Lago Cerreto nel pomeriggio. Cena in uno dei ristoranti affacciati sul lago."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: Lago Calamone e rientro. Mattinata al Lago Calamone sotto il Monte Ventasso, oppure deviazione verso la Pietra di Bismantova se si preferisce un ultimo panorama. Dopo pranzo discesa per il Passo del Cerreto verso la Lunigiana e Aulla, poi autostrada fino a Firenze (circa 2h17 complessive)."
+        }
+      ],
+      "alloggio": "Tre basi con due notti ciascuna. A Sestola si parte da 65-66 € a notte per la doppia al B&B Casa Mucci, 70 € al Rifugio Hotel Calvanella (parcheggio gratuito), 75 € alla Locanda San Giorgio; un 3 stelle come Hotel Nuovo Parco o Miramonti costa 116-133 €, l'Hotel San Marco 4 stelle 77-126 € secondo il portale. Momondo indica per novembre una media di 91 € a notte. Attorno a Cerreto Laghi e sul versante Lunigiana/Canossa le strutture listate partono da 65-67 € (agriturismi e B&B) e arrivano a circa 100-165 € per i 3-4 stelle. A Porretta conviene un hotel con accesso alle terme. Fascia di lavoro: 65-135 € a notte per due, cioè circa 33-68 € a persona.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Circa 550 km complessivi (stima: 175 km Firenze–Cerreto Laghi verificati per il ritorno, più l'andata a Porretta, i trasferimenti tra le tre valli e le salite ai punti di partenza) a 0,129 €/km: circa 71 €.",
+          "min": 71,
+          "max": 71,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi",
+          "testo": "Andata con l'A1 Firenze–Sasso Marconi: al massimo 8,90 € (parametro del documento per Firenze–Bologna); con la Porrettana via Pistoia si può evitare. Il pedaggio del ritorno via Aulla (A15/A12/A11) non è verificato: va aggiunto.",
+          "min": 9,
+          "max": 9,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggi",
+          "testo": "Nessun costo verificato: le strutture indicate (es. Rifugio Calvanella a Sestola) hanno parcheggio gratuito, e ai laghi e ai passi si lascia l'auto ai margini della strada o nei piazzali.",
+          "min": 0,
+          "max": 0,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "65-135 € a notte per la doppia in B&B, rifugio-albergo o 3 stelle, cioè circa 33-68 € a persona a notte per 6 notti.",
+          "min": 195,
+          "max": 405,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Terme di Porretta",
+          "testo": "Bagno termale semplice 15 € per 60 minuti, percorso benessere di 4 ore (piscina termale, percorso vascolare, sauna) 25 € adulti, 10 € dai 7 ai 10 anni, 5 € fino a 6 anni (listino pubblicato a febbraio 2025).",
+          "min": 15,
+          "max": 25,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo e cena al giorno a persona, 7 giorni. Sluurpy indica per Sestola e Fanano un pasto completo al ristorante a 25-40 € a persona bevande incluse, 15-20 € nei locali economici, 50 € o più nei più cari (cifre dalla FAQ datata 20/03/2025, stime generiche del sito, non menu dei singoli locali). Fascia di lavoro: 30 € al giorno (due pasti economici o pranzo al sacco più cena) fino a 80 € (due pasti completi a 40 €). Non ho trovato prezzi 2026 per singolo locale per Castelnovo ne' Monti e Porretta.",
+          "min": 30,
+          "max": 80,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Seggiovia del Cimone",
+          "testo": "Lamaccione–Pian Cavallaro aperta anche d'estate dal 2026, ma la tariffa estiva non è pubblicata: chiedere al Consorzio del Cimone. Si può salire anche interamente a piedi.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno + bus (alternativa)",
+          "testo": "Firenze–Cerreto Laghi via Aulla in 4h39 per circa 24-33 dollari a tratta, ma senza modo di spostarsi tra le valli: non praticabile per questo itinerario.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante, pedaggi ed eventuali parcheggi sono della vettura e si dividono in due (circa 40 € a testa); alloggio, terme e pasti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Tutte le tappe sono su strade di montagna strette e piene di curve: calcolare velocità medie basse nei trasferimenti tra le valli. Fuori stagione e da novembre ad aprile possono servire gomme invernali o catene sui passi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Le Terme di Porretta sono aperte dal lunedì al sabato 8:30-19:00 e la domenica e i festivi 9:00-19:00; le cure termali però solo lunedì-venerdì fino alle 18 e il sabato fino alle 13. Rifugi e impianti estivi del Cimone e del Corno alle Scale aprono solo nei mesi caldi, con date variabili ogni anno."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Alle terme portare costume, cuffia, ciabatte e lucchetto; accappatoio o telo sono obbligatori (si possono noleggiare). Gli alberghi di Cerreto Laghi sono pochi: prenotare prima, soprattutto ad agosto."
+        }
+      ],
+      "note": "Cerreto Laghi è un paese di impianti da sci e d'estate può sembrare mezzo vuoto: una recensione dell'agosto 2026 lo descrive come trascurato. La ragione per andarci sono i sentieri e i laghi del Parco nazionale, non il paese; se si cerca più vita conviene dormire a Collagna o scendere la sera verso Castelnovo ne' Monti. Al Lago Cerreto l'Hotel Cristallo, affacciato sull'acqua, è aperto tutto l'anno. Il Cimone sulla vetta ha una stazione meteorologica dell'Aeronautica: si sale fino al recinto, non oltre. Per le giornate di cammino partire presto: i temporali estivi sui crinali arrivano quasi sempre nel primo pomeriggio. Se si preferisce un'escursione in meno, la Pietra di Bismantova, sulla strada verso Castelnovo ne' Monti, sostituisce bene il Lago Calamone dell'ultimo giorno. Le terme vanno messe all'inizio, quando la Porrettana è fresca, o spostate all'ultimo giorno invertendo l'itinerario per finire a mollo.",
+      "fonti": [
+        "https://www.rome2rio.com/it/s/Firenze/Cerreto-Laghi",
+        "https://www.momondo.it/hotel/sestola",
+        "https://www.kayak.it/Hotel-a-Sestola-Hotel-San-Marco-Sestola.364428.ksp",
+        "https://www.expedia.co.uk/Sestola-Hotels-Rifugio-Calvanella.h114891007.Hotel-Information",
+        "https://www.expedia.ie/Cerreto-Laghi-Hotels.d3000028349.Travel-Guide-Hotels",
+        "https://siviaggia.it/idee-di-viaggio/porretta-terme/516716/",
+        "https://www.bolognawelcome.com/it/luoghi/terme-e-benessere/terme-di-porretta",
+        "https://www.ilrestodelcarlino.it/modena/cronaca/cimone-la-seggiovia-torna-a-c7370b94",
+        "https://iviaggideirospi.com/vacanze-a-cerreto-laghi-hotel/",
+        "https://www.tripadvisor.com/Attraction_Review-g2138990-d3853963-Reviews-Cerreto_Laghi-Collagna_Province_of_Reggio_Emilia_Emilia_Romagna.html",
+        "https://www.sluurpy.it/sestola/ristorante",
+        "https://www.sluurpy.it/fanano/ristorante",
+        "https://www.pianetamamma.it/il-bambino/trasporto-e-viaggi/gita-sul-cimone-con-i-bambini-rinasce-la-storica-seggiovia-dai-panorami-mozzafiato.html"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 44.23,
+        "lon": 10.77
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni vanno bene Lago della Ninfa, Lago Cerreto e Lago Santo e la piscina termale (5 € fino a 6 anni), ma le salite al Cimone, al Corno alle Scale e alla Nuda servono uno zaino porta-bimbo."
       }
     },
     {
@@ -68680,6 +70229,160 @@
       }
     },
     {
+      "id": "molise-completo-7g",
+      "nome": "Molise completo: Campobasso, Isernia, Termoli, Agnone, Sepino, Pietrabbondante e le Mainarde",
+      "sottotitolo": "Molise, la regione intera in una settimana: dal mare di Termoli ai Sanniti, alle campane di Agnone e ai monti delle Mainarde",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Auto propria da Firenze: A1 in direzione Roma–Napoli fino all'uscita per il Molise (San Vittore/Caianello), poi statali per Isernia e Campobasso (SS17 e SS85). Firenze–Campobasso sono circa 470 km con 28,20 € di pedaggio a tratta. Senza auto il viaggio non regge: i treni interni sono pochi e i bus regionali tra i borghi hanno corse rade, da verificare nei festivi.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 4h30–5h20 in auto da Firenze a Campobasso (470–475 km), soste escluse; in pullman circa 7h20.",
+      "durataViaggioMinuti": 300,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre: clima buono sia sulla costa sia ai 1000 metri di Agnone e Pietrabbondante, e prezzi bassi. Luglio va bene per i monti e per le feste di paese (Festa del Grano a Jelsi intorno al 26 luglio). Agosto a Termoli è il mese più caro (B&B in media 140 € a notte). Da dicembre a febbraio le strade dell'alto Molise possono avere neve e ghiaccio.",
+      "mesi": [
+        5,
+        6,
+        7,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        12
+      ],
+      "costoMin": 495,
+      "costoMax": 924,
+      "costoNota": "I km dei giri interni (circa 400–500 km tra Sepino, Termoli, Agnone, Isernia e le Mainarde) sono una stima dell'itinerario; Firenze–Campobasso (470 km, 28,20 € di pedaggio) è verificato, e il rientro da Isernia sulla stessa A1 è un po' più corto. Gli ingressi ai siti statali (Paleolitico, Pietrabbondante, Castello Pandone) sono a pagamento ma senza un prezzo 2026 verificato: aggiungere qualche euro a sito. Parcheggi non quantificati: nei borghi sono quasi sempre liberi.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il Molise è piccolo ma frammentato: Termoli, Campobasso, Agnone e le Mainarde stanno ai quattro angoli della regione, collegati da statali di collina dove 60 km valgono un'ora. Le cose da vedere sono una dozzina (Saepinum, il teatro di Pietrabbondante, il Paleolitico di Isernia, la fonderia di campane, San Vincenzo al Volturno, il borgo di Termoli, il Castello Pandone) e quasi nessuna sta nella stessa valle di un'altra. Con tre basi da due notti ciascuna si fanno uno o due siti al giorno senza correre, con la sera libera a tavola. In meno giorni si sacrifica tutto l'alto Molise.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Firenze–Campobasso (470 km, circa 4h30 di guida). A1 fino all'uscita molisana, poi SS17 passando sotto Isernia e SS85 fino al capoluogo. Arrivo nel pomeriggio, passeggiata nel borgo antico che sale verso il Castello Monforte e cena in trattoria in centro (22–32 €). Pernotto a Campobasso, prima di due notti."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Sepino e Saepinum (circa 25 km). Mattina nell'area archeologica di Altilia: una città romana intera in mezzo ai campi, con le quattro porte nelle mura, il foro, il tempio e il teatro su cui si appoggiano ancora le case coloniche. Poi il borgo medievale di Sepino sulla collina e, se c'è tempo, il sentiero verso Terravecchia, il villaggio sannitico più in alto. Rientro a Campobasso; con un giorno in più si aggiunge l'Oasi WWF di Guardiaregia (chiusa il lunedì)."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Campobasso–Termoli (circa 70 km, un'ora). Mattina al Museo Sannitico di Campobasso, poi giù verso la costa. Pomeriggio nel borgo antico di Termoli, la cittadella fortificata sul promontorio: il Castello Svevo, la cattedrale romanica e il vicolo che passa per la strada più stretta d'Europa. Cena di pesce al porto con il brodetto alla termolese (14–20 €). Pernotto a Termoli, prima di due notti."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: mare e Basso Molise. Mattina in spiaggia sul lungomare nord o, da maggio a settembre, traghetto in giornata per le Isole Tremiti dal porto di Termoli (orari e prezzi da verificare sul momento). In alternativa un giro tra i borghi del Basso Molise e le cantine di Tintilia e Trebbiano. Aperitivo al tramonto sul mare, come consigliano a Termoli stessa."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: Termoli–Agnone–Pietrabbondante–Isernia (circa 170 km, la tappa più lunga). Ad Agnone la Pontificia Fonderia Marinelli con il Museo della campana (9 €, ridotto 5 €): qui si fondono da secoli le campane per le chiese di mezzo mondo. Poi la chiesa di Sant'Emidio, il Museo del Rame e le ostie ripiene di noci e miele. Nel pomeriggio il Santuario Italico di Pietrabbondante, a circa 1000 metri: il teatro sannitico di fine II secolo a.C. con i sedili a schienale anatomico, sotto il monte Caraceno. Discesa a Isernia, pernotto, prima di due notti."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: Isernia e le Mainarde. Mattina al Museo Nazionale del Paleolitico di La Pineta, con il paleosuolo dell'accampamento preistorico lasciato a vista dove è stato scavato. Poi verso il versante molisano del Parco Nazionale d'Abruzzo, Lazio e Molise: il complesso monumentale di San Vincenzo al Volturno con gli affreschi della cripta di Epifanio, il lago di Castel San Vincenzo con le Mainarde sullo sfondo, e un tratto di sentiero verso Pizzone. In alternativa più facile, le cascate di Carpinone (5,3 km A/R)."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: Venafro e rientro (circa 430–470 km). Mattina al Castello Pandone di Venafro, con i cavalli dipinti a grandezza naturale sulle pareti, a pochi minuti dal casello dell'A1. Partenza dopo pranzo per Firenze, con arrivo in serata."
+        }
+      ],
+      "alloggio": "Tre basi da due notti: Campobasso, Termoli, Isernia. A Campobasso un B&B costa in media 59 € a notte, da 49 € a dicembre a 60 € d'estate, e le camere doppie ben recensite stanno tra 57 e 88 €. Termoli è più cara: media 84 €, da 68 € in gennaio-febbraio a 117 € a luglio e 140 € ad agosto; meglio dormire nel borgo antico o vicino al porto, si va a piedi a cena. A Isernia i prezzi sono in linea con Campobasso; in alternativa gli agriturismi della zona di Agnone e delle Mainarde. Calcolo: 50–120 € a notte per la camera doppia, quindi 25–60 € a persona a notte, per 6 notti.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Firenze–Campobasso 470 km, rientro da Isernia/Venafro circa 430–470 km, più 400–500 km di giri interni: 1300–1440 km a 0,129 €/km, circa 168–186 €.",
+          "min": 168,
+          "max": 186,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A1",
+          "testo": "28,20 € a tratta tra Firenze e l'uscita molisana dell'A1, 56,40 € andata e ritorno. Le statali interne (SS17, SS85, Trignina) sono gratuite.",
+          "min": 56.4,
+          "max": 56.4,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "50–120 € a notte per la camera doppia in B&B (Campobasso in media 59 €, Termoli 68–140 € secondo il mese), quindi 25–60 € a persona a notte per 6 notti.",
+          "min": 150,
+          "max": 360,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo economico 10–20 € (pizzeria, gastronomia, panino con salumi); cena in trattoria 22–32 € a Campobasso e 28–42 € di pesce a Termoli.",
+          "min": 32,
+          "max": 62,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Museo della campana (Agnone)",
+          "testo": "9 € intero, 5 € ridotto, con la visita alla Fonderia Marinelli.",
+          "min": 9,
+          "max": 9,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Siti statali",
+          "testo": "Museo del Paleolitico, Santuario Italico di Pietrabbondante, Castello Pandone e San Vincenzo al Volturno sono a pagamento (biglietti anche dall'app Musei Italiani), ma il prezzo 2026 non è verificato; l'area di Altilia-Saepinum ha orario lungo (8:15–19:15 nel calendario pubblicato).",
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e si dividono per due; alloggio (la camera doppia divisa a metà), pasti e ingressi sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Auto indispensabile: strade di collina e montagna lente, e da dicembre a febbraio neve e ghiaccio verso Agnone, Pietrabbondante e le Mainarde. Il borgo antico di Termoli si gira a piedi: si parcheggia fuori dalle mura o al porto."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Santuario Italico di Pietrabbondante apre da martedì a domenica con orario corto (indicativamente 10:15–17:30); Paleolitico di Isernia e Castello Pandone di norma 8:15–19, Saepinum 8:15–19:15. Ultimo ingresso 30 minuti prima della chiusura: verificare gli orari 2026 sul sito della Direzione regionale Musei Molise."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La visita alla Fonderia Marinelli è guidata e a orari fissi (turni extra ad agosto): conviene chiamare prima. Per Termoli ad agosto e per la Sagra dei Misteri di Campobasso (Corpus Domini) prenotare l'alloggio con largo anticipo."
+        }
+      ],
+      "note": "Ad Agnone la Locanda Mammi ha una stella Michelin con menu degustazione da 170 a 300 €: se non è nel budget, si mangia benissimo nelle trattorie del centro. A Termoli il brodetto si ordina senza pasta: il pesce arriva in coccio e il pane si inzuppa dopo. Il teatro di Pietrabbondante non è in paese ma su un versante poco più in basso, a pochi minuti d'auto: segnalato come Santuario Italico. Chi passa in dicembre trova ad Agnone la 'Ndocciata, la sfilata delle grandi torce di abete, ma con strade di montagna da affrontare con gomme invernali. Le cascate del Verrino vicino ad Agnone e quelle di Carpinone sono le passeggiate più facili per riempire un pomeriggio libero. Isole Tremiti in giornata da Termoli solo nella bella stagione.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Campobasso/",
+        "https://distanzechilometriche.net/firenze-campobasso/",
+        "https://www.likibu.com/it/appartamenti-affitto-vacanze/campobasso/bed-breakfast",
+        "https://www.likibu.com/it/appartamenti-affitto-vacanze/termoli/bed-breakfast",
+        "https://www.sluurpy.it/campobasso/ristoranti",
+        "https://www.sluurpy.it/termoli/ristoranti",
+        "https://travel.thewom.it/italia/molise/il-borgo-incantato-agnone.html",
+        "https://travel.thewom.it/italia/molise/pietrabbondante-borgo-nella-pietra.html",
+        "https://travel.thewom.it/italia/molise/piccola-pompei-tra-le-montagne.html",
+        "https://italysegreta.com/it/la-guida-di-un-locale-al-molise/",
+        "https://molisetabloid.it/?p=115753",
+        "https://www.molisetabloid.it/?p=133773"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 41.56,
+        "lon": 14.66
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni vanno bene Termoli, Saepinum (prato e rovine all'aperto) e il lago di Castel San Vincenzo, ma le tappe in auto di 2–3 ore e i musei lo stancano."
+      }
+    },
+    {
       "id": "montenegro-7g",
       "nome": "Montenegro",
       "sottotitolo": "Balcani, il giro completo del paese: Bocche di Cattaro, Lovćen, lago di Scutari, Durmitor e canyon del Tara",
@@ -83479,6 +85182,217 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Cavalli, carri e bufali della puszta e le terme piacciono molto a un bimbo di 4 anni, ma ci sono diverse giornate con due-tre ore di auto e serve il seggiolino nel noleggio."
+      }
+    },
+    {
+      "id": "val-d-orcia-val-di-chiana-e-crete-senesi-7g",
+      "nome": "Val d'Orcia, Val di Chiana e Crete senesi: una settimana lenta tra Pienza, Montepulciano, Cortona, Chiusi, Asciano e le terme",
+      "sottotitolo": "Toscana meridionale, una sola base in campagna tra Pienza e Montepulciano e ogni giorno un borgo e un bagno caldo",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Auto propria: da Firenze A1 verso Roma fino al casello Valdichiana (per Montepulciano) o Chiusi-Chianciano (per il lato sud), poi strade provinciali fino alla base. Si porta una sola valigia in un solo alloggio per sei notti, scegliendo un agriturismo o un B&B nella campagna tra Pienza, Monticchiello e Montepulciano: da lì tutte le tappe sono giri di andata e ritorno in giornata. Il treno fino a Chiusi esiste, ma senza auto i borghi, le terme e le Crete restano scollegati.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h30 in auto da Firenze alla zona di Montepulciano-Pienza (107 km e 6,30 € di pedaggio secondo il calcolatore Unipolmove per Firenze–Montepulciano).",
+      "durataViaggioMinuti": 90,
+      "periodoMiglioreTesto": "Maggio (grano verde, papaveri) e ottobre (vendemmia) sono i mesi più belli; aprile, giugno e settembre vanno bene, e marzo e novembre funzionano proprio perché il viaggio ruota sulle terme calde e i prezzi sono bassi. Luglio e agosto sono da evitare: pomeriggi sui 30 °C, parcheggi di Pienza pieni a metà mattina e prezzi alti.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 617,
+      "costoMax": 1270,
+      "costoNota": "Chilometraggio interno stimato (solo la tratta Firenze–Montepulciano è verificata, 107 km); parcheggi stimati sulle tariffe di Pienza; prezzi delle terme di Rapolano da articolo del febbraio 2025 e di Theia da articolo dell'ottobre 2025. Esclusi dal totale: tassa di soggiorno, musei di Cortona e Chiusi e Labirinto di Porsenna (prezzi non verificati), degustazioni in cantina.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il senso di questa settimana è non rifare mai la valigia: una base unica nella campagna tra Pienza e Montepulciano, a circa un'ora e mezza da Firenze, e ogni giorno un solo obiettivo raggiungibile con un giro breve. Pienza, Monticchiello, San Quirico e Bagno Vignoni sono a due passi; Chianciano, Chiusi e San Casciano dei Bagni stanno sul lato sud, verso l'uscita Chiusi-Chianciano; Cortona dall'altra parte della Val di Chiana; Asciano, Monte Oliveto e Rapolano a nord, nelle Crete. Sono una decina di borghi e quattro terme diverse (una gratuita, una a 15 €, una a 19-25 €, una da 45 €): in tre giorni si corre, in sette si alternano un borgo la mattina e un bagno caldo il pomeriggio, con la cena sempre a pochi chilometri dal letto.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza da Firenze in tarda mattinata, A1 fino a Valdichiana e arrivo alla base per pranzo. Pomeriggio a Montepulciano: si sale a piedi dal parcheggio lungo il Corso fino a Piazza Grande, con il Palazzo Comunale e il Duomo, e si scende in una delle cantine scavate sotto i palazzi per il Nobile. Tramonto dal tempio di San Biagio, ai piedi del paese."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Pienza, la città ideale di Pio II. Palazzo Piccolomini con il giardino pensile affacciato sulla valle (14-15 €, oppure Pienza Pass a 18 € con Museo Diocesano e cripta), il Duomo luminoso voluto dal papa, la via dell'Amore e il belvedere sulle mura. Pecorino e pranzo in paese; pomeriggio lento a Monticchiello, borgo murato a pochi minuti, e lungo le strade bianche con i cipressi."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: San Quirico d'Orcia con gli Horti Leonini e la Collegiata, poi Bagno Vignoni: la piazza è una vasca termale in cui non ci si bagna più, ma sotto il paese il Parco dei Mulini e i rivoli del Fosso Bianco sono liberi. Pomeriggio in acqua alla Piscina Val di Sole (15 €), aperta tutti i giorni e la sera nel fine settimana."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: attraversata della Val di Chiana fino a Cortona, l'unica tappa «lunga» della settimana. Piazza della Repubblica e Piazza Signorelli, il museo etrusco MAEC a Palazzo Casali, la salita a Santa Margherita e alla Fortezza del Girifalco per la vista sul lago Trasimeno. Rientro alla base per cena, senza fretta."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: Chiusi, la città di Porsenna: Museo Archeologico Nazionale con urne e canopi etruschi e i cunicoli del Labirinto di Porsenna sotto il Duomo. Pomeriggio alle Piscine Termali Theia di Chianciano (45 € la giornata, ridotti per i bambini): da scegliere un giorno diverso dal martedì, quando sono chiuse."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: le Crete senesi. Strada verso Asciano tra calanchi e biancane, l'abbazia di Monte Oliveto Maggiore con il chiostro affrescato da Signorelli e dal Sodoma, poi il borgo di Asciano. Pomeriggio alle Terme Antica Querciolaia di Rapolano, piscine all'aperto di acqua sulfurea (19 € feriale, 25 € festivi; il sabato si resta fino all'una di notte)."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: valigia in auto e ultima mattina a San Casciano dei Bagni, alle tre vasche in pietra del Bagno Grande, libere e senza servizi, a circa 39 °C, accanto agli scavi del santuario dove dal 2022 sono riemerse le statue di bronzo. Pranzo in paese e rientro a Firenze dal casello Chiusi-Chianciano."
+        }
+      ],
+      "alloggio": "Una sola base per sei notti nella campagna tra Pienza, Monticchiello e Montepulciano, oppure appena fuori uno dei due paesi: si evita di cambiare struttura e si parcheggia sempre sotto casa. Le fasce verificate: agriturismi in Val d'Orcia da 75 € a notte (Agriturismo.it), appartamenti per due all'Agriturismo Lucciola Bella di Pienza da 90 € a notte, hotel semplice di paese fuori stagione intorno a 110 €, agriturismo con piscina e vista spesso sui 200 € a maggio e settembre. Guesthouse e B&B di Pienza 70-110 €, agriturismo o hotel boutique 140-240 € (stime 2026 di Travel Cost Calculator). In bassa stagione si resta facilmente sotto i 100 € a notte per la doppia.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Circa 620-780 km complessivi: 107 km a tratta Firenze–Montepulciano (verificati) più i giri giornalieri da una base unica, stimati, verso Cortona, Chiusi e Chianciano, le Crete e Rapolano, Bagno Vignoni e San Casciano. A 0,129 €/km fanno circa 80-100 €.",
+          "min": 80,
+          "max": 100,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi",
+          "testo": "A1 Firenze–Montepulciano 6,30 € a tratta secondo il calcolatore Unipolmove, quindi 12,60 € andata e ritorno. Tutti i giri interni si fanno su strade statali e provinciali senza pedaggio.",
+          "min": 13,
+          "max": 13,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggi",
+          "testo": "Stima su 6-7 soste di 2-3 ore nei borghi, alle tariffe di Pienza: 2 € l'ora o 14 € al giorno al parcheggio di Piazza Dante, 1,80 € l'ora in via del Casello e via Gozzante. Alla base, in agriturismo, il parcheggio è normalmente compreso.",
+          "min": 15,
+          "max": 40,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "Doppia da 75 € (agriturismi in Val d'Orcia) a circa 200 € a notte (agriturismo con piscina in alta stagione), cioè 37,50-100 € a persona a notte per sei notti.",
+          "min": 225,
+          "max": 600,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo e cena al giorno a persona. A Pienza un pranzo veloce o un panino costa 7-12 €, una cena completa in trattoria 25-30 € (fino a 30-55 € con tre portate e vino); una cena elegante 50-60 € vino escluso. Fascia di lavoro: 35-70 € al giorno.",
+          "min": 35,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pienza: Palazzo Piccolomini",
+          "testo": "Appartamenti e giardino pensile 14-15 €; Pienza Pass con Palazzo Piccolomini, Museo Diocesano, giardino e cripta 18 €. Navata del Duomo gratuita.",
+          "min": 14,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Bagno Vignoni: Piscina Val di Sole",
+          "testo": "Ingresso 15 €; aperta tutti i giorni fino alle 18, il sabato e la domenica fino a mezzanotte. Parco dei Mulini e Fosso Bianco liberi.",
+          "min": 15,
+          "max": 15,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Chianciano: Piscine Termali Theia",
+          "testo": "Biglietto giornaliero 45 €, ridotto per i bambini; chiuso il martedì, di solito 10-20, nel weekend bagni di notte fino a mezzanotte. Le Terme Sensoriali costano 49 € per tre ore.",
+          "min": 45,
+          "max": 45,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rapolano: Terme Antica Querciolaia",
+          "testo": "Feriali 19 € giornata intera o 15 € mezza giornata; festivi, prefestivi e alta stagione 25 € (21 € mezza giornata o serale del sabato). Alternativa: Terme San Giovanni, 20-25 €.",
+          "min": 19,
+          "max": 25,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "San Casciano dei Bagni: Bagno Grande",
+          "testo": "Le tre vasche in pietra del Bagno Grande e il vicino Bagno Bossolo sono liberi e gratuiti, senza servizi.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "San Casciano: Fonteverde (alternativa)",
+          "testo": "Chi vuole lettini e accappatoio: day spa a 30 € la giornata, 25 € il pomeriggio, 37 € nel weekend (tariffe di un articolo del novembre 2024, da riverificare). Alternativa al Bagno Grande, non sommata.",
+          "min": 30,
+          "max": 37,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Musei di Cortona e Chiusi",
+          "testo": "MAEC di Cortona, Museo Archeologico Nazionale e Labirinto di Porsenna a Chiusi: prezzi 2026 non verificati, da controllare sui siti ufficiali.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante, pedaggi e parcheggi sono della vettura e si dividono per due; alloggio (metà della doppia), pasti, Palazzo Piccolomini e ingressi alle terme sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "I centri storici di Pienza, Montepulciano, Cortona e San Quirico sono ZTL con telecamere che mandano la multa a casa: si lascia l'auto nei parcheggi alle porte (a Pienza 1,80-2 € l'ora) e si sale a piedi. D'estate il parcheggio di Pienza si riempie a metà mattina."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Theia a Chianciano è chiusa il martedì; Fonteverde chiude alle 15 il martedì. Antica Querciolaia apre 9-19 nei feriali, 9-20 la domenica e fino all'una il sabato; Terme San Giovanni 9-20 da lunedì a giovedì, fino alle 22 venerdì e domenica."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per Rapolano conviene comprare l'ingresso online, soprattutto per il sabato sera; le visite alle cantine di Montepulciano si prenotano di solito in anticipo. Nei fine settimana di maggio e ottobre conviene bloccare l'alloggio con largo anticipo, perché le strutture con piscina sono le prime a riempirsi."
+        }
+      ],
+      "note": "Il trucco della settimana è alternare: borgo la mattina, quando i parcheggi sono liberi e la luce sulle colline è più bella, terme nel pomeriggio, quando i gruppi in pullman sono già ripartiti. Il sabato sera vale la pena di restare in acqua: Antica Querciolaia apre fino all'una, Theia fa i bagni di notte fino a mezzanotte, Val di Sole chiude a mezzanotte nel weekend. A Bagno Vignoni non entrate nella vasca della piazza (è vietato): l'acqua calda libera è sotto il paese, nei canali del Parco dei Mulini e del Fosso Bianco, dove si mettono a bagno i piedi guardando la valle. Al Bagno Grande di San Casciano andate di mattina presto nei giorni feriali: d'inverno la nebbia sull'acqua a 39 °C è lo spettacolo migliore della settimana. Per i pasti, le trattorie di paese costano meno dei locali sulle piazze principali; da provare i pici al ragù e il pecorino di Pienza comprato direttamente dai produttori.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Montepulciano/",
+        "https://www.avygeo.com/it/guide/europa/italia/r-808-val-d-orcia",
+        "https://www.avygeo.com/it/guide/europa/italia/r-808-val-d-orcia/dove-dormire",
+        "https://www.agriturismo.it/it/agriturismi/val_d_orcia",
+        "https://www.agriturismi.it/it/toscana/pienza/agriturismo_lucciola_bella.html",
+        "https://travelcostcalculator.org/unesco/historic-centre-of-the-city-of-pienza",
+        "https://viatravelers.com/?p=249907",
+        "https://travel.thewom.it/italia/toscana/bagno-vignoni-terme.html",
+        "https://discovertuscany.com/it/cosa-fare-in-toscana/terme-economiche-in-toscana.html",
+        "https://siviaggia.it/idee-di-viaggio/terme-chianciano/558879/amp/",
+        "https://siviaggia.it/idee-di-viaggio/terme-di-rapolano-san-giovanni-e-antica-querciolaia/127596/amp/",
+        "https://siviaggia.it/idee-di-viaggio/terme-san-casciano-dei-bagni/490933/"
+      ],
+      "aggiuntaIl": "2026-11-18",
+      "coordinate": {
+        "lat": 43.085,
+        "lon": 11.73
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni vanno bene la base fissa e i tragitti brevi; Theia ha il ridotto bambini, ma il Bagno Grande a 39 °C senza servizi e le serate termali sono più da adulti."
       }
     },
     {

@@ -237,3 +237,32 @@ doppioni.
   rotte Ryanair stagionali o sospese). Restano buone le sostitute domestiche (Elba, Lago Maggiore).
 - `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
   pubblicato solo su `viaggi-dati`.
+
+## Nota dalla run del 18 novembre 2026
+- Primo turno: 38 agenti in cinque ondate (30 da 7-14 giorni con opus, 6 da 3 giorni con sonnet)
+  più 3 completamenti (Sudafrica NE noleggio, Angola trasferimenti 4x4, Nuova Caledonia voli
+  interni Vanuatu), tetto 5 WebSearch ciascuno: 34 schede valide e 2 SKIP (Finnmark e Capo Nord:
+  anello di 1.700 km non esauribile in 7 giorni e noleggio sola andata Alta→Kirkenes non
+  verificabile; Kosovo: nessun volo diretto 2026 per Pristina da FLR/PSA/BLQ). Pubblicate subito
+  31 schede (commit 1a33f94, catalogo a 842); 3 tenute in `pending/` per pasti senza numeri
+  (Appennino tosco-emiliano, Bergamo-Brescia, Ticino). L'agente delle isole minori di Sicilia ha
+  tolto Ustica dal circuito: id e nome allineati a «Egadi, Pantelleria e Lampedusa».
+- Secondo turno (`send_later` dopo 3 minuti): 3 completamenti pasti + 5 mete da 2 giorni + 4 da 1
+  giorno (sonnet) + 2 sostitute da 7 giorni (Molise completo, Val d'Orcia-Val di Chiana-Crete
+  senesi, opus) in due ondate, più un completamento vettura per Fivizzano (l'agente sonnet aveva
+  lasciato km e pedaggi fuori dal totale). Totale notte: 45 mete nuove (4 da 1, 5 da 2, 6 da 3,
+  18 da 7, 12 da 14), catalogo a 856.
+- Chiedere esplicitamente «la voce pranzo DEVE avere min/max, altrimenti la scheda non viene
+  pubblicata» ha funzionato per le 2 giorni (tutte con pasti numerici al primo colpo); per le
+  1 giorno controllare anche la voce vettura, che gli agenti sonnet lasciano fuori dal totale se
+  non trovano i km su una fonte (basta ViaMichelin/Unipol Move per km e pedaggio).
+- Per le 14 giorni molto remote (Molucche, Vanuatu, Angola) alcune tariffe interne vengono da
+  siti non ufficiali o senza data: sono dichiarate in `costoNota` come minimi, non fasce 2026.
+- Il catalogo è saturo anche per le sotto-regioni europee: le 7 giorni di stanotte sono in gran
+  parte sotto-regioni italiane (isole del Golfo, Appennino tosco-emiliano, Sibillini, Costa degli
+  Etruschi, Sardegna centro-occidentale, Calabria meridionale, Emilia occidentale, Alpi Giulie,
+  Molise, Val d'Orcia) o circuiti insulari (Isole del Canale, Åland). Prossime idee non ancora
+  in catalogo: Lemno-Thassos-Samotracia, Azzorre centrali, Shropshire e Marca gallese, Pays
+  Basque francese, Alta Baviera già fatta.
+- `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
+  pubblicato solo su `viaggi-dati`.
