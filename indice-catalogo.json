@@ -1733,6 +1733,11 @@
    3
   ],
   [
+   "ascoli-piceno-offida-e-i-monti-sibillini-3g",
+   "Ascoli Piceno, Offida e i Monti Sibillini",
+   3
+  ],
+  [
    "barcellona-3g",
    "Barcellona",
    3
@@ -2038,6 +2043,11 @@
    3
   ],
   [
+   "novi-sad-e-la-vojvodina-3g",
+   "Novi Sad e la Vojvodina: Sremski Karlovci, Fruška Gora e Subotica",
+   3
+  ],
+  [
    "oristano-bosa-e-sinis-3g",
    "Sardegna ovest: Oristano, Bosa e la penisola del Sinis",
    3
@@ -2050,6 +2060,11 @@
   [
    "padova-vicenza-e-le-ville-del-palladio-3g",
    "Padova, Vicenza e le ville del Palladio",
+   3
+  ],
+  [
+   "parco-nazionale-d-abruzzo-3g",
+   "Parco Nazionale d'Abruzzo: Pescasseroli, Scanno, Barrea, Civitella Alfedena e Opi",
    3
   ],
   [
@@ -2110,6 +2125,11 @@
   [
    "sciacca-selinunte-e-la-sicilia-sud-occidentale-3g",
    "Sciacca, Selinunte, Menfi e Caltabellotta: la Sicilia sud-occidentale",
+   3
+  ],
+  [
+   "slovenia-costiera-e-carso-3g",
+   "Slovenia costiera e Carso: Pirano, Capodistria, Postumia, Predjama e Lipica",
    3
   ],
   [
@@ -2208,6 +2228,11 @@
    7
   ],
   [
+   "aland-e-arcipelago-di-turku-7g",
+   "Isole Åland e arcipelago di Turku: Mariehamn, Kastelholm, Turku e Naantali",
+   7
+  ],
+  [
    "albania-del-nord-e-alpi-albanesi-7g",
    "Albania del Nord: Scutari, Theth, Valbona, il Lago di Koman e Kruja",
    7
@@ -2233,6 +2258,11 @@
    7
   ],
   [
+   "alpi-giulie-e-carniche-7g",
+   "Alpi Giulie e Carniche: Tarvisio, i laghi di Fusine, Sella Nevea, Val Resia, Sauris, Sappada e Forni di Sopra",
+   7
+  ],
+  [
    "alpi-marittime-e-verdon-7g",
    "Costa Azzurra e Alpi Marittime: Nizza, Mentone, Mercantour e Gole del Verdon",
    7
@@ -2245,6 +2275,11 @@
   [
    "alsazia-e-vosgi-7g",
    "Alsazia e Vosgi: Colmar, Mulhouse, la Route des Vins e i Ballons",
+   7
+  ],
+  [
+   "alta-baviera-e-svevia-bavarese-7g",
+   "Alta Baviera e Svevia bavarese: Monaco, Augusta, Ulm, Ingolstadt, Landsberg e i laghi di Starnberg e Ammersee",
    7
   ],
   [
@@ -2408,6 +2443,11 @@
    7
   ],
   [
+   "calabria-meridionale-e-aspromonte-7g",
+   "Calabria meridionale e Aspromonte: Reggio, Scilla, Gerace, Stilo e la Costa dei Gelsomini",
+   7
+  ],
+  [
    "calabria-tirrenica-e-pollino-7g",
    "Calabria tirrenica e Pollino: Tropea, Pizzo, Diamante, Scalea, Civita, Morano Calabro e la Sila",
    7
@@ -2498,6 +2538,16 @@
    7
   ],
   [
+   "costa-daurada-tarragona-e-delta-dell-ebro-7g",
+   "Costa Daurada, Tarragona e Delta dell'Ebro: Tarragona, Reus, Sitges, Montblanc, Priorat e il Delta",
+   7
+  ],
+  [
+   "costa-degli-etruschi-e-colline-metallifere-7g",
+   "Costa degli Etruschi e Colline Metallifere: Bolgheri, Populonia, Suvereto, Massa Marittima, Volterra e Larderello",
+   7
+  ],
+  [
    "costa-licia-7g",
    "Costa licia: Antalya, Kaş e Fethiye",
    7
@@ -2525,6 +2575,11 @@
   [
    "croazia-continentale-7g",
    "Croazia continentale: Zagabria, Varaždin, Plitvice, Slavonia e Kopački Rit",
+   7
+  ],
+  [
+   "dalmazia-settentrionale-7g",
+   "Dalmazia settentrionale: Zara, Šibenik, Krka, Paklenica, Nin e le Kornati",
    7
   ],
   [
@@ -2558,8 +2613,18 @@
    7
   ],
   [
+   "egadi-pantelleria-e-lampedusa-7g",
+   "Isole minori di Sicilia: Egadi, Pantelleria e Lampedusa",
+   7
+  ],
+  [
    "egeo-nord-orientale-7g",
    "Egeo nord-orientale: Samos, Chios e Lesbo",
+   7
+  ],
+  [
+   "emilia-occidentale-7g",
+   "Emilia occidentale: Piacenza, Parma, i Castelli del Ducato, Val Trebbia e Val di Taro",
    7
   ],
   [
@@ -2713,6 +2778,11 @@
    7
   ],
   [
+   "ischia-procida-e-capri-7g",
+   "Ischia, Procida e Capri: le isole del Golfo in una settimana",
+   7
+  ],
+  [
    "isola-d-elba-completa-7g",
    "Isola d'Elba completa: Portoferraio, Monte Capanne, le spiagge della costa ovest e Pianosa",
    7
@@ -2720,6 +2790,11 @@
   [
    "isole-danesi-7g",
    "Isole danesi: Fionia (Odense), Møn, Lolland-Falster e Bornholm",
+   7
+  ],
+  [
+   "isole-del-canale-e-cotentin-7g",
+   "Isole del Canale e Cotentin: Jersey, Guernsey, Cherbourg, Granville e Mont-Saint-Michel",
    7
   ],
   [
@@ -2918,6 +2993,11 @@
    7
   ],
   [
+   "monti-sibillini-e-marche-interne-7g",
+   "Monti Sibillini e Marche interne: Norcia, Castelluccio, Visso, Sarnano, Ascoli e Fermo",
+   7
+  ],
+  [
    "moravia-7g",
    "Moravia: Brno, Olomouc, Lednice-Valtice, Mikulov, Kroměříž e il Carso moravo",
    7
@@ -3103,6 +3183,11 @@
    7
   ],
   [
+   "sardegna-centro-occidentale-7g",
+   "Sardegna centro-occidentale: Oristano, Sinis, Bosa, Montiferru, Barumini e la Costa Verde",
+   7
+  ],
+  [
    "sardegna-del-sud-e-sulcis-7g",
    "Sardegna del Sud e Sulcis: Cagliari, Sant'Antioco, Carloforte e la Costa Verde",
    7
@@ -3253,6 +3338,11 @@
    7
   ],
   [
+   "tunisia-settentrionale-e-capo-bon-7g",
+   "Tunisia settentrionale e Capo Bon: Bizerte, Tabarka, Dougga, Bulla Regia, Kelibia e Hammamet",
+   7
+  ],
+  [
    "turchia-egea-smirne-efeso-e-pamukkale-7g",
    "Turchia egea: Smirne, Efeso e Pamukkale",
    7
@@ -3308,6 +3398,11 @@
    7
   ],
   [
+   "var-e-isole-di-hyeres-7g",
+   "Var e isole di Hyères: Tolone, Hyères, Porquerolles, Saint-Tropez, Bormes e il massiccio dei Maures",
+   7
+  ],
+  [
    "veneto-completo-7g",
    "Veneto completo: Padova, Vicenza, Verona e le Dolomiti bellunesi",
    7
@@ -3330,6 +3425,11 @@
   [
    "alaska-14g",
    "Alaska: Anchorage, Kenai, Denali e i fiordi",
+   14
+  ],
+  [
+   "angola-14g",
+   "Angola: Luanda, Kalandula, Benguela, Lubango, Tundavala e il deserto del Namibe",
    14
   ],
   [
@@ -3365,6 +3465,11 @@
   [
    "argentina-del-nord-ovest-14g",
    "Argentina del Nord-Ovest e Mendoza: Salta, Jujuy, Córdoba e Mendoza",
+   14
+  ],
+  [
+   "arizona-completa-14g",
+   "Stati Uniti: Arizona completa: Phoenix, Sedona, Grand Canyon, Lake Powell, Tucson, Saguaro, Tombstone e Chiricahua",
    14
   ],
   [
@@ -3465,6 +3570,11 @@
   [
    "brasile-del-sud-14g",
    "Brasile del Sud: Florianópolis, Curitiba, Serra Gaúcha e Porto Alegre",
+   14
+  ],
+  [
+   "brasile-del-sud-est-14g",
+   "Brasile del Sud-Est: San Paolo, Costa Verde, Ilhabela, Ubatuba, Ilha Grande, Campos do Jordão e Santos",
    14
   ],
   [
@@ -3570,6 +3680,11 @@
   [
    "corea-del-sud-meridionale-e-jeju-14g",
    "Corea del Sud meridionale e Jeju: Busan, Gyeongju, Tongyeong, Suncheon, Jeonju e l'isola di Jeju",
+   14
+  ],
+  [
+   "corea-del-sud-occidentale-14g",
+   "Corea del Sud occidentale e Jeolla: Incheon, Suwon, Gongju, Buyeo, Jeonju, Gwangju, Boseong, Yeosu e le isole del Mare Giallo",
    14
   ],
   [
@@ -3685,6 +3800,11 @@
   [
    "hawaii-14g",
    "Hawaii",
+   14
+  ],
+  [
+   "henan-e-hubei-14g",
+   "Cina centrale: Henan e Hubei: Zhengzhou, Shaolin, Kaifeng, Yuntai Shan, Wuhan, Wudangshan, Shennongjia e le Tre Gole da Yichang",
    14
   ],
   [
@@ -3813,6 +3933,11 @@
    14
   ],
   [
+   "molucche-14g",
+   "Indonesia: Molucche: Ambon, le isole Banda, Ternate, Tidore e Halmahera",
+   14
+  ],
+  [
    "mongolia-14g",
    "Mongolia",
    14
@@ -3828,8 +3953,18 @@
    14
   ],
   [
+   "mozambico-meridionale-14g",
+   "Mozambico meridionale: Maputo, Inhambane, Tofo, Vilanculos, l'arcipelago di Bazaruto e Ponta do Ouro",
+   14
+  ],
+  [
    "new-england-14g",
    "New England: Boston, Cape Cod, Maine, Vermont e New Hampshire",
+   14
+  ],
+  [
+   "nuova-caledonia-e-vanuatu-14g",
+   "Nuova Caledonia e Vanuatu: Nouméa, Isola dei Pini, Lifou, Port Vila, Tanna e Espiritu Santo",
    14
   ],
   [
@@ -3848,6 +3983,11 @@
    14
   ],
   [
+   "oregon-completo-14g",
+   "Stati Uniti: Oregon completo: Portland, Columbia Gorge, Mount Hood, Crater Lake, la costa dell'Oregon, Bend e le Painted Hills",
+   14
+  ],
+  [
    "pacifico-del-sud-isole-cook-e-samoa-14g",
    "Pacifico del Sud: Isole Cook e Samoa: Rarotonga, Aitutaki, Upolu e Savai'i",
    14
@@ -3855,6 +3995,11 @@
   [
    "panama-14g",
    "Panama: canale, Bocas del Toro, San Blas e Boquete",
+   14
+  ],
+  [
+   "patagonia-atlantica-e-terra-del-fuoco-14g",
+   "Argentina: Patagonia atlantica e Terra del Fuoco: Península Valdés, Puerto Madryn, Punta Tombo, Trelew, Ushuaia e Río Gallegos",
    14
   ],
   [
@@ -3978,6 +4123,11 @@
    14
   ],
   [
+   "sudafrica-del-nord-est-14g",
+   "Sudafrica del Nord-Est: Johannesburg, Pretoria, Kruger, Panorama Route, Blyde River, Pilanesberg e Madikwe",
+   14
+  ],
+  [
    "sudafrica-occidentale-e-capo-14g",
    "Sudafrica occidentale: Città del Capo, Penisola del Capo, Winelands, Garden Route, Cederberg e West Coast",
    14
@@ -4000,6 +4150,11 @@
   [
    "tanzania-del-sud-14g",
    "Tanzania del Sud: Ruaha, Nyerere, Mikumi, Udzungwa e l'isola di Mafia",
+   14
+  ],
+  [
+   "tasmania-completa-14g",
+   "Australia: Tasmania completa: Hobart, Port Arthur, Freycinet, Bay of Fires, Launceston, Cradle Mountain, Strahan e Bruny Island",
    14
   ],
   [
@@ -4242,6 +4397,8 @@
   "giura-e-franca-contea-7g",
   "podgorica-cettigne-lago-di-scutari-e-budva-3g",
   "lanzarote-in-tre-giorni-3g",
-  "amman-jerash-e-il-mar-morto-3g"
+  "amman-jerash-e-il-mar-morto-3g",
+  "finnmark-e-capo-nord-7g",
+  "kosovo-7g"
  ]
 }
