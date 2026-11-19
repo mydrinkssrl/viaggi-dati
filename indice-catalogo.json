@@ -2213,6 +2213,11 @@
    3
   ],
   [
+   "tenerife-in-tre-giorni-3g",
+   "Tenerife in tre giorni: Teide, Masca, La Orotava, Garachico e la costa sud",
+   3
+  ],
+  [
    "ticino-in-tre-giorni-3g",
    "Ticino in tre giorni: Lugano, Locarno, Bellinzona e la Valle Verzasca",
    3
@@ -2273,6 +2278,11 @@
    3
   ],
   [
+   "abruzzo-adriatico-7g",
+   "Abruzzo adriatico: Pescara, Costa dei Trabocchi, Atri, Teramo, Civitella del Tronto, Loreto Aprutino e la Majella orientale",
+   7
+  ],
+  [
    "abruzzo-dei-parchi-7g",
    "Abruzzo dei parchi: Gran Sasso, Campo Imperatore, Majella, Parco Nazionale d'Abruzzo, Scanno e Sulmona",
    7
@@ -2303,6 +2313,11 @@
    7
   ],
   [
+   "alpi-cuneesi-e-monviso-7g",
+   "Alpi Cuneesi e Monviso: Valle Gesso, Valle Stura, Valle Maira, Valle Varaita, Limone Piemonte e Saluzzo",
+   7
+  ],
+  [
    "alpi-del-sud-francesi-7g",
    "Alpi del Sud francesi: Briançon, Queyras, Serre-Ponçon, Gap e Sisteron",
    7
@@ -2315,6 +2330,11 @@
   [
    "alpi-giulie-e-carniche-7g",
    "Alpi Giulie e Carniche: Tarvisio, i laghi di Fusine, Sella Nevea, Val Resia, Sauris, Sappada e Forni di Sopra",
+   7
+  ],
+  [
+   "alpi-liguri-e-val-roja-7g",
+   "Alpi Liguri e Val Roja: Triora, Pigna, Dolceacqua, Tenda, Saorge e il Monte Saccarello",
    7
   ],
   [
@@ -2378,6 +2398,11 @@
    7
   ],
   [
+   "appennino-umbro-marchigiano-7g",
+   "Appennino umbro-marchigiano: Gubbio, Fabriano, le Grotte di Frasassi, Camerino, Matelica e la Gola del Furlo",
+   7
+  ],
+  [
    "aragona-7g",
    "Aragona: Saragozza, Teruel e i Pirenei aragonesi",
    7
@@ -2413,6 +2438,11 @@
    7
   ],
   [
+   "azzorre-centrali-7g",
+   "Azzorre centrali: Terceira, Faial, Pico e São Jorge",
+   7
+  ],
+  [
    "baden-wurttemberg-7g",
    "Baden-Württemberg: Stoccarda, Heidelberg, Tubinga e il Lago di Costanza",
    7
@@ -2430,6 +2460,11 @@
   [
    "basilicata-completa-matera-dolomiti-lucane-e-maratea-7g",
    "Basilicata completa: Matera, Dolomiti Lucane e Maratea",
+   7
+  ],
+  [
+   "basilicata-ionica-e-vulture-7g",
+   "Basilicata ionica e Vulture: Metaponto, Policoro, Craco, Aliano, Melfi, Venosa e i laghi di Monticchio",
    7
   ],
   [
@@ -2553,6 +2588,11 @@
    7
   ],
   [
+   "chianti-val-d-elsa-e-volterra-7g",
+   "Chianti, Val d'Elsa e Volterra: una settimana lenta tra Greve, Radda, San Gimignano, Certaldo e Volterra",
+   7
+  ],
+  [
    "cicladi-centrali-7g",
    "Cicladi centrali: Naxos, Paros, Antiparos e le Piccole Cicladi",
    7
@@ -2638,6 +2678,11 @@
    7
   ],
   [
+   "dalmazia-centrale-7g",
+   "Dalmazia centrale e l'entroterra: Spalato, Trogir, Klis, Omiš, Makarska, Imotski e Sinj",
+   7
+  ],
+  [
    "dalmazia-settentrionale-7g",
    "Dalmazia settentrionale: Zara, Šibenik, Krka, Paklenica, Nin e le Kornati",
    7
@@ -2645,6 +2690,11 @@
   [
    "danimarca-completa-7g",
    "Danimarca completa",
+   7
+  ],
+  [
+   "delta-del-po-e-polesine-7g",
+   "Delta del Po e Polesine: Ferrara, Comacchio, Rovigo, Adria, Chioggia e Pomposa",
    7
   ],
   [
@@ -2913,6 +2963,11 @@
    7
   ],
   [
+   "lancashire-cheshire-e-isola-di-man-7g",
+   "Lancashire, Cheshire e Isola di Man: Liverpool, Chester, Lancaster, Blackpool e Douglas",
+   7
+  ],
+  [
    "lanzarote-e-fuerteventura-7g",
    "Lanzarote e Fuerteventura",
    7
@@ -2935,6 +2990,11 @@
   [
    "lefkada-meganisi-e-preveza-7g",
    "Lefkada, Meganisi e Preveza: lo Ionio settentrionale",
+   7
+  ],
+  [
+   "lemno-thassos-e-samotracia-7g",
+   "Lemno, Thassos e Samotracia: le isole dell'Egeo settentrionale da Salonicco e Kavala",
    7
   ],
   [
@@ -3003,6 +3063,11 @@
    7
   ],
   [
+   "malaga-costa-del-sol-e-gibilterra-7g",
+   "Provincia di Malaga e Gibilterra: Malaga, Ronda, Antequera, Caminito del Rey, Nerja e Gibilterra",
+   7
+  ],
+  [
    "marche-complete-7g",
    "Marche complete",
    7
@@ -3033,6 +3098,11 @@
    7
   ],
   [
+   "marocco-orientale-7g",
+   "Marocco orientale e Rif meridionale: Fès, Sefrou, Taza, Oujda, Saidia e i Monti Beni-Snassen",
+   7
+  ],
+  [
    "marsa-alam-e-mar-rosso-egiziano-7g",
    "Marsa Alam e il Mar Rosso egiziano: barriera corallina, Wadi el Gemal e Luxor",
    7
@@ -3045,6 +3115,11 @@
   [
    "minorca-in-una-settimana-7g",
    "Minorca in una settimana: Ciutadella, Maó, le cale del sud, il Camí de Cavalls e Fornells",
+   7
+  ],
+  [
+   "moldova-completa-7g",
+   "Moldova completa: Chișinău, Orheiul Vechi, Soroca, le cantine di Cricova e Mileștii Mici e la Gagauzia",
    7
   ],
   [
@@ -3125,6 +3200,11 @@
   [
    "paesi-baschi-e-navarra-7g",
    "Paesi Baschi e Navarra",
+   7
+  ],
+  [
+   "paesi-baschi-francesi-e-bearn-7g",
+   "Paesi Baschi francesi e Béarn: Biarritz, Bayonne, Saint-Jean-de-Luz, Espelette, Pau e Lourdes",
    7
   ],
   [
@@ -3303,6 +3383,16 @@
    7
   ],
   [
+   "serbia-orientale-e-gole-del-danubio-7g",
+   "Serbia orientale e Gole del Danubio: Niš, Đerdap, Golubac, Lepenski Vir, Felix Romuliana e Đavolja Varoš",
+   7
+  ],
+  [
+   "shropshire-e-marca-gallese-7g",
+   "Shropshire, Herefordshire e Marca gallese: Shrewsbury, Ironbridge, Ludlow, Hereford, Hay-on-Wye e le Malvern Hills",
+   7
+  ],
+  [
    "sicilia-centrale-e-meridionale-7g",
    "Sicilia centrale e meridionale: Agrigento, Piazza Armerina, Caltagirone ed Enna",
    7
@@ -3423,6 +3513,11 @@
    7
   ],
   [
+   "umbria-meridionale-e-valnerina-7g",
+   "Umbria meridionale e Valnerina: Spoleto, Norcia, Cascia, Terni, le Marmore, Narni e Amelia",
+   7
+  ],
+  [
    "ungheria-budapest-balaton-ed-eger-7g",
    "Ungheria: Budapest, Balaton ed Eger",
    7
@@ -3495,6 +3590,11 @@
   [
    "alaska-14g",
    "Alaska: Anchorage, Kenai, Denali e i fiordi",
+   14
+  ],
+  [
+   "alberta-completa-14g",
+   "Canada: Alberta completa: Calgary, Banff, Lake Louise, Icefields Parkway, Jasper, Drumheller, Waterton, Edmonton ed Elk Island",
    14
   ],
   [
@@ -3618,6 +3718,11 @@
    14
   ],
   [
+   "botswana-del-nord-14g",
+   "Botswana del Nord in 4x4: Okavango, Moremi, Khwai, Savuti, Chobe e Makgadikgadi",
+   14
+  ],
+  [
    "botswana-zimbabwe-e-cascate-vittoria-14g",
    "Botswana, Zimbabwe e le Cascate Vittoria",
    14
@@ -3693,6 +3798,11 @@
    14
   ],
   [
+   "chiapas-e-tabasco-14g",
+   "Messico: Chiapas e Tabasco: San Cristóbal, Palenque, Cañón del Sumidero, Lagos de Montebello, Villahermosa e Comalcalco",
+   14
+  ],
+  [
    "cile-centrale-e-isola-di-pasqua-14g",
    "Cile centrale e Isola di Pasqua: Santiago, Valparaíso, Colchagua, Pucón e Rapa Nui",
    14
@@ -3760,6 +3870,11 @@
   [
    "corea-del-sud-orientale-e-gangwon-14g",
    "Corea del Sud orientale e Gangwon: Seoraksan, Gangneung, Andong, Daegu, Pohang e l'isola di Ulleungdo",
+   14
+  ],
+  [
+   "costa-d-avorio-14g",
+   "Costa d'Avorio del Sud: Abidjan, Bingerville, Grand-Bassam, Assinie e Yamoussoukro",
    14
   ],
   [
@@ -3868,6 +3983,11 @@
    14
   ],
   [
+   "guyana-francese-e-suriname-14g",
+   "Guyana francese e Suriname: Cayenne, Kourou, le Isole della Salvezza, Saint-Laurent-du-Maroni, Paramaribo, il fiume Suriname e Brownsberg",
+   14
+  ],
+  [
    "hawaii-14g",
    "Hawaii",
    14
@@ -3875,6 +3995,11 @@
   [
    "henan-e-hubei-14g",
    "Cina centrale: Henan e Hubei: Zhengzhou, Shaolin, Kaifeng, Yuntai Shan, Wuhan, Wudangshan, Shennongjia e le Tre Gole da Yichang",
+   14
+  ],
+  [
+   "hokkaido-completo-14g",
+   "Giappone: Hokkaido completo: Sapporo, Otaru, Hakodate, Furano, Biei, Daisetsuzan, Shiretoko, Kushiro e Akan",
    14
   ],
   [
@@ -3968,6 +4093,11 @@
    14
   ],
   [
+   "maharashtra-e-konkan-14g",
+   "India: Maharashtra e Konkan: Mumbai, Ajanta ed Ellora, Aurangabad, Pune, Nashik, Ratnagiri e Ganpatipule",
+   14
+  ],
+  [
    "maldive-14g",
    "Maldive: Malé, isole locali e atolli",
    14
@@ -4043,6 +4173,16 @@
    14
   ],
   [
+   "nuovo-messico-e-four-corners-14g",
+   "Stati Uniti: Nuovo Messico e Four Corners: Albuquerque, Santa Fe, Taos, White Sands, Carlsbad Caverns, Chaco, Mesa Verde e Monument Valley",
+   14
+  ],
+  [
+   "nusa-tenggara-orientale-sumba-timor-e-alor-14g",
+   "Indonesia: Sumba, Timor occidentale e Alor: le isole di Nusa Tenggara orientale",
+   14
+  ],
+  [
    "oman-14g",
    "Oman",
    14
@@ -4065,6 +4205,11 @@
   [
    "panama-14g",
    "Panama: canale, Bocas del Toro, San Blas e Boquete",
+   14
+  ],
+  [
+   "paraguay-e-missioni-gesuitiche-14g",
+   "Paraguay e le Missioni gesuitiche: Asunción, Trinidad, Jesús, Encarnación, il Chaco, Ciudad del Este e le Misiones argentine",
    14
   ],
   [
@@ -4110,6 +4255,11 @@
   [
    "quebec-completo-14g",
    "Québec completo: Québec City, Charlevoix, Saguenay, Gaspésie e le Îles de la Madeleine",
+   14
+  ],
+  [
+   "queensland-tropicale-14g",
+   "Australia: Queensland tropicale: Cairns, Daintree, Barriera Corallina, Whitsundays, Magnetic Island, Townsville e le Atherton Tablelands",
    14
   ],
   [
@@ -4245,6 +4395,11 @@
   [
    "thailandia-del-sud-14g",
    "Thailandia del Sud: Phuket, Krabi, Koh Lanta e le isole di Trang",
+   14
+  ],
+  [
+   "tuamotu-e-marchesi-14g",
+   "Polinesia francese: Tuamotu e Marchesi: Rangiroa, Fakarava, Nuku Hiva e Hiva Oa",
    14
   ],
   [
@@ -4469,6 +4624,7 @@
   "lanzarote-in-tre-giorni-3g",
   "amman-jerash-e-il-mar-morto-3g",
   "finnmark-e-capo-nord-7g",
-  "kosovo-7g"
+  "kosovo-7g",
+  "agadir-taghazout-e-paradise-valley-3g"
  ]
 }
