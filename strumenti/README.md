@@ -266,3 +266,39 @@ doppioni.
   Basque francese, Alta Baviera già fatta.
 - `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
   pubblicato solo su `viaggi-dati`.
+
+## Nota dalla run del 19 novembre 2026
+- Primo turno: 36 agenti in cinque ondate da 8 (30 da 7-14 giorni con opus, 6 da 3 giorni con sonnet)
+  più 4 completamenti pasti (Paesi Baschi francesi, Shropshire, Nusa Tenggara orientale, Basilicata
+  ionica), tetto 5 WebSearch ciascuno: 34 schede valide e 2 SKIP (Agadir a 3 giorni: nessun volo
+  diretto 2026 verificabile da FLR/PSA/BLQ; Tuscia a 3 giorni: solo budget esaurito, rifatta nel
+  secondo turno, non messa tra le scartate). Pubblicate subito 31 schede (commit 8134803, catalogo
+  a 887); 3 schede sonnet da 3 giorni tenute in `pending/` perché pasti e pedaggi erano stime
+  dichiarate (Bormio, Argentario, Val Gardena). Tre agenti hanno ridimensionato la meta e id/nome
+  sono stati allineati prima di pubblicare: Costa d'Avorio → «Costa d'Avorio del Sud» (la Farnesina
+  sconsiglia Nord e Ovest), «Botswana completo» → «Botswana del Nord in 4x4» (Kalahari centrale e
+  Tsodilo solo come estensione), Tuamotu e Marchesi senza Tikehau.
+- Secondo turno (`send_later` dopo 3 minuti): 5 da 2 giorni + 4 da 1 giorno + Tuscia e la sostituta
+  Caserta-Capua-Matese da 3 giorni + 3 completamenti, in due ondate di 8 più 2 riprese. Due agenti
+  sonnet (Faenza-Brisighella, Acquapendente) si sono fermati senza scrivere il JSON perché il
+  classificatore dei permessi ha negato la WebSearch/WebFetch su UnipolMove: rilanciati da zero con
+  i dati già raccolti nel report e formulazioni di ricerca diverse (ViaMichelin, calcolopercorso,
+  percorsi senza pedaggio), entrambi OK. Totale notte: 45 mete nuove (4 da 1, 5 da 2, 6 da 3, 18 da 7,
+  12 da 14), catalogo a 901.
+- Quando un agente si blocca «per permessi» su un singolo URL, continuare lo stesso agente con
+  SendMessage non serve (riprova lo stesso URL e si ferma di nuovo): meglio un agente nuovo con i dati
+  già verificati nel prompt e la richiesta di formulazioni alternative.
+- I km degli anelli interni e alcuni pedaggi restano stime dichiarate in `costoNota` (Garfagnana,
+  Argentario, Val Gardena, Lemno, Alberta, Nuovo Messico, Botswana): accettati perché l'ordine di
+  grandezza è verificabile a mano e la nota lo dice; le voci pasti sono tutte numeriche e con fonte.
+- `controlla.py` ora riconosce anche le voci «Pranzi» e «Cene» al plurale.
+- Il catalogo è saturo per Europa e Italia anche a livello di sotto-regione: stanotte le 7 giorni
+  nuove sono circuiti di nicchia (Lemno-Thassos-Samotracia, Azzorre centrali, Shropshire e Marca
+  gallese, Lancashire e Isola di Man, Moldova, Serbia orientale, Dalmazia centrale, Alpi Cuneesi, Alpi
+  Liguri e Val Roja, Delta del Po, Chianti-Val d'Elsa-Volterra, Basilicata ionica, Umbria meridionale,
+  Abruzzo adriatico, Appennino umbro-marchigiano, Marocco orientale, Paesi Baschi francesi, Malaga e
+  Gibilterra). Idee ancora libere: Bretagna meridionale e Morbihan, Limosino e Berry, Isole Scilly,
+  Senja e Vesterålen, Dhofar (Oman del Sud), Alessandria d'Egitto e il Delta; per i 14 giorni Hokuriku
+  e Mar del Giappone, Nevada-Utah, Ozarks, Tonga, Palau, Comore, Gabon.
+- `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
+  pubblicato solo su `viaggi-dati`.

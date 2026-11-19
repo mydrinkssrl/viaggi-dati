@@ -2,6 +2,111 @@
   "$schema": "vedi data/METE-EXTRA.md",
   "mete": [
     {
+      "id": "acquapendente-torre-alfina-e-bosco-del-sasseto-1g",
+      "nome": "Acquapendente, Torre Alfina e il Bosco del Sasseto",
+      "sottotitolo": "Alto Lazio, il borgo del Santo Sepolcro e un bosco da fiaba (Monumento Naturale) da girare con la guida",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria: A1 fino a Chiusi-Chianciano (o Fabro), poi la Cassia fino ad Acquapendente, 164 km per tratta e circa 1h35 secondo il calcolatore Unipol Move. Il Bosco del Sasseto e Torre Alfina stanno a pochi chilometri dal paese e senza auto sono scomodi da raggiungere.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h35 in auto (164 km per tratta, 9,50 € di pedaggio a tratta); più i trasferimenti locali verso Torre Alfina.",
+      "durataViaggioMinuti": 100,
+      "periodoMiglioreTesto": "Aprile-giugno, settembre e ottobre: in questi mesi le visite al bosco hanno più turni (da venerdì a domenica in primavera e a ottobre, da mercoledì a domenica in agosto). Da novembre a marzo si entra solo sabato, domenica e festivi, quindi la giornata va scelta sul calendario.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [],
+      "costoMin": 52,
+      "costoMax": 76,
+      "costoNota": "Il totale comprende pranzo, bosco e la vettura divisa in due (328 km A/R a 0,129 €/km più 2 × 9,50 € di pedaggio, assumendo che il 9,50 € indicato dal calcolatore sia per tratta). Esclusi perché non verificati per il 2026: ingresso al Castello di Torre Alfina (una scheda non datata indica 8 € intero e 5 € ridotto, visita su prenotazione), Cattedrale/cripta del Santo Sepolcro (orari e ingresso non trovati) e Museo del Fiore (nessun dato trovato).",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "La giornata ha tre blocchi che non si pestano i piedi: il Bosco del Sasseto, che si fa solo con visita guidata di 2 ore su un anello di 3 km; il pranzo ad Acquapendente; il pomeriggio nel centro con la Cattedrale e la sua cripta. Il castello di Torre Alfina ha una visita guidata separata di 2h30 su prenotazione: infilarla nella stessa giornata è possibile solo se gli orari combaciano, altrimenti va scelto l'uno o l'altro. Con quasi 3h30 di auto tra andata e ritorno resta poco margine, ma non serve un pernottamento.",
+      "cosaVedere": [
+        "Bosco del Sasseto: 61 ettari di bosco, Monumento Naturale dal 2006, che si visitano solo con guida lungo un anello di 3 km in circa 2 ore; è il motivo per cui si viene fin qui, e il sentiero tra gli alberi secolari spiega perché lo chiamano il bosco di Biancaneve.",
+        "Castello di Torre Alfina: il maniero che domina il borgo medievale, con visita guidata di 2h30 su prenotazione; è la tappa da abbinare al bosco, ma parte degli ambienti è privata e non tutto si visita.",
+        "Borgo di Torre Alfina: pochi vicoli di pietra attorno al castello, da girare a piedi prima o dopo la visita al bosco.",
+        "Cattedrale del Santo Sepolcro di Acquapendente: la cripta dell'XI secolo ha 24 colonne che dividono lo spazio in nove navate, e al centro un sacello scavato nella roccia ispirato al Santo Sepolcro di Gerusalemme, per cui Acquapendente è detta la «Gerusalemme d'Europa».",
+        "Centro di Acquapendente: un pranzo con piatti locali in una delle osterie del paese, con budget da 13 a 35 € a persona a seconda che si scelga la pizza o un locale più curato."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto A/R",
+          "testo": "328 km A/R (164 km per tratta) a 0,129 €/km di carburante, circa 42 €, più circa 19 € di pedaggio A1 (9,50 € a tratta), tutto della vettura e diviso per due.",
+          "min": 61,
+          "max": 61,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Bosco del Sasseto - visita guidata",
+          "testo": "8 € ridotto, 10 € intero; gratis fino a 6 anni. Prenotazione obbligatoria.",
+          "min": 8,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo ad Acquapendente",
+          "testo": "13-35 € a persona: pizzeria 13-28 €, trattorie e osterie 15-35 € (menù sui 20 € circa secondo Sluurpy).",
+          "min": 13,
+          "max": 35,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Pranzo e ingresso al bosco sono a persona; carburante e pedaggi sono della vettura e qui divisi per due viaggiatori (61 € in totale, 30,50 € a testa).",
+      "vincoli": [
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il Bosco del Sasseto si visita solo con guida e solo su prenotazione: Vivaticket (boscodelsasseto.com), email boscodelsasseto@comuneacquapendente.it o tel. 0763 719206, entro il giorno prima. I gruppi vanno da 15 a 30 persone."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Orari del bosco: da novembre a marzo solo sabato, domenica e festivi alle 10:30 e alle 14:00/14:30; aprile-giugno e ottobre da venerdì a domenica alle 10:30/11:00 e alle 15:00; luglio alle 10:30 e alle 17:00; agosto da mercoledì a domenica alle 10:30 e alle 17:00; settembre alle 10:30 e alle 16:00."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il Castello di Torre Alfina si visita con guida di 2h30 su prenotazione, separata dal bosco. Un sito di musei indica sabato 15-17 e domenica 10-12 e 15-17, ma senza data: confermare per telefono."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Serve l'auto: parcheggio e orari di ingresso ai singoli luoghi non sono stati verificati, quindi conviene arrivare al bosco con un po' di anticipo sul turno."
+        }
+      ],
+      "note": "Il dettaglio che si scopre solo sul posto: il bosco si fa solo in gruppo guidato, quindi due persone non entrano quando vogliono. Si prenota prima il turno del bosco, poi si costruisce il resto della giornata intorno. Se si vuole anche il castello, chiedere al momento della prenotazione se c'è un turno compatibile. Per un bambino piccolo, il percorso è un anello di 3 km in 2 ore, con passo da gruppo. Per il Museo del Fiore, che non rientra nel totale, verifica apertura e prezzo prima di partire: non abbiamo trovato dati affidabili.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Acquapendente/",
+        "https://www.voloscontato.it/ristoranti/acquapendente-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.sluurpy.it/acquapendente/ristoranti",
+        "https://www.acquapendente.online/eventi/primavera-ad-acquapendente-visita-il-suggestivo-bosco-del-sasseto/",
+        "https://www.funweek.it/roma-news-curiosita-eventi/castello-di-torre-alfina-bosco-di-biancaneve/",
+        "https://acquapendente.artecitta.it/?p=870",
+        "https://lazioshopping.it/blog/luoghi-da-scoprire/bosco-del-sasseto-orari-come-arrivare-e-cosa-vedere/",
+        "https://www.voloscontato.it/guide-per-viaggiatori/visitare-torre-alfina-6-cose-da-vedere-e-da-fare-nel-borgo-medievale-famoso-per-il-castello.php",
+        "https://www.italia.it/en/lazio/acquapendente/sasseto-forest-natural-monument",
+        "https://www.museionline.info/lazio-musei-monumenti/castello-di-torre-alfina",
+        "https://www.italia.it/it/lazio/duomo-acquapendente"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 42.7447,
+        "lon": 11.8636
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il bosco è gratis fino a 6 anni e l'ambiente è da fiaba, ma sono 2 ore a passo di gruppo guidato su 3 km; con un bimbo di 4 anni funziona se regge la camminata."
+      }
+    },
+    {
       "id": "anghiari-e-sansepolcro-1g",
       "nome": "Anghiari e Sansepolcro",
       "sottotitolo": "Toscana (Valtiberina), Piero della Francesca e il borgo della battaglia dipinta da Leonardo",
@@ -9825,6 +9930,125 @@
       }
     },
     {
+      "id": "val-di-bisenzio-1g",
+      "nome": "Val di Bisenzio: Vaiano, la Badia di San Salvatore, Vernio, la Rocca di Cerbaia e Montepiano",
+      "sottotitolo": "Toscana, provincia di Prato: una valle appenninica di abbazie, ville e rocche dei conti Alberti, a 45 km da Firenze",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria: da Firenze per strade ordinarie fino alla SP325 della Val di Bisenzio (circa 45 km fino a Vernio), senza autostrada e quindi senza pedaggi; si risale la valle fermandosi a Vaiano, Vernio, alla Rocca di Cerbaia e a Montepiano. Come confronto, il treno Regionale Firenze S.M.N.–Vaiano/Vernio-Montepiano-Cantagallo (circa 32 minuti per Vaiano, 41-48 per Vernio) porta alle prime due tappe, ma Cerbaia e Montepiano restano scomode senza auto.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1 ora in auto per i 45 km fino a Vernio (stima sul percorso); in treno Regionale 32 min fino a Vaiano e 41-48 min fino a Vernio.",
+      "durataViaggioMinuti": 60,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: orario estivo della Badia di Vaiano (16-18 nel weekend) e boschi di castagno in autunno. Gennaio-febbraio a Montepiano, oltre i 700 m, possono esserci neve e ghiaccio; il 16-17 agosto la Badia di Vaiano è chiusa.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        8
+      ],
+      "costoMin": 17,
+      "costoMax": 28,
+      "costoNota": "Stima per 2 persone in auto: carburante calcolato su 100-125 km A/R a 0,129 €/km (distanza stimata: 45 km Firenze–Vernio più giri tra le tappe). Ingressi gratuiti dove verificati; la Villa del Mulinaccio non ha orari e prezzi confermati online.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "La valle si percorre in un'ora scarsa da fondo a testa: Vaiano, Vernio e Montepiano distano pochi chilometri l'una dall'altra. Le tappe sono cinque, tutte piccole (una badia con chiostro, una villa con parco, una rocca in rovina, un'abbazia romanica e il giardino di Montepiano) e nessuna richiede più di 45-60 minuti. Una giornata basta per vederle con calma e per un pranzo senza fretta; l'unico vincolo è la Badia di Vaiano, aperta solo il sabato e la domenica pomeriggio.",
+      "cosaVedere": [
+        "Badia di San Salvatore a Vaiano: chiostro e museo della Badia, aperti solo sabato e domenica (15-18 in inverno, 16-18 da aprile) e a ingresso gratuito; da programmare per il pomeriggio.",
+        "Villa del Mulinaccio a Vaiano (via della Fattoria 7): nucleo rinascimentale legato al navigatore Filippo Sassetti, poi ampliato dai Vaj; era il centro della più grande fattoria della valle, con 36 poderi. Orari non confermati online: telefonare allo 0574 942476.",
+        "Mumat, Museo delle Macchine Tessili a Mercatale di Vernio: la memoria industriale della valle, ingresso gratuito, aperto venerdì e sabato (altri giorni su prenotazione).",
+        "Rocca di Cerbaia, a Carmignanello a circa 400 m: castello dei conti Alberti (1164, da Federico Barbarossa) con due cinte murarie, oratorio absidato, cisterna a botte e il mastio pentagonale in parte crollato. Sempre aperta e gratuita.",
+        "Badia di Santa Maria a Montepiano: abbazia vallombrosana dell'XI secolo, facciata in arenaria con architrave a draghi e croce, affreschi del 1260-1280 e un grande San Cristoforo. Visita su prenotazione (0574 959904), ingresso gratuito.",
+        "Giardino geometrico del Mulino a Montepiano: giardino con opere di Bruno Saetti, sempre aperto e gratuito, buon posto per una pausa."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante A/R",
+          "testo": "100-125 km A/R (45 km Firenze–Vernio all'andata più i giri tra Vaiano, Cerbaia e Montepiano) a 0,129 €/km: 13-16 € per la vettura. Nessun pedaggio se si evita l'A11 e si resta sulle strade ordinarie fino alla SP325.",
+          "min": 13,
+          "max": 16,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (confronto)",
+          "testo": "5-9 € a tratta in Regionale (da 5 € se prenotato in anticipo, media 9 € il giorno stesso), cioè circa 10-18 € A/R a persona fino a Vernio; non include gli spostamenti a Cerbaia e Montepiano.",
+          "min": 10,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Gratuiti: Badia di Vaiano e museo, Mumat, Rocca di Cerbaia, abbazia e giardino di Montepiano. Villa del Mulinaccio senza prezzo verificato online (telefonare).",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 10 € in pizzeria o bar a Vernio, circa 20 € a persona nei ristoranti e nelle gastronomie del paese (fonte Sluurpy, 12 locali a Vernio con fascia € o €€).",
+          "min": 10,
+          "max": 20,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "La voce Auto è della vettura (13-16 €, divisa per 2 persone); pranzo e ingressi sono a persona. Il treno è solo un confronto e non entra nel totale.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "La Badia di San Salvatore a Vaiano apre solo sabato e domenica: 15-18 nell'orario invernale 2025-26, 16-18 da aprile 2026, chiusa il 16 e 17 agosto. L'orario dell'inverno 2026-27 va ricontrollato."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La Badia di Montepiano si visita su prenotazione (0574 959904); per il Mumat, aperto venerdì e sabato, nei restanti giorni serve prenotare (0574 950478 o 0574 931067)."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Nessun pedaggio usando strade ordinarie fino alla SP325; senza auto si arriva in treno solo a Vaiano e Vernio, non a Cerbaia e Montepiano."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Rocca di Cerbaia è segnalata come sempre aperta, ma la fonte consiglia di confermare gli orari con il Comune prima della visita."
+        }
+      ],
+      "note": "Programma il sabato o la domenica: è l'unico modo per includere la Badia di Vaiano, che apre solo nel pomeriggio, quindi visita Cerbaia e Montepiano la mattina e scendi a Vaiano per le 16. Prenota l'abbazia di Montepiano prima di partire, altrimenti trovi la porta chiusa. Il pranzo a Vernio costa 10-20 € a persona. Se vuoi un'altra rocca dei conti Alberti, a Vernio c'è anche la Rocca di Vernio, che domina la valle.",
+      "fonti": [
+        "https://www.sluurpy.it/vernio",
+        "https://www.pratoturismo.it/media/filer_public/2b/4b/2b4b996e-415b-424b-8e40-8838b7de1e29/orario_musei_e_chieste_estivo_2026_gb.pdf",
+        "https://www.pratoturismo.it/media/filer_public/43/25/432522dd-2439-400d-8d66-8ace90a110a2/orario_musei_inverno_2025-26.pdf",
+        "https://www.museionline.info/toscana-musei-monumenti/rocca-di-cerbaia",
+        "https://museionline.info/toscana-musei-monumenti/villa-del-mulinaccio",
+        "https://pratoturismo.it/en/what/places-to-see/Churches/Abbey-of-S-Maria-in-Montepiano",
+        "https://www.visittuscany.com/it/attrazioni/la-badia-di-santa-maria-a-montepiano/",
+        "https://www.omio.it/treni/firenze/vernio-6nkfp",
+        "https://www.kombo.co/it/treno-Firenze-Vaiano",
+        "https://www.avygeo.com/it/guide/europa/italia/36610-vernio"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 44.0536,
+        "lon": 11.1567
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Rocca e giardino di Montepiano piacciono a un bimbo di 4 anni, ma le visite alle badie sono brevi e serve l'auto per spostarsi."
+      }
+    },
+    {
       "id": "valdarno-san-giovanni-loro-ciuffenna-e-le-balze-1g",
       "nome": "Valdarno: San Giovanni Valdarno, Loro Ciuffenna e le Balze",
       "sottotitolo": "Toscana, la città natale di Masaccio e il borgo sospeso sul canyon con il mulino più antico d'uso in Toscana",
@@ -10049,6 +10273,130 @@
       "bambini": {
         "adatta": "si",
         "nota": "Spiaggia, Pineta di Ponente con laghetto e treno breve; la Villa Puccini è gratis sotto i 6 anni e il fritto di pesce si mangia camminando."
+      }
+    },
+    {
+      "id": "vicchio-dicomano-e-la-val-di-sieve-1g",
+      "nome": "Vicchio, Dicomano e la Val di Sieve: la casa di Giotto, Vespignano e il Beato Angelico",
+      "sottotitolo": "Toscana, Mugello orientale: i paesi natali di Giotto e del Beato Angelico lungo la Sieve",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto lungo la SS67 Tosco-Romagnola fino a Dicomano e poi verso Vicchio e Vespignano (nessun pedaggio): permette di agganciare in giornata il Museo Beato Angelico a Vicchio, la Casa di Giotto a Vespignano (circa 3 km dal paese) e Dicomano senza dipendere dagli orari dei treni. In alternativa Regionale da Firenze S.M.N. per Vicchio o per Dicomano (circa 1 ora, 5-7 € a tratta, 8-13 corse al giorno): comodo e poco più caro, ma per Vespignano serve poi un taxi o una camminata di qualche chilometro.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 50 minuti in auto (stima sul percorso, 40-45 km per tratta); in treno circa 1 ora (59 minuti di media Firenze-Vicchio, 52-59 minuti Firenze-Dicomano).",
+      "durataViaggioMinuti": 50,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: orari estesi alla Casa di Giotto e colline verdi o dorate. Il museo è aperto solo da giovedì a domenica, quindi conviene scegliere un sabato o una domenica. In pieno inverno gli orari si accorciano e nelle valli il freddo e la nebbia sono frequenti.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 23,
+      "costoMax": 51,
+      "costoNota": "Il biglietto del Museo Beato Angelico non è stato verificato e non è compreso nel totale (esiste un biglietto combinato con la Casa di Giotto, prezzo da chiedere ai musei). I km dell'auto sono una stima sul percorso Firenze-Dicomano-Vicchio-Vespignano-Firenze; il prezzo della Casa di Giotto (4 € intero, 3 € ridotto) viene da una pagina non datata e va riconfermato.",
+      "dipendenzaAuto": "auto-opzionale",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Vicchio, Vespignano e Dicomano distano tra loro pochi chilometri (Vespignano è a circa 3 km da Vicchio) e le visite sono musei piccoli: la Casa di Giotto e il Museo Beato Angelico richiedono circa un'ora ciascuno, i due borghi mezz'ora di passeggiata. Una giornata basta per vederli con calma, pranzo in trattoria compreso, senza correre e senza dover dormire. Aprire solo giovedì-domenica è il vero vincolo: la giornata va pianificata sul calendario dei musei.",
+      "cosaVedere": [
+        "Casa di Giotto a Vespignano (località Vespignano 164): la tradizione vuole che qui sia nato il pittore nel 1267; dentro ci sono documenti, una visita virtuale alle sue opere e la ricostruzione di una bottega di affresco del Trecento, in uno spazio pensato per esperienze e laboratori più che come museo tradizionale.",
+        "Museo Beato Angelico a Vicchio: il paese del Beato Angelico, con il museo di arte sacra e religiosità popolare gestito dalla Pro Loco; stessi orari della Casa di Giotto e biglietto combinato disponibile.",
+        "Centro storico di Vicchio: piccolo borgo mugellano da girare a piedi in mezz'ora, utile come base per il pranzo e per collegare le due tappe artistiche.",
+        "Dicomano sul fiume Sieve: borgo di fondovalle dove sostare per un caffè o una passeggiata lungo il fiume; il museo archeologico e la pieve non sono stati verificati, quindi chiedere gli orari al Comune prima di contarci.",
+        "Strada panoramica tra Vicchio e Dicomano nella valle della Sieve: passaggio tra colline coltivate e boschi, con Londa e Rufina solo come eventuale sosta lungo il ritorno."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante)",
+          "testo": "Circa 80-100 km A/R tra Firenze, Dicomano, Vicchio e Vespignano a 0,129 €/km: 10-13 € di benzina. Nessun pedaggio sulla SS67 e sulla SR551: la tratta è tutta statale e gratuita. Parcheggio nei paesi in genere libero (non verificato).",
+          "min": 10,
+          "max": 13,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (alternativa)",
+          "testo": "Regionale Firenze-Vicchio o Firenze-Dicomano: da 5 € a tratta, circa 6-7 € in media il giorno stesso, quindi 10-14 € A/R a persona; durata circa 1 ora, 8-13 corse al giorno. Per due viaggiatori costa 20-28 € contro 10-13 € dell'auto, che inoltre porta fino a Vespignano.",
+          "min": 10,
+          "max": 14,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Casa di Giotto",
+          "testo": "4 € intero, 3 € ridotto (6-14 anni, over 65, gruppi); gratuito sotto i 6 anni. Prezzo da una pagina non datata: riconfermare telefonando.",
+          "min": 3,
+          "max": 4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Beato Angelico",
+          "testo": "Prezzo non verificato: esiste un biglietto combinato con la Casa di Giotto, da chiedere in biglietteria. Non è incluso nel totale.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "15-20 € per le opzioni più economiche, 25-40 € per un pasto completo con bevande, secondo la stima per Vicchio di Sluurpy; il sito segna circa 10 € alla Casa del Prosciutto e circa 20 € per la maggior parte delle trattorie.",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante a carico della vettura, diviso tra i due viaggiatori; ingressi e pranzo sono a persona. Il treno è una voce di confronto e non entra nel totale.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Casa di Giotto e Museo Beato Angelico aprono solo da giovedì a domenica. Inverno (fino a fine maggio): giovedì e venerdì 14-18, sabato e domenica 10-18; estate (giugno-settembre): giovedì e venerdì 15-19, sabato e domenica 9-13 e 15-19. Orari 2025-26 verificati; quelli per l'inverno 2026-27 non sono ancora confermati. Chiusi a Pasqua, 1 maggio e 25 dicembre."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione per la visita libera; visite guidate e laboratori vanno prenotati chiamando la Casa di Giotto (055 8448251 in orario di apertura, oppure 338 5847297)."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Nessun pedaggio e nessuna ZTL segnalata sul percorso; Vespignano è a circa 3 km da Vicchio, quindi senza auto servono taxi o una camminata."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il treno ha un'ultima corsa serale attorno alle 21: se si rientra con il Regionale, programmare la cena prima di quell'ora."
+        }
+      ],
+      "note": "Il Mugello propriamente detto (Scarperia, Borgo San Lorenzo) è già in catalogo a 1 giorno: qui si resta tra Vicchio, Dicomano e Vespignano, con Londa e Rufina solo di passaggio. Chiamare i musei il giorno prima per confermare l'apertura è la mossa più utile, perché gli orari cambiano tra stagione invernale ed estiva e il prezzo del biglietto singolo non è pubblicato in modo chiaro. Il Museo archeologico di Dicomano e la Pieve di San Giovanni Maggiore non sono stati verificati (orari e ingressi): contarci solo dopo aver sentito il Comune. Sluurpy indica 25 indirizzi a Vicchio e dintorni, tra cui Trattoria Giotto e Ristorante Mattagnano, entrambi con buone valutazioni.",
+      "fonti": [
+        "https://musei.mugellotoscana.it/en/?p=1658",
+        "https://discovermugello.it/?p=3962",
+        "https://www.clone.mugellotoscana.it/en/opening-hours-2024-museums-vicchio.html",
+        "https://www.visittuscany.com/it/attrazioni/museo-casa-di-giotto/",
+        "https://www.omio.it/treni/firenze/vicchio-079ci",
+        "https://www.omio.it/treni/firenze/dicomano",
+        "https://www.sluurpy.it/vicchio/ristoranti",
+        "https://www.sluurpy.it/vicchio/economico",
+        "https://www.sluurpy.it/vicchio/toscana"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 43.9167,
+        "lon": 11.4833
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni la Casa di Giotto con laboratori e bottega ricostruita funziona, ma due musei e il viaggio possono stancare; ingresso gratuito sotto i 6 anni."
       }
     },
     {
@@ -10284,6 +10632,261 @@
       "bambini": {
         "adatta": "si",
         "nota": "Modelli interattivi delle macchine di Leonardo, ologramma ad Anchiano e laboratori per famiglie la seconda domenica del mese; la Strada Verde è sterrata e poco adatta al passeggino."
+      }
+    },
+    {
+      "id": "zocca-guiglia-e-i-sassi-di-roccamalatina-1g",
+      "nome": "Zocca, Guiglia e i Sassi di Roccamalatina",
+      "sottotitolo": "Emilia-Romagna, Appennino modenese: le guglie di arenaria del Parco dei Sassi, i borghi di Guiglia e Zocca, crescentine e borlenghi",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria, da soli o in due: la zona non ha treni e i bus locali non permettono di legare Zocca, Guiglia e il Parco in una giornata. Dall'A1 si esce a Rioveggio o Sasso Marconi (Firenze–Sasso Marconi: 99 km, 8,00 € a tratta) e si sale per le strade provinciali verso Zocca; il percorso più rapido da Firenze a Zocca è di circa 111,6 km. In alternativa si può passare dal Passo della Futa e da Vergato senza pedaggio: i chilometri sono simili ma si guida più lentamente, tra curve di montagna.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h43 in auto da Firenze a Zocca (111,6 km); Guiglia e il Centro Parco Il Fontanazzo sono 15-20 minuti più in là.",
+      "durataViaggioMinuti": 103,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: il Borgo dei Sassi è aperto (da Pasqua al 1° novembre, nei fine settimana) e i sentieri sono asciutti. In inverno le strade a 600-700 m possono avere neve o ghiaccio e i servizi del parco si riducono.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        12
+      ],
+      "costoMin": 32,
+      "costoMax": 67,
+      "costoNota": "Escluso il biglietto per la salita al Sasso della Croce: il prezzo non è riportato nelle fonti consultate, chiedere al Centro Visite del Borgo dei Sassi.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Il Parco dei Sassi e i due paesi stanno in un raggio di circa 15 km: una mattina a piedi tra Pieve di Trebbio, il Borgo dei Sassi e (nei giorni di apertura) il Sasso della Croce, un pranzo a base di crescentine o borlenghi e un pomeriggio tra Guiglia e Zocca riempiono bene la giornata. L'unico limite sono i tempi di guida: oltre 3 ore e mezza di auto tra andata e ritorno, per cui conviene partire presto e non aggiungere altre tappe. Un pernottamento non è necessario.",
+      "cosaVedere": [
+        "Sassi di Roccamalatina: le guglie di arenaria alte decine di metri, simbolo del Parco regionale, si vedono da molti punti ma l'effetto migliore è dal sentiero ad anello che parte dal parcheggio del Fontanazzo (Itinerario n. 3 del Parco).",
+        "Pieve di Trebbio e Centro Parco Il Fontanazzo: la pieve è un'antica casa colonica con una mostra permanente sul patrimonio naturale dell'area protetta, un sentiero botanico e un'ampia area parcheggio; è il punto di partenza più comodo.",
+        "Borgo dei Sassi (Rocca di Sopra): borgo medievale con edifici dei secoli XIV-XV e l'Oratorio della Madonna dei Sassi con bassorilievi quattrocenteschi; da qui parte la scala che porta al Sasso della Croce, con vista a 360 gradi e possibili avvistamenti di falchi pellegrini.",
+        "Mulino della Riva e Sant'Apollonia: tappe lungo l'anello, con area picnic e barbecue alla sorgente della Riva e, dopo la salita più dura, un villaggio con trattoria.",
+        "Museo del Castagno e del Borlengo di Zocca: piccolo museo dedicato alla civiltà del castagno e al borlengo, la sfoglia sottile cotta sulla piastra, tipica del posto.",
+        "Zocca e Guiglia: due paesi dell'Appennino modenese dove mangiare crescentine con salumi e lardo; a Guiglia sono segnalati anche vari agriturismi con cucina del territorio."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante e pedaggi",
+          "testo": "Circa 223 km A/R Firenze–Zocca (111,6 km a tratta) più circa 30 km di spostamenti locali tra Zocca, Guiglia e il Fontanazzo: ~33 € di carburante a 0,129 €/km. Pedaggio A1 Firenze–Sasso Marconi 8,00 € a tratta (16 € A/R): zero passando dalla Futa, 16 € via autostrada. Totale vettura 33-49 €, diviso per due.",
+          "min": 33,
+          "max": 49,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo del Castagno e del Borlengo",
+          "testo": "2 € intero, 1 € ridotto; aperto domeniche e festivi, 10-18. Facoltativo.",
+          "min": 0,
+          "max": 2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "15-20 € per una crescentina o un piatto veloce, 25-40 € per un pasto completo in trattoria a Zocca o Guiglia, bevande incluse.",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Benzina e pedaggi sono della vettura e si dividono per due (16,5-24,5 € a persona); museo e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nessun trasporto pubblico utile: serve l'auto. Il Fontanazzo ha un ampio parcheggio a Pieve di Trebbio; le strade provinciali sono strette e con curve."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Centro Visite del Borgo dei Sassi, da cui parte la salita al Sasso della Croce, risulta aperto sabato, domenica e festivi (10-12 e 13-19) da Pasqua al 1° novembre. Il Museo del Castagno è aperto solo domenica e festivi, 10-18. Gli orari vengono da schede non recentissime: confermare prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La salita al Sasso della Croce richiede un biglietto, acquistabile all'Info Point prima della scala. Per percorrere l'Itinerario n. 4 quando il centro è chiuso (gruppi) contattare il Fontanazzo: 059 795721."
+        }
+      ],
+      "note": "Programmate la giornata nel weekend tra Pasqua e inizio novembre: è l'unico momento in cui sono aperti insieme il Centro Visite del Borgo dei Sassi e il Museo del Castagno. Un'alternativa al pranzo in paese è il picnic con barbecue al Mulino della Riva, lungo l'anello. Il tratto dal Passo della Futa è più lento ma gratuito e panoramico; con il ritorno in serata l'A1 è più rapida. Il Castello di Guiglia si vede dal paese, ma non ho trovato orari e prezzi verificati: informarsi sul posto.",
+      "fonti": [
+        "https://www.sluurpy.it/zocca/ristorante",
+        "https://www.sluurpy.it/guiglia/gastronomia",
+        "https://emiliaromagnaturismo.it/en/itineraries/sassi-di-roccamalatina-regional-park-exploration",
+        "https://parks.it/parco.sassi.roccamalatina/Eser.php",
+        "https://www.parks.it/parco.sassi.roccamalatina/Ecen_dettaglio.php?id=57",
+        "https://www.museionline.info/musei/museo-del-castagno-e-del-borlengo",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Sasso-Marconi/",
+        "https://www.percorsokm.it/it-it/percorso-da-Firenze-a-Zocca"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 44.39,
+        "lon": 10.98
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "L'anello del Parco è fattibile solo a tratti con un bimbo di 4 anni; la salita al Sasso della Croce è meglio evitarla, mentre picnic e museo vanno bene."
+      }
+    },
+    {
+      "id": "acqui-terme-ovada-e-alto-monferrato-2g",
+      "nome": "Acqui Terme, Ovada e l'Alto Monferrato",
+      "sottotitolo": "Piemonte, la città delle acque calde e le colline del Dolcetto e del Brachetto",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria: circa 297 km a tratta (594 km A/R) per autostrada, con itinerario indicato dal calcolatore UnipolMove sulle tratte A1, A15, A7 e A26; l'auto serve anche in loco, perché Ovada, Tagliolo e Rocca Grimalda non hanno collegamenti comodi per una gita di un solo fine settimana. Senza auto la meta non è praticabile in 2 giorni: i treni richiedono più cambi e la parte collinare resta fuori.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h50 in auto per 297 km (più qualche minuto ai caselli); 5h40 di guida complessiva tra andata e ritorno.",
+      "durataViaggioMinuti": 180,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: colline verdi o in vendemmia, Villa Ottolenghi aperta (stagione 2026 dal 19 aprile al 22 novembre, solo sabato e domenica). Da evitare luglio e agosto per il caldo afoso della valle della Bormida; in inverno le terme restano piacevoli ma Villa Ottolenghi è chiusa e le colline sono spesso nebbiose.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 168,
+      "costoMax": 338,
+      "costoNota": "Costo a persona per due viaggiatori con auto condivisa: carburante e pedaggi di vettura divisi per due. Il listino di Terme di Acqui e Lago delle Sorgenti non è stato verificato per il 2026, quindi l'ingresso alle terme non è incluso nel totale. La fascia alta comprende Villa Ottolenghi e una degustazione in cantina o al castello.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Acqui Terme si gira a piedi in mezza giornata: La Bollente, il Duomo romanico, il Castello dei Paleologi con il museo archeologico e la Zona Bagni sulla Bormida sono tutti entro un chilometro e mezzo. La seconda giornata basta per spostarsi a Ovada (circa 25 km) e salire a un castello o a una cantina del Dolcetto senza correre, e per rientrare con calma. Con un solo giorno si perderebbero metà delle tappe dopo quasi sei ore di strada; con tre giorni, a fronte di soli tre o quattro punti d'interesse, il ritmo diventerebbe lento. Il vincolo vero sono le sei ore complessive di guida, per questo la scheda ha pertinenza bassa.",
+      "cosaVedere": [
+        "La Bollente, nel centro di Acqui: edicola ottagonale in marmo sopra una sorgente che sgorga a circa 74,5 °C, con 560 litri al minuto; si può toccare l'acqua e sentire l'odore di zolfo, ed è il simbolo della città.",
+        "Duomo di Santa Maria Assunta: chiesa romanica consacrata nel 1067, custodisce il trittico di Bartolomeo Bermejo, un pezzo di pittura spagnola del Quattrocento inatteso in Piemonte.",
+        "Museo archeologico civico nel Castello dei Paleologi: sei sale dalla preistoria al Medioevo, con i reperti dell'acquedotto romano e della città di Aquae Statiellae, più il giardino botanico del castello.",
+        "Zona Bagni e Lago delle Sorgenti: la riva destra della Bormida con le Antiche Terme e il laghetto alimentato da sette sorgenti a 45-55 °C, dove fare il bagno termale al tramonto.",
+        "Villa Ottolenghi Wedekind a Monterosso: villa razionalista con giardino all'italiana e Tempio di Herta, visita guidata di circa 2,5 ore con degustazione dei vini della tenuta, solo su prenotazione e solo nei weekend.",
+        "Ovada e il Dolcetto: il centro con la parrocchiale e i portici, poi una degustazione in cantina o all'enoteca per il Dolcetto di Ovada, rosso asciutto e fruttato che si beve anche giovane.",
+        "Castello di Tagliolo: fortezza del XIII secolo su un colle, con affreschi medievali, sala delle armi, torre quadrata che avvistava i Saraceni e cantina del castello; la visita con degustazione si prenota in anticipo.",
+        "Rocca Grimalda: borgo e castello visitabili con accompagnamento dei proprietari, con giardino panoramico, cappella di famiglia, cantine e la torre circolare con graffiti dei prigionieri del Seicento e del Settecento."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1 (meglio un sabato): partenza presto da Firenze, arrivo ad Acqui verso le 10:30. Passeggiata tra La Bollente e il Duomo, poi il museo archeologico nel Castello dei Paleologi. Pranzo in un'osteria del centro (agnolotti del plin, bollito misto o stoccafisso all'acquese). Alle 14:30 visita guidata a Villa Ottolenghi, circa 2,5 ore con degustazione. Dopo il check-in, bagno alla Zona Bagni o aperitivo con un Brachetto d'Acqui, cena in trattoria."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2 (domenica): a metà mattina verso Ovada, circa 25 km di colline. Giro nel centro e degustazione di Dolcetto di Ovada in cantina o all'enoteca; nel primo pomeriggio salita a Rocca Grimalda o al Castello di Tagliolo, a pochi chilometri, in base ai giorni di apertura. Rientro a Firenze partendo verso le 15:00 per arrivare con ampio margine prima di sera."
+        }
+      ],
+      "alloggio": "Una notte ad Acqui Terme. Dalle medie di Momondo: hotel a 3 stelle circa 94 € a notte, 4 stelle circa 144 €, con camere doppie da circa 52 € nei giorni più economici; giugno è il mese più conveniente (media 77 €), ottobre il più caro (media 141 €). Per due persone conviene mettere in conto 55-120 € a camera, cioè 28-60 € a persona. Dormire in centro o vicino alla Zona Bagni permette di lasciare l'auto e andare a piedi alle terme e a cena; in alternativa gli agriturismi sulle colline costano in genere di più e sono comodi solo con l'auto.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "594 km A/R Firenze-Acqui Terme più circa 60 km di spostamenti locali Acqui-Ovada-Tagliolo, a 0,129 €/km (benzina 1,98 €/l, 6,5 l/100 km): circa 77-85 € per la vettura.",
+          "min": 77,
+          "max": 85,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi autostradali",
+          "testo": "26,90 € a tratta per auto di classe A (UnipolMove), quindi circa 54 € A/R.",
+          "min": 54,
+          "max": 54,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Una notte: 55-120 € a camera doppia in hotel 3 stelle o B&B (media Momondo 94 € per un 3 stelle), cioè 28-60 € a persona.",
+          "min": 28,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti (pranzo e cena)",
+          "testo": "Al giorno: pranzo 15-30 € in osteria o pizzeria, cena completa in trattoria 20-45 € (30-40 € per antipasto, primo, secondo e un calice di Barbera, fino a circa 50 € in locali più raffinati).",
+          "min": 35,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Museo archeologico, Castello dei Paleologi",
+          "testo": "4 € intero, 2 € ridotto.",
+          "min": 4,
+          "max": 4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Villa Ottolenghi Wedekind",
+          "testo": "15 € a persona per la visita guidata con degustazione (gratis sotto i 12 anni); solo sabato e domenica con prenotazione, stagione 2026 fino al 22 novembre.",
+          "min": 0,
+          "max": 15,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Degustazione in cantina o castello",
+          "testo": "Da 35 € a persona per la degustazione al Castello di Grillano (Ovada, 2 ore) fino a 60 € per la visita con degustazione al Castello di Tagliolo (3 ore, prenotare 3 giorni prima).",
+          "min": 0,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono voci della vettura e si dividono per due viaggiatori (circa 66-70 € a persona). Alloggio, pasti, ingressi e degustazioni sono a persona; l'alloggio è calcolato per una notte, i pasti per due giorni.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Auto necessaria per Ovada, Tagliolo e Rocca Grimalda; ad Acqui il centro e la Zona Bagni si fanno a piedi in circa 20 minuti. Per il parcheggio non è stata trovata una tariffa 2026 verificata: controllare le strisce blu in centro."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il museo archeologico chiude il lunedì e le fonti riportano orari invernali diversi (circa mercoledì-sabato 9:30-18:30, domenica solo pomeriggio): telefonare allo 0144 57024 o controllare acquimusei.it. Villa Ottolenghi apre solo il sabato e la domenica, dal 19 aprile al 22 novembre 2026."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Villa Ottolenghi è solo su prenotazione (visite alle 14:30 da settembre a novembre); il Castello di Tagliolo va prenotato almeno 3 giorni prima, gruppi da 2 persone; Rocca Grimalda si visita fuori date solo su prenotazione al 0143 873128."
+        }
+      ],
+      "note": "La sera di sabato conviene fare il bagno alle Terme nella Zona Bagni prima di cena, con il listino da verificare sul sito delle Terme di Acqui, e controllare il calendario: la quarta domenica del mese in piazza Italia c'è il Mercatino degli Sgaiéntò, con antiquariato e hobbistica, che cambia il traffico e l'atmosfera della città. Il vino da assaggiare è il Brachetto d'Acqui, dolce e leggermente frizzante, e il Dolcetto d'Acqui o di Ovada con gli agnolotti; chiedere sempre il filetto baciato in osteria. In ottobre i prezzi dei letti salgono molto (media 141 € a notte): prenotare con anticipo oppure scegliere giugno. Il tempo si gioca sulle colline: per Tagliolo e Rocca Grimalda verificare l'apertura prima di partire perché sono dimore private, spesso occupate da eventi.",
+      "fonti": [
+        "https://www.momondo.it/hotel/acqui-terme",
+        "https://www.sluurpy.it/acqui-terme/ristoranti",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Acqui-Terme/",
+        "https://museionline.info/piemonte-musei-monumenti/museo-archeologico-di-acqui-terme",
+        "https://abbonamentomusei.it/en/?p=2040",
+        "https://www.grandigiardini.it/lang_EN/135-visit-Villa-Ottolenghi-Wedekind-event-tickets",
+        "https://it.wikivoyage.org/wiki/Acqui_Terme",
+        "https://www.winedering.com/it/visit-and-tasting-at-tagliolo-monferrato-castle_d9824_travel",
+        "https://www.winedering.com/it/wine-tourism_ovada_g6540139_ta10_wine-tastings",
+        "https://museionline.info/tipologie-museo/castello-di-rocca-grimalda",
+        "https://siviaggia.it/borghi/castello-tagliolo-monferrato/225126/"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 44.676,
+        "lon": 8.469
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Quasi sei ore di auto e visite guidate lunghe pesano su un bimbo di 4 anni, ma Villa Ottolenghi è gratis sotto i 12 anni, il museo è breve e la piscina termale si può fare a misura di bambino."
       }
     },
     {
@@ -13619,6 +14222,133 @@
       }
     },
     {
+      "id": "citta-murate-del-veneto-2g",
+      "nome": "Cittadella, Castelfranco Veneto, Montagnana ed Este: le città murate del Veneto",
+      "sottotitolo": "Veneto, quattro cinte murarie medievali tra Padova e Treviso in un anello in auto di due giorni",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria: A1 Firenze–Bologna, A13 Bologna–Padova e poi strade statali fino a Cittadella (circa 257 km, 2h27 con pedaggio di circa 17,50 € a tratta). Il giro tra le quattro città è un anello di circa 120 km su strade ordinarie senza pedaggio: Cittadella, Castelfranco Veneto, Montagnana, Este. Il ritorno da Este passa per l'A13 (circa 215 km, pedaggio simile a quello Padova–Firenze, 16,50 €). Il treno arriva a Padova, ma raggiungere quattro cittadine in due giorni senza vettura costringe a cambi e attese.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h27 in auto da Firenze a Cittadella (257 km); il ritorno da Este è di circa 2h10.",
+      "durataViaggioMinuti": 147,
+      "periodoMiglioreTesto": "Marzo-giugno e settembre-ottobre: giornate lunghe per camminare sulle mura e luce buona per i laterizi rossi. Luglio e agosto sono afosi e umidi nella pianura veneta; da novembre a febbraio il camminamento di Cittadella chiude alle 16 e c'è spesso nebbia.",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 156,
+      "costoMax": 239,
+      "costoNota": "Totale a persona per due viaggiatori che dividono l'auto, con una notte. Il Museo Nazionale Atestino di Este non è conteggiato perché non ho trovato una tariffa verificata. I km dell'anello e del ritorno da Este sono stimati sulla base dei dati Padova–Firenze.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Quattro cittadine fortificate a distanza di 15-85 km l'una dall'altra: due giorni bastano se si dorme a metà percorso. Il primo giorno copre Cittadella (cinta quasi ellittica con camminamento di ronda di quasi 2 km, circa due ore) e Castelfranco Veneto (castello, Duomo con la Pala di Giorgione, Casa Giorgione). Il secondo giorno copre Montagnana (mura quasi intatte, Castello di San Zeno) ed Este (Museo Atestino, resti del castello carrarese). Con una sola giornata si salterebbero due città, con tre si starebbe comodi ma in ciascun centro non c'è altro da fare dopo due-tre ore. Il ritmo è sostenuto ma non di corsa: il centro di ogni città si gira a piedi.",
+      "cosaVedere": [
+        "Cittadella: la cinta medievale in laterizio, con camminamento di ronda percorribile di quasi 2 km (5 € intero, aperto ogni giorno), con vista sui tetti e sui campi dall'alto della cinta.",
+        "Castelfranco Veneto: Duomo con la Pala di Giorgione, ingresso gratuito, e Museo Casa Giorgione in Piazza San Liberale (5 €) con il Fregio delle Arti liberali e meccaniche.",
+        "Castelfranco Veneto: il castello rettangolare circondato dal fossato, da girare a piedi in mezz'ora, con il Teatro Accademico nei pressi.",
+        "Montagnana: la cinta muraria quasi intatta e il Castello di San Zeno (1,50 € il biglietto unico), con il piccolo museo civico.",
+        "Montagnana: il prosciutto Veneto DOP, da comprare nelle gastronomie del centro o da assaggiare in una prosciutteria vicino al Duomo.",
+        "Este: il Museo Nazionale Atestino, la raccolta della civiltà dei Veneti antichi, e i giardini del castello carrarese con le mura e il torrione."
+      ],
+      "itinerario": null,
+      "alloggio": "B&B e appartamenti tra Cittadella e Castelfranco costano 60–107 € a notte per due (60 € a Cassola, 80 € B&B Sotto Le Mura a Cittadella, 90 € Agriturismo Ca' Amedeo a Castelfranco); gli hotel di Castelfranco su Momondo vanno da 48 € a 116 € (Albergo Al Moretto). Dormire a Castelfranco o Cittadella lascia il giorno 2 più corto verso Montagnana. Ottobre è risultato il mese più economico (circa 52 € a notte di media), marzo il più caro (circa 165 €) (medie di Momondo, che variano molto con il giorno della settimana).",
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante)",
+          "testo": "Circa 590 km totali (257 km Firenze–Cittadella, circa 120 km di anello, circa 215 km di ritorno da Este) a 0,129 €/km: 70–80 € di carburante.",
+          "min": 70,
+          "max": 80,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A1/A13",
+          "testo": "17,50 € all'andata (Firenze–Cittadella secondo UnipolMove) e circa 16,50 € al ritorno (tariffa Padova–Firenze, 221 km): 33–34 € in totale.",
+          "min": 33,
+          "max": 34,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Camminamento di ronda di Cittadella 5 € (3 € ridotto, gratis fino a 3 anni), Museo Casa Giorgione 5 €, Castello di San Zeno a Montagnana 1,50 €. Duomo di Castelfranco e passeggiate sulle mura sono gratuiti. Museo Atestino: tariffa non verificata, non inclusa.",
+          "min": 6.5,
+          "max": 11.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "60–107 € per una notte in B&B o appartamento per due (colazione spesso inclusa): 30–54 € a persona.",
+          "min": 30,
+          "max": 54,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo 10–20 € (pizzeria, osteria, piatto unico) e cena 24–38 € in trattoria (media Sluurpy per Este), quindi 34–58 € al giorno a persona.",
+          "min": 34,
+          "max": 58,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Le voci della vettura (carburante e pedaggi, circa 103–114 € in tutto) si dividono per due. Ingressi, alloggio (una notte per due, diviso a metà) e pasti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nei centri murati conviene lasciare l'auto in un parcheggio appena fuori dalla cinta ed entrare a piedi; non ho verificato né le zone a traffico limitato né le tariffe dei parcheggi, quindi controllare i cartelli all'arrivo."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Camminamento di Cittadella: aprile-settembre 9–18, marzo e ottobre 9–17, novembre-febbraio 9–16; chiuso solo il 25 dicembre. Casa Giorgione: martedì-sabato 10–18:30, domenica 10–19, il lunedì non risulta aperta. Castello di San Zeno: mercoledì-domenica 9:30–18, martedì 15–18, il lunedì non risulta aperto."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per l'ingresso singolo; obbligatoria per gruppi da 10 persone a Cittadella (tariffa ridotta). Prenotare l'alloggio con anticipo nei weekend di marzo, quando i prezzi salgono."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Il tragitto Castelfranco–Montagnana (circa 85 km) è su strade ordinarie, senza pedaggio: calcolare più di un'ora senza traffico e di più nelle ore di punta."
+        }
+      ],
+      "note": "Se si parte da Firenze alle 7:30 si arriva a Cittadella prima delle 10, appena in tempo per camminare il camminamento con la luce del mattino. Un trucco per chi conosce il posto: a Cittadella il biglietto del camminamento comprende anche i musei lungo il percorso, quindi non serve pagare altri ingressi in centro. Per il ritorno, da Este conviene prendere l'A13 a Monselice evitando di rientrare a Padova. Se resta tempo, Marostica e la sua scacchiera sono a mezz'ora da Cittadella; si può sostituire Este con una sosta lì, ma Este è meglio per i resti dei Veneti antichi.",
+      "fonti": [
+        "https://www.momondo.it/hotel/castelfranco-veneto",
+        "https://www.bed-and-breakfast.it/en/budget-bb-cittadella",
+        "https://www.dissapore.com/ristoranti/dove-mangiare-nelle-citta-murate-del-veneto/",
+        "https://www.sluurpy.it/este/ristoranti",
+        "https://www.italia.it/it/veneto/padova/cittadella/mura-cittadella",
+        "https://www.museionline.info/veneto-musei-monumenti/mura-di-cittadella-e-camminamento-di-ronda",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Cittadella/",
+        "https://www.unipolmove.it/calcola-pedaggio/Padova/Firenze/",
+        "https://www.museionline.info/veneto-musei-monumenti/museo-casa-giorgione",
+        "https://museionline.info/veneto-musei-monumenti/castello-di-san-zeno"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 45.6483,
+        "lon": 11.7844
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il camminamento di ronda è una bella passeggiata e per i 4-17 anni c'è la tariffa ridotta di 3 €, ma tra auto lunga e tappe a 85 km una giornata di spostamenti pesa su un bimbo di 4 anni."
+      }
+    },
+    {
       "id": "colli-euganei-2g",
       "nome": "Colli Euganei: Abano, Este, Monselice e Arquà Petrarca",
       "sottotitolo": "Veneto, i colli vulcanici a sud di Padova con borghi murati, castelli e terme",
@@ -14693,6 +15423,166 @@
       }
     },
     {
+      "id": "faenza-brisighella-e-vena-del-gesso-2g",
+      "nome": "Faenza, Brisighella e la Vena del Gesso romagnola",
+      "sottotitolo": "Emilia-Romagna, la città della maiolica, il borgo dei tre colli e la dorsale gessosa con la Grotta Tanaccia",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto in due: A1 Firenze–Bologna, poi A14 fino all'uscita di Faenza, circa 160 km a tratta. Serve soprattutto il secondo giorno, perché la Grotta Tanaccia e i sentieri della Vena del Gesso non sono raggiungibili con i mezzi pubblici. Alternativa senza pedaggio: SS302 della Colla di Casaglia (Borgo San Lorenzo–Marradi–Faenza), circa 120 km a tratta ma più lenta e tortuosa. Alternativa senza auto: treno regionale diretto sulla Faentina, 5 corse al giorno; da Faenza a Brisighella si prosegue con il regionale locale.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h45 in auto via A1/A14 (160 km); 2h18–3h58 in treno regionale sulla Faentina.",
+      "durataViaggioMinuti": 105,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre: la Grotta Tanaccia è aperta solo da aprile a ottobre e il tempo permette di camminare sui crinali gessosi. A maggio gli alberghi di Faenza costano di più (media 131 € a notte contro 68 € di febbraio). Luglio e agosto sono da evitare per il caldo sui sentieri.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 143,
+      "costoMax": 252,
+      "costoNota": "Auto: 320 km A/R a 0,129 €/km (circa 41 €) più pedaggi A1 8,90 € + A14 Bologna–Faenza 3,70 € per tratta (25,20 € A/R), divisi per due viaggiatori. Non sono nel totale perché non verificati per il 2026: il biglietto del MIC Museo Internazionale delle Ceramiche (le fonti consultate indicano circa 7–10 €, ma non sono ufficiali) e l'ingresso alla Torre dell'Orologio di Brisighella (nessun prezzo trovato). Aggiungere circa 10–15 € a persona se si visitano entrambi. L'alloggio è calcolato per una sola notte.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Faenza si gira in mezza giornata a piedi (Piazza del Popolo, Cattedrale, MIC) e Brisighella, a una decina di minuti di regionale o di auto, sta in un pomeriggio: la Rocca, la Torre dell'Orologio e la Via degli Asini sono a pochi passi l'una dall'altra. Resta così un'intera seconda mattina per la visita guidata di 2 ore alla Grotta Tanaccia, che richiede prenotazione. Con una sola giornata si dovrebbe rinunciare alla grotta o a una delle due città; con due giorni il ritmo regge senza correre, con una notte a Faenza o a Brisighella.",
+      "cosaVedere": [
+        "MIC Museo Internazionale delle Ceramiche a Faenza: una delle più importanti raccolte di ceramica al mondo, dalla maiolica medievale ai concorsi internazionali del Novecento; è la ragione per cui Faenza ha dato il nome alla «faïence».",
+        "Piazza del Popolo e Cattedrale di Faenza: il cuore della città, con i portici e la facciata rinascimentale, a pochi minuti a piedi dalla stazione.",
+        "Palazzo Milzetti, dimora neoclassica oggi museo statale: gli interni decorati sono il pezzo più sorprendente della città dopo il MIC.",
+        "Rocca Manfrediana di Brisighella con il Museo Ugonia: si sale a piedi dal borgo e il biglietto combinato costa 5 €; dall'alto si leggono i tre colli e la dorsale di gesso.",
+        "Torre dell'Orologio di Brisighella, costruita nel 1850 su progetto di Maghinardo Pagani: sta su un colle di gesso di fronte alla Rocca ed è collegata da un sentiero di circa 800 m; vale soprattutto per il panorama.",
+        "Grotta Tanaccia nella Vena del Gesso: visita guidata di 2 ore dentro la dorsale gessosa; è l'esperienza che distingue questa gita da una semplice sosta in due borghi."
+      ],
+      "itinerario": null,
+      "alloggio": "Per due persone: a Faenza media 84 € a notte (minimo 59 €, massimo 157 €; febbraio 68 €, maggio 131 €); a Brisighella media 127 € a notte (minimo 77 €). Dormire a Faenza costa meno e la stazione è comoda, ma Brisighella la sera ha un'atmosfera migliore e accorcia la strada per la Grotta Tanaccia del mattino dopo. In maggio e nei weekend primaverili conviene prenotare con anticipo.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto A1/A14",
+          "testo": "320 km A/R a 0,129 €/km (circa 41 € di carburante) più 25,20 € di pedaggi: A1 Firenze–Bologna 8,90 € e A14 Bologna–Faenza 3,70 € per tratta. Totale vettura circa 66 €, diviso per due.",
+          "min": 66,
+          "max": 66,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto via SS302 della Colla (alternativa)",
+          "testo": "Circa 240 km A/R senza pedaggi: circa 31 € di carburante per l'intera vettura. Più lenta e con molte curve, il risparmio è di circa 35 € a vettura.",
+          "min": 31,
+          "max": 31,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno Firenze–Faenza A/R (alternativa)",
+          "testo": "11–14 € a tratta, quindi 22–28 € A/R a persona; 5 regionali diretti al giorno sulla Faentina, da 2h18 a 3h58. Senza auto la Grotta Tanaccia resta difficile da raggiungere.",
+          "min": 22,
+          "max": 28,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (1 notte)",
+          "testo": "Da 59 € a notte a Faenza fino a circa 127 € a Brisighella per due, cioè circa 30–64 € a persona per la notte.",
+          "min": 30,
+          "max": 64,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Cena completa 24–38 € a Faenza e 25–40 € a Brisighella; si scende a 10–20 € con piadina o schede economiche. Stima al giorno tra pranzo leggero e cena.",
+          "min": 25,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Grotta Tanaccia",
+          "testo": "30 € intero, 25 € ridotto; visita guidata di 2 ore con prenotazione telefonica obbligatoria al +39 329 6791490; aperta da aprile a ottobre.",
+          "min": 25,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rocca Manfrediana + Museo Ugonia",
+          "testo": "5 € il biglietto combinato; aperto sabato e domenica 10–18.",
+          "min": 5,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "MIC Museo Internazionale delle Ceramiche",
+          "testo": "Prezzo 2026 non verificato: le fonti terze indicano circa 7–10 €, ma non coincidono con altri dati e non sono ufficiali. Fuori dal totale.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Torre dell'Orologio di Brisighella",
+          "testo": "Prezzo di ingresso non trovato: fuori dal totale, da chiedere all'ufficio turistico.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "La voce Auto A1/A14 è della vettura e si divide per i due viaggiatori; alloggio (per una notte), pasti e ingressi sono a persona. Il costo del treno e della SS302 sono confronti e non entrano nel totale.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Uscita A14 «Faenza»; per Brisighella si prosegue su strada ordinaria per una decina di chilometri. Non ho verificato le ZTL dei due centri storici: conviene parcheggiare appena fuori e camminare, come si fa comunque in entrambi i borghi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Grotta Tanaccia è aperta solo da aprile a ottobre. La Rocca Manfrediana è aperta sabato e domenica 10–18, quindi la gita va fatta nel weekend. Il MIC chiude il lunedì e ha orari ridotti nei giorni feriali invernali: controllare sul sito prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Grotta Tanaccia: prenotazione telefonica obbligatoria al +39 329 6791490, visita guidata di 2 ore. Prenotare l'alloggio con anticipo in maggio e nei weekend primaverili."
+        }
+      ],
+      "note": "Sabato e domenica sono i giorni giusti: la Rocca è aperta solo nel weekend. Un ordine che funziona: sabato Faenza (MIC e Palazzo Milzetti) e pernottamento; domenica mattina Grotta Tanaccia, pomeriggio Brisighella con Rocca e Torre. Prima di fissare il giorno telefonare alla grotta, perché i gruppi della visita guidata sono limitati. Indossare scarpe con buona suola: la Vena del Gesso è una dorsale di gesso e sentieri e grotta sono umidi. In grotta la temperatura è molto più fresca che fuori, portare un maglione anche a giugno. Se si preferisce il treno, scegliere una delle 5 corse dirette per Faenza e organizzare le visite attorno agli orari: perdere la corsa significa aspettare ore o fare un cambio a Bologna.",
+      "fonti": [
+        "https://www.momondo.it/hotel/faenza",
+        "https://www.momondo.it/hotel/brisighella",
+        "https://www.sluurpy.it/faenza/ristoranti",
+        "https://www.sluurpy.it/brisighella/ristorante",
+        "https://www.museionline.info/tipologie-museo/grotta-tanaccia",
+        "https://museionline.info/emilia-romagna-musei-monumenti/rocca-manfrediana-brisighella",
+        "https://www.omio.it/treni/firenze/faenza",
+        "https://www.unipolmove.it/calcola-pedaggio/Bologna/Faenza/",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Bologna.php",
+        "https://www.prolocofaenza.it/visita-come-arrivare.php?lang=en",
+        "https://www.museionline.info/musei/museo-internazionale-delle-ceramiche",
+        "https://www.lonelyplanet.com/italy/brisighella/attractions/torre-dell-orologio/a/poi-sig/1569228/1342038"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 44.25,
+        "lon": 11.83
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Faenza e Brisighella vanno bene a piedi con un bimbo di 4 anni, ma la visita guidata di 2 ore in grotta è poco adatta e non ho verificato un limite di età."
+      }
+    },
+    {
       "id": "finale-ligure-noli-e-varigotti-2g",
       "nome": "Finale Ligure, Noli e Varigotti",
       "sottotitolo": "Liguria di Ponente, tre borghi sul mare a pochi chilometri l'uno dall'altro: Finalborgo medievale, Noli repubblica marinara, Varigotti saracena",
@@ -15058,6 +15948,147 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Spiaggia e passeggiate sono belle per un bimbo di 4 anni, ma i vicoli in salita di Sperlonga e i sentieri del Monte Orlando sono faticosi."
+      }
+    },
+    {
+      "id": "garfagnana-e-orecchiella-2g",
+      "nome": "Garfagnana e Orecchiella: Castelnuovo, Isola Santa, Vagli, San Pellegrino in Alpe e la Pania",
+      "sottotitolo": "Toscana, l'Appennino e le Apuane della Garfagnana: fortezza estense, laghi di montagna, riserva con orsi e lupi e un santuario a 1500 metri",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria: da Firenze si prende l'A11 fino all'uscita Lucca est e poi si risale la valle del Serchio per la statale fino a Castelnuovo di Garfagnana (circa 125 km, stima da navigatore). Una volta in valle i mezzi pubblici sono radi e non raggiungono Isola Santa, Vagli, l'Orecchiella o San Pellegrino in Alpe: senza auto la meta non si fa in due giorni. In alternativa senza pedaggio autostradale si può usare la FI-PI-LI, gratuita fino a Pisa, ma il percorso si allunga: confrontare i tempi sul navigatore.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h50-2h in auto da Firenze a Castelnuovo di Garfagnana (circa 125 km, stima da navigatore non verificata su sito di percorsi).",
+      "durataViaggioMinuti": 115,
+      "periodoMiglioreTesto": "Maggio-giugno e settembre-ottobre: il Centro Visitatori dell'Orecchiella è aperto tutti i giorni solo da giugno a settembre (in ottobre solo nel fine settimana, in aprile e maggio solo la domenica) e il museo di San Pellegrino in Alpe apre tra giugno e settembre. Da dicembre a febbraio le strade di montagna possono avere neve e ghiaccio e le strutture sono chiuse.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        12,
+        1,
+        2
+      ],
+      "costoMin": 139,
+      "costoMax": 266,
+      "costoNota": "Tutte le cifre sono a persona con 2 viaggiatori e un'auto condivisa. Chilometri (circa 420-440 tra andata e ritorno e anelli) e pedaggio A11 sono stime non verificate con UnipolMove o ViaMichelin: controllare il percorso prima di partire. Prezzi di alloggio rilevati su portali di prenotazione per una data di consultazione in bassa stagione, in estate possono essere più alti. Prezzi dei pasti: media indicata da un agriturismo della zona (menu 30 €, scontrino medio 42 €).",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "La valle del Serchio è lunga e le tappe sono lontane tra loro per via delle strade di montagna: Castelnuovo, il lago di Vagli e Isola Santa stanno su un lato, l'Orecchiella e San Pellegrino in Alpe sul lato opposto, e ogni spostamento vuol dire 40-60 minuti di curve. Un solo giorno obbliga a scegliere un versante; con due giorni e una notte a Castelnuovo si fanno bene i due anelli (Apuane il primo giorno, Appennino il secondo) senza correre. Tre giorni diventerebbero troppi per chi cerca un viaggio esauribile da Firenze, perché le attrazioni restano cinque o sei e il resto è paesaggio.",
+      "cosaVedere": [
+        "Fortezza di Mont'Alfonso a Castelnuovo di Garfagnana: fortezza a stella costruita dagli Este a fine Cinquecento, con le mura bastionate ancora intatte; l'ingresso è gratuito nei giorni feriali, nei festivi da primavera ad autunno aprono i volontari dell'associazione Autieri.",
+        "Centro storico di Castelnuovo e Rocca Ariosto: la capitale della valle, dove l'Ariosto fece il governatore estense, con la piazza e le vie del centro dove trovare la cena.",
+        "Isola Santa: minuscolo borgo di pietra specchiato in un laghetto artificiale ai piedi delle Apuane, tra faggete e vecchie case di cavatori, da vedere con luce bassa di mattina.",
+        "Lago di Vagli: bacino tra pareti di marmo bianco, famoso perché sul fondo dorme il villaggio di Fabbriche di Careggine; si gira a piedi sul coronamento della diga e dal paese di Vagli di Sotto.",
+        "Grotta del Vento (Fornovolasco, Pania): grotta carsica con laghi e stalattiti, aperta ogni giorno tranne Natale; il primo percorso dura circa un'ora e basta anche con un bimbo piccolo, il terzo è per chi vuole mezza giornata sotto terra.",
+        "Riserva dell'Orecchiella e Centro Visitatori: area faunistica con mufloni, caprioli, cervi e orsi, sentieri a anello da un'ora a tre ore e mezza (il giro della Pania di Corfino è il più panoramico) e il museo naturalistico.",
+        "San Pellegrino in Alpe: santuario e borgo a oltre 1500 metri sul valico verso l'Emilia, con il museo etnografico Don Luigi Pellegrini dedicato alla vita contadina dell'Appennino (verificare che sia riaperto dopo i lavori)."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza presto da Firenze per Castelnuovo, passeggiata in centro e salita alla Fortezza di Mont'Alfonso. Nel pomeriggio il versante delle Apuane: Isola Santa e il lago di Vagli, con una passeggiata sulla diga. In alternativa, o in aggiunta se avete tempo, la Grotta del Vento sul percorso breve. Cena e notte a Castelnuovo."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina all'Orecchiella (Centro Visitatori, area faunistica e un anello facile verso la Pania di Corfino), poi trasferimento a San Pellegrino in Alpe per il santuario, il museo etnografico e la vista sul crinale. Rientro in giornata a Firenze guidando in tranquillità verso sera."
+        }
+      ],
+      "alloggio": "Una notte a Castelnuovo di Garfagnana o nei dintorni (Pieve Fosciana, Castiglione): sui portali di prenotazione B&B e agriturismi per 2 ospiti e 1 camera si trovano da 70 a 127 € a notte (La Bugneta 70 €, Agriturismo Cornali 80 €, Casa Benassi Rooms 98 €, Mulino La Sosta 110 €), cioè circa 35-64 € a persona. Dormire a Castelnuovo conviene perché sta in mezzo tra i due versanti e ha ristoranti aperti la sera.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Circa 420-440 km tra andata e ritorno Firenze-Castelnuovo (circa 250 km) e i due anelli di giornata (Apuane, poi Orecchiella e San Pellegrino; il solo giro Castelnuovo-San Pellegrino-Pieve Fosciana è di 50 km), a 0,129 €/km.",
+          "min": 54,
+          "max": 57,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A11",
+          "testo": "Autostrada A11 da Firenze fino all'uscita Lucca est, andata e ritorno: stima 10-13 € non verificata con UnipolMove o ViaMichelin. La statale lungo il Serchio e le strade di valle sono gratuite.",
+          "min": 10,
+          "max": 13,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Grotta del Vento",
+          "testo": "Percorso 1: 10 € intero, 8 € ridotto (bambini 4-10 anni); percorso 2: 18 € intero, 15 € ridotto; percorso 3: 25 € intero, 20 € ridotto. Si conta dal primo al secondo percorso.",
+          "min": 10,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Orecchiella e museo di San Pellegrino",
+          "testo": "Centro Visitatori Orecchiella 2 € intero (1 € over 65 e bambini 6-11 anni); museo etnografico di San Pellegrino 2,50 € intero (1,50 € ridotto), gratuito fino a 6 anni. Fortezza di Mont'Alfonso gratuita.",
+          "min": 2,
+          "max": 4.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "70-127 € a notte per una camera doppia in B&B o agriturismo, cioè 35-64 € a persona, per una sola notte.",
+          "min": 35,
+          "max": 64,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Un agriturismo della zona indica un menu medio da 30 € e un conto medio da 42 € a persona. Il minimo conta una sola cena seduti al giorno (30 €), il massimo pranzo a menu e cena (30 + 42 = 72 €); il resto si risolve con un panino.",
+          "min": 30,
+          "max": 72,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e si dividono per due; ingressi, alloggio (metà camera doppia) e pasti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Le strade per Isola Santa, Vagli, l'Orecchiella e il Passo delle Radici sono di montagna e tortuose: contare 40-60 minuti per tratta. La strada da San Pellegrino in Alpe a Chiozza non è percorribile dai camper."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Centro Visitatori dell'Orecchiella (dati 2024): aprile solo domenica e festivi, maggio solo domenica e festivi, giugno-agosto tutti i giorni, settembre tutti i giorni, ottobre solo sabato, domenica e festivi, poi chiuso fino ad aprile. Il museo di San Pellegrino apre da giugno a settembre dal martedì alla domenica, chiuso il lunedì; una pagina turistica lo segnala chiuso per ristrutturazione, quindi telefonare prima."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La Fortezza di Mont'Alfonso è aperta nei feriali negli orari d'ufficio e le visite private vanno prenotate; la Grotta del Vento non chiede prenotazione ai singoli (solo gruppi da 20 in su), ma nei giorni di punta si entra a scaglioni."
+        }
+      ],
+      "note": "Orecchiella e San Pellegrino stanno vicini e si fanno insieme: se i tempi stringono, lasciate la Grotta del Vento per un altro viaggio. In primavera e in autunno il Centro Visitatori è aperto solo nei weekend, quindi pianificate il giorno dell'Orecchiella di sabato o domenica. Chi parte da Firenze nel pomeriggio del giorno 1 può saltare la Fortezza e fare solo Isola Santa e Vagli con la luce del tramonto. Portate un maglione anche d'estate: a San Pellegrino si sta a oltre 1500 metri.",
+      "fonti": [
+        "https://www.bedandbreakfast.it/en/castelnuovo-di-garfagnana",
+        "https://www.holidu.it/f/agriturismi-castelnuovo-di-garfagnana-italia",
+        "https://www.agriturismi.it/it/toscana/villa_collemandina/agriturismo_pane_e_olio/ristorante",
+        "https://grottadelvento.com/opening-times-and-prices/",
+        "https://www.turismo.garfagnana.eu/en/what-to-visit/museums/museo-etnografico-don-luigi-pellegrini-2/",
+        "https://www.turismo.garfagnana.eu/en/villages-and-fortresses/fortezza-di-montalfonso-2/",
+        "https://turismo.garfagnana.eu/en/what-to-visit/museums/en-museo-naturalistico-dellorecchiella/",
+        "https://turismo.garfagnana.eu/en/natural-parks/orecchiella-natural-reserves/",
+        "https://turismo.garfagnana.eu/en/itineraries/car-and-motorcycle-itineraries/castiglione-di-garfagnana-san-pellegrino-in-alpe/",
+        "https://cdn.fodors.com/world/europe/italy/tuscany/places/castelnuovo-di-garfagnana/restaurants"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 44.1135,
+        "lon": 10.4
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "L'area faunistica dell'Orecchiella, la fortezza e il percorso breve della grotta piacciono a un bimbo di 4 anni, ma le strade di montagna sono lunghe e tortuose."
       }
     },
     {
@@ -20702,6 +21733,137 @@
       }
     },
     {
+      "id": "riviera-delle-palme-2g",
+      "nome": "San Benedetto del Tronto, Grottammare e Offida: la Riviera delle Palme",
+      "sottotitolo": "Marche meridionali, mare con le palme, borgo alto di Grottammare e la collina del merletto e del Pecorino",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria da Firenze: circa 319 km per tratta (638 km A/R) con circa 9,40 € di pedaggio a tratta secondo il calcolatore UnipolMove, quindi 3 ore di guida circa. Partendo presto si è a San Benedetto per metà mattina. L'auto serve soprattutto per Offida, sulla collina a una ventina di minuti dalla costa; la riviera si gira a piedi e in bici.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h03 in auto (319 km) per tratta, più l'eventuale attesa ai caselli; il tempo reale cambia con il traffico del fine settimana.",
+      "durataViaggioMinuti": 183,
+      "periodoMiglioreTesto": "Maggio, giugno, settembre e ottobre: mare ancora piacevole o passeggiata sul lungomare senza folla, prezzi degli alloggi lontani dai picchi. In novembre l'alloggio costa in media circa 57 € a notte, ma musei e stabilimenti sono ridotti. Luglio e agosto sono il periodo più caro (media circa 145 € a notte ad agosto) e affollato.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 155,
+      "costoMax": 255,
+      "costoNota": "Per due viaggiatori che condividono l'auto. Pasti: un pasto completo al giorno in ristorante di pesce (38–74 € a persona, dato verificato su un ristorante di Grottammare); colazioni, spuntini e pizzerie più economiche non sono verificati e non sono nel totale. Alloggio: una sola notte, 48–96 € a camera per due. Parcheggi non verificati e non inclusi.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Le tre tappe stanno in una striscia di meno di 20 km: San Benedetto con il lungomare e il Polo Museo del Mare, Grottammare con il borgo alto e Offida in collina. Il viaggio assorbe quasi tre ore all'andata e al ritorno, quindi un solo giorno sarebbe un'impresa e tre giorni troppi per una zona così raccolta. Con una notte si fa il primo giorno al mare con il brodetto a cena e il secondo giorno in collina, senza correre e con un pranzo seduto a Offida.",
+      "cosaVedere": [
+        "Lungomare di San Benedetto del Tronto: la passeggiata fra le palme che dà il nome di Riviera delle Palme, con la spiaggia di sabbia fine e il porto peschereccio dove ancora arriva il pesce del brodetto.",
+        "Polo Museo del Mare, in viale Colombo: raccoglie la civiltà marinara delle Marche, dalle barche d'epoca al Museo Ittico; il biglietto cumulativo costa 5 €, 2 € per una singola sezione.",
+        "Brodetto alla sambenedettese: la zuppa di pesce locale si distingue per l'aceto e i peperoncini verdi dolci; da assaggiare a cena, meglio prenotando nei locali vicino al porto.",
+        "Grottammare Alta: il borgo storico sopra la costa, con i vicoli stretti e la vista che arriva fino al mare; la salita a piedi vale la fatica e la sera è molto più tranquilla della costa.",
+        "Offida, Piazza del Popolo: piazza triangolare con il Palazzo Comunale, il Teatro Serpente Aureo e la Collegiata, tutti a pochi passi uno dall'altro.",
+        "Museo del Merletto a tombolo, nel Palazzo De Castellotti-Pagnanelli: racconta la tradizione del tombolo, con l'abito di Antonio Berardi indossato da Naomi Campbell nel 1997. Il biglietto è unico con gli altri musei del palazzo.",
+        "Santa Maria della Rocca, la chiesa trecentesca sulla rupe sopra la valle: la scalinata esterna e la sua leggenda dei desideri esauditi a occhi chiusi sono la ragione per cui ci si va.",
+        "Enoteca Regionale delle Marche, in un ex monastero del Trecento a Offida: assaggio di Pecorino e Passerina, i vini bianchi della zona."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte a San Benedetto del Tronto: da circa 48 € a camera in hotel a 3 stelle (Mare d'Amare) a circa 96 € in un hotel più curato (Hotel Imperial), per due persone nei periodi non di punta; in novembre la media è intorno a 57 €, ad agosto sale a circa 145 €. Conviene dormire vicino al lungomare per cenare e passeggiare a piedi; Grottammare Alta è un'alternativa più silenziosa ma con meno scelta. Tariffe indicative dal comparatore Momondo.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "638 km A/R (319 km per tratta) a 0,129 €/km di carburante, circa 82 €.",
+          "min": 82,
+          "max": 82,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto: pedaggi",
+          "testo": "Circa 9,40 € a tratta, 18,80 € A/R, secondo UnipolMove (attesa media al casello stimata in 6,6 minuti).",
+          "min": 19,
+          "max": 19,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (1 notte)",
+          "testo": "48–96 € a notte per una camera doppia in hotel 3 stelle o albergo centrale, quindi 24–48 € a persona (una notte sola, quindi non moltiplicata per i giorni).",
+          "min": 24,
+          "max": 48,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti (un pasto completo al giorno)",
+          "testo": "Il pasto di pesce in ristorante curato a Grottammare va dal business lunch a 38 € alla spesa media alla carta di circa 74 € a persona (antipasto, primo e secondo). Nelle trattorie e nelle pizzerie si spende meno, ma non ho una cifra verificata.",
+          "min": 38,
+          "max": 74,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Polo Museo del Mare",
+          "testo": "5 € per il polo completo, 2 € per una singola sezione; aperto venerdì, sabato e domenica 10–18:30.",
+          "min": 2,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Offida: Museo del Merletto",
+          "testo": "3,50 € intero, 2 € ridotto; il biglietto vale per tutti i musei di Palazzo De Castellotti. Per la Collegiata e il Teatro Serpente Aureo non ho trovato un prezzo verificato.",
+          "min": 2,
+          "max": 3.5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi (circa 101 € in tutto) sono della vettura e si dividono per due; alloggio, pasti e ingressi sono a persona. Il totale a persona è quindi la somma delle voci personali più la metà del costo dell'auto.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Offida si raggiunge in auto (circa 20 minuti dalla costa) o con un autobus da San Benedetto di circa 40 minuti, con poche corse. Nei centri storici di Grottammare Alta e Offida si parcheggia fuori e si sale a piedi; i parcheggi non sono verificati."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Polo Museo del Mare e il Museo Ittico risultano aperti solo venerdì, sabato e domenica, 10–18:30. Per il Museo del Merletto le fonti sono discordanti (tutti i giorni 10–19 su una, solo sabato e domenica su un'altra): telefonare prima al 0736 888609."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Prenotare il brodetto nei ristoranti il sabato sera e in estate. Per il Museo del Merletto e per gli orari dei musei conviene una telefonata prima di salire a Offida."
+        }
+      ],
+      "note": "Il Polo Museo del Mare e il Museo Ittico aprono solo da venerdì a domenica: conviene partire il venerdì o il sabato mattina, così il primo giorno si fa il mare e i musei e il secondo la collina di Offida. Il brodetto sambenedettese si riconosce dall'aceto e dai peperoncini verdi: chiedete se è quello tradizionale e prenotate nel fine settimana. Chi ama il vino può chiudere a Offida con un assaggio di Pecorino o Passerina all'Enoteca Regionale, ma deve guidare chi non beve. Per il ritorno, partire entro metà pomeriggio riduce il rischio di traffico sull'A14 nei fine settimana di punta. In inverno la riviera è molto più silenziosa e il motivo per salire è Offida, con il suo Carnevale storico.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/San-Benedetto-del-Tronto/",
+        "https://www.momondo.it/hotel/san-benedetto-del-tronto",
+        "https://www.scattidigusto.it/ristorante-attico-sul-mare-a-grottammare-menu-prezzi",
+        "https://www.viaggiando-italia.it/san-benedetto-del-tronto-a-tavola-mini-guida-ai-luoghi-e-ai-sapori-tra-mare-e-tradizione/",
+        "https://www.museionline.info/marche-musei-monumenti/museo-della-civilta-marinara-delle-marche",
+        "https://www.museionline.info/marche-musei-monumenti/museo-del-merletto-a-tombolo",
+        "https://www.italia.it/it/marche/ascoli-piceno/museo-merletto-e-tombolo-offida",
+        "https://moveo.telepass.com/offida/"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 42.9437,
+        "lon": 13.8836
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Spiaggia di sabbia e lungomare pianeggiante per un bimbo di 4 anni; sono pesanti solo le tre ore di auto e le salite di Grottammare Alta e Offida."
+      }
+    },
+    {
       "id": "rovereto-e-vallagarina-2g",
       "nome": "Rovereto e la Vallagarina",
       "sottotitolo": "Trentino, città del MART e della Campana dei Caduti ai piedi del Monte Zugna",
@@ -23556,6 +24718,175 @@
       }
     },
     {
+      "id": "argentario-giglio-e-giannutri-3g",
+      "nome": "Argentario, Giglio e Giannutri in tre giorni: Porto Ercole, Porto Santo Stefano, Giglio Castello e la Feniglia",
+      "sottotitolo": "Toscana, Maremma e Arcipelago Toscano: il promontorio dell'Argentario con due isole raggiunte in giornata dal porto di Porto Santo Stefano",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Auto propria da Firenze fino a Porto Santo Stefano (circa 240 km a tratta, stima da percorso non confermata da un calcolatore online: Raccordo Firenze-Siena, SS223 Siena-Grosseto, Aurelia SS1 fino ad Albinia, poi SS440 verso l'Argentario; su questa via non si prevedono caselli autostradali, ma il pedaggio non è stato verificato). L'auto resta nei parcheggi custoditi di Porto Santo Stefano (circa 10 € al giorno) mentre si va a Giglio e a Giannutri con i traghetti per soli passeggeri: Toremar o Maregiglio per il Giglio, Maregiglio per Giannutri. In alternativa il treno fino a Orbetello-Monte Argentario più bus per il porto, ma sul promontorio l'auto serve per Porto Ercole, la Feniglia e la Panoramica.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h45-3h in auto (circa 240 km a tratta, stima da percorso non verificata) fino a Porto Santo Stefano; traversata in traghetto di circa 1 ora per Giglio e per Giannutri.",
+      "durataViaggioMinuti": 170,
+      "periodoMiglioreTesto": "Giugno e settembre sono il compromesso migliore: mare balneabile, tutte le corse per le isole attive e meno ressa di luglio e agosto, quando l'Argentario è molto affollato e il Giglio richiede stretta prenotazione. Fine maggio e ottobre vanno bene per camminare e per i trekking del Parco, ma la gita guidata a Giannutri da Porto Santo Stefano è programmata solo dal 29 maggio al 30 settembre (mercoledì, sabato e domenica) e le corse d'inverno sono poche e variabili.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 285,
+      "costoMax": 470,
+      "costoNota": "Prezzi in sterline (hotel su easyJet Hotels) e dollari convertiti in euro in modo approssimativo. Pranzi e cene sono fasce da guide e portali di ristoranti: Sluurpy (dati verificati marzo 2025: pasto completo di pesce 25-40 € con bevande, locali economici 15-20 €, alta gamma da 50 €), Voloscontato (spesa media indicata per locale, pagina aggiornata nel 2026 ma con cifre di origine più vecchia) e Scattidigusto (2023-2024); sono fasce orientative e non listini dei singoli locali. Il pranzo del giorno 3 (sacco a Giannutri) e la cena del giorno 3 (sulla strada del ritorno) non sono nel totale. Non verificati: i km Firenze-Porto Santo Stefano (circa 240 a tratta, stima da percorso: UnipolMove e ViaMichelin non hanno restituito questa tratta nelle ricerche) e l'assenza di pedaggio, quindi il carburante (circa 70 €) resta una stima e nessun pedaggio è incluso; il biglietto del bus Giglio Porto-Castello resta fuori dal totale.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Tre giorni danno un ritmo naturale: un giorno di promontorio, uno per il Giglio e uno per Giannutri. L'Argentario si gira in una giornata con calma, perché Porto Ercole, la Feniglia e il giro della Panoramica distano pochi chilometri l'uno dall'altro. Il Giglio ha un solo centro storico da vedere (Castello) e due o tre spiagge o punti panoramici: una giornata intera tra la corsa del mattino e quella delle 18 basta senza fretta. Giannutri è un'isola minuscola, circa 2,5 ore a terra dentro la gita organizzata con Roman villa e passeggiata guidata. Aggiungere un quarto giorno servirebbe solo per bagni e riposo. Il limite vero è lo stagionale: la gita completa a Giannutri parte solo in estate, quindi fuori stagione il terzo giorno va riadattato (altre mete sul promontorio o la corsa di linea).",
+      "cosaVedere": [
+        "Porto Ercole: borgo di pescatori sotto le fortezze spagnole (Forte Stella e Rocca), con il porticciolo dove cenare a base di pesce; si sale a piedi tra i vicoli fino alle mura.",
+        "Duna della Feniglia: lungo tombolo di sabbia e pineta che separa la laguna di Ponente dal mare, ideale per una camminata o per un bagno su spiaggia libera lontana dal traffico.",
+        "Porto Santo Stefano: il porto vero del promontorio, dove si prendono i traghetti; la Fortezza di Santa Caterina e il lungomare coprono un'ora di passeggiata prima della partenza.",
+        "Strada Panoramica dell'Argentario: giro d'anello tra le calette e i punti di sosta con vista sulle isole; spiagge raggiungibili solo a piedi o con parcheggi limitati.",
+        "Giglio Castello: borgo medievale murato, tutto vicoli e archi, con la Rocca aldobrandesca sulla cima; si raggiunge dal porto con il bus di linea, vale la salita per la vista sul mare.",
+        "Campese e Cannelle (Giglio): le due spiagge principali dell'isola, la prima con la torre di guardia e il tramonto sulla Corsica, la seconda con acqua trasparente e ciottoli.",
+        "Giannutri, Villa Romana di Cala Maestra: il grande complesso del I-II secolo d.C. appartenuto ai Domizi Enobarbi, visitabile solo con una Guida Parco, più i Grottoni e i resti del porto romano a Cala Spalmatoio."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza da Firenze la mattina presto verso Siena e Grosseto, poi Albinia e la SS440 per l'Argentario. Pranzo a Porto Ercole, passeggiata tra il porticciolo e le fortezze, poi pomeriggio alla Duna della Feniglia (camminata nella pineta e bagno se la stagione lo permette). Aperitivo e cena di pesce a Porto Ercole o a Porto Santo Stefano, notte sul promontorio."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: sveglia presto, auto in un parcheggio custodito di Porto Santo Stefano e prima corsa Toremar per il Giglio Porto (circa 1 ora). Bus fino a Giglio Castello, giro tra le mura e la Rocca, pranzo a base di pesce o cacciucco di scoglio, poi discesa a Campese per il bagno o la passeggiata sulla spiaggia. L'ultima corsa di ritorno è intorno alle 18:00: meglio essere al porto con margine. Cena e notte sull'Argentario."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: gita organizzata a Giannutri con partenza da Porto Santo Stefano alle 10:00 e ritrovo alle 9:30 a Piazzale Candi; arrivo alle 11:00, passeggiata naturalistica guidata, picnic (si porta il pranzo al sacco) e visita alla Villa Romana intorno alle 14:00; rientro alle 16:00 con arrivo alle 17:00. Ritorno a Firenze in auto la sera, circa 3 ore (cena strada facendo). Fuori dal periodo 29 maggio-30 settembre la gita va sostituita: panoramica dell'Argentario, Ansedonia o una seconda mezza giornata sul Giglio."
+        }
+      ],
+      "alloggio": "Due notti sull'Argentario. B&B a Porto Ercole e dintorni su bed-and-breakfast.it: 70-90 € a notte per due (Marina House Porto Ercole 85-90 €, Beba 70-80 €, campione di una data, non stagionale); agriturismi nell'Orbetellano da circa 55 €. Hotel a Porto Santo Stefano o Porto Ercole: indicativamente 130-160 € a notte per due (Hotel Week End, Hotel Alfiero, Bi Hotel, prezzi in sterline e dollari convertiti), molto più alti in luglio e agosto. Meglio dormire a Porto Santo Stefano, il giorno del traghetto, per avere l'auto a due passi dal parcheggio; Porto Ercole è più tranquilla e ha l'atmosfera migliore la sera. Il budget indicato per due notti è 70-160 € a persona.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "Circa 540 km totali (240 km a tratta Firenze-Porto Santo Stefano, stima da percorso non verificata su un calcolatore online, più circa 60 km di giri sul promontorio), a 0,129 €/km: circa 70 €. Pedaggio non verificato: per il percorso via Siena-Grosseto e Aurelia non si prevedono caselli, ma nessun importo è incluso nel totale.",
+          "min": 70,
+          "max": 70,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggio custodito Porto Santo Stefano",
+          "testo": "Circa 10 € al giorno nei parcheggi privati vicino al porto (Argentario, Asiamel, Fanciulli, Economy, Viaggi Vacanze); due giorni di imbarco, più qualche sosta a Porto Ercole: 20-30 €.",
+          "min": 20,
+          "max": 30,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Traghetto Giglio A/R",
+          "testo": "Da 16,58 € a tratta da Porto Santo Stefano e da 13,58 € dal Giglio (Toremar/Maregiglio, passeggero a piedi), fino a 17-19 € in alta stagione: 30-38 € A/R. Un'ora di traversata.",
+          "min": 30,
+          "max": 38,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Gita a Giannutri",
+          "testo": "Escursione Maregiglio da Porto Santo Stefano: 61,50 € adulto, 38 € dai 5 ai 12 anni, gratis fino a 4; include traghetto A/R, Guida Parco, ticket Parco (5,50 €) e visita guidata alla Villa Romana.",
+          "min": 60,
+          "max": 62,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti)",
+          "testo": "B&B 70-90 € a notte per due; hotel 130-160 € a notte per due. Totale due notti a persona: 70-160 € (sono due notti sul promontorio, non tre).",
+          "min": 70,
+          "max": 160,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzi (2 giorni)",
+          "testo": "15-35 € a persona a pranzo, per i due giorni con pranzo al ristorante (Porto Ercole il giorno 1, Giglio il giorno 2): Sluurpy indica 15-20 € nei locali economici e 25-40 € per un pasto completo di pesce con bevande sul Giglio; Voloscontato riporta spese medie di 12-20 € (La Parannanza, Porto Ercole), 15-35 € (Lo Sfizio, Porto Santo Stefano) e 20-35 € a Giglio Porto. Il giorno 3 si porta il pranzo al sacco (non incluso).",
+          "min": 30,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cene (2 sere)",
+          "testo": "25-45 € a persona a cena, due sere sull'Argentario: Sluurpy 25-40 € per un pasto di pesce con bevande (50 € o più nei locali di alta gamma), Voloscontato 25-35 € a Porto Santo Stefano (menù di pesce da 25 €), Scattidigusto 35-50 € a Porto Ercole (Hosteria Alicina 40-50 €, La Vivienda 35-40 €). La terza sera si cena sulla strada del ritorno (non inclusa).",
+          "min": 50,
+          "max": 90,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Bus Giglio Porto-Castello",
+          "testo": "Biglietto di linea di pochi euro (cifra non verificata, esclusa dal totale); il bus collega il porto con Castello e Campese.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "A persona, con due viaggiatori: traghetto per il Giglio, gita a Giannutri, alloggio (la voce è già a persona) e pasti. Della vettura (carburante e parcheggi, circa 90-100 € in tutto, con il carburante basato su km non verificati) ciascuno sostiene la metà, cioè circa 45-50 € a testa. Il traghetto per il Giglio e Giannutri è solo per passeggeri: l'auto non sale.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Sul Giglio l'auto non serve e in agosto i veicoli sono soggetti a limitazioni e autocertificazione: lasciare la macchina in un parcheggio custodito di Porto Santo Stefano (circa 10 € al giorno, aperti dalle 7:00 alle 20:00-21:00). A Giannutri si cammina solo nel corridoio Cala Spalmatoio-Cala Maestra senza guida."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Giannutri: la gita guidata di Maregiglio da Porto Santo Stefano è attiva dal 29 maggio al 30 settembre, mercoledì, sabato e domenica; partenza alle 10:00 e rientro alle 16:00 con arrivo alle 17:00. Sul Giglio l'ultima corsa di ritorno è intorno alle 18:00 secondo Ferryhopper; da ottobre a maggio le corse sono meno frequenti. Verificare sempre gli orari su Toremar e Maregiglio."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La gita a Giannutri si prenota online (FareHarbor) e parte solo con almeno 10 iscritti; disdetta gratuita fino a 48 ore prima, scarpe da trekking obbligatorie. Per il Giglio in estate prenotare il traghetto con anticipo; gli ingressi ai trekking del Parco sono su prenotazione."
+        }
+      ],
+      "note": "Il consiglio che pochi seguono: prendere la prima corsa per il Giglio (7:30-8:00 da Porto Santo Stefano) e salire subito a Castello col bus prima che arrivino i gruppi di mezzogiorno; i vicoli vuoti al mattino sono un'altra cosa. Il biglietto della gita a Giannutri comprende già il ticket del Parco e la visita guidata alla Villa Romana, quindi non va pagato a parte. Se si arriva presto a Porto Santo Stefano il giorno 1, vale una pausa al porto per vedere dove si imbarca il giorno dopo e scegliere il parcheggio. Parcheggi: i parcheggi privati non sono tutti uguali, confermare orario e prezzo prima di lasciare l'auto per un'intera giornata. Il giorno 3 il ritorno a Firenze è di circa tre ore: partire dal porto alle 17:00 significa arrivare dopo le 20:00.",
+      "fonti": [
+        "https://www.bed-and-breakfast.it/en/monte-argentario?prezzo=1",
+        "https://www.booking.com/city/it/monte-argentario.html",
+        "https://hotels.easyjet.com/region/it/argentario.en-gb.html?aid=356980",
+        "https://www.ferryhopper.com/it/ferry-routes/direct/porto-santo-stefano-isola-del-giglio",
+        "https://www.ferryhopper.com/it/ferries/italy/giglio",
+        "https://www.traghettilines.it/it/traghetti-isola-del-giglio.aspx",
+        "https://maregiglio.it/en/mini-cruises/visit-giannutri-the-hidden-treasures/",
+        "https://www.islepark.it/wp-content/uploads/2026/03/vivere-GIGLIO_2026_WEB.pdf",
+        "https://maregiglio.it/en/?p=7895",
+        "https://www.money.it/l-isola-piu-bella-d-italia-per-una-vacanza-in-primavera-e-a-meno-3-ore-di-distanza-da-roma",
+        "https://www.spiagge.it/magazine/scoprire-porto-ercole-posti-imperdibili-estate-1/",
+        "https://www.sluurpy.it/porto-santo-stefano/italian",
+        "https://www.sluurpy.it/isola-del-giglio/pesce",
+        "https://www.voloscontato.it/ristoranti/porto-santo-stefano-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.voloscontato.it/ristoranti/porto-ercole-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.voloscontato.it/ristoranti/isola-del-giglio-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.scattidigusto.it/argentario-migliori-trattorie-vista-mare-monte"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 42.4375,
+        "lon": 11.1186
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni il traghetto di un'ora (con area giochi) e le spiagge del Giglio vanno bene e Giannutri è gratis fino a 4 anni, ma la gita guidata ha trekking e rientro serale lunghi."
+      }
+    },
+    {
       "id": "ascoli-piceno-offida-e-i-monti-sibillini-3g",
       "nome": "Ascoli Piceno, Offida e i Monti Sibillini",
       "sottotitolo": "Marche meridionali, la città del travertino, un borgo del merletto e le gole dei Sibillini",
@@ -25068,6 +26399,144 @@
       "bambini": {
         "adatta": "si",
         "nota": "Warwick Castle con falconeria e spettacoli e le rive dell'Avon a Stratford piacciono ai bimbi di 4 anni; i treni sono brevi e diretti."
+      }
+    },
+    {
+      "id": "bormio-livigno-e-lo-stelvio-3g",
+      "nome": "Bormio, Livigno e il Passo dello Stelvio in tre giorni",
+      "sottotitolo": "Lombardia (Alta Valtellina), terme romane, il valico più celebre delle Alpi e il «piccolo Tibet» extradoganale di Livigno",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Auto propria: da Firenze si risale l'A1 fino all'area di Milano e poi si prosegue per Lecco, Colico, la Valtellina e Tirano fino a Bormio (circa 430 km, 5h30 senza soste). Il pullman esiste (circa 7h30) ma non serve per Stelvio e Livigno, che sono due strade di montagna da fare con comodo e con i propri tempi. Parcheggio in Bormio facile fuori dalla zona pedonale del centro.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 5h30 in auto per 429 km sola andata (A1, poi Lecco e la Valtellina); è la parte pesante del viaggio, per questo si parte presto il giorno 1 e si rientra la sera del giorno 3.",
+      "durataViaggioMinuti": 331,
+      "periodoMiglioreTesto": "Da giugno a settembre: il Passo dello Stelvio è aperto solo da fine maggio a inizio novembre (nel 2026 tutti i versanti hanno riaperto il 22 maggio e la chiusura stagionale era prevista a inizio novembre) e in estate Livigno e le terme sono nel pieno della stagione. Fine settembre e ottobre sono splendidi per i colori, ma il passo può chiudere con la prima neve.",
+      "mesi": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "mesiDaEvitare": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "costoMin": 313,
+      "costoMax": 475,
+      "costoNota": "Il totale è a persona con 2 viaggiatori che dividono l'auto. Pedaggi: il calcolatore UnipolMove dà 26,40 € a tratta Firenze–Colico e 21,60 € Firenze–Tirano (414 km), quindi 43–53 € A/R; il tratto Tirano–Bormio è su strada statale gratuita e le pagine non indicano la classe del veicolo né il percorso esatto (si assume un'auto di classe A): conviene ricontrollare prima di partire. Pasti: 30–60 € al giorno a persona, ricavati dai prezzi di Bormio (menù turistico 16 € e degustazione 29 € in una pizzeria-ristorante, spesa media 15–30 € a persona su Volo Scontato, novembre 2025; cena media 28–40 € e fascia circa 20 € a persona su Sluurpy). Non ho trovato prezzi verificati per i ristoranti di Livigno: per quella cena vale la stessa fascia di Bormio, da intendere come assunzione. Alloggio: media a notte di Bormio rilevata da Momondo (105 € ad agosto, 123 € come media annua, 73 € il minimo trovato) in una camera doppia, quindi 75–125 € a persona per le due notti. Terme: il prezzo 2026 non è stato verificato sul sito ufficiale QC Terme (pagina non raggiungibile in questa sessione); le cifre 62–75 € vengono da Il Giorno e Headout e vanno ricontrollate al momento della prenotazione.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Con 5h30 di strada per tratta, tre giorni sono il minimo sensato: il giorno 1 si arriva e si fa Bormio, il giorno 2 è interamente dedicato al Passo dello Stelvio al mattino e a Livigno nel pomeriggio, il giorno 3 resta per le terme di Bormio prima del rientro. Le tre tappe sono vicinissime tra loro (Bormio è la base di tutte), quindi non si perde tempo in spostamenti interni, ma il ritmo è pieno e non c'è spazio per aggiungere altro. Chi vuole camminare davvero in quota (Cancano, Valfurva, Gavia) deve pensare a 4–5 giorni.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza da Firenze alle 6:30 circa, A1 verso nord, Lecco e la Valtellina con una sosta pranzo lungo il lago di Como; arrivo a Bormio nel primo pomeriggio. Si lascia l'auto e si va a piedi nel centro storico: la Via Roma pedonale, la Torre delle Ore e il Kuerc (il «coperto» medievale, loggia dove si riuniva il Consiglio) bastano per una passeggiata di un paio d'ore. Cena con i piatti della valle: pizzoccheri, sciatt, bresaola, formaggio Bitto."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: sveglia presto e salita al Passo dello Stelvio dal versante di Bormio, passando per Bagni Vecchi e i tornanti della Valtellina; in cima ci si ferma per vedere i tre versanti, i chioschi di wurstel e gli sciatori estivi sul ghiacciaio. Si può scendere qualche tornante sul lato altoatesino verso Prato allo Stelvio e tornare, oppure restare in vetta e rientrare a Bormio per pranzo. Nel pomeriggio si raggiunge Livigno per il passo Foscagno e la dogana: giro nel centro lungo, acquisti in zona extradoganale e, se serve, un pieno di carburante a prezzi molto più bassi (la benzina viene riportata intorno a 1,48 €/litro, circa 70 centesimi sotto la media nazionale). Cena a Livigno o rientro a Bormio per dormire."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: mattina alle QC Terme di Bormio (Bagni Vecchi, sulla strada dello Stelvio, o Bagni Nuovi, sulla strada di Livigno): percorso con le vasche romane e medievali, la vasca panoramica e l'infinity pool in roccia. Si esce verso le 13:00, pranzo veloce e partenza per Firenze con arrivo in tarda serata; chi non vuole guidare di notte dopo le terme può scegliere l'ingresso serale del giorno prima, ma in quel caso il giorno 2 diventa più compresso."
+        }
+      ],
+      "alloggio": "Da 75 a 125 € a notte per una doppia a Bormio (fonte Momondo: 105 € di media ad agosto, 123 € la media annua, 73 € il minimo trovato in un 2 stelle); dicembre sale a 230 € ma è stagione sciistica, non è il periodo di questo viaggio. Meglio dormire a Bormio per tutte e due le notti: è il punto di partenza più comodo per Stelvio, Livigno e Bagni; Livigno ha un'offerta di hotel e B&B comparabile ma richiede di tornare in dogana la mattina dopo. In estate si trovano B&B e meublé tra 75 e 100 € per due; gli alberghi con spa o gli hotel dentro i Bagni Vecchi e Nuovi sono oltre questa fascia.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "858 km A/R Firenze–Bormio più circa 140 km di spostamenti locali (Stelvio, Livigno, Bagni) a 0,129 €/km; con la discesa verso Prato allo Stelvio il costo sale di qualche euro. Un pieno a Livigno costa meno (benzina circa 1,48 €/l).",
+          "min": 129,
+          "max": 136,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi autostradali",
+          "testo": "Circa 43–53 € A/R: UnipolMove calcola 21,60 € a tratta Firenze–Tirano e 26,40 € Firenze–Colico (da raddoppiare per l'andata e ritorno); Tirano–Bormio e la Valtellina sono su statale gratuita.",
+          "min": 43,
+          "max": 53,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti)",
+          "testo": "Camera doppia a Bormio tra 75 e 125 € a notte (Momondo: 105 € ad agosto, 123 € la media annua); diviso per due viaggiatori e moltiplicato per 2 notti il costo a persona resta 75–125 €.",
+          "min": 75,
+          "max": 125,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo e cena",
+          "testo": "30–60 € al giorno a persona per pranzo e cena a Bormio: menù turistico 16 € e degustazione 29 € in una pizzeria-ristorante, spesa media 15–30 € (Volo Scontato, 2025), cena media 28–40 € (Sluurpy). Per Livigno nessun prezzo verificato, si assume la stessa fascia.",
+          "min": 30,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "QC Terme Bagni Vecchi o Nuovi",
+          "testo": "Biglietto giornaliero circa 62 € (Il Giorno) fino a circa 75 € (prezzo «da» 79 dollari su Headout); accappatoio e ciabatte inclusi. Prezzo 2026 del sito ufficiale non verificato.",
+          "min": 62,
+          "max": 75,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e divisi per due; alloggio, pasti e terme sono a persona. Alloggio e pasti sono calcolati per due viaggiatori che dividono una camera doppia.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Il Passo dello Stelvio apre solo a fine primavera: nel 2026 tutti e tre i versanti (Bormio, Prato allo Stelvio, Umbrail) hanno riaperto il 22 maggio, meteo permettendo, con chiusura stagionale prevista a inizio novembre. Da novembre ad aprile la strada è chiusa e la visita non è possibile."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Nel 2026 il passo è stato chiuso al traffico motorizzato in due date di Enjoy Stelvio Valtellina: sabato 29 agosto (8:00–16:00) e sabato 19 settembre (9:00–13:00) per ciclisti e pedoni. Il calendario di ogni anno va controllato prima di scegliere i giorni."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Livigno è zona extradoganale: all'ingresso e all'uscita ci sono controlli doganali. Rientrando nell'UE la franchigia è di 300 € a persona (150 € sotto i 15 anni), personale e non cumulabile; per alcolici, tabacchi e carburante valgono limiti di quantità a parte."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Alle QC Terme di Bormio l'accesso è vietato ai minori di 14 anni e alle donne in gravidanza; il biglietto è a ingresso singolo (non si può uscire e rientrare). Il biglietto online si prenota con data e orario; presentarsi 15 minuti prima."
+        }
+      ],
+      "note": "Il consiglio che si trova solo sul posto: fate il pieno di carburante a Livigno il giorno 2, prima di tornare a Bormio, perché la benzina costa circa 70 centesimi in meno al litro rispetto al resto d'Italia e il giorno 3 vi aspettano ancora oltre 400 km di rientro; rispettate comunque i limiti di carburante nel serbatoio previsti alla dogana. Controllate sempre il meteo e la situazione della strada del Passo dello Stelvio la mattina stessa (la neve può comparire anche in estate) e salite presto per evitare la coda di moto e camper tra le 10 e le 15. Se avete un bambino piccolo, le terme sono vietate sotto i 14 anni: valutate di alternarvi. Per il ritorno, partite subito dopo le terme per non arrivare a Firenze dopo mezzanotte; in caso contrario, aggiungete una terza notte a Bormio o Como e portate il viaggio a 4 giorni.",
+      "fonti": [
+        "https://www.momondo.it/hotel/bormio",
+        "https://distanzechilometriche.net/firenze-bormio/",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Colico/",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Tirano/",
+        "https://valtellinamobile.it/data-apertura-chiusura-stelvio/",
+        "https://www.motorimagazine.it/passi-alpini-senza-traffico-tutte-le-chiusure-e-gli-appuntamenti-di-enjoy-stelvio-valtellina-2026/",
+        "https://www.ilgiorno.it/sch-terme-in-lombardia-le-5-migliori-mete-per-relax-e-benessere-faiaf32u/qc-bormio-un-viaggio-nel-benessere-tra-bagni-vecchi-e-bagni-nuovi",
+        "https://www.headout.com/it/qc-terme-bagni-vecchi/biglietti-dingresso-qc-terme-bagni-vecchi-di-bormio-e-24435/",
+        "https://www.qcterme.com/wp-content/uploads/2026/06/RegolamentiCentri_2026_BV.pdf",
+        "https://quifinanza.it/osservatorio-prezzi/benzina-livigno-perche-costa-meno-quanto-risparmio/1010035/",
+        "https://valtellinamobile.it/quanto-conviene-livigno/",
+        "https://www.voloscontato.it/ristoranti/bormio-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.sluurpy.it/bormio/ristoranti"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 46.4676,
+        "lon": 10.3708
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Le terme sono vietate sotto i 14 anni, e con un bimbo di 4 anni 5h30 di auto più i tornanti dello Stelvio sono pesanti; Livigno e il centro di Bormio vanno bene."
       }
     },
     {
@@ -26658,6 +28127,160 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Un bimbo di 4 anni entra gratis alla Moschea Hassan II, ma il volo e i trasferimenti sono lunghi e il tour guidato è lento: meglio la spiaggia di El Jadida."
+      }
+    },
+    {
+      "id": "caserta-capua-e-il-matese-3g",
+      "nome": "Caserta, Capua e il Matese: la Reggia, Casertavecchia, Santa Maria Capua Vetere e il Lago del Matese",
+      "sottotitolo": "Campania, dalla Versailles borbonica ai borghi medievali, all'anfiteatro dei gladiatori e al lago di montagna",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Auto propria da Firenze lungo l'A1 fino a Caserta Nord (439 km per tratta secondo UnipolMove, circa 4h10, pedaggio 32,30 € a tratta). In alternativa Frecciarossa o Italo diretti Firenze S.M.N.–Caserta (circa 2h49, 2 diretti al giorno secondo Kombo) oppure via Napoli Afragola o Napoli Centrale con un cambio. L'auto è consigliata perché Casertavecchia, il Lago del Matese e l'Oasi di San Silvestro sono fuori dalle linee ferroviarie e il costo per due persone è paragonabile a quello di due biglietti ferroviari: 195-215 € di vettura contro circa 144-284 € di treno, senza contare i trasferimenti locali.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 4h10 in auto (439 km sull'A1) contro circa 2h49 in treno diretto Frecciarossa/Italo da Firenze S.M.N. a Caserta.",
+      "durataViaggioMinuti": 252,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: parco della Reggia fiorito o dai colori d'autunno, temperature miti e il Matese percorribile. Luglio e agosto sono caldi e cari (ad agosto i prezzi medi degli alberghi a Caserta salgono molto oltre la media annua), mentre da novembre a marzo il lago è freddo e le giornate corte riducono gli orari del Giardino Inglese e del parco.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 280,
+      "costoMax": 427,
+      "costoNota": "Due viaggiatori che condividono l'auto, 2 notti. Alloggio e pasti sono dati al giorno e moltiplicati per i 3 giorni dall'app: l'alloggio è calcolato come 2 notti diviso 3. I chilometri locali (Casertavecchia, Capua, Santa Maria Capua Vetere, Lago del Matese A/R) sono una stima di circa 200 km.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Tre giorni sono la misura giusta perché le tappe sono vicine tra loro ma distinte per carattere. Il primo giorno si dedica interamente alla Reggia: gli Appartamenti Reali richiedono circa 2 ore e mezza e il parco con Via d'Acqua, Bosco Vecchio e Giardino Inglese circa 4 ore. Il secondo giorno copre in pochi chilometri Casertavecchia (circa 10 km dalla Reggia), Capua e Santa Maria Capua Vetere, con anfiteatro e Mitreo. Il terzo è per il Lago del Matese, la parte più lunga come guida e quella che si fa con calma. In un giorno solo si finirebbe per vedere la Reggia di corsa e saltare tutto il resto; con più di tre giorni le tappe si ripeterebbero.",
+      "cosaVedere": [
+        "Reggia di Caserta: gli Appartamenti Reali, lo scalone e la Cappella Palatina di Vanvitelli, poi il parco con la Via d'Acqua fino alla grande cascata e il Giardino Inglese, il più appartato e meno affollato.",
+        "Casertavecchia: borgo medievale sulla collina a circa 10 km dalla Reggia, con il Duomo romanico dell'XI secolo, vicoli di pietra e vista sulla pianura.",
+        "Anfiteatro Campano a Santa Maria Capua Vetere: secondo per dimensioni solo al Colosseo, con i sotterranei dove stavano i gladiatori; Spartaco si formò nella scuola gladiatoria di Capua.",
+        "Mitreo di Santa Maria Capua Vetere: tempio sotterraneo del culto di Mitra con affreschi ben conservati; si visita solo su prenotazione, in gruppi molto piccoli.",
+        "Capua: centro storico sul Volturno, con il Duomo, il Museo Campano e il Ponte Romano; atmosfera da cittadina di provincia, senza folla.",
+        "Lago del Matese: lago carsico a circa 1.000 metri nel Parco Regionale del Matese, da fare a piedi lungo la riva o con un'escursione breve verso Bocca della Selva e i boschi circostanti.",
+        "San Leucio e Acquedotto Carolino: la colonia della seta voluta dai Borbone e l'acquedotto che alimenta la Via d'Acqua, tappe brevi da abbinare alla Reggia."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza da Firenze la mattina presto lungo l'A1 (circa 4h10), arrivo a Caserta per pranzo. Nel primo pomeriggio gli Appartamenti Reali (circa 2h30, ultimo ingresso alle 18:15 con orario novembre, meglio verificare il mese). Se resta luce, passeggiata sulle prime fontane del parco. Cena in trattoria in città con mozzarella di bufala e pizza, qui nata e fatta bene."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina nel parco della Reggia, da percorrere con calma lungo la Via d'Acqua fino alla cascata (a piedi circa 4 ore con il Giardino Inglese, aperto in orario ridotto). Pranzo leggero e nel pomeriggio Casertavecchia, 10 km più su, per il Duomo e la vista al tramonto. Cena a Caserta o nel borgo."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: mattina a Santa Maria Capua Vetere con Anfiteatro Campano e, se prenotato, il Mitreo (circuito integrato a 6 € dal 2 febbraio 2026, lunedì chiuso). Pranzo a Capua e passeggiata nel centro storico. Nel tardo pomeriggio rientro verso l'A1 e Firenze, oppure spostamento al Lago del Matese al posto di Capua se si preferisce la montagna."
+        }
+      ],
+      "alloggio": "Hotel e B&B a Caserta: Momondo segnala una media di circa 70 € a notte a febbraio, circa 161 € come media annuale e punte di circa 416 € ad agosto; il 3 stelle più economico rilevato costa 42 € a notte. Realistico per una camera doppia in B&B o 3 stelle fuori stagione: 42-110 € a notte (21-55 € a persona). Conviene dormire vicino alla stazione o alla Reggia per muoversi a piedi la sera; per il Matese esistono strutture a Piedimonte Matese e sul lago, ma non ho trovato prezzi verificati, quindi il preventivo usa Caserta come base per tutte e due le notti. Prenotare con almeno 3 mesi di anticipo per le tariffe migliori.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante e pedaggi)",
+          "testo": "Circa 878 km A/R sull'A1 più circa 200 km locali stimati: circa 139 € di carburante (0,129 €/km) e 64,60 € di pedaggi (32,30 € a tratta, UnipolMove). Parcheggio escluso.",
+          "min": 195,
+          "max": 215,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (confronto)",
+          "testo": "Frecciarossa o Italo Firenze-Caserta, circa 2h49: da 32-36 € a tratta nelle tariffe più basse fino a 64-71 € a tratta come prezzo tipico, quindi 72-142 € A/R a persona. Poi servono trasferimenti locali per Casertavecchia e Matese.",
+          "min": 72,
+          "max": 142,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Reggia di Caserta",
+          "testo": "14-18 € per il biglietto completo (Appartamenti Reali, Parco e Giardino Inglese); 9 € per il solo parco, 12 € per i soli Appartamenti. Gratuito fino a 18 anni, 2 € tra 18 e 25 anni.",
+          "min": 14,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Anfiteatro Campano e Mitreo",
+          "testo": "Biglietto integrato 6 € dal 2 febbraio 2026 (10 € nelle fonti precedenti); 2 € tra 18 e 25 anni, gratuito fino a 18. Il Museo dell'antica Capua è temporaneamente chiuso.",
+          "min": 6,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Altri ingressi (Museo Campano, Duomo di Casertavecchia, Oasi di San Silvestro)",
+          "testo": "Prezzi 2026 non verificati: controllare sui siti ufficiali prima della partenza. Non inclusi nel totale.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "42-110 € a notte per due in B&B o 3 stelle a Caserta (21-55 € a persona a notte); 2 notti, mostrate al giorno su 3 giorni (14-37 €).",
+          "min": 14,
+          "max": 37,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pranzo e cena",
+          "testo": "Pranzo 15-20 € in pizzeria o tavola calda; cena 25-40 € a persona in trattoria bevande incluse (mozzarella di bufala, pizza); oltre 50 € nei locali di fascia alta.",
+          "min": 40,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Persona: ingressi, alloggio (diviso per due) e pasti. Vettura: carburante e pedaggi A1, divisi per due. Il treno non entra nella somma: è mostrato solo come confronto.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro di Caserta ha zone a traffico limitato e Casertavecchia ha parcheggi ridotti nei fine settimana di bel tempo: arrivare presto o lasciare l'auto a valle. Per l'A1 si esce a Caserta Nord."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La Reggia chiude il martedì, il 1° gennaio e il 25 dicembre. Appartamenti Reali 8:30-19:15 e parco 8:30-15:30 con orario di novembre (il parco cambia mese per mese; il Giardino Inglese chiude prima e non apre nelle domeniche gratuite). Anfiteatro e Mitreo chiudono il lunedì."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il Mitreo di Santa Maria Capua Vetere si visita solo su prenotazione telefonica (gruppi da 5 persone, circa 20 visitatori al giorno). Gli Appartamenti Reali si prenotano online con una piccola quota di prevendita; i biglietti acquistati in loco non sono rimborsabili."
+        }
+      ],
+      "note": "Il consiglio che si trova solo sul posto: dedicare il mattino al parco e il pomeriggio agli Appartamenti, come suggerisce la guida, perché al mattino la Via d'Acqua è molto meno affollata e il Giardino Inglese ha gli orari più restrittivi. Il Museo dell'antica Capua è chiuso per lavori dal 2 febbraio 2026: verificare la riapertura prima di includerlo. Non ho trovato prezzi verificati per il Matese: se si include il lago, informarsi su strutture e ristoranti locali e tenere conto che in inverno può nevicare. Il treno diretto da Firenze (circa 2h49) resta una buona alternativa per chi vuole solo Reggia e Capua: Caserta e Santa Maria Capua Vetere sono collegate in pochi minuti.",
+      "fonti": [
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Caserta.php",
+        "https://www.kombo.co/it/treno-Firenze-Caserta",
+        "https://www.omio.it/treni/firenze/caserta",
+        "https://reggiadicaserta.cultura.gov.it/orari/",
+        "https://www.napolike.it/guida-reggia-caserta-storia-biglietti",
+        "https://travel.thewom.it/italia/campania/caserta/visitare-la-reggia-di-caserta.html",
+        "https://travel.thewom.it/italia/campania/secondo-anfiteatro-piu-grande-al-mondo.html",
+        "https://cultura.gov.it/evento/mitreo-di-santa-maria-capua-vetere-modalita-di-accesso-e-prenotazione",
+        "https://www.momondo.it/hotel/caserta",
+        "https://www.sluurpy.it/caserta/trattoria"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 41.0734,
+        "lon": 14.327
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il parco della Reggia con le fontane e l'anfiteatro piacciono a un bimbo di 4 anni, ma le distanze nel parco sono lunghe e il viaggio di oltre 4 ore in auto pesa."
       }
     },
     {
@@ -38904,6 +40527,179 @@
       }
     },
     {
+      "id": "tuscia-in-tre-giorni-3g",
+      "nome": "Tuscia in tre giorni: Viterbo, Civita di Bagnoregio, Bolsena, Tarquinia e Tuscania",
+      "sottotitolo": "Lazio settentrionale, il cuore etrusco e medievale della Tuscia con base a Viterbo",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Auto propria da Firenze (A1 fino a Orte, poi superstrada per Viterbo): 209 km, circa 1h59 e 13,30 € di pedaggio a tratta. Con due notti a Viterbo l'auto serve per l'anello Civita di Bagnoregio, Bolsena, Tuscania e Tarquinia, che coi mezzi pubblici richiederebbe giornate intere di attese. Il treno regge solo per Viterbo, ma poi si perde il senso del viaggio.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "1h59 in auto da Firenze a Viterbo (209 km); l'anello locale tra le tappe è di circa 170 km (stima sommando le tratte), con spostamenti di 20-45 minuti l'uno.",
+      "durataViaggioMinuti": 120,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: luce lunga, campagna verde o dorata, temperature miti per le necropoli etrusche all'aperto e per la salita a Civita. A luglio e agosto fa molto caldo e il weekend Civita e il lago di Bolsena sono affollati.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 229,
+      "costoMax": 403,
+      "costoNota": "Costi a persona con due viaggiatori che condividono l'auto: 108-109 € di vettura (carburante, pedaggi, parcheggio) diviso due, più alloggio per 2 notti, pasti per 3 giorni e ingressi. Il km dell'anello (170 km) è una stima, non una misura da navigatore.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Tre giorni sono il formato giusto perché la Tuscia è fatta di tappe lontane tra loro 25-45 minuti d'auto, ognuna da una mezza giornata scarsa. Il primo giorno basta a Viterbo (il quartiere medievale di San Pellegrino e il Colle del Duomo si vedono in un pomeriggio, poi cena e passeggiata serale). Il secondo giorno comprende due soli luoghi, Civita di Bagnoregio al mattino e Bolsena col suo lago nel pomeriggio, senza correre. Il terzo giorno unisce Tuscania, borgo di pietra con le sue chiese medievali, e Tarquinia, con le tombe dipinte etrusche, prima del ritorno a Firenze. Con due giorni si dovrebbe tagliare una tappa; con quattro si finirebbe a ripetere borghi simili.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Viterbo. Partenza da Firenze presto, arrivo a Viterbo in circa due ore. Parcheggia fuori dalle mura e lascia i bagagli al B&B. Il pomeriggio è dedicato alla città dei Papi: Piazza San Lorenzo con il Palazzo dei Papi (loggia gotica e Sala del Conclave) e la Cattedrale nel Polo monumentale Colle del Duomo, poi il quartiere medievale di San Pellegrino, il più integro d'Italia, con profferli (scale esterne) e vicoli stretti. Alla sera, se il tempo lo permette, le piscine delle Terme dei Papi (a pochi chilometri) oppure cena in trattoria con tonnarelli o pappardelle al cinghiale."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Civita di Bagnoregio e Bolsena. Al mattino in auto verso Bagnoregio (circa 30 km), parcheggio a pagamento e passeggiata sul ponte pedonale che porta a Civita, il borgo arroccato sul tufo che si sgretola. Visita lenta del paese, una sosta con vista sulla valle dei Calanchi, poi pranzo a Bagnoregio. Nel primo pomeriggio si scende a Bolsena: lungolago, la Rocca Monaldeschi con il Museo Territoriale del Lago, la Basilica di Santa Cristina legata al miracolo eucaristico del 1263 e le catacombe. Rientro a Viterbo per cena."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Tuscania e Tarquinia, poi ritorno. Colazione e check-out, poi Tuscania (circa 25 km): la collina di San Pietro con le due chiese medievali di pietra, i resti della cittadella, il borgo murato intorno a Santa Maria Maggiore. Pranzo in trattoria. Nel pomeriggio si prosegue per Tarquinia (circa 40 km) per la Necropoli dei Monterozzi, con le tombe affrescate della Caccia e Pesca e dei Leopardi, e se resta tempo il Museo Archeologico nel Palazzo Vitelleschi, dove si vedono i Cavalli Alati. Rientro verso Firenze lungo l'A1 con una sosta a metà strada."
+        }
+      ],
+      "alloggio": "B&B a Viterbo da 52 a 100 € a notte per due (fonte: bed-and-breakfast.it): equivale a 26-50 € a persona a notte, da moltiplicare per 2 notti. Conviene dormire dentro o ai margini delle mura, nell'area di San Pellegrino o a ridosso di Piazza del Plebiscito: chiedi al B&B dove parcheggiare, perché il centro ha una ZTL. In weekend e nel ponte di primavera i prezzi si avvicinano al massimo.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante",
+          "testo": "Firenze–Viterbo 209 km, 418 km A/R, più circa 170 km di anello (stima) = circa 588 km a 0,129 €/km, circa 76 € di benzina per la vettura.",
+          "min": 76,
+          "max": 76,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A1",
+          "testo": "13,30 € a tratta Firenze–Viterbo, quindi 26,60 € A/R (circa 27 €) per la vettura (unipolmove.it).",
+          "min": 27,
+          "max": 27,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggio Bagnoregio (Civita)",
+          "testo": "6 € al giorno a Bagnoregio, da cui parte il ponte pedonale per Civita (travel365.it, marzo 2026). Parcheggio a Viterbo e a Tarquinia da verificare in loco.",
+          "min": 6,
+          "max": 6,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio, 2 notti",
+          "testo": "52-100 € a notte per due in B&B a Viterbo, cioè 26-50 € a persona a notte: 52-100 € a persona per le 2 notti.",
+          "min": 52,
+          "max": 100,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti (pranzo e cena)",
+          "testo": "Pranzo 10-25 € (piadineria, pizzeria o trattoria semplice, circa 10-25 € a persona secondo travel365.it, marzo 2026), cena in trattoria 25-50 € (circa 25 € in una trattoria base, 40-50 € in un ristorante più curato, scattidigusto.it, 2024). Al giorno 35-75 € a persona, bevande escluse.",
+          "min": 35,
+          "max": 75,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Civita di Bagnoregio, ingresso",
+          "testo": "3 € nei giorni feriali, 5 € nel weekend (travel365.it, marzo 2026).",
+          "min": 3,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Palazzo dei Papi, Polo monumentale Colle del Duomo",
+          "testo": "Circa 8-10 € (10 € l'intero, 8 € con la card, artsupp.com); il biglietto vale per Palazzo dei Papi, Cattedrale e Museo del Colle del Duomo. Chiuso il martedì.",
+          "min": 8,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Tarquinia, Necropoli e Museo",
+          "testo": "6 € la sola Necropoli dei Monterozzi, 8 € il cumulativo con il Museo Archeologico (museionline.info, 2024: confermare prima di partire). Chiusa il lunedì.",
+          "min": 6,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Palazzo Farnese di Caprarola (alternativa a Bolsena)",
+          "testo": "5 € intero, 2,50 € ridotto, gratis la prima domenica del mese (museionline.info). Chiuso il lunedì; non incluso nel totale.",
+          "min": 0,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Terme dei Papi (facoltative)",
+          "testo": "12 € per 3 ore, 18 € l'intera giornata nei feriali (siviaggia.it); la piscina termale è chiusa il martedì. Non incluse nel totale.",
+          "min": 12,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante, pedaggi e parcheggio sono della vettura e si dividono per due: 76 + 27 + 6 = 109 € di auto, quindi circa 54 € a testa. Alloggio (a persona su base due), pasti e ingressi sono a persona. Le Terme dei Papi e Palazzo Farnese sono facoltativi e non entrano nel totale.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico di Viterbo ha una ZTL: parcheggia fuori dalle mura e verifica con il B&B il permesso per carico bagagli. A Civita di Bagnoregio si lascia l'auto a Bagnoregio (6 € al giorno) e si sale a piedi sul ponte pedonale."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Palazzo dei Papi chiuso il martedì; Palazzo Farnese a Caprarola chiuso il lunedì; la Necropoli di Tarquinia è chiusa il lunedì; la piscina delle Terme dei Papi è chiusa il martedì. Parti di mercoledì per averli tutti aperti."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per i visitatori singoli non servono prenotazioni a Palazzo Farnese; nei weekend e nei festivi conviene prenotare i gruppi. Nei weekend di primavera e per il ponte del 2 giugno verifica con anticipo i posti nei B&B del centro."
+        }
+      ],
+      "note": "Parti di mercoledì: così Palazzo dei Papi (aperto il mercoledì), la Necropoli di Tarquinia e le Terme dei Papi sono tutti aperti, e a Civita paghi la tariffa feriale di 3 €. Chi ama i giardini può sostituire Bolsena con Caprarola: il Palazzo Farnese è a 20 km da Viterbo, aperto dal martedì alla domenica fino alle 18:45, con i giardini segreti del Vignola. A Tarquinia la Necropoli è all'aperto e in inverno chiude presto (orario 9-17 secondo la carta dei servizi del parco): arriva entro metà pomeriggio. Gli orari di Palazzo dei Papi variano per stagione, quindi controllali nel sito prima di partire. Per i pasti, i prezzi di Viterbo tra 10 e 50 € vengono da travel365.it e scattidigusto.it: prima di sederti chiedi il costo del primo piatto.",
+      "fonti": [
+        "https://www.bed-and-breakfast.it/en/best-bb-hotels-viterbo",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Viterbo/",
+        "https://www.travel365.it/viterbo-dove-mangiare.htm",
+        "https://www.scattidigusto.it/tuscia-viterbese-migliori-ristoranti",
+        "https://cultura.gov.it/luogo/palazzo-farnese",
+        "https://www.museionline.info/tipologie-museo/palazzo-farnese-caprarola",
+        "https://www.museionline.info/tipologie-museo/palazzo-dei-papi-di-viterbo",
+        "https://artsupp.com/it/viterbo/musei/polo-monumentale-colle-del-duomo",
+        "https://www.visititaly.eu/it/luoghi-e-itinerari/visita-palazzo-dei-papi-viterbo",
+        "https://pact.cultura.gov.it/amm-trasparente/carta-dei-servizi-pact-2024-27-12-2024"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 42.4207,
+        "lon": 12.1077
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni funzionano bene il lago di Bolsena e la passeggiata a Civita, ma i trasferimenti in auto sono lunghi e le tombe di Tarquinia sono ambienti piccoli e bui, poco adatti a un bimbo irrequieto."
+      }
+    },
+    {
       "id": "val-di-fassa-e-val-di-fiemme-3g",
       "nome": "Val di Fassa, Val di Fiemme e San Martino di Castrozza",
       "sottotitolo": "Trentino, tre valli dolomitiche confinanti: Catinaccio e Marmolada, foreste di Paneveggio e Pale di San Martino",
@@ -39036,6 +40832,162 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Con un bimbo di 4 anni vanno bene la cabinovia del Ciampedie e le passeggiate brevi a Gardeccia o in Val Venegia, ma il Viel del Pan (8 km) e le tappe lunghe in auto sui passi sono pesanti."
+      }
+    },
+    {
+      "id": "val-gardena-e-alpe-di-siusi-3g",
+      "nome": "Val Gardena e Alpe di Siusi: Ortisei, Selva, Seceda e il Sassolungo",
+      "sottotitolo": "Alto Adige, il cuore ladino delle Dolomiti tra i prati del Seceda, l'Alpe di Siusi e le pareti del Sassolungo",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Auto propria in due, da Firenze con A1 fino a Bologna e poi A22 del Brennero, uscita Chiusa/Val Gardena e ultimi 20 km di strada di valle fino a Ortisei: circa 435 km a tratta (370 km fino a Bolzano Sud, il resto su A22 e statale). Una volta a Ortisei l'auto resta parcheggiata in hotel e si sale in quota con gli impianti, così non si incontra il divieto di transito sulla strada dell'Alpe di Siusi.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 4h30 in auto (stima: 3h32 fino a Bolzano secondo UnipolMove più circa un'ora fino a Ortisei, 435 km)",
+      "durataViaggioMinuti": 270,
+      "periodoMiglioreTesto": "Giugno, settembre e ottobre: gli impianti estivi sono aperti, i prati sono verdi o tinti di autunno e i prezzi sono più bassi che a luglio-agosto. Da evitare agosto (picco di presenze, con la fascia di punta da metà luglio a fine agosto) e novembre, quando cabinovie e funivie chiudono per la pausa tra le stagioni.",
+      "mesi": [
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        8,
+        11
+      ],
+      "costoMin": 394,
+      "costoMax": 609,
+      "costoNota": "Cifre a persona con due viaggiatori che dividono l'auto, 2 notti, 3 pranzi e 2 cene. Impianti e pedaggi sono tariffe 2026: controllare i listini 2027 prima di partire. Pranzi (26-40 €) e cene (25-40 €) sono fasce con fonte (Holidoit, Sluurpy); i prezzi dei menù Holidoit non riportano l'anno e includono le bevande. I 435 km a tratta e i 870 km A/R usati per il carburante (0,129 €/km) non sono stati ricontrollati su un calcolatore di percorso: i pedaggi A1/A22 (54-67 € A/R) vengono da UnipolMove, ma la distanza fino a Ortisei resta approssimata.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Tre giorni funzionano perché la valle si gira a pezzi, senza fretta: il primo pomeriggio basta per Ortisei e Selva, il secondo giorno intero se lo prende il Seceda (a 2.519 m, con i suoi prati e le guglie delle Odle), il terzo la mattina sull'Alpe di Siusi prima di rientrare. Le distanze interne sono corte (Ortisei-Selva circa 10-12 km), ma gli impianti scandiscono i tempi e il Seceda richiede una prenotazione di fascia oraria. In meno di tre giorni si sacrificherebbe una delle due grandi salite, considerando anche 4h30 di strada per ogni tratta da Firenze.",
+      "cosaVedere": [
+        "Prati del Seceda (2.519 m): ampi altipiani ai piedi delle Odle, con baite di legno e vista sulle guglie; si sale da Ortisei con la cabinovia fino a Furnes e poi con la funivia fino in cima.",
+        "Baita Curona: rifugio appena sopra il passo Cuca, raggiungibile dai prati del Seceda con un sentiero segnalato, utile per una pausa pranzo a quota alta.",
+        "Alpe di Siusi: il più vasto pianoro alpino d'Europa, in quota subito sopra Ortisei, con panorama sul Sassolungo e sullo Sciliar; si raggiunge con la funivia Ortisei-Alpe di Siusi.",
+        "Centro di Ortisei: la chiesa parrocchiale settecentesca di Sant'Ulrico, la chiesa di San Giacomo con l'altare maggiore barocco e le botteghe di scultura in legno, tradizione della valle.",
+        "Selva di Val Gardena e il Ciampinoi: con la telecabina si sale ai piedi del Sassolungo per vederne da vicino le pareti, che da Selva si impongono sulla valle.",
+        "Cultura ladina e artigianato: il museo e le mostre d'arte di Ortisei (ART52) raccontano la lingua e la scultura in legno che hanno reso famosa la valle."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza presto da Firenze con A1 e A22, uscita Chiusa/Val Gardena, arrivo a Ortisei verso pranzo (circa 4h30 di viaggio). Sistemazione in garni o hotel e pranzo in paese. Nel pomeriggio passeggiata nel centro pedonale di Ortisei, chiesa di Sant'Ulrico e botteghe di scultura; se resta energia, trasferimento a Selva (circa 10-12 km) e salita con la telecabina del Ciampinoi per le pareti del Sassolungo. Cena in valle."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: giornata ai prati del Seceda. Prenotare online la fascia oraria della funivia Ortisei-Furnes-Seceda (biglietto combinato A/R 74 € a persona, la tariffa 2026). Prima salita della mattina per avere la luce migliore sulle Odle, cammino tra i prati fino a Baita Curona per il pranzo, poi discesa a Ortisei nel pomeriggio. Sera libera in centro, con cena in uno dei ristoranti di Ortisei."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: mattina sull'Alpe di Siusi, salendo con la funivia Ortisei-Alpe di Siusi (39 € A/R a persona nel 2026) senza usare l'auto, che sull'Alpe è vietata al traffico privato dalle 9 alle 17. Passeggiata sul pianoro con vista sul Sassolungo e sullo Sciliar, pranzo in malga, discesa e rientro a Firenze nel pomeriggio (4h30 di strada, quindi arrivo in serata)."
+        }
+      ],
+      "alloggio": "Per due persone in camera doppia contare circa 70-140 € a notte. I prezzi \"da\" dei garni e degli hotel a tre stelle di Selva partono da 63 € (Garni La Majon) e arrivano a circa 95 € (Hotel Chalet Dlaces); a Ortisei le strutture elencate partono da 55 a 136 € a notte; un portale di confronto riporta un prezzo medio di 142 € a notte per l'area di Selva, categorie superiori incluse. Garni come lo Snaltnerhof (3 stelle, Ortisei) fanno pagare la colazione a buffet a parte, 8 € a persona. Conviene dormire a Ortisei, vicino alla cabinovia del Seceda e dell'Alpe di Siusi, e prenotare per almeno 3 notti se si cerca il prezzo migliore: i listini di valle spesso assumono un soggiorno minimo di 3 notti, quindi per 2 notti chiedere conferma. Prezzi più bassi a giugno e settembre. Tassa di soggiorno esclusa, esenti i bambini sotto i 14 anni.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "Circa 870 km A/R (435 km a tratta) a 0,129 €/km: circa 112 € di carburante.",
+          "min": 112,
+          "max": 112,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto: pedaggi A1/A22",
+          "testo": "A/R 54-67 €: 26,80 € a tratta fino a Laives (Bolzano) e 33,30 € fino a Chiusa/Bressanone secondo UnipolMove; per Chiusa si resta tra i due valori.",
+          "min": 54,
+          "max": 67,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "2 notti in camera doppia a 70-140 € a notte, cioè 35-70 € a persona a notte: 70-140 € a persona per le due notti.",
+          "min": 70,
+          "max": 140,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Impianti di risalita",
+          "testo": "Da 113 € (Seceda combinata Ortisei-Furnes-Seceda A/R 74 € + funivia Ortisei-Alpe di Siusi A/R 39 €) a 163 € con la Gardena Card 3 giorni a 124 € (include Seceda e Ciampinoi) più i 39 € dell'Alpe di Siusi. Bambini sotto gli 8 anni gratis con un adulto pagante sul Seceda.",
+          "min": 113,
+          "max": 163,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzi",
+          "testo": "26-40 € a persona a pranzo (3 pranzi): menù in rifugio sopra Ortisei 26 € (menù 1) e 40 € (menù 2) con bevande, malga sull'Alpe di Siusi da 33 € (primo) a 44 € (secondo) fino a 55 € (menù completo), prezzi di listino su Holidoit senza data esplicita; un piatto singolo o uno spuntino costano meno.",
+          "min": 26,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Cene",
+          "testo": "25-40 € a persona a cena (2 cene, il terzo giorno si rientra a Firenze): costo medio per la cucina italiana a Ortisei, bevande incluse, secondo Sluurpy; le pizzerie economiche stanno sui 15-20 €, i locali di fascia alta partono da 50 €. Il supplemento di mezza pensione in hotel è di 20-35 € (hotelmappa.it).",
+          "min": 50,
+          "max": 80,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Colazione",
+          "testo": "Spesso compresa nel prezzo della camera; nei garni come lo Snaltnerhof è a parte, 8 € a persona a mattina (2 mattine).",
+          "min": 0,
+          "max": 16,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e pedaggi sono della vettura e si dividono per due (circa 83-90 € a persona). Alloggio (camera doppia divisa in due), impianti, pranzi, cene e colazioni sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "La strada dell'Alpe di Siusi è chiusa al traffico privato dalle 9:00 alle 17:00. Con la funivia da Ortisei il problema non si pone; chi sale con l'auto da Siusi deve prenotare online il parcheggio P1 Spitzbühl o P2 Compatsch, prenotazione che apre tre giorni prima dell'arrivo."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Stagione estiva 2026: funivia Ortisei-Alpe di Siusi dal 1° maggio al 2 novembre, Siusi-Alpe di Siusi dal 22 maggio al 2 novembre, Gardena Card valida dal 6 giugno all'11 ottobre. Tra inizio novembre e inizio dicembre cabinovie e impianti sono chiusi. Verificare le date 2027."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Il Seceda si compra online con fascia oraria sul sito seceda.it (sconto fino al 5% anticipando); anche la Gardena Card richiede di prenotare giorno e ora. Agosto e weekend sono i giorni in cui le fasce si esauriscono."
+        }
+      ],
+      "note": "Il Seceda costa molto: la sola funivia Furnes-Seceda costa 44 € A/R contro i 74 € della combinata che parte da Ortisei, quindi chi ha l'auto può valutare di salire a Furnes in altro modo. Alla biglietteria, partire con la prima corsa evita le code e le nuvole che si alzano a metà giornata sulle Odle. Per il Sassolungo non servono impianti costosi: dall'Alpe di Siusi e da Selva lo si vede benissimo, e la strada da Selva verso i passi Sella e Gardena è panoramica ma richiede tempo in più. L'auto resta ferma in hotel per tutti e tre i giorni, quindi chiedete il parcheggio incluso al momento della prenotazione.",
+      "fonti": [
+        "https://www.seiseralm.it/it/attivita/estate/impianti-di-risalita-in-estate.html",
+        "https://www.seiseralm.it/it/info/mobilita/regolamentazione-traffico.html",
+        "https://www.valgardena.it/it/vacanze-estive-dolomiti/mobilita/gardena-card/",
+        "https://www.suedtirol.info/it/it/esperienze-eventi/plp-esperienze/esperienze-alto-adige/pdp-esperienze.smgpoi4e0e739f95a944139cbacb63f87b173d.ortisei-furnes.ortisei-urtijei",
+        "https://www.valgardena-groeden.com/it/cultura-e-territorio/le-dolomiti/altipiani-e-malghe/prati-del-seceda/",
+        "https://hotelmappa.it/guide/hotel-3-stelle-selva-val-gardena/",
+        "https://www.alto-adige.com/alloggi/val-gardena/ortisei",
+        "https://it.trip.com/hotels/ortisei-hotel-detail-9051162/hotel-garni-snaltnerhof/",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Vipiteno/",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Laives/",
+        "https://www.unipolmove.it/calcola-pedaggio/Bolzano/Firenze/",
+        "https://www.dolomiti.it/en/ortisei",
+        "https://www.holidoit.com/e/pranzo-in-rifugio-allo-chalet-resciesa-sopra-ortisei-in-val-gardena",
+        "https://www.holidoit.com/e/pranzo-alla-malga-sanon-a-castelrotto-sull-alpe-di-siusi-in-val-gardena",
+        "https://www.sluurpy.it/ortisei/italiana"
+      ],
+      "aggiuntaIl": "2026-11-19",
+      "coordinate": {
+        "lat": 46.5746,
+        "lon": 11.6712
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "L'Alpe di Siusi è larga e piana e gli impianti sono gratis sotto gli 8 anni (con un adulto pagante sul Seceda), ma 4h30 di auto per tratta sono pesanti per un bimbo di 4 anni."
       }
     },
     {

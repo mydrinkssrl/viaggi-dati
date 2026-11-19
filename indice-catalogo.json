@@ -843,6 +843,11 @@
  ],
  "extra": [
   [
+   "acquapendente-torre-alfina-e-bosco-del-sasseto-1g",
+   "Acquapendente, Torre Alfina e il Bosco del Sasseto",
+   1
+  ],
+  [
    "anghiari-e-sansepolcro-1g",
    "Anghiari e Sansepolcro",
    1
@@ -1263,6 +1268,11 @@
    1
   ],
   [
+   "val-di-bisenzio-1g",
+   "Val di Bisenzio: Vaiano, la Badia di San Salvatore, Vernio, la Rocca di Cerbaia e Montepiano",
+   1
+  ],
+  [
    "valdarno-san-giovanni-loro-ciuffenna-e-le-balze-1g",
    "Valdarno: San Giovanni Valdarno, Loro Ciuffenna e le Balze",
    1
@@ -1270,6 +1280,11 @@
   [
    "viareggio-e-torre-del-lago-1g",
    "Viareggio e Torre del Lago Puccini",
+   1
+  ],
+  [
+   "vicchio-dicomano-e-la-val-di-sieve-1g",
+   "Vicchio, Dicomano e la Val di Sieve: la casa di Giotto, Vespignano e il Beato Angelico",
    1
   ],
   [
@@ -1281,6 +1296,16 @@
    "vinci-e-cerreto-guidi-1g",
    "Vinci e Cerreto Guidi",
    1
+  ],
+  [
+   "zocca-guiglia-e-i-sassi-di-roccamalatina-1g",
+   "Zocca, Guiglia e i Sassi di Roccamalatina",
+   1
+  ],
+  [
+   "acqui-terme-ovada-e-alto-monferrato-2g",
+   "Acqui Terme, Ovada e l'Alto Monferrato",
+   2
   ],
   [
    "agrigento-e-la-valle-dei-templi-2g",
@@ -1413,6 +1438,11 @@
    2
   ],
   [
+   "citta-murate-del-veneto-2g",
+   "Cittadella, Castelfranco Veneto, Montagnana ed Este: le città murate del Veneto",
+   2
+  ],
+  [
    "colli-euganei-2g",
    "Colli Euganei: Abano, Este, Monselice e Arquà Petrarca",
    2
@@ -1453,6 +1483,11 @@
    2
   ],
   [
+   "faenza-brisighella-e-vena-del-gesso-2g",
+   "Faenza, Brisighella e la Vena del Gesso romagnola",
+   2
+  ],
+  [
    "finale-ligure-noli-e-varigotti-2g",
    "Finale Ligure, Noli e Varigotti",
    2
@@ -1465,6 +1500,11 @@
   [
    "gaeta-e-sperlonga-2g",
    "Gaeta e Sperlonga",
+   2
+  ],
+  [
+   "garfagnana-e-orecchiella-2g",
+   "Garfagnana e Orecchiella: Castelnuovo, Isola Santa, Vagli, San Pellegrino in Alpe e la Pania",
    2
   ],
   [
@@ -1673,6 +1713,11 @@
    2
   ],
   [
+   "riviera-delle-palme-2g",
+   "San Benedetto del Tronto, Grottammare e Offida: la Riviera delle Palme",
+   2
+  ],
+  [
    "rovereto-e-vallagarina-2g",
    "Rovereto e la Vallagarina",
    2
@@ -1778,6 +1823,11 @@
    3
   ],
   [
+   "argentario-giglio-e-giannutri-3g",
+   "Argentario, Giglio e Giannutri in tre giorni: Porto Ercole, Porto Santo Stefano, Giglio Castello e la Feniglia",
+   3
+  ],
+  [
    "ascoli-piceno-offida-e-i-monti-sibillini-3g",
    "Ascoli Piceno, Offida e i Monti Sibillini",
    3
@@ -1823,6 +1873,11 @@
    3
   ],
   [
+   "bormio-livigno-e-lo-stelvio-3g",
+   "Bormio, Livigno e il Passo dello Stelvio in tre giorni",
+   3
+  ],
+  [
    "breslavia-3g",
    "Breslavia",
    3
@@ -1865,6 +1920,11 @@
   [
    "casablanca-e-el-jadida-3g",
    "Casablanca, El Jadida e Azemmour",
+   3
+  ],
+  [
+   "caserta-capua-e-il-matese-3g",
+   "Caserta, Capua e il Matese: la Reggia, Casertavecchia, Santa Maria Capua Vetere e il Lago del Matese",
    3
   ],
   [
@@ -2228,8 +2288,18 @@
    3
   ],
   [
+   "tuscia-in-tre-giorni-3g",
+   "Tuscia in tre giorni: Viterbo, Civita di Bagnoregio, Bolsena, Tarquinia e Tuscania",
+   3
+  ],
+  [
    "val-di-fassa-e-val-di-fiemme-3g",
    "Val di Fassa, Val di Fiemme e San Martino di Castrozza",
+   3
+  ],
+  [
+   "val-gardena-e-alpe-di-siusi-3g",
+   "Val Gardena e Alpe di Siusi: Ortisei, Selva, Seceda e il Sassolungo",
    3
   ],
   [

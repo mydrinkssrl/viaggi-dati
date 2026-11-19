@@ -1,47 +1,232 @@
 [
- ["lemno-thassos-e-samotracia-7g", "Lemno, Thassos e Samotracia: le isole dell'Egeo settentrionale da Salonicco e Kavala", 7],
- ["azzorre-centrali-7g", "Azzorre centrali: Terceira, Faial, Pico e São Jorge", 7],
- ["shropshire-e-marca-gallese-7g", "Shropshire, Herefordshire e Marca gallese: Shrewsbury, Ironbridge, Ludlow, Hereford, Hay-on-Wye e le Malvern Hills", 7],
- ["paesi-baschi-francesi-e-bearn-7g", "Paesi Baschi francesi e Béarn: Biarritz, Bayonne, Saint-Jean-de-Luz, Espelette, Pau e Lourdes", 7],
- ["malaga-costa-del-sol-e-gibilterra-7g", "Provincia di Malaga e Gibilterra: Malaga, Ronda, Antequera, Caminito del Rey, Nerja e Gibilterra", 7],
- ["moldova-completa-7g", "Moldova completa: Chișinău, Orheiul Vechi, Soroca, le cantine di Cricova e Mileștii Mici e la Gagauzia", 7],
- ["lancashire-cheshire-e-isola-di-man-7g", "Lancashire, Cheshire e Isola di Man: Liverpool, Chester, Lancaster, Blackpool e Douglas", 7],
- ["alpi-cuneesi-e-monviso-7g", "Alpi Cuneesi e Monviso: Valle Gesso, Valle Stura, Valle Maira, Valle Varaita, Limone Piemonte e Saluzzo", 7],
- ["delta-del-po-e-polesine-7g", "Delta del Po e Polesine: Ferrara, Comacchio, Rovigo, Adria, Chioggia e Pomposa", 7],
- ["chianti-val-d-elsa-e-volterra-7g", "Chianti, Val d'Elsa e Volterra: una settimana lenta tra Greve, Radda, San Gimignano, Certaldo e Volterra", 7],
- ["basilicata-ionica-e-vulture-7g", "Basilicata ionica e Vulture: Metaponto, Policoro, Craco, Aliano, Melfi, Venosa e i laghi di Monticchio", 7],
- ["marocco-orientale-7g", "Marocco orientale e Rif meridionale: Fès, Sefrou, Taza, Oujda, Saidia e i Monti Beni-Snassen", 7],
- ["alpi-liguri-e-val-roja-7g", "Alpi Liguri e Val Roja: Triora, Pigna, Dolceacqua, Tenda, Saorge e il Monte Saccarello", 7],
- ["umbria-meridionale-e-valnerina-7g", "Umbria meridionale e Valnerina: Spoleto, Norcia, Cascia, Terni, le Marmore, Narni e Amelia", 7],
- ["serbia-orientale-e-gole-del-danubio-7g", "Serbia orientale e Gole del Danubio: Niš, Đerdap, Golubac, Lepenski Vir, Felix Romuliana e Đavolja Varoš", 7],
- ["dalmazia-centrale-7g", "Dalmazia centrale e l'entroterra: Spalato, Trogir, Klis, Omiš, Makarska, Imotski e Sinj", 7],
- ["abruzzo-adriatico-7g", "Abruzzo adriatico: Pescara, Costa dei Trabocchi, Atri, Teramo, Civitella del Tronto, Loreto Aprutino e la Majella orientale", 7],
- ["appennino-umbro-marchigiano-7g", "Appennino umbro-marchigiano: Gubbio, Fabriano, le Grotte di Frasassi, Camerino, Matelica e la Gola del Furlo", 7],
- ["hokkaido-completo-14g", "Giappone: Hokkaido completo: Sapporo, Otaru, Hakodate, Furano, Biei, Daisetsuzan, Shiretoko, Kushiro e Akan", 14],
- ["maharashtra-e-konkan-14g", "India: Maharashtra e Konkan: Mumbai, Ajanta ed Ellora, Aurangabad, Pune, Nashik, Ratnagiri e Ganpatipule", 14],
- ["costa-d-avorio-14g", "Costa d'Avorio: Abidjan, Grand-Bassam, Assinie, Yamoussoukro, Man, Korhogo e il Parco di Taï", 14],
- ["botswana-completo-14g", "Botswana completo: Okavango, Moremi, Chobe, Savuti, Makgadikgadi, Kalahari centrale e le colline Tsodilo", 14],
- ["nuovo-messico-e-four-corners-14g", "Stati Uniti: Nuovo Messico e Four Corners: Albuquerque, Santa Fe, Taos, White Sands, Carlsbad Caverns, Chaco, Mesa Verde e Monument Valley", 14],
- ["guyana-francese-e-suriname-14g", "Guyana francese e Suriname: Cayenne, Kourou, le Isole della Salvezza, Saint-Laurent-du-Maroni, Paramaribo, il fiume Suriname e Brownsberg", 14],
- ["tuamotu-e-marchesi-14g", "Polinesia francese: Tuamotu e Marchesi: Rangiroa, Fakarava, Tikehau, Nuku Hiva e Hiva Oa", 14],
- ["alberta-completa-14g", "Canada: Alberta completa: Calgary, Banff, Lake Louise, Icefields Parkway, Jasper, Drumheller, Waterton, Edmonton ed Elk Island", 14],
- ["nusa-tenggara-orientale-sumba-timor-e-alor-14g", "Indonesia: Sumba, Timor occidentale e Alor: le isole di Nusa Tenggara orientale", 14],
- ["chiapas-e-tabasco-14g", "Messico: Chiapas e Tabasco: San Cristóbal, Palenque, Cañón del Sumidero, Lagos de Montebello, Villahermosa e Comalcalco", 14],
- ["paraguay-e-missioni-gesuitiche-14g", "Paraguay e le Missioni gesuitiche: Asunción, Trinidad, Jesús, Encarnación, il Chaco, Ciudad del Este e le Misiones argentine", 14],
- ["queensland-tropicale-14g", "Australia: Queensland tropicale: Cairns, Daintree, Barriera Corallina, Whitsundays, Magnetic Island, Townsville e le Atherton Tablelands", 14],
- ["tenerife-in-tre-giorni-3g", "Tenerife in tre giorni: Teide, Masca, La Orotava, Garachico e la costa sud", 3],
- ["agadir-taghazout-e-paradise-valley-3g", "Agadir, Taghazout e Paradise Valley in tre giorni", 3],
- ["val-gardena-e-alpe-di-siusi-3g", "Val Gardena e Alpe di Siusi: Ortisei, Selva, Seceda e il Sassolungo", 3],
- ["argentario-giglio-e-giannutri-3g", "Argentario, Giglio e Giannutri in tre giorni: Porto Ercole, Porto Santo Stefano, Giglio Castello e la Feniglia", 3],
- ["bormio-livigno-e-lo-stelvio-3g", "Bormio, Livigno e il Passo dello Stelvio in tre giorni", 3],
- ["tuscia-in-tre-giorni-3g", "Tuscia in tre giorni: Viterbo, Civita di Bagnoregio, Bolsena, Tarquinia e Tuscania", 3],
- ["garfagnana-e-orecchiella-2g", "Garfagnana e Orecchiella: Castelnuovo, Isola Santa, Vagli, San Pellegrino in Alpe e la Pania", 2],
- ["faenza-brisighella-e-vena-del-gesso-2g", "Faenza, Brisighella e la Vena del Gesso romagnola", 2],
- ["riviera-delle-palme-2g", "San Benedetto del Tronto, Grottammare e Offida: la Riviera delle Palme", 2],
- ["citta-murate-del-veneto-2g", "Cittadella, Castelfranco Veneto, Montagnana ed Este: le città murate del Veneto", 2],
- ["acqui-terme-ovada-e-alto-monferrato-2g", "Acqui Terme, Ovada e l'Alto Monferrato", 2],
- ["val-di-bisenzio-1g", "Val di Bisenzio: Vaiano, la Badia di San Salvatore, Vernio, la Rocca di Cerbaia e Montepiano", 1],
- ["vicchio-dicomano-e-la-val-di-sieve-1g", "Vicchio, Dicomano e la Val di Sieve: la casa di Giotto, Vespignano e il Beato Angelico", 1],
- ["zocca-guiglia-e-i-sassi-di-roccamalatina-1g", "Zocca, Guiglia e i Sassi di Roccamalatina", 1],
- ["acquapendente-torre-alfina-e-bosco-del-sasseto-1g", "Acquapendente, Torre Alfina e il Bosco del Sasseto", 1]
+ [
+  "lemno-thassos-e-samotracia-7g",
+  "Lemno, Thassos e Samotracia: le isole dell'Egeo settentrionale da Salonicco e Kavala",
+  7
+ ],
+ [
+  "azzorre-centrali-7g",
+  "Azzorre centrali: Terceira, Faial, Pico e São Jorge",
+  7
+ ],
+ [
+  "shropshire-e-marca-gallese-7g",
+  "Shropshire, Herefordshire e Marca gallese: Shrewsbury, Ironbridge, Ludlow, Hereford, Hay-on-Wye e le Malvern Hills",
+  7
+ ],
+ [
+  "paesi-baschi-francesi-e-bearn-7g",
+  "Paesi Baschi francesi e Béarn: Biarritz, Bayonne, Saint-Jean-de-Luz, Espelette, Pau e Lourdes",
+  7
+ ],
+ [
+  "malaga-costa-del-sol-e-gibilterra-7g",
+  "Provincia di Malaga e Gibilterra: Malaga, Ronda, Antequera, Caminito del Rey, Nerja e Gibilterra",
+  7
+ ],
+ [
+  "moldova-completa-7g",
+  "Moldova completa: Chișinău, Orheiul Vechi, Soroca, le cantine di Cricova e Mileștii Mici e la Gagauzia",
+  7
+ ],
+ [
+  "lancashire-cheshire-e-isola-di-man-7g",
+  "Lancashire, Cheshire e Isola di Man: Liverpool, Chester, Lancaster, Blackpool e Douglas",
+  7
+ ],
+ [
+  "alpi-cuneesi-e-monviso-7g",
+  "Alpi Cuneesi e Monviso: Valle Gesso, Valle Stura, Valle Maira, Valle Varaita, Limone Piemonte e Saluzzo",
+  7
+ ],
+ [
+  "delta-del-po-e-polesine-7g",
+  "Delta del Po e Polesine: Ferrara, Comacchio, Rovigo, Adria, Chioggia e Pomposa",
+  7
+ ],
+ [
+  "chianti-val-d-elsa-e-volterra-7g",
+  "Chianti, Val d'Elsa e Volterra: una settimana lenta tra Greve, Radda, San Gimignano, Certaldo e Volterra",
+  7
+ ],
+ [
+  "basilicata-ionica-e-vulture-7g",
+  "Basilicata ionica e Vulture: Metaponto, Policoro, Craco, Aliano, Melfi, Venosa e i laghi di Monticchio",
+  7
+ ],
+ [
+  "marocco-orientale-7g",
+  "Marocco orientale e Rif meridionale: Fès, Sefrou, Taza, Oujda, Saidia e i Monti Beni-Snassen",
+  7
+ ],
+ [
+  "alpi-liguri-e-val-roja-7g",
+  "Alpi Liguri e Val Roja: Triora, Pigna, Dolceacqua, Tenda, Saorge e il Monte Saccarello",
+  7
+ ],
+ [
+  "umbria-meridionale-e-valnerina-7g",
+  "Umbria meridionale e Valnerina: Spoleto, Norcia, Cascia, Terni, le Marmore, Narni e Amelia",
+  7
+ ],
+ [
+  "serbia-orientale-e-gole-del-danubio-7g",
+  "Serbia orientale e Gole del Danubio: Niš, Đerdap, Golubac, Lepenski Vir, Felix Romuliana e Đavolja Varoš",
+  7
+ ],
+ [
+  "dalmazia-centrale-7g",
+  "Dalmazia centrale e l'entroterra: Spalato, Trogir, Klis, Omiš, Makarska, Imotski e Sinj",
+  7
+ ],
+ [
+  "abruzzo-adriatico-7g",
+  "Abruzzo adriatico: Pescara, Costa dei Trabocchi, Atri, Teramo, Civitella del Tronto, Loreto Aprutino e la Majella orientale",
+  7
+ ],
+ [
+  "appennino-umbro-marchigiano-7g",
+  "Appennino umbro-marchigiano: Gubbio, Fabriano, le Grotte di Frasassi, Camerino, Matelica e la Gola del Furlo",
+  7
+ ],
+ [
+  "hokkaido-completo-14g",
+  "Giappone: Hokkaido completo: Sapporo, Otaru, Hakodate, Furano, Biei, Daisetsuzan, Shiretoko, Kushiro e Akan",
+  14
+ ],
+ [
+  "maharashtra-e-konkan-14g",
+  "India: Maharashtra e Konkan: Mumbai, Ajanta ed Ellora, Aurangabad, Pune, Nashik, Ratnagiri e Ganpatipule",
+  14
+ ],
+ [
+  "costa-d-avorio-14g",
+  "Costa d'Avorio: Abidjan, Grand-Bassam, Assinie, Yamoussoukro, Man, Korhogo e il Parco di Taï",
+  14
+ ],
+ [
+  "botswana-completo-14g",
+  "Botswana completo: Okavango, Moremi, Chobe, Savuti, Makgadikgadi, Kalahari centrale e le colline Tsodilo",
+  14
+ ],
+ [
+  "nuovo-messico-e-four-corners-14g",
+  "Stati Uniti: Nuovo Messico e Four Corners: Albuquerque, Santa Fe, Taos, White Sands, Carlsbad Caverns, Chaco, Mesa Verde e Monument Valley",
+  14
+ ],
+ [
+  "guyana-francese-e-suriname-14g",
+  "Guyana francese e Suriname: Cayenne, Kourou, le Isole della Salvezza, Saint-Laurent-du-Maroni, Paramaribo, il fiume Suriname e Brownsberg",
+  14
+ ],
+ [
+  "tuamotu-e-marchesi-14g",
+  "Polinesia francese: Tuamotu e Marchesi: Rangiroa, Fakarava, Tikehau, Nuku Hiva e Hiva Oa",
+  14
+ ],
+ [
+  "alberta-completa-14g",
+  "Canada: Alberta completa: Calgary, Banff, Lake Louise, Icefields Parkway, Jasper, Drumheller, Waterton, Edmonton ed Elk Island",
+  14
+ ],
+ [
+  "nusa-tenggara-orientale-sumba-timor-e-alor-14g",
+  "Indonesia: Sumba, Timor occidentale e Alor: le isole di Nusa Tenggara orientale",
+  14
+ ],
+ [
+  "chiapas-e-tabasco-14g",
+  "Messico: Chiapas e Tabasco: San Cristóbal, Palenque, Cañón del Sumidero, Lagos de Montebello, Villahermosa e Comalcalco",
+  14
+ ],
+ [
+  "paraguay-e-missioni-gesuitiche-14g",
+  "Paraguay e le Missioni gesuitiche: Asunción, Trinidad, Jesús, Encarnación, il Chaco, Ciudad del Este e le Misiones argentine",
+  14
+ ],
+ [
+  "queensland-tropicale-14g",
+  "Australia: Queensland tropicale: Cairns, Daintree, Barriera Corallina, Whitsundays, Magnetic Island, Townsville e le Atherton Tablelands",
+  14
+ ],
+ [
+  "tenerife-in-tre-giorni-3g",
+  "Tenerife in tre giorni: Teide, Masca, La Orotava, Garachico e la costa sud",
+  3
+ ],
+ [
+  "agadir-taghazout-e-paradise-valley-3g",
+  "Agadir, Taghazout e Paradise Valley in tre giorni",
+  3
+ ],
+ [
+  "val-gardena-e-alpe-di-siusi-3g",
+  "Val Gardena e Alpe di Siusi: Ortisei, Selva, Seceda e il Sassolungo",
+  3
+ ],
+ [
+  "argentario-giglio-e-giannutri-3g",
+  "Argentario, Giglio e Giannutri in tre giorni: Porto Ercole, Porto Santo Stefano, Giglio Castello e la Feniglia",
+  3
+ ],
+ [
+  "bormio-livigno-e-lo-stelvio-3g",
+  "Bormio, Livigno e il Passo dello Stelvio in tre giorni",
+  3
+ ],
+ [
+  "tuscia-in-tre-giorni-3g",
+  "Tuscia in tre giorni: Viterbo, Civita di Bagnoregio, Bolsena, Tarquinia e Tuscania",
+  3
+ ],
+ [
+  "garfagnana-e-orecchiella-2g",
+  "Garfagnana e Orecchiella: Castelnuovo, Isola Santa, Vagli, San Pellegrino in Alpe e la Pania",
+  2
+ ],
+ [
+  "faenza-brisighella-e-vena-del-gesso-2g",
+  "Faenza, Brisighella e la Vena del Gesso romagnola",
+  2
+ ],
+ [
+  "riviera-delle-palme-2g",
+  "San Benedetto del Tronto, Grottammare e Offida: la Riviera delle Palme",
+  2
+ ],
+ [
+  "citta-murate-del-veneto-2g",
+  "Cittadella, Castelfranco Veneto, Montagnana ed Este: le città murate del Veneto",
+  2
+ ],
+ [
+  "acqui-terme-ovada-e-alto-monferrato-2g",
+  "Acqui Terme, Ovada e l'Alto Monferrato",
+  2
+ ],
+ [
+  "val-di-bisenzio-1g",
+  "Val di Bisenzio: Vaiano, la Badia di San Salvatore, Vernio, la Rocca di Cerbaia e Montepiano",
+  1
+ ],
+ [
+  "vicchio-dicomano-e-la-val-di-sieve-1g",
+  "Vicchio, Dicomano e la Val di Sieve: la casa di Giotto, Vespignano e il Beato Angelico",
+  1
+ ],
+ [
+  "zocca-guiglia-e-i-sassi-di-roccamalatina-1g",
+  "Zocca, Guiglia e i Sassi di Roccamalatina",
+  1
+ ],
+ [
+  "acquapendente-torre-alfina-e-bosco-del-sasseto-1g",
+  "Acquapendente, Torre Alfina e il Bosco del Sasseto",
+  1
+ ],
+ [
+  "caserta-capua-e-il-matese-3g",
+  "Caserta, Capua e il Matese: la Reggia, Casertavecchia, Santa Maria Capua Vetere e il Lago del Matese",
+  3
+ ]
 ]
