@@ -302,3 +302,37 @@ doppioni.
   e Mar del Giappone, Nevada-Utah, Ozarks, Tonga, Palau, Comore, Gabon.
 - `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca,
   pubblicato solo su `viaggi-dati`.
+
+## Nota dalla run del 20 novembre 2026
+- Primo turno: 36 agenti in cinque ondate da 8 (30 da 7-14 giorni con opus, 6 da 3 giorni con sonnet),
+  tetto 5 WebSearch ciascuno: 30 schede valide e 3 SKIP (Dhofar: Farnesina e Quai d'Orsay sconsigliano la
+  regione di Salalah per il rischio di escalation regionale; Larnaca e Varna a 3 giorni: nessun volo diretto
+  2026 da FLR/PSA/BLQ, Varna solo da Bergamo e Fiumicino). Pubblicate subito 24 schede (commit eae5bf2,
+  catalogo a 925); 9 tenute in `pending/` (Scilly treno GWR, Micronesia hotel Guam, Visayas trasporti locali,
+  Colombia pasti, Tuscia pasti e km, Timișoara bus aeroporto, e le tre da 3 giorni sonnet: Ancona, Carnia,
+  Tirano con km interni o pasti senza numeri). Tutte e sei le schede sonnet da 3 giorni sono uscite INCOMPLETA
+  o SKIP: per i 3 giorni conviene opus o un secondo giro di completamento già previsto.
+- Secondo turno (`send_later` dopo 3 minuti): 9 completamenti + 5 da 2 giorni + 4 da 1 giorno + 2 sostitute
+  da 3 giorni (Foggia-Lucera-Monti Dauni, Vulture) in tre ondate, più 5 completamenti di secondo giro
+  (Carnia km, Val di Susa pasti, Foggia giri interni, Vulture pasti, Caprese e Modigliana km). Totale notte:
+  44 mete nuove (4 da 1, 5 da 2, 6 da 3, 17 da 7, 12 da 14), catalogo a 945 (commit af24f10).
+- Tre agenti hanno ridimensionato la meta e id/nome sono stati allineati prima di pubblicare: Taiwan senza
+  Kinmen, Colombia orientale senza Villavicencio (il Meta è citato dalla Farnesina per le azioni armate;
+  Caño Cristales solo in tour aereo da Bogotá), Timișoara senza le gite nel Banato (id
+  `timisoara-in-tre-giorni-3g`).
+- Dare nel prompt dei 14 giorni il raccordo Firenze–Fiumicino già verificato (21–42 € a tratta, fonte
+  italotreno florence-fiumicino-tickets) risparmia una ricerca a scheda: dalla terza ondata nessun agente
+  l'ha più lasciato testuale.
+- Il classificatore dei permessi ha negato la 5ª WebSearch a diversi agenti (viaggiaresicuri.it, UnipolMove,
+  percorsokm): la scheda Viaggiare Sicuri spesso non è leggibile direttamente; gli agenti si sono appoggiati a
+  FCDO/diplomatie.gouv.fr/sintesi italiane e lo dichiarano in note. Per i km degli anelli interni (Carnia,
+  Caprese, Modigliana, Sabina, Vulture, Val Camonica) restano stime dichiarate in `costoNota`.
+- Il catalogo è saturo anche per i circuiti di nicchia europei: stanotte le 7 giorni sono Bretagna
+  meridionale, Foresta Nera, Argyll-Islay, Scilly, Senja-Vesterålen, Småland-Öland, Serbia occidentale,
+  Slovacchia orientale, Podkarpacie, Boemia orientale, Alessandria d'Egitto, Tuscia completa, Riviera di
+  Levante, Azzorre remote, Montenegro settentrionale (via Tirana), Galizia, Albania centrale. Idee ancora
+  libere: Lapponia finlandese e Inari, Islanda del Nord, Peloponneso occidentale, Asturie complete, Kaunas
+  (se Ryanair BLQ), Brno-Moravia a 3 giorni via Vienna; per i 14 giorni Giappone Hokuriku-San'in, Texas
+  completo, Honduras-Copán (verificare Farnesina), Timor-Leste, Tonga.
+- `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca, pubblicato solo su
+  `viaggi-dati`.
