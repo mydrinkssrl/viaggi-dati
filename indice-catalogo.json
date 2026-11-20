@@ -2368,6 +2368,11 @@
    7
   ],
   [
+   "albania-centrale-e-orientale-7g",
+   "Albania centrale e orientale: Durazzo, Elbasan, Korça, Voskopoja, Pogradec, Lin e il lago di Ohrid albanese",
+   7
+  ],
+  [
    "albania-del-nord-e-alpi-albanesi-7g",
    "Albania del Nord: Scutari, Theth, Valbona, il Lago di Koman e Kruja",
    7
@@ -2375,6 +2380,11 @@
   [
    "albania-meridionale-7g",
    "Albania meridionale: Valona, Saranda, Butrinto, Ksamil, Argirocastro, Permet e Himara",
+   7
+  ],
+  [
+   "alessandria-d-egitto-e-il-delta-7g",
+   "Alessandria d'Egitto e il Delta: Alessandria, Rosetta, Tanta, Wadi el Natrun e il Cairo copto",
    7
   ],
   [
@@ -2488,6 +2498,11 @@
    7
   ],
   [
+   "argyll-islay-e-jura-7g",
+   "Argyll, Islay e Jura: Oban, Inveraray, Kintyre, Islay, Jura e le distillerie delle Ebridi Interne",
+   7
+  ],
+  [
    "armenia-7g",
    "Armenia",
    7
@@ -2510,6 +2525,11 @@
   [
    "azzorre-centrali-7g",
    "Azzorre centrali: Terceira, Faial, Pico e São Jorge",
+   7
+  ],
+  [
+   "azzorre-remote-flores-corvo-e-santa-maria-7g",
+   "Azzorre remote: Flores, Corvo e Santa Maria con base a Ponta Delgada",
    7
   ],
   [
@@ -2568,6 +2588,11 @@
    7
   ],
   [
+   "boemia-orientale-e-sudeti-7g",
+   "Boemia orientale e Sudeti: Hradec Králové, Litomyšl, Adršpach, Broumov, Náchod, Pardubice e Kłodzko",
+   7
+  ],
+  [
    "bordeaux-e-aquitania-7g",
    "Bordeaux e Aquitania: Saint-Émilion, Arcachon e Biarritz",
    7
@@ -2585,6 +2610,11 @@
   [
    "bretagna-completa-7g",
    "Bretagna completa: Saint-Malo, Quimper, Carnac, Brest e Belle-Île",
+   7
+  ],
+  [
+   "bretagna-meridionale-e-morbihan-7g",
+   "Bretagna meridionale e Morbihan: Vannes, il Golfo del Morbihan, Quiberon, Carnac, Lorient, Concarneau e Pont-Aven",
    7
   ],
   [
@@ -2858,6 +2888,11 @@
    7
   ],
   [
+   "foresta-nera-completa-7g",
+   "Foresta Nera completa: Friburgo, Baden-Baden, Triberg, Titisee, Schluchsee, Gengenbach e la Schwarzwaldhochstrasse",
+   7
+  ],
+  [
    "franconia-7g",
    "Franconia e Strada Romantica: Würzburg, Rothenburg, Bamberga e Norimberga",
    7
@@ -2865,6 +2900,11 @@
   [
    "friuli-completo-udine-carnia-e-aquileia-7g",
    "Friuli completo: Udine, Carnia e Aquileia",
+   7
+  ],
+  [
+   "galizia-completa-7g",
+   "Galizia completa: Santiago de Compostela, Rías Baixas, Costa da Morte, A Coruña, Lugo, Ourense e la Ribeira Sacra",
    7
   ],
   [
@@ -3203,6 +3243,11 @@
    7
   ],
   [
+   "montenegro-settentrionale-7g",
+   "Montenegro settentrionale: Durmitor, Žabljak, il canyon della Tara, Biogradska Gora, Kolašin, Prokletije e il monastero di Morača",
+   7
+  ],
+  [
    "monti-sibillini-e-marche-interne-7g",
    "Monti Sibillini e Marche interne: Norcia, Castelluccio, Visso, Sarnano, Ascoli e Fermo",
    7
@@ -3328,6 +3373,11 @@
    7
   ],
   [
+   "podkarpacie-e-bieszczady-7g",
+   "Podkarpacie e Bieszczady: Rzeszów, Łańcut, Sanok, Przemyśl, Krosno e i Carpazi polacchi",
+   7
+  ],
+  [
    "polonia-del-nord-7g",
    "Polonia del Nord: Danzica, Malbork, Toruń e i laghi della Masuria",
    7
@@ -3375,6 +3425,11 @@
   [
    "repubblica-ceca-e-moravia-7g",
    "Repubblica Ceca e Moravia",
+   7
+  ],
+  [
+   "riviera-di-levante-e-val-di-vara-7g",
+   "Riviera di Levante e Val di Vara: Portofino, Camogli, Sestri Levante, Cinque Terre, Golfo dei Poeti, Varese Ligure e Val d'Aveto",
    7
   ],
   [
@@ -3448,8 +3503,18 @@
    7
   ],
   [
+   "senja-vesteralen-e-andoya-7g",
+   "Senja, Vesterålen e Andøya: Tromsø, Senja, Andenes, Sortland, Stokmarknes e la costa artica norvegese",
+   7
+  ],
+  [
    "serbia-completa-7g",
    "Serbia completa",
+   7
+  ],
+  [
+   "serbia-occidentale-7g",
+   "Serbia occidentale: Zlatibor, Tara, Mokra Gora, Drvengrad, Studenica, Kraljevo, Novi Pazar e Užice",
    7
   ],
   [
@@ -3478,8 +3543,18 @@
    7
   ],
   [
+   "slovacchia-orientale-7g",
+   "Slovacchia orientale: Košice, Alti Tatra, Spiš, Levoča, Bardejov, Prešov e il Paradiso Slovacco",
+   7
+  ],
+  [
    "slovenia-alpina-e-orientale-7g",
    "Slovenia alpina e orientale: Bohinj, Valle dell'Isonzo, Logarska Dolina, Maribor e Ptuj",
+   7
+  ],
+  [
+   "smaland-oland-e-blekinge-7g",
+   "Småland, Öland e Blekinge: Kalmar, Öland, Växjö, Vimmerby, Karlskrona e la costa sud-orientale della Svezia",
    7
   ],
   [
@@ -3748,6 +3823,11 @@
    14
   ],
   [
+   "australia-queensland-meridionale-e-fraser-coast-14g",
+   "Australia: Queensland meridionale e Fraser Coast: Brisbane, Gold Coast, Lamington, Sunshine Coast, Noosa, K'gari (Fraser Island), Hervey Bay e Lady Elliot Island",
+   14
+  ],
+  [
    "bahamas-14g",
    "Bahamas: Nassau, Exuma, Eleuthera e Abaco",
    14
@@ -3850,6 +3930,11 @@
   [
    "canada-atlantico-14g",
    "Canada atlantico: Nuova Scozia, Terranova e Isola del Principe Edoardo",
+   14
+  ],
+  [
+   "canada-manitoba-e-saskatchewan-14g",
+   "Canada: Manitoba e Saskatchewan: Winnipeg, Churchill e gli orsi polari, Riding Mountain, Regina, Saskatoon, Prince Albert e Grasslands",
    14
   ],
   [
@@ -3983,6 +4068,11 @@
    14
   ],
   [
+   "gabon-14g",
+   "Gabon: Libreville, Pongara, Loango, Lopé, Lambaréné e la laguna di Fernan Vaz",
+   14
+  ],
+  [
    "gansu-qinghai-e-via-della-seta-cinese-14g",
    "Gansu e Qinghai, la Via della Seta cinese: Lanzhou, Zhangye, Jiayuguan, Dunhuang, Xining e il Lago Qinghai",
    14
@@ -4030,6 +4120,11 @@
   [
    "giappone-shikoku-e-mare-interno-14g",
    "Giappone: Shikoku e il Mare Interno di Seto: Naoshima, Matsuyama, Kochi e Takamatsu",
+   14
+  ],
+  [
+   "giappone-tohoku-completo-14g",
+   "Giappone: Tohoku completo: Sendai, Matsushima, Hiraizumi, Yamadera, Zao, Aomori, Hirosaki, Kakunodate, Towada e Oirase",
    14
   ],
   [
@@ -4120,6 +4215,11 @@
   [
    "india-punjab-e-uttarakhand-14g",
    "India: Punjab e Uttarakhand: Amritsar, Chandigarh, Rishikesh, Haridwar, Jim Corbett e Nainital",
+   14
+  ],
+  [
+   "india-tamil-nadu-completo-14g",
+   "India: Tamil Nadu completo: Chennai, Mahabalipuram, Pondicherry, Chidambaram, Thanjavur, Madurai, Rameswaram, Kanyakumari e Ooty",
    14
   ],
   [
@@ -4383,6 +4483,11 @@
    14
   ],
   [
+   "stati-uniti-louisiana-completa-e-costa-del-golfo-14g",
+   "Stati Uniti: Louisiana completa e la costa del Golfo: New Orleans, Cajun Country, Baton Rouge, Natchitoches, Avery Island, Mobile, Pensacola e il Mississippi Gulf Coast",
+   14
+  ],
+  [
    "stati-uniti-mid-atlantic-14g",
    "Stati Uniti: Mid-Atlantic: Pittsburgh, Fallingwater, Gettysburg, Lancaster County, Baltimora, Annapolis, la Chesapeake Bay e il Delaware",
    14
@@ -4390,6 +4495,16 @@
   [
    "stati-uniti-montana-idaho-e-glacier-14g",
    "Stati Uniti: Montana, Idaho e Glacier National Park: Glacier, Flathead Lake, Missoula, Bozeman, Sun Valley e i Sawtooth",
+   14
+  ],
+  [
+   "stati-uniti-nevada-e-utah-settentrionale-14g",
+   "Stati Uniti: Nevada e Utah settentrionale: Las Vegas, Valley of Fire, Great Basin, Salt Lake City, Antelope Island, Park City, Dinosaur e Capitol Reef",
+   14
+  ],
+  [
+   "stati-uniti-ozarks-missouri-arkansas-e-oklahoma-14g",
+   "Stati Uniti: Ozarks, Missouri, Arkansas e Oklahoma: St. Louis, Kansas City, Branson, Eureka Springs, Hot Springs, Buffalo River, Tulsa e Oklahoma City",
    14
   ],
   [
@@ -4435,6 +4550,11 @@
   [
    "taiwan-14g",
    "Taiwan",
+   14
+  ],
+  [
+   "taiwan-orientale-e-isole-minori-14g",
+   "Taiwan orientale e isole minori: Taipei, Hualien, Taroko, Taitung, Lanyu, Isola Verde, Kenting e Penghu",
    14
   ],
   [
@@ -4695,6 +4815,9 @@
   "amman-jerash-e-il-mar-morto-3g",
   "finnmark-e-capo-nord-7g",
   "kosovo-7g",
-  "agadir-taghazout-e-paradise-valley-3g"
+  "agadir-taghazout-e-paradise-valley-3g",
+  "varna-nessebar-e-balchik-3g",
+  "dhofar-salalah-e-oman-del-sud-7g",
+  "larnaca-nicosia-e-capo-greco-3g"
  ]
 }
