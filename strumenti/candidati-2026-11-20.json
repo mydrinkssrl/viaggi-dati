@@ -1,47 +1,237 @@
 [
- ["bretagna-meridionale-e-morbihan-7g", "Bretagna meridionale e Morbihan: Vannes, il Golfo del Morbihan, Quiberon, Carnac, Lorient, Concarneau e Pont-Aven", 7],
- ["foresta-nera-completa-7g", "Foresta Nera completa: Friburgo, Baden-Baden, Triberg, Titisee, Schluchsee, Gengenbach e la Schwarzwaldhochstrasse", 7],
- ["argyll-islay-e-jura-7g", "Argyll, Islay e Jura: Oban, Inveraray, Kintyre, Islay, Jura e le distillerie delle Ebridi Interne", 7],
- ["isole-scilly-e-penwith-7g", "Isole Scilly e Penwith: St Mary's, Tresco, St Martin's, Penzance, St Ives e Land's End", 7],
- ["senja-vesteralen-e-andoya-7g", "Senja, Vesterålen e Andøya: Tromsø, Senja, Andenes, Sortland, Stokmarknes e la costa artica norvegese", 7],
- ["smaland-oland-e-blekinge-7g", "Småland, Öland e Blekinge: Kalmar, Öland, Växjö, Vimmerby, Karlskrona e la costa sud-orientale della Svezia", 7],
- ["serbia-occidentale-7g", "Serbia occidentale: Zlatibor, Tara, Mokra Gora, Drvengrad, Studenica, Kraljevo, Novi Pazar e Užice", 7],
- ["slovacchia-orientale-7g", "Slovacchia orientale: Košice, Alti Tatra, Spiš, Levoča, Bardejov, Prešov e il Paradiso Slovacco", 7],
- ["podkarpacie-e-bieszczady-7g", "Podkarpacie e Bieszczady: Rzeszów, Łańcut, Sanok, Przemyśl, Krosno e i Carpazi polacchi", 7],
- ["boemia-orientale-e-sudeti-7g", "Boemia orientale e Sudeti: Hradec Králové, Litomyšl, Adršpach, Broumov, Náchod, Pardubice e Kłodzko", 7],
- ["alessandria-d-egitto-e-il-delta-7g", "Alessandria d'Egitto e il Delta: Alessandria, Rosetta, Tanta, Wadi el Natrun e il Cairo copto", 7],
- ["dhofar-salalah-e-oman-del-sud-7g", "Dhofar: Salalah, Mirbat, Wadi Darbat, Taqah, Sumhuram e il deserto del Rub al Khali", 7],
- ["tuscia-completa-in-una-settimana-7g", "Tuscia completa in una settimana: Viterbo, Civita di Bagnoregio, Bolsena, Tarquinia, Vulci, Bomarzo, Caprarola e Tuscania", 7],
- ["riviera-di-levante-e-val-di-vara-7g", "Riviera di Levante e Val di Vara: Portofino, Camogli, Sestri Levante, Cinque Terre, Golfo dei Poeti, Varese Ligure e Val d'Aveto", 7],
- ["azzorre-remote-flores-corvo-e-santa-maria-7g", "Azzorre remote: Flores, Corvo e Santa Maria con base a Ponta Delgada", 7],
- ["montenegro-settentrionale-7g", "Montenegro settentrionale: Durmitor, Žabljak, il canyon della Tara, Biogradska Gora, Kolašin, Prokletije e il monastero di Morača", 7],
- ["galizia-completa-7g", "Galizia completa: Santiago de Compostela, Rías Baixas, Costa da Morte, A Coruña, Lugo, Ourense e la Ribeira Sacra", 7],
- ["albania-centrale-e-orientale-7g", "Albania centrale e orientale: Durazzo, Elbasan, Korça, Voskopoja, Pogradec, Lin e il lago di Ohrid albanese", 7],
- ["stati-uniti-nevada-e-utah-settentrionale-14g", "Stati Uniti: Nevada e Utah settentrionale: Las Vegas, Valley of Fire, Great Basin, Salt Lake City, Antelope Island, Park City, Dinosaur e Capitol Reef", 14],
- ["stati-uniti-ozarks-missouri-arkansas-e-oklahoma-14g", "Stati Uniti: Ozarks, Missouri, Arkansas e Oklahoma: St. Louis, Kansas City, Branson, Eureka Springs, Hot Springs, Buffalo River, Tulsa e Oklahoma City", 14],
- ["canada-manitoba-e-saskatchewan-14g", "Canada: Manitoba e Saskatchewan: Winnipeg, Churchill e gli orsi polari, Riding Mountain, Regina, Saskatoon, Prince Albert e Grasslands", 14],
- ["micronesia-palau-yap-e-guam-14g", "Micronesia: Palau, Yap e Guam: Koror, le Rock Islands, Jellyfish Lake, Peleliu, Yap e le pietre-moneta, Guam", 14],
- ["gabon-14g", "Gabon: Libreville, Pongara, Loango, Lopé, Lambaréné e la laguna di Fernan Vaz", 14],
- ["filippine-visayas-occidentali-14g", "Filippine: Visayas occidentali: Boracay, Iloilo, Guimaras, Negros, Dumaguete, Siquijor e Apo Island", 14],
- ["giappone-tohoku-completo-14g", "Giappone: Tohoku completo: Sendai, Matsushima, Hiraizumi, Yamadera, Zao, Aomori, Hirosaki, Kakunodate, Towada e Oirase", 14],
- ["india-tamil-nadu-completo-14g", "India: Tamil Nadu completo: Chennai, Mahabalipuram, Pondicherry, Chidambaram, Thanjavur, Madurai, Rameswaram, Kanyakumari e Ooty", 14],
- ["australia-queensland-meridionale-e-fraser-coast-14g", "Australia: Queensland meridionale e Fraser Coast: Brisbane, Gold Coast, Lamington, Sunshine Coast, Noosa, K'gari (Fraser Island), Hervey Bay e Lady Elliot Island", 14],
- ["taiwan-orientale-e-isole-minori-14g", "Taiwan orientale e isole minori: Taipei, Hualien, Taroko, Taitung, Lanyu, Isola Verde, Kenting, Penghu e Kinmen", 14],
- ["stati-uniti-louisiana-completa-e-costa-del-golfo-14g", "Stati Uniti: Louisiana completa e la costa del Golfo: New Orleans, Cajun Country, Baton Rouge, Natchitoches, Avery Island, Mobile, Pensacola e il Mississippi Gulf Coast", 14],
- ["colombia-orientale-boyaca-santander-e-llanos-14g", "Colombia orientale: Boyacá, Santander e i Llanos: Villa de Leyva, Barichara, Cañón del Chicamocha, Bucaramanga, Tunja, Villavicencio e Caño Cristales", 14],
- ["larnaca-nicosia-e-capo-greco-3g", "Larnaca, Nicosia e Capo Greco in tre giorni", 3],
- ["timisoara-e-il-banato-in-tre-giorni-3g", "Timișoara e il Banato in tre giorni", 3],
- ["varna-nessebar-e-balchik-3g", "Varna, Nessebar e Balchik: la costa bulgara in tre giorni", 3],
- ["ancona-conero-loreto-e-recanati-3g", "Ancona, Riviera del Conero, Loreto e Recanati in tre giorni", 3],
- ["tirano-bernina-e-st-moritz-3g", "Tirano, il Trenino del Bernina e St. Moritz in tre giorni", 3],
- ["carnia-e-val-tagliamento-3g", "Carnia e Val Tagliamento: Tolmezzo, Sauris, Forni di Sopra, Zoncolan e Venzone in tre giorni", 3],
- ["val-camonica-e-capo-di-ponte-2g", "Val Camonica: le incisioni rupestri di Capo di Ponte, Breno, Bienno e il Lago Moro", 2],
- ["val-di-susa-e-sacra-di-san-michele-2g", "Val di Susa: Sacra di San Michele, Avigliana, Susa, Exilles e Bardonecchia", 2],
- ["altopiano-di-asiago-2g", "Altopiano di Asiago: Asiago, Forte Interrotto, Monte Ortigara, Enego e la Grande Guerra", 2],
- ["sabina-e-lago-del-turano-2g", "Sabina e Lago del Turano: Farfa, Fara in Sabina, Casperia, Castel di Tora e Rocca Sinibalda", 2],
- ["chiavenna-e-val-bregaglia-2g", "Chiavenna e Val Bregaglia: Palazzo Vertemate, le cascate dell'Acquafraggia, Soglio e Madesimo", 2],
- ["caprese-michelangelo-e-pieve-santo-stefano-1g", "Caprese Michelangelo, Pieve Santo Stefano e l'alta Valtiberina", 1],
- ["modigliana-tredozio-e-dovadola-1g", "Modigliana, Tredozio e Dovadola: la Romagna toscana", 1],
- ["pontedera-e-vicopisano-1g", "Pontedera, il Museo Piaggio e Vicopisano", 1],
- ["sant-anna-di-stazzema-e-seravezza-1g", "Sant'Anna di Stazzema, Seravezza e le Apuane versiliesi", 1]
+ [
+  "bretagna-meridionale-e-morbihan-7g",
+  "Bretagna meridionale e Morbihan: Vannes, il Golfo del Morbihan, Quiberon, Carnac, Lorient, Concarneau e Pont-Aven",
+  7
+ ],
+ [
+  "foresta-nera-completa-7g",
+  "Foresta Nera completa: Friburgo, Baden-Baden, Triberg, Titisee, Schluchsee, Gengenbach e la Schwarzwaldhochstrasse",
+  7
+ ],
+ [
+  "argyll-islay-e-jura-7g",
+  "Argyll, Islay e Jura: Oban, Inveraray, Kintyre, Islay, Jura e le distillerie delle Ebridi Interne",
+  7
+ ],
+ [
+  "isole-scilly-e-penwith-7g",
+  "Isole Scilly e Penwith: St Mary's, Tresco, St Martin's, Penzance, St Ives e Land's End",
+  7
+ ],
+ [
+  "senja-vesteralen-e-andoya-7g",
+  "Senja, Vesterålen e Andøya: Tromsø, Senja, Andenes, Sortland, Stokmarknes e la costa artica norvegese",
+  7
+ ],
+ [
+  "smaland-oland-e-blekinge-7g",
+  "Småland, Öland e Blekinge: Kalmar, Öland, Växjö, Vimmerby, Karlskrona e la costa sud-orientale della Svezia",
+  7
+ ],
+ [
+  "serbia-occidentale-7g",
+  "Serbia occidentale: Zlatibor, Tara, Mokra Gora, Drvengrad, Studenica, Kraljevo, Novi Pazar e Užice",
+  7
+ ],
+ [
+  "slovacchia-orientale-7g",
+  "Slovacchia orientale: Košice, Alti Tatra, Spiš, Levoča, Bardejov, Prešov e il Paradiso Slovacco",
+  7
+ ],
+ [
+  "podkarpacie-e-bieszczady-7g",
+  "Podkarpacie e Bieszczady: Rzeszów, Łańcut, Sanok, Przemyśl, Krosno e i Carpazi polacchi",
+  7
+ ],
+ [
+  "boemia-orientale-e-sudeti-7g",
+  "Boemia orientale e Sudeti: Hradec Králové, Litomyšl, Adršpach, Broumov, Náchod, Pardubice e Kłodzko",
+  7
+ ],
+ [
+  "alessandria-d-egitto-e-il-delta-7g",
+  "Alessandria d'Egitto e il Delta: Alessandria, Rosetta, Tanta, Wadi el Natrun e il Cairo copto",
+  7
+ ],
+ [
+  "dhofar-salalah-e-oman-del-sud-7g",
+  "Dhofar: Salalah, Mirbat, Wadi Darbat, Taqah, Sumhuram e il deserto del Rub al Khali",
+  7
+ ],
+ [
+  "tuscia-completa-in-una-settimana-7g",
+  "Tuscia completa in una settimana: Viterbo, Civita di Bagnoregio, Bolsena, Tarquinia, Vulci, Bomarzo, Caprarola e Tuscania",
+  7
+ ],
+ [
+  "riviera-di-levante-e-val-di-vara-7g",
+  "Riviera di Levante e Val di Vara: Portofino, Camogli, Sestri Levante, Cinque Terre, Golfo dei Poeti, Varese Ligure e Val d'Aveto",
+  7
+ ],
+ [
+  "azzorre-remote-flores-corvo-e-santa-maria-7g",
+  "Azzorre remote: Flores, Corvo e Santa Maria con base a Ponta Delgada",
+  7
+ ],
+ [
+  "montenegro-settentrionale-7g",
+  "Montenegro settentrionale: Durmitor, Žabljak, il canyon della Tara, Biogradska Gora, Kolašin, Prokletije e il monastero di Morača",
+  7
+ ],
+ [
+  "galizia-completa-7g",
+  "Galizia completa: Santiago de Compostela, Rías Baixas, Costa da Morte, A Coruña, Lugo, Ourense e la Ribeira Sacra",
+  7
+ ],
+ [
+  "albania-centrale-e-orientale-7g",
+  "Albania centrale e orientale: Durazzo, Elbasan, Korça, Voskopoja, Pogradec, Lin e il lago di Ohrid albanese",
+  7
+ ],
+ [
+  "stati-uniti-nevada-e-utah-settentrionale-14g",
+  "Stati Uniti: Nevada e Utah settentrionale: Las Vegas, Valley of Fire, Great Basin, Salt Lake City, Antelope Island, Park City, Dinosaur e Capitol Reef",
+  14
+ ],
+ [
+  "stati-uniti-ozarks-missouri-arkansas-e-oklahoma-14g",
+  "Stati Uniti: Ozarks, Missouri, Arkansas e Oklahoma: St. Louis, Kansas City, Branson, Eureka Springs, Hot Springs, Buffalo River, Tulsa e Oklahoma City",
+  14
+ ],
+ [
+  "canada-manitoba-e-saskatchewan-14g",
+  "Canada: Manitoba e Saskatchewan: Winnipeg, Churchill e gli orsi polari, Riding Mountain, Regina, Saskatoon, Prince Albert e Grasslands",
+  14
+ ],
+ [
+  "micronesia-palau-yap-e-guam-14g",
+  "Micronesia: Palau, Yap e Guam: Koror, le Rock Islands, Jellyfish Lake, Peleliu, Yap e le pietre-moneta, Guam",
+  14
+ ],
+ [
+  "gabon-14g",
+  "Gabon: Libreville, Pongara, Loango, Lopé, Lambaréné e la laguna di Fernan Vaz",
+  14
+ ],
+ [
+  "filippine-visayas-occidentali-14g",
+  "Filippine: Visayas occidentali: Boracay, Iloilo, Guimaras, Negros, Dumaguete, Siquijor e Apo Island",
+  14
+ ],
+ [
+  "giappone-tohoku-completo-14g",
+  "Giappone: Tohoku completo: Sendai, Matsushima, Hiraizumi, Yamadera, Zao, Aomori, Hirosaki, Kakunodate, Towada e Oirase",
+  14
+ ],
+ [
+  "india-tamil-nadu-completo-14g",
+  "India: Tamil Nadu completo: Chennai, Mahabalipuram, Pondicherry, Chidambaram, Thanjavur, Madurai, Rameswaram, Kanyakumari e Ooty",
+  14
+ ],
+ [
+  "australia-queensland-meridionale-e-fraser-coast-14g",
+  "Australia: Queensland meridionale e Fraser Coast: Brisbane, Gold Coast, Lamington, Sunshine Coast, Noosa, K'gari (Fraser Island), Hervey Bay e Lady Elliot Island",
+  14
+ ],
+ [
+  "taiwan-orientale-e-isole-minori-14g",
+  "Taiwan orientale e isole minori: Taipei, Hualien, Taroko, Taitung, Lanyu, Isola Verde, Kenting, Penghu e Kinmen",
+  14
+ ],
+ [
+  "stati-uniti-louisiana-completa-e-costa-del-golfo-14g",
+  "Stati Uniti: Louisiana completa e la costa del Golfo: New Orleans, Cajun Country, Baton Rouge, Natchitoches, Avery Island, Mobile, Pensacola e il Mississippi Gulf Coast",
+  14
+ ],
+ [
+  "colombia-orientale-boyaca-santander-e-llanos-14g",
+  "Colombia orientale: Boyacá, Santander e i Llanos: Villa de Leyva, Barichara, Cañón del Chicamocha, Bucaramanga, Tunja, Villavicencio e Caño Cristales",
+  14
+ ],
+ [
+  "larnaca-nicosia-e-capo-greco-3g",
+  "Larnaca, Nicosia e Capo Greco in tre giorni",
+  3
+ ],
+ [
+  "timisoara-in-tre-giorni-3g",
+  "Timișoara in tre giorni",
+  3
+ ],
+ [
+  "varna-nessebar-e-balchik-3g",
+  "Varna, Nessebar e Balchik: la costa bulgara in tre giorni",
+  3
+ ],
+ [
+  "ancona-conero-loreto-e-recanati-3g",
+  "Ancona, Riviera del Conero, Loreto e Recanati in tre giorni",
+  3
+ ],
+ [
+  "tirano-bernina-e-st-moritz-3g",
+  "Tirano, il Trenino del Bernina e St. Moritz in tre giorni",
+  3
+ ],
+ [
+  "carnia-e-val-tagliamento-3g",
+  "Carnia e Val Tagliamento: Tolmezzo, Sauris, Forni di Sopra, Zoncolan e Venzone in tre giorni",
+  3
+ ],
+ [
+  "val-camonica-e-capo-di-ponte-2g",
+  "Val Camonica: le incisioni rupestri di Capo di Ponte, Breno, Bienno e il Lago Moro",
+  2
+ ],
+ [
+  "val-di-susa-e-sacra-di-san-michele-2g",
+  "Val di Susa: Sacra di San Michele, Avigliana, Susa, Exilles e Bardonecchia",
+  2
+ ],
+ [
+  "altopiano-di-asiago-2g",
+  "Altopiano di Asiago: Asiago, Forte Interrotto, Monte Ortigara, Enego e la Grande Guerra",
+  2
+ ],
+ [
+  "sabina-e-lago-del-turano-2g",
+  "Sabina e Lago del Turano: Farfa, Fara in Sabina, Casperia, Castel di Tora e Rocca Sinibalda",
+  2
+ ],
+ [
+  "chiavenna-e-val-bregaglia-2g",
+  "Chiavenna e Val Bregaglia: Palazzo Vertemate, le cascate dell'Acquafraggia, Soglio e Madesimo",
+  2
+ ],
+ [
+  "caprese-michelangelo-e-pieve-santo-stefano-1g",
+  "Caprese Michelangelo, Pieve Santo Stefano e l'alta Valtiberina",
+  1
+ ],
+ [
+  "modigliana-tredozio-e-dovadola-1g",
+  "Modigliana, Tredozio e Dovadola: la Romagna toscana",
+  1
+ ],
+ [
+  "pontedera-e-vicopisano-1g",
+  "Pontedera, il Museo Piaggio e Vicopisano",
+  1
+ ],
+ [
+  "sant-anna-di-stazzema-e-seravezza-1g",
+  "Sant'Anna di Stazzema, Seravezza e le Apuane versiliesi",
+  1
+ ],
+ [
+  "foggia-lucera-e-i-monti-dauni-3g",
+  "Foggia, Lucera, Troia e i Monti Dauni in tre giorni",
+  3
+ ],
+ [
+  "vulture-melfi-venosa-e-monticchio-3g",
+  "Vulture: Melfi, Venosa, Monticchio e Rionero in tre giorni",
+  3
+ ]
 ]

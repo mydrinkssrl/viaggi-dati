@@ -893,6 +893,11 @@
    1
   ],
   [
+   "caprese-michelangelo-e-pieve-santo-stefano-1g",
+   "Caprese Michelangelo, Pieve Santo Stefano e l'alta Valtiberina",
+   1
+  ],
+  [
    "carmignano-e-artimino-1g",
    "Carmignano e Artimino",
    1
@@ -1063,6 +1068,11 @@
    1
   ],
   [
+   "modigliana-tredozio-e-dovadola-1g",
+   "Modigliana, Tredozio e Dovadola: la Romagna toscana",
+   1
+  ],
+  [
    "montaione-castelfiorentino-e-san-vivaldo-1g",
    "Montaione, Castelfiorentino e San Vivaldo",
    1
@@ -1148,6 +1158,11 @@
    1
   ],
   [
+   "pontedera-e-vicopisano-1g",
+   "Pontedera, il Museo Piaggio e Vicopisano",
+   1
+  ],
+  [
    "pontremoli-e-la-lunigiana-1g",
    "Pontremoli e la Lunigiana",
    1
@@ -1205,6 +1220,11 @@
   [
    "san-quirico-d-orcia-bagno-vignoni-e-castiglione-d-orcia-1g",
    "San Quirico d'Orcia, Bagno Vignoni e Castiglione d'Orcia",
+   1
+  ],
+  [
+   "sant-anna-di-stazzema-e-seravezza-1g",
+   "Sant'Anna di Stazzema, Seravezza e le Apuane versiliesi",
    1
   ],
   [
@@ -1323,6 +1343,11 @@
    2
   ],
   [
+   "altopiano-di-asiago-2g",
+   "Altopiano di Asiago: Asiago, Forte Interrotto, Monte Ortigara, Enego e la Grande Guerra",
+   2
+  ],
+  [
    "ancona-e-loreto-2g",
    "Ancona e Loreto",
    2
@@ -1420,6 +1445,11 @@
   [
    "cefalu-e-le-madonie-2g",
    "Cefalù e le Madonie",
+   2
+  ],
+  [
+   "chiavenna-e-val-bregaglia-2g",
+   "Chiavenna e Val Bregaglia: Palazzo Vertemate, le cascate dell'Acquafraggia, Soglio e Madesimo",
    2
   ],
   [
@@ -1723,6 +1753,11 @@
    2
   ],
   [
+   "sabina-e-lago-del-turano-2g",
+   "Sabina e Lago del Turano: Farfa, Fara in Sabina, Casperia, Castel di Tora e Rocca Sinibalda",
+   2
+  ],
+  [
    "salerno-e-paestum-2g",
    "Salerno e Paestum",
    2
@@ -1783,8 +1818,18 @@
    2
   ],
   [
+   "val-camonica-e-capo-di-ponte-2g",
+   "Val Camonica: le incisioni rupestri di Capo di Ponte, Breno, Bienno e il Lago Moro",
+   2
+  ],
+  [
    "val-di-non-2g",
    "Val di Non: Cles, Castel Thun, Lago di Tovel e il Canyon Rio Sass",
+   2
+  ],
+  [
+   "val-di-susa-e-sacra-di-san-michele-2g",
+   "Val di Susa: Sacra di San Michele, Avigliana, Susa, Exilles e Bardonecchia",
    2
   ],
   [
@@ -1815,6 +1860,11 @@
   [
    "amburgo-3g",
    "Amburgo",
+   3
+  ],
+  [
+   "ancona-conero-loreto-e-recanati-3g",
+   "Ancona, Riviera del Conero, Loreto e Recanati in tre giorni",
    3
   ],
   [
@@ -1918,6 +1968,11 @@
    3
   ],
   [
+   "carnia-e-val-tagliamento-3g",
+   "Carnia e Val Tagliamento: Tolmezzo, Sauris, Forni di Sopra, Zoncolan e Venzone in tre giorni",
+   3
+  ],
+  [
    "casablanca-e-el-jadida-3g",
    "Casablanca, El Jadida e Azemmour",
    3
@@ -2005,6 +2060,11 @@
   [
    "favignana-e-le-egadi-3g",
    "Favignana e le Egadi",
+   3
+  ],
+  [
+   "foggia-lucera-e-i-monti-dauni-3g",
+   "Foggia, Lucera, Troia e i Monti Dauni in tre giorni",
    3
   ],
   [
@@ -2283,6 +2343,16 @@
    3
   ],
   [
+   "timisoara-in-tre-giorni-3g",
+   "Timișoara in tre giorni",
+   3
+  ],
+  [
+   "tirano-bernina-e-st-moritz-3g",
+   "Tirano, il Trenino del Bernina e St. Moritz in tre giorni",
+   3
+  ],
+  [
    "trani-e-castel-del-monte-3g",
    "Trani, Castel del Monte, Barletta e Andria",
    3
@@ -2330,6 +2400,11 @@
   [
    "vilnius-e-trakai-3g",
    "Vilnius e Trakai",
+   3
+  ],
+  [
+   "vulture-melfi-venosa-e-monticchio-3g",
+   "Vulture: Melfi, Venosa, Monticchio e Rionero in tre giorni",
    3
   ],
   [
@@ -3038,6 +3113,11 @@
    7
   ],
   [
+   "isole-scilly-e-penwith-7g",
+   "Isole Scilly e Penwith: St Mary's, Tresco, St Martin's, Penzance, St Ives e Land's End",
+   7
+  ],
+  [
    "istria-completa-7g",
    "Istria completa: Pola, Rovigno, Parenzo, Motovun, Grisignana, Pisino e Opatija",
    7
@@ -3653,6 +3733,11 @@
    7
   ],
   [
+   "tuscia-completa-in-una-settimana-7g",
+   "Tuscia completa in una settimana: Viterbo, Civita di Bagnoregio, Bolsena, Tarquinia, Vulci, Bomarzo, Caprarola e Tuscania",
+   7
+  ],
+  [
    "umbria-completa-7g",
    "Umbria completa",
    7
@@ -4013,6 +4098,11 @@
    14
   ],
   [
+   "colombia-orientale-boyaca-santander-e-llanos-14g",
+   "Colombia orientale: Boyacá e Santander con Caño Cristales: Villa de Leyva, Tunja, Barichara, Cañón del Chicamocha, Bucaramanga e il tour di Caño Cristales da Bogotá",
+   14
+  ],
+  [
    "corea-del-sud-meridionale-e-jeju-14g",
    "Corea del Sud meridionale e Jeju: Busan, Gyeongju, Tongyeong, Suncheon, Jeonju e l'isola di Jeju",
    14
@@ -4060,6 +4150,11 @@
   [
    "filippine-palawan-cebu-e-bohol-14g",
    "Filippine: Palawan, Cebu e Bohol",
+   14
+  ],
+  [
+   "filippine-visayas-occidentali-14g",
+   "Filippine: Visayas occidentali: Boracay, Iloilo, Guimaras, Negros, Dumaguete, Siquijor e Apo Island",
    14
   ],
   [
@@ -4300,6 +4395,11 @@
   [
    "messico-oaxaca-puebla-e-veracruz-14g",
    "Messico: Oaxaca, Puebla e Veracruz",
+   14
+  ],
+  [
+   "micronesia-palau-yap-e-guam-14g",
+   "Micronesia: Palau, Yap e Guam: Koror, le Rock Islands, Jellyfish Lake, Peleliu, Yap e le pietre-moneta, Guam",
    14
   ],
   [
