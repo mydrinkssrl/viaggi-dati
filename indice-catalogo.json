@@ -2013,6 +2013,11 @@
    3
   ],
   [
+   "cortina-misurina-e-le-tre-cime-3g",
+   "Cortina, Misurina e le Tre Cime di Lavaredo in tre giorni",
+   3
+  ],
+  [
    "cosenza-e-la-sila-3g",
    "Cosenza, la Sila e Camigliatello",
    3
@@ -2100,6 +2105,11 @@
   [
    "heraklion-cnosso-e-creta-centrale-3g",
    "Heraklion, Cnosso e Creta centrale",
+   3
+  ],
+  [
+   "iasi-e-la-moldavia-romena-3g",
+   "Iași e la Moldavia romena in tre giorni",
    3
   ],
   [
@@ -2458,6 +2468,11 @@
    7
   ],
   [
+   "alentejo-interno-e-costa-vicentina-7g",
+   "Alentejo interno e Costa Vicentina: Évora, Monsaraz, Marvão, Castelo de Vide, Elvas, Vila Nova de Milfontes e Zambujeira do Mar",
+   7
+  ],
+  [
    "alessandria-d-egitto-e-il-delta-7g",
    "Alessandria d'Egitto e il Delta: Alessandria, Rosetta, Tanta, Wadi el Natrun e il Cairo copto",
    7
@@ -2563,6 +2578,11 @@
    7
   ],
   [
+   "arcadia-ed-elide-7g",
+   "Arcadia ed Elide: Olimpia, Dimitsana, Stemnitsa, la Gola del Lousios, Tripoli, Katakolo e Kyllini",
+   7
+  ],
+  [
    "arcipelago-toscano-7g",
    "Arcipelago Toscano: Elba, Giglio, Capraia e Pianosa",
    7
@@ -2585,6 +2605,11 @@
   [
    "assia-e-reno-medio-7g",
    "Assia e Reno medio: Francoforte, Wiesbaden, il Rheingau, Marburgo, Fulda e Kassel",
+   7
+  ],
+  [
+   "asturie-complete-7g",
+   "Asturie complete: Oviedo, Gijón, Cudillero, Llanes, Covadonga, i Picos de Europa asturiani e Taramundi",
    7
   ],
   [
@@ -2713,6 +2738,11 @@
    7
   ],
   [
+   "calabria-ionica-settentrionale-7g",
+   "Calabria ionica settentrionale: Sibari, Rossano, Crotone, Santa Severina, Le Castella, Catanzaro e la Sila Piccola",
+   7
+  ],
+  [
    "calabria-meridionale-e-aspromonte-7g",
    "Calabria meridionale e Aspromonte: Reggio, Scilla, Gerace, Stilo e la Costa dei Gelsomini",
    7
@@ -2793,6 +2823,11 @@
    7
   ],
   [
+   "copenaghen-e-selandia-7g",
+   "Copenaghen e Selandia: Roskilde, Helsingør, Louisiana, Frederiksborg, Stevns Klint e Møns Klint",
+   7
+  ],
+  [
    "corfu-completa-7g",
    "Corfù completa: Kerkyra, Paleokastritsa, Kassiopi, l'Achilleion, Paxos e Antipaxos",
    7
@@ -2835,6 +2870,11 @@
   [
    "costa-vermiglia-e-cevennes-7g",
    "Costa Vermiglia e Cévennes: Perpignan, Collioure, Narbonne, Nîmes e il Pont du Gard",
+   7
+  ],
+  [
+   "creta-centrale-e-meridionale-7g",
+   "Creta centrale e meridionale: Heraklion, Festo, Gortyna, Matala, Agia Galini, Spili, Anogia e Zaros",
    7
   ],
   [
@@ -2973,6 +3013,11 @@
    7
   ],
   [
+   "frisia-orientale-e-isole-frisone-tedesche-7g",
+   "Frisia orientale e isole Frisone tedesche: Brema, Oldenburg, Emden, Norderney, Borkum e Wilhelmshaven",
+   7
+  ],
+  [
    "friuli-completo-udine-carnia-e-aquileia-7g",
    "Friuli completo: Udine, Carnia e Aquileia",
    7
@@ -3013,6 +3058,11 @@
    7
   ],
   [
+   "gascogna-e-gers-7g",
+   "Gascogna e Gers: Auch, Condom, Lectoure, Larressingle, Marciac, Agen e Moissac",
+   7
+  ],
+  [
    "germania-del-nord-amburgo-lubecca-e-brema-7g",
    "Germania del Nord: Amburgo, Lubecca e Brema",
    7
@@ -3043,6 +3093,11 @@
    7
   ],
   [
+   "hoga-kusten-e-jamtland-7g",
+   "Höga Kusten e Jämtland: Örnsköldsvik, Skuleskogen, Sundsvall, Östersund e Åre",
+   7
+  ],
+  [
    "inghilterra-centrale-7g",
    "Inghilterra centrale: Cotswolds, Oxford, Cambridge e Stratford-upon-Avon",
    7
@@ -3055,6 +3110,11 @@
   [
    "inghilterra-del-sud-7g",
    "Inghilterra del Sud: Kent, Sussex e Dorset",
+   7
+  ],
+  [
+   "irlanda-centrale-e-lo-shannon-7g",
+   "Irlanda centrale e lo Shannon: Athlone, Clonmacnoise, Birr, Limerick, Lough Derg, la Boyne Valley e Trim",
    7
   ],
   [
@@ -3163,6 +3223,11 @@
    7
   ],
   [
+   "lapponia-finlandese-e-inari-7g",
+   "Lapponia finlandese: Rovaniemi, Ranua, Levi, Saariselkä, Inari e il Parco di Urho Kekkonen",
+   7
+  ],
+  [
    "lapponia-svedese-7g",
    "Lapponia svedese: Kiruna, Abisko, Icehotel di Jukkasjärvi, Luleå e il Parco di Sarek",
    7
@@ -3258,8 +3323,18 @@
    7
   ],
   [
+   "marca-trevigiana-e-veneto-orientale-7g",
+   "Marca trevigiana e Veneto orientale: Treviso, Conegliano, Valdobbiadene, Asolo, Oderzo, Portogruaro, Caorle e Bibione",
+   7
+  ],
+  [
    "marche-complete-7g",
    "Marche complete",
+   7
+  ],
+  [
+   "marche-settentrionali-7g",
+   "Marche settentrionali: Pesaro, Urbino, Fano, Senigallia, Jesi, Fossombrone e il Montefeltro",
    7
   ],
   [
@@ -3300,6 +3375,11 @@
   [
    "meclemburgo-e-costa-baltica-7g",
    "Meclemburgo-Pomerania: Rügen, Stralsund, Rostock e Schwerin",
+   7
+  ],
+  [
+   "midlands-orientali-e-peak-district-7g",
+   "Midlands orientali e Peak District: Nottingham, Sherwood, Derby, Dovedale, Leicester, Rutland Water e Southwell",
    7
   ],
   [
@@ -3623,6 +3703,11 @@
    7
   ],
   [
+   "slovacchia-occidentale-e-centrale-7g",
+   "Slovacchia occidentale e centrale: Bratislava, Trenčín, Bojnice, Banská Štiavnica, Banská Bystrica, Nitra e i Piccoli Carpazi",
+   7
+  ],
+  [
    "slovacchia-orientale-7g",
    "Slovacchia orientale: Košice, Alti Tatra, Spiš, Levoča, Bardejov, Prešov e il Paradiso Slovacco",
    7
@@ -3748,6 +3833,11 @@
    7
   ],
   [
+   "umbria-settentrionale-e-trasimeno-7g",
+   "Umbria settentrionale e Trasimeno: Perugia, Assisi, Gubbio, Città di Castello, il Lago Trasimeno e Montefalco",
+   7
+  ],
+  [
    "ungheria-budapest-balaton-ed-eger-7g",
    "Ungheria: Budapest, Balaton ed Eger",
    7
@@ -3868,6 +3958,11 @@
    14
   ],
   [
+   "argentina-patagonia-andina-14g",
+   "Argentina: Patagonia andina: Bariloche, Villa La Angostura, San Martín de los Andes, Esquel, El Chaltén, El Calafate e il Perito Moreno",
+   14
+  ],
+  [
    "arizona-completa-14g",
    "Stati Uniti: Arizona completa: Phoenix, Sedona, Grand Canyon, Lake Powell, Tucson, Saguaro, Tombstone e Chiricahua",
    14
@@ -3925,6 +4020,11 @@
   [
    "balcani-occidentali-in-auto-14g",
    "Balcani occidentali in auto: Slovenia, Croazia, Bosnia, Montenegro e Albania",
+   14
+  ],
+  [
+   "belize-completo-14g",
+   "Belize completo: Caye Caulker, Ambergris Caye, San Ignacio, Caracol, Hopkins, Placencia e Punta Gorda",
    14
   ],
   [
@@ -4128,6 +4228,11 @@
    14
   ],
   [
+   "ecuador-continentale-14g",
+   "Ecuador continentale: Quito, Otavalo, Cotopaxi, Quilotoa, Baños e Cuenca",
+   14
+  ],
+  [
    "egitto-completo-cairo-nilo-e-mar-rosso-14g",
    "Egitto completo: Cairo, Nilo e Mar Rosso",
    14
@@ -4193,6 +4298,11 @@
    14
   ],
   [
+   "giappone-chubu-e-tokai-14g",
+   "Giappone: Chūbu e Tokai: Nagoya, Ise-Shima, Toba, Inuyama, Gifu, Gujō Hachiman, la Valle del Kiso, Hamamatsu e Shizuoka",
+   14
+  ],
+  [
    "giappone-del-nord-14g",
    "Giappone del Nord: Hokkaido e Tohoku",
    14
@@ -4205,6 +4315,11 @@
   [
    "giappone-kansai-e-chugoku-14g",
    "Giappone: Kansai profondo e Chūgoku: Kyoto, Nara, Koyasan, Kumano Kodo, Okayama, Kurashiki, Matsue e Tottori",
+   14
+  ],
+  [
+   "giappone-kyushu-completo-14g",
+   "Giappone: Kyushu completo: Fukuoka, Nagasaki, Kumamoto, il Monte Aso, Beppu, Yufuin, Takachiho, Kagoshima e Sakurajima",
    14
   ],
   [
@@ -4293,6 +4408,11 @@
    14
   ],
   [
+   "india-kerala-completo-14g",
+   "India: Kerala completo: Kochi, Munnar, Thekkady, Alleppey, Varkala, Kovalam, Wayanad e Kannur",
+   14
+  ],
+  [
    "india-nord-orientale-14g",
    "India nord-orientale: Assam e Meghalaya: Kaziranga, Majuli, Guwahati, Shillong, Cherrapunji e Dawki",
    14
@@ -4355,6 +4475,11 @@
   [
    "madagascar-14g",
    "Madagascar",
+   14
+  ],
+  [
+   "madagascar-settentrionale-14g",
+   "Madagascar settentrionale: Nosy Be, Antsiranana, Ankarana, Montagne d'Ambre, i Tsingy Rouges e Nosy Komba",
    14
   ],
   [
@@ -4568,6 +4693,11 @@
    14
   ],
   [
+   "sri-lanka-del-nord-e-dell-est-14g",
+   "Sri Lanka del Nord e dell'Est: Jaffna, Mannar, Anuradhapura, Trincomalee, Pasikuda, Arugam Bay e Batticaloa",
+   14
+  ],
+  [
    "stati-uniti-carolina-georgia-e-virginia-14g",
    "Stati Uniti: Carolina, Georgia e Virginia: Charleston, Savannah, Blue Ridge e Outer Banks",
    14
@@ -4575,6 +4705,11 @@
   [
    "stati-uniti-civil-rights-trail-14g",
    "Stati Uniti: Georgia, Alabama e Mississippi lungo il Civil Rights Trail: Atlanta, Montgomery, Selma, Birmingham, Jackson, il Delta del Mississippi e Natchez",
+   14
+  ],
+  [
+   "stati-uniti-colorado-completo-14g",
+   "Stati Uniti: Colorado completo: Denver, Rocky Mountain, Aspen, Black Canyon, Mesa Verde, Great Sand Dunes, Durango e Colorado Springs",
    14
   ],
   [
@@ -4615,6 +4750,11 @@
   [
    "stati-uniti-parchi-del-sud-ovest-14g",
    "Stati Uniti: parchi del Sud-Ovest: Zion, Bryce, Arches, Monument Valley e Grand Canyon",
+   14
+  ],
+  [
+   "stati-uniti-texas-completo-14g",
+   "Stati Uniti: Texas completo: Houston, Galveston, Austin, San Antonio, Hill Country, Dallas, Fort Worth, Big Bend e Marfa",
    14
   ],
   [
@@ -4685,6 +4825,16 @@
   [
    "thailandia-del-sud-14g",
    "Thailandia del Sud: Phuket, Krabi, Koh Lanta e le isole di Trang",
+   14
+  ],
+  [
+   "timor-leste-14g",
+   "Timor-Leste: Dili, Atauro, Baucau, Jaco, Maubisse e il Monte Ramelau",
+   14
+  ],
+  [
+   "tonga-14g",
+   "Tonga: Tongatapu, 'Eua, Ha'apai e Vava'u",
    14
   ],
   [
@@ -4918,6 +5068,8 @@
   "agadir-taghazout-e-paradise-valley-3g",
   "varna-nessebar-e-balchik-3g",
   "dhofar-salalah-e-oman-del-sud-7g",
-  "larnaca-nicosia-e-capo-greco-3g"
+  "larnaca-nicosia-e-capo-greco-3g",
+  "islanda-del-nord-7g",
+  "bosnia-settentrionale-e-krajina-7g"
  ]
 }
