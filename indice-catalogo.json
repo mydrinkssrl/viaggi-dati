@@ -843,6 +843,11 @@
  ],
  "extra": [
   [
+   "abbazia-di-san-galgano-chiusdino-e-monticiano-1g",
+   "Abbazia di San Galgano, Chiusdino e Monticiano",
+   1
+  ],
+  [
    "acquapendente-torre-alfina-e-bosco-del-sasseto-1g",
    "Acquapendente, Torre Alfina e il Bosco del Sasseto",
    1
@@ -1053,6 +1058,11 @@
    1
   ],
   [
+   "mantova-in-un-giorno-1g",
+   "Mantova in un giorno",
+   1
+  ],
+  [
    "maranello-e-sassuolo-1g",
    "Maranello e Sassuolo (i musei Ferrari)",
    1
@@ -1120,6 +1130,11 @@
   [
    "orbetello-e-monte-argentario-1g",
    "Orbetello e il Monte Argentario",
+   1
+  ],
+  [
+   "padova-in-un-giorno-1g",
+   "Padova in un giorno",
    1
   ],
   [
@@ -1298,6 +1313,11 @@
    1
   ],
   [
+   "verona-in-un-giorno-1g",
+   "Verona in un giorno",
+   1
+  ],
+  [
    "viareggio-e-torre-del-lago-1g",
    "Viareggio e Torre del Lago Puccini",
    1
@@ -1448,6 +1468,16 @@
    2
   ],
   [
+   "cesena-bertinoro-sarsina-e-bagno-di-romagna-2g",
+   "Cesena, Bertinoro, Sarsina e Bagno di Romagna in due giorni",
+   2
+  ],
+  [
+   "chianciano-chiusi-cetona-e-san-casciano-dei-bagni-2g",
+   "Chianciano Terme, Chiusi, Cetona e San Casciano dei Bagni in due giorni",
+   2
+  ],
+  [
    "chiavenna-e-val-bregaglia-2g",
    "Chiavenna e Val Bregaglia: Palazzo Vertemate, le cascate dell'Acquafraggia, Soglio e Madesimo",
    2
@@ -1498,6 +1528,11 @@
    2
   ],
   [
+   "costa-degli-etruschi-in-due-giorni-2g",
+   "Costa degli Etruschi in due giorni: Bolgheri, Castagneto Carducci, Populonia, Baratti e Suvereto",
+   2
+  ],
+  [
    "costa-dei-trabocchi-e-vasto-2g",
    "Costa dei Trabocchi e Vasto",
    2
@@ -1520,6 +1555,11 @@
   [
    "finale-ligure-noli-e-varigotti-2g",
    "Finale Ligure, Noli e Varigotti",
+   2
+  ],
+  [
+   "foligno-montefalco-bevagna-e-trevi-2g",
+   "Foligno, Montefalco, Bevagna e Trevi in due giorni",
    2
   ],
   [
@@ -1768,6 +1808,11 @@
    2
   ],
   [
+   "savona-albenga-e-alassio-2g",
+   "Savona, Albenga, Alassio e Laigueglia in due giorni",
+   2
+  ],
+  [
    "soave-valpolicella-e-lessinia-2g",
    "Soave, Valpolicella e la Lessinia",
    2
@@ -1880,6 +1925,11 @@
   [
    "ascoli-piceno-offida-e-i-monti-sibillini-3g",
    "Ascoli Piceno, Offida e i Monti Sibillini",
+   3
+  ],
+  [
+   "barbagia-e-gennargentu-3g",
+   "Barbagia e Gennargentu in tre giorni: Nuoro, Orgosolo, Mamoiada, Fonni, Aritzo e il Trenino Verde",
    3
   ],
   [
@@ -2243,6 +2293,11 @@
    3
   ],
   [
+   "parco-del-pollino-3g",
+   "Parco del Pollino in tre giorni: Castrovillari, Civita, Morano Calabro, Papasidero e le Gole del Raganello",
+   3
+  ],
+  [
    "parco-nazionale-d-abruzzo-3g",
    "Parco Nazionale d'Abruzzo: Pescasseroli, Scanno, Barrea, Civitella Alfedena e Opi",
    3
@@ -2348,6 +2403,11 @@
    3
   ],
   [
+   "terni-marmore-narni-e-amelia-3g",
+   "Terni, la Cascata delle Marmore, Narni, Amelia e il Lago di Piediluco in tre giorni",
+   3
+  ],
+  [
    "ticino-in-tre-giorni-3g",
    "Ticino in tre giorni: Lugano, Locarno, Bellinzona e la Valle Verzasca",
    3
@@ -2390,6 +2450,11 @@
   [
    "valle-d-aosta-courmayeur-cogne-e-gran-paradiso-3g",
    "Valle d'Aosta: Courmayeur, Cogne e Gran Paradiso",
+   3
+  ],
+  [
+   "valle-d-aosta-orientale-3g",
+   "Valle d'Aosta orientale: Gressoney, Champoluc, Cervinia, il Forte di Bard e il Castello di Fénis in tre giorni",
    3
   ],
   [
@@ -2760,6 +2825,11 @@
   [
    "capo-verde-sal-boa-vista-e-santiago-7g",
    "Capo Verde in una settimana: Sal, Boa Vista e Santiago",
+   7
+  ],
+  [
+   "carelia-finlandese-e-savo-7g",
+   "Carelia finlandese e Savo: Lappeenranta, Imatra, Joensuu, il Parco di Koli, Kuopio e Varkaus",
    7
   ],
   [
@@ -3385,6 +3455,11 @@
   [
    "minorca-in-una-settimana-7g",
    "Minorca in una settimana: Ciutadella, Maó, le cale del sud, il Camí de Cavalls e Fornells",
+   7
+  ],
+  [
+   "moldavia-romena-e-bucovina-7g",
+   "Moldavia romena e Bucovina: Iași, Piatra Neamț, le gole del Bicaz, i monasteri di Voroneț, Sucevița e Moldovița e Suceava",
    7
   ],
   [

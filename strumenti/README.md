@@ -336,3 +336,36 @@ doppioni.
   completo, Honduras-Copán (verificare Farnesina), Timor-Leste, Tonga.
 - `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca, pubblicato solo su
   `viaggi-dati`.
+
+## Nota dalla run del 21 novembre 2026
+- Primo turno: 39 agenti in cinque ondate da 8 (30 da 7-14 giorni con opus, 6 da 3 giorni con sonnet, 3
+  completamenti), tetto 5 WebSearch ciascuno: 30 schede valide pubblicate subito (commit f85beff, catalogo a
+  975) e 2 SKIP (Islanda del Nord: nessun volo diretto 2026 da FLR/PSA/BLQ dopo il fallimento di Play del
+  29/9/2025; Bosnia settentrionale e Krajina: oltre 8 ore d'auto fino a Bihać e nessun diretto per
+  Zagabria/Sarajevo/Banja Luka). Tre schede da 7 giorni uscite senza pasti/alloggio/noleggio numerici
+  (Marca trevigiana, Lapponia finlandese, Frisia orientale) completate nella stessa ondata con COMPLETA.md.
+  Delle sei sonnet da 3 giorni: 2 OK (Cortina-Tre Cime, Iași), 2 INCOMPLETA (Barbagia noleggio, Terni pasti),
+  2 senza JSON (Valle d'Aosta orientale, Pollino: budget esaurito prima dei pasti), rifatte nel secondo turno
+  passando nel prompt i dati già verificati e le fonti del primo agente: entrambe OK al primo colpo.
+- Secondo turno (`send_later` dopo 3 minuti): 2 sostitute da 7 giorni (Carelia finlandese e Savo via il nuovo
+  Finnair FLR–HEL; Moldavia romena e Bucovina via Wizz BLQ–Iași), 2 riprese da 3 giorni, 2 completamenti,
+  5 da 2 giorni e 4 da 1 giorno in due ondate, più 2 completamenti pasti (Costa degli Etruschi, Chianciano).
+  Totale notte: 45 mete nuove (4 da 1, 5 da 2, 6 da 3, 18 da 7, 12 da 14), catalogo a 990: ne mancano 10.
+- Quattro agenti hanno ridimensionato la meta e il nome è stato allineato prima di pubblicare (id invariato):
+  Timor-Leste senza Oecusse (traghetto notturno di 13 h), Ecuador continentale senza Guayaquil e Montañita
+  (Farnesina 4/3/2026 e FCDO: alto rischio a Guayaquil, Guayas e Santa Elena), Höga Kusten senza Umeå,
+  Frisia orientale senza Juist (traghetti legati alla marea). Controllare sempre `nome` nel JSON contro
+  candidati.json: due agenti avevano cambiato l'itinerario lasciando il nome vecchio.
+- Voli diretti verificati stanotte, utili per le prossime idee: Finnair FLR–Helsinki (stagionale, nuovo),
+  Volotea FLR–Bordeaux e FLR–Amburgo, Ryanair PSA–Manchester, PSA–Bratislava (estivo), PSA/Norwegian–Arlanda,
+  Wizz BLQ–Iași (mer/dom). Nessun diretto: Keflavík, Zagabria, Sarajevo.
+- Le mete da 3 giorni con sonnet continuano a uscire senza pasti o senza JSON: funziona meglio dare
+  «scrivi il JSON APPENA hai i pasti» e, in caso di stop, un secondo agente con i dati già raccolti nel
+  prompt. Per le 1-2 giorni (sonnet) tutte e nove OK al primo colpo; restano testuali solo le voci auto
+  in `confronto: true` e qualche ingresso minore.
+- Restano stime dichiarate in `costoNota`: pedaggi non verificati (Valle d'Aosta, Pollino A1, Chianciano),
+  km degli anelli interni (Barbagia, Carelia, Alentejo, Calabria ionica), pasti da fonti deboli (Valle d'Aosta,
+  Cesena, Pollino da Sluurpy). Voci marginali senza numeri (onsen, treno Durango, Southwell Minster, Trenino
+  Verde, Grotta del Romito) fuori dal totale.
+- `add_repo` ancora assente nella sessione pianificata: `app-famiglia` non si attacca, pubblicato solo su
+  `viaggi-dati`.

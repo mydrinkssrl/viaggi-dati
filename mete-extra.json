@@ -2,6 +2,114 @@
   "$schema": "vedi data/METE-EXTRA.md",
   "mete": [
     {
+      "id": "abbazia-di-san-galgano-chiusdino-e-monticiano-1g",
+      "nome": "Abbazia di San Galgano, Chiusdino e Monticiano",
+      "sottotitolo": "Toscana, la chiesa cistercense senza tetto, la spada nella roccia e le terme libere della Val di Merse",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Auto propria: raccordo Firenze–Siena (gratuito) e poi SS73 e SS441 verso Chiusdino, circa 90 km per tratta. Senza auto il posto è scomodo: la stazione più vicina è Roccastrada e i bus locali sono rari, quindi per una giornata l'auto è la scelta pratica.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h20–1h30 in auto (circa 90 km, nessun pedaggio); le terme di Petriolo sono a circa un'ora e mezza da Firenze.",
+      "durataViaggioMinuti": 85,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–ottobre: luce lunga, prato dell'abbazia verde e temperature miti. In pieno inverno le giornate sono corte e l'abbazia chiude prima; a luglio e agosto fa molto caldo, anche se i bagni di Petriolo restano comunque da evitare per le vasche già a oltre 40 °C.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 30,
+      "costoMax": 49,
+      "costoNota": "Il parcheggio presso l'abbazia non ha una tariffa verificata: non è incluso nel totale. Il biglietto dell'abbazia è riportato con due cifre diverse nelle fonti (3 € e 6 €): è stata usata la fascia 3–6 €.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Abbazia e Montesiepi distano meno di due chilometri e si visitano in circa due ore e mezza tra navate scoperchiate, eremo e affreschi. Chiusdino, con il museo compreso nel biglietto, è a pochi chilometri e offre il pranzo. Resta tempo per due ore di bagno alle terme libere di Petriolo, nel comune di Monticiano. Tre soste e circa 3 ore di guida a/r riempiono una giornata senza correre.",
+      "cosaVedere": [
+        "Abbazia di San Galgano: la grande chiesa cistercense gotica senza tetto né pavimento, con il cielo al posto della volta e l'erba al posto del pavimento, unica in Italia.",
+        "Eremo di Montesiepi: cappella romanica a pianta circolare sulla collina sopra l'abbazia, con la spada di San Galgano infissa nella roccia e gli affreschi di Ambrogio Lorenzetti; l'ingresso è libero.",
+        "Museo civico e diocesano di arte sacra di Chiusdino: paese natale del santo, il museo è incluso nel biglietto dell'abbazia e si abbina bene alla sosta pranzo.",
+        "Terme libere di Petriolo (Monticiano): vasche naturali di acqua sulfurea lungo il torrente Farma, gratuite, a circa 35–37 °C in basso e oltre 40 °C nelle vasche più alte; due ore bastano."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "Circa 180 km a/r più qualche deviazione tra Chiusdino, Monticiano e Petriolo, a 0,129 €/km: 23–25 € in totale per la vettura. Nessun pedaggio sul raccordo Firenze–Siena.",
+          "min": 23,
+          "max": 25,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Abbazia di San Galgano",
+          "testo": "Biglietto intero 3–6 € a seconda della fonte (ridotto 2,50–5 €), include il museo di Chiusdino; gratis fino a 6 anni. L'Eremo di Montesiepi è a ingresso libero.",
+          "min": 3,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 15 € per primo e secondo in trattoria a Chiusdino; 20–30 € a testa come media indicata per Il Minestraio e per l'Antico Tempio presso l'abbazia.",
+          "min": 15,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Terme libere di Petriolo",
+          "testo": "Accesso gratuito, senza spogliatoi né bagni; spesso ci sono furgoni di street food.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Il carburante è della vettura e si divide per due viaggiatori (circa 12 € a testa); biglietto e pranzo sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Nessuna ZTL rilevante. Presso l'abbazia c'è un ampio parcheggio (tariffa non verificata). Le terme libere di Petriolo non hanno un parcheggio dedicato: si lascia l'auto dove si può, con strada finale stretta."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Orari dell'abbazia indicati dalle fonti: novembre–marzo 9–17:30, aprile/ottobre 9–18, giugno/settembre 9–19, luglio/agosto 9–20 (maggio e giugno 9–19 secondo altra guida); possibili variazioni per matrimoni ed eventi. L'Eremo è aperto ogni giorno dalle 9 fino al tramonto. Il Minestraio chiude il martedì; l'Antico Tempio è aperto a pranzo solo venerdì–domenica."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione per abbazia ed eremo. Conviene prenotare il pranzo nel fine settimana, perché le trattorie del paese hanno pochi coperti."
+        }
+      ],
+      "note": "Alla cappella di Montesiepi la luce interna funziona a gettoni: portate qualche moneta per vedere gli affreschi. Alle terme di Petriolo portate ciabatte, asciugamano e un cambio asciutto: non ci sono servizi, e nelle vasche più alte l'acqua supera i 40 °C, quindi si scende lungo il torrente fino alla temperatura che si tollera. Visitate prima l'abbazia con la luce del mattino e andate alle terme nel pomeriggio, specie d'autunno, quando l'aria è frizzante. Gli orari invernali sono corti: in novembre l'abbazia chiude alle 17:30.",
+      "fonti": [
+        "https://www.viaggiando-italia.it/abbazia-di-san-galgano-e-spada-nella-roccia-guida-completa-allabbazia-senza-tetto-in-toscana/",
+        "https://www.ilturista.info/da-vedere/abbazia-san-galgano-toscana/",
+        "https://www.visittuscany.com/it/offerte/visita-allabbazia-di-san-galgano-e-alleremo-di-montesiepi/",
+        "https://www.greenme.it/viaggi/italia/terme-di-petriolo/",
+        "https://maremmaguide.com/restaurant-in-chiusdino.html",
+        "https://www.swipein.restaurant/en/restaurant/il-minestraio-chiusdino",
+        "https://www.swipein.restaurant/en/restaurant/ristorante-antico-tempio-terre-di-san-galgano-ch"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 43.1517,
+        "lon": 11.1725
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "L'abbazia a cielo aperto piace ai bimbi di 4 anni (ingresso gratuito fino a 6 anni), ma le vasche di Petriolo sono molto calde e senza servizi."
+      }
+    },
+    {
       "id": "acquapendente-torre-alfina-e-bosco-del-sasseto-1g",
       "nome": "Acquapendente, Torre Alfina e il Bosco del Sasseto",
       "sottotitolo": "Alto Lazio, il borgo del Santo Sepolcro e un bosco da fiaba (Monumento Naturale) da girare con la guida",
@@ -4977,6 +5085,143 @@
       }
     },
     {
+      "id": "mantova-in-un-giorno-1g",
+      "nome": "Mantova in un giorno",
+      "sottotitolo": "Lombardia, la città dei Gonzaga circondata da tre laghi: Mantegna, Giulio Romano e tortelli di zucca",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Treno da Firenze S.M.N.: Frecciarossa/Italo fino a Bologna e regionale Bologna–Modena–Suzzara–Mantova (o via Verona). Le soluzioni economiche hanno di solito 2 cambi; il percorso più veloce, con collegamento diretto, è sotto le 2 ore. Dalla stazione il centro si raggiunge a piedi in circa 15 minuti. L'auto propria (A1 + A22) è l'alternativa, ma in centro c'è la ZTL e il treno è più comodo.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Da 1h53 (collegamento veloce) a circa 2h35 di media in treno, con 1-2 cambi nelle soluzioni più economiche.",
+      "durataViaggioMinuti": 155,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: clima mite e luce buona per i laghi. L'estate è afosa e zanzarosa lungo il Mincio, l'inverno spesso nebbioso, anche se a Palazzo Ducale e Palazzo Te si visita al chiuso.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 68,
+      "costoMax": 169,
+      "costoNota": "La fascia alta somma tutte le visite facoltative (Palazzo Te, Sant'Andrea, battello) e il pranzo in trattoria; quella bassa conta solo treno economico, Palazzo Ducale e pranzo economico.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il centro è compatto: il percorso Palazzo Te, Piazza delle Erbe, Sant'Andrea, Piazza Sordello e Palazzo Ducale misura circa 2,4 km a piedi. Il Ducale con il Castello di San Giorgio e la Camera degli Sposi richiede circa 2-3 ore, Palazzo Te circa 1,5 ore. Restano tempo per un pranzo con tortelli di zucca e una passeggiata sui laghi. Aggiungere Sabbioneta o la crociera lunga richiederebbe una seconda giornata.",
+      "cosaVedere": [
+        "Camera degli Sposi nel Castello di San Giorgio: il ciclo di affreschi di Mantegna (1465-74) con il celebre oculo illusionistico; l'accesso è a turni, su prenotazione.",
+        "Palazzo Ducale, con Corte Vecchia e Corte Nuova: la reggia dei Gonzaga, un labirinto di appartamenti, gallerie e giardini pensili.",
+        "Palazzo Te: la villa suburbana di Giulio Romano, con la vertiginosa Sala dei Giganti e la Camera di Amore e Psiche.",
+        "Basilica di Sant'Andrea: capolavoro di Leon Battista Alberti, con la cupola di Juvarra e la tomba di Mantegna in una cappella.",
+        "Piazza delle Erbe con la Rotonda di San Lorenzo (XI secolo) e la Torre dell'Orologio: il cuore medievale, a due passi dai portici.",
+        "Teatro Bibiena (Accademia Virgiliana): piccolo teatro barocco a forma di campana, dove suonò Mozart nel 1770.",
+        "Lungolago e laghi di Mincio: le motonavi partono davanti al Castello, con giri da circa 1 a 2 ore tra canneti e fior di loto."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Da circa 17 € a tratta per le soluzioni più economiche con cambi, circa 31-35 € il prezzo tipico, 48 € e più con Frecciarossa e un cambio; 34-70 € A/R.",
+          "min": 34,
+          "max": 70,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto propria (alternativa)",
+          "testo": "A1 + A22 fino a Mantova Nord; km e pedaggi A22 non verificati con fonte, quindi non conteggiati. Parcheggio in garage Apcoa (via Scarsellini) 1,50 €/h con massimo 10 €/giorno; Campo Canoa gratuito con navetta ogni 12 minuti.",
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Palazzo Ducale con Camera degli Sposi",
+          "testo": "18 € intero dal 2 gennaio 2026 (Castello, Camera degli Sposi, Corte Nuova, Corte Vecchia, Museo Archeologico), valido un mese; la Camera si visita con data e ora prenotate.",
+          "min": 18,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Palazzo Te",
+          "testo": "18 € intero, 13 € ridotto, 8 € dai 12 ai 18 anni e universitari, gratuito fino a 11 anni; facoltativo.",
+          "min": 0,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Basilica di Sant'Andrea",
+          "testo": "Le fonti sono discordanti: una guida indica ingresso gratuito, un portale museale 15 € intero, 10 € ridotto; verificare sul posto.",
+          "min": 0,
+          "max": 15,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Navigazione sui laghi",
+          "testo": "Crociera sul Mincio da 18 € per circa 2 ore (partenze indicative alle 11:30 e 15:30); il percorso laghi di Mezzo e Inferiore dura circa 1 ora, con prenotazione.",
+          "min": 0,
+          "max": 18,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Da circa 16 € all'osteria a 20-30 € in trattoria; i tortelli di zucca costano circa 8 € a piatto.",
+          "min": 16,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Con il treno tutte le voci sono a persona; la voce auto è solo di confronto e non entra nella somma.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico ha una ZTL: in auto conviene il parcheggio di Campo Canoa (gratuito, navetta ogni 12 minuti) o l'autorimessa Apcoa (1,50 €/h, massimo 10 €). In treno la stazione è a circa 15 minuti a piedi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Palazzo Ducale è aperto dal martedì alla domenica e chiuso il lunedì; Palazzo Te non ha un giorno di chiusura fisso (martedì apre alle 13:00). Pianificare il lunedì parte dalla città e da Palazzo Te."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La Camera degli Sposi richiede prenotazione di data e ora (turni da 30 persone ogni 10 minuti); le motonavi sui laghi richiedono prenotazione."
+        }
+      ],
+      "note": "Il biglietto del Ducale è valido un mese: se una giornata non basta si può tornare. Il pranzo è più economico nelle osterie del centro, dove i tortelli di zucca costano circa 8 € a piatto: mangiare prima o dopo l'ora di punta evita l'attesa. Il Teatro Bibiena si visita con l'Accademia Virgiliana: il prezzo non è stato verificato, quindi chiedere all'infopoint di Piazza Mantegna. In inverno la nebbia padana può nascondere i laghi: scegliere in quel caso Palazzo Te al mattino.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/mantova",
+        "https://www.finestresullarte.info/musei/palazzo-ducale-mantova-annuncia-nuove-tariffe-percorso-rivisto-per-2026",
+        "https://www.centropalazzote.it/?p=70752",
+        "https://www.travel365.it/mantova-dove-mangiare.htm",
+        "https://www.travel365.it/mantova-itinerario-1-giorno.htm",
+        "https://abbonamentomusei.it/en/spazio_espositivo/basilica-di-santandrea/",
+        "https://it.wikivoyage.org/wiki/Mantova",
+        "https://irp.cdn-website.com/6c058fb4/files/uploaded/andes-scuole-2027-light.pdf"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 45.1564,
+        "lon": 10.7914
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il centro è piacevole a piedi e la gita in battello piace, ma tre musei in un giorno sono impegnativi per un bimbo di 4 anni."
+      }
+    },
+    {
       "id": "maranello-e-sassuolo-1g",
       "nome": "Maranello e Sassuolo (i musei Ferrari)",
       "sottotitolo": "Emilia-Romagna, la Motor Valley: il Museo Ferrari di Maranello e il palazzo barocco degli Este a Sassuolo",
@@ -6649,6 +6894,154 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Feniglia piana con daini e il porto piacciono a un bimbo di 4 anni, ma quasi 3 ore di auto per tratta pesano; l'andata e ritorno nello stesso giorno è faticosa."
+      }
+    },
+    {
+      "id": "padova-in-un-giorno-1g",
+      "nome": "Padova in un giorno",
+      "sottotitolo": "Veneto, la città di Giotto, di Sant'Antonio e dell'Orto Botanico più antico del mondo, tutta a piedi",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Frecciarossa o Italo diretti da Firenze S.M.N. a Padova (circa 1h45-2h, ma con fermata a Bologna), 11 corse Italo al giorno più le Frecce di Trenitalia. Conviene prendere un treno prima delle 8 e rientrare dopo le 19 per avere almeno 9 ore in città. L'auto propria (A1 fino a Bologna, poi A13) è solo un confronto: non conviene, per il traffico urbano e perché il centro è quasi tutto a piedi.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 1h45 in Frecciarossa/Italo diretto (fino a 3h40 con regionali e cambi); stazione di Padova a 15 minuti a piedi dagli Scrovegni.",
+      "durataViaggioMinuti": 140,
+      "periodoMiglioreTesto": "Marzo-giugno e settembre-ottobre: giornate lunghe, Orto Botanico aperto fino alle 18-19 e clima mite. L'estate è afosa e a gennaio l'Orto Botanico chiude (dal 7 gennaio all'8 febbraio).",
+      "mesi": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 65,
+      "costoMax": 164,
+      "costoNota": "La forbice è larga soprattutto per il treno: con biglietti anticipati Italo/Frecciarossa si resta vicino al minimo, a ridosso della partenza si sale. Il massimo include anche l'Orto Botanico, facoltativo.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il centro storico di Padova è compatto e pianeggiante: dalla stazione agli Scrovegni sono 15 minuti a piedi e tra la Basilica del Santo, Prato della Valle e le piazze delle Erbe e della Frutta ci sono meno di 2 km in tutto. La visita agli Scrovegni dura circa 15 minuti più l'attesa, il Palazzo della Ragione e il Santo richiedono un'ora ciascuno: restano il tempo per un pranzo seduto e per una passeggiata nei portici senza correre. Un secondo giorno servirebbe solo per Orto Botanico, Palazzo Bo e i musei, ma la giornata singola copre bene l'essenziale.",
+      "cosaVedere": [
+        "Cappella degli Scrovegni: il ciclo di affreschi di Giotto (inizio Trecento), a ingresso contingentato; la visita dura circa 15 minuti, con sosta nella sala di decontaminazione prima di entrare.",
+        "Palazzo della Ragione: il grande salone pensile medievale, con il ciclo astrologico e il gigantesco cavallo ligneo, che domina il mercato di piazza delle Erbe e piazza della Frutta.",
+        "Basilica di Sant'Antonio (il Santo): ingresso libero, otto cupole in stile romanico-bizantino, la tomba del santo e il chiostro; foto e video all'interno sono vietati.",
+        "Prato della Valle: una delle piazze più grandi d'Europa, con l'isola ellittica circondata da un canale, ideale per una sosta di mezz'ora.",
+        "Orto Botanico: il più antico orto botanico universitario del mondo ancora al suo posto (1545, patrimonio Unesco), aperto dal martedì alla domenica; da ottobre chiude alle 17-18, quindi va messo presto nel giro.",
+        "Piazze dei Signori, delle Erbe e della Frutta, con il mercato quotidiano sotto il Salone: serve a ritrovare il ritmo della città dopo i monumenti."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Da 13-14 € a tratta con tariffe anticipate (Italo da 13,90 €, Intercity da 13 €) fino a 52 € per un Frecciarossa a ridosso della partenza: circa 28-104 € A/R a persona.",
+          "min": 28,
+          "max": 104,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cappella degli Scrovegni",
+          "testo": "15 € intero (11 € ridotto da 65 anni UE, 6 € 6-17 anni), più 1 € di prevendita; prenotazione obbligatoria, mai il giorno stesso.",
+          "min": 15,
+          "max": 16,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Palazzo della Ragione",
+          "testo": "8 € intero, 6 € ridotto, più 1 € di prevendita; aperto 9-19 dal martedì alla domenica.",
+          "min": 6,
+          "max": 9,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Orto Botanico (facoltativo)",
+          "testo": "10 € intero, 8 € over 65, 6 € ridotto giovani; gratuito fino a 5 anni.",
+          "min": 0,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Basilica di Sant'Antonio",
+          "testo": "Ingresso gratuito.",
+          "min": 0,
+          "max": 0,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Padova Urbs Picta Card (alternativa)",
+          "testo": "28 € per 48 ore (35 € per 72) con Scrovegni, Palazzo della Ragione, Santo, Battistero e altri sette siti più trasporti pubblici: conviene solo se si aggiungono Battistero, Eremitani e oratori, altrimenti i biglietti singoli costano meno.",
+          "min": 28,
+          "max": 35,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "16-25 € a persona in osteria o trattoria del centro (Trattoria da Pippo circa 16 €, Osteria Fuori Porta e l'Anfora 20-22 €, Trattoria Isoletta e Al Vecchio Falconiere circa 25 €).",
+          "min": 16,
+          "max": 25,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto propria (confronto)",
+          "testo": "A1 Firenze-Bologna 8,90 € a tratta e carburante a 0,129 €/km (parametri di casa); chilometri esatti e pedaggio dell'A13 Bologna-Padova non verificati con fonte, quindi nessuna cifra: vale solo come confronto e non entra nel totale.",
+          "min": null,
+          "max": null,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Tutte le voci sono a persona (treno, ingressi, pranzo). L'auto, che qui è solo un confronto, sarebbe una spesa della vettura da dividere per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Dalla stazione gli Scrovegni sono a circa 15 minuti a piedi e il resto del centro è raggiungibile a piedi: non serve l'auto. La Urbs Picta Card include i trasporti pubblici."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Orto Botanico, Palazzo della Ragione e altri siti chiudono il lunedì (Palazzo della Ragione aperto nei festivi). Gli Scrovegni risultano chiusi dal 16 al 27 novembre per controlli agli affreschi, quindi in autunno controllare le date. Orto Botanico chiuso dal 7 gennaio all'8 febbraio e il 25 dicembre."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Scrovegni: prenotazione obbligatoria con orario fisso, non si prenota il giorno stesso; la prenotazione online resta possibile fino alla sera prima. Telefono 049 20 100 20 (lun-ven 9-19, sab 9-18). Prenotare con una settimana d'anticipo in primavera."
+        }
+      ],
+      "note": "Prenotare per primo lo slot degli Scrovegni e costruire la giornata intorno a quello: i gruppi devono presentarsi in biglietteria almeno 45 minuti prima e conviene farlo anche da soli, quindi arrivare con un treno presto. Subito dopo andare al Santo (gratuito, ma code e preghiera: abito coprente per spalle e ginocchia). Per il pranzo sedersi tra piazza delle Erbe e piazza della Frutta, dove la sera si riempiono gli spritz ma a mezzogiorno si trova posto. Non vale la pena comprare la Urbs Picta Card per un solo giorno, a meno di aggiungere Battistero e oratori. Ultimo treno: controllare l'orario di ritorno prima, perché le Frecce serali sono meno frequenti.",
+      "fonti": [
+        "https://www.travel365.it/migliori-ristoranti-economici-padova.htm",
+        "https://cappelladegliscrovegni.it/index.php/en/information/biglietti-e-riduzioni",
+        "https://cappelladegliscrovegni.it/index.php/en/information/biglietti-e-riduzioni/80-carte/86-urbs-picta-card",
+        "https://cappelladegliscrovegni.it/index.php/en/9-uncategorised/76-how-to-visit",
+        "https://www.omio.it/viaggi/firenze/padova",
+        "https://www.italotreno.com/it/destinazioni-orari/treni-firenze-padova",
+        "https://www.grandigiardini.it/lang_EN/254-visit-Orto-Botanico-di-Padova-event-tickets",
+        "https://www.civitatis.com/blog/it/?p=133127"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 45.4064,
+        "lon": 11.8768
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Città piana e a piedi; con un bimbo di 4 anni gli Scrovegni (15 minuti, gratis fino a 5 anni) e Prato della Valle con i prati sono semplici, l'Orto Botanico è gratuito sotto i 6 anni."
       }
     },
     {
@@ -10645,6 +11038,161 @@
       }
     },
     {
+      "id": "verona-in-un-giorno-1g",
+      "nome": "Verona in un giorno",
+      "sottotitolo": "Veneto, la città dell'Arena e di Giulietta, a 1h30 di Frecciarossa da Firenze",
+      "durataGiorni": 1,
+      "mezzoConsigliato": "Frecciarossa o Italo diretti da Firenze S.M.N. a Verona Porta Nuova, circa 1h30-1h35 senza cambi. Dalla stazione il centro (Piazza Bra e l'Arena) è a circa 15 minuti a piedi lungo Corso Porta Nuova. L'auto propria (A1 fino a Bologna, poi A22 del Brennero) è solo un'alternativa: circa 237 km a tratta e più di 2h20 di guida, con ZTL e parcheggi a pagamento in centro.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Circa 1h32 in treno diretto (Frecciarossa/Italo); 2h26 in auto per 237 km.",
+      "durataViaggioMinuti": 110,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: clima gradevole e luce buona per le passeggiate. In estate la stagione lirica riempie la città e fa caldo; a dicembre ci sono i mercatini di Natale in Piazza dei Signori, molto affollati nei weekend.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 70,
+      "costoMax": 154,
+      "costoNota": "Il massimo somma il biglietto di treno più caro, tutti i monumenti a tariffa intera e un pranzo in trattoria; il minimo prevede treno in offerta e pranzo semplice.",
+      "dipendenzaAuto": "senza-auto",
+      "pertinenzaStimata": 4,
+      "percheDurata": "Il centro storico è racchiuso in un'ansa dell'Adige e si gira interamente a piedi: dall'Arena a Piazza delle Erbe sono 10 minuti, da lì al Castelvecchio altri 15. Con 1h30 di treno si arriva alle 9-9.30 e si ripartisce in serata. Tra Arena, Casa di Giulietta, Torre dei Lamberti, Castelvecchio e un giardino rimane il tempo per un pranzo seduto, senza correre. Un pernottamento serve solo per chi vuole l'opera serale o i dintorni (Valpolicella, lago di Garda).",
+      "cosaVedere": [
+        "Arena: l'anfiteatro romano del I secolo, tra i meglio conservati al mondo, si sale sulle gradinate e si capisce perché ospita ancora l'opera lirica.",
+        "Piazza delle Erbe: l'antico foro romano, oggi mercato e caffè, con la Torre dei Lamberti, la Fontana di Madonna Verona e i palazzi affrescati.",
+        "Torre dei Lamberti: 84 metri, si sale a piedi o con l'ascensore (1 € in più) per vedere i tetti rossi e l'ansa dell'Adige.",
+        "Casa di Giulietta: il cortile con il balcone e la statua è gratis da fuori o a pagamento con prenotazione; il museo interno costa 12 €. Piccolo e affollato, meglio al mattino presto.",
+        "Castelvecchio e Ponte Scaligero: fortezza scaligera del Trecento con museo di pittura veronese e sculture; la passeggiata sul ponte merlato sull'Adige è la vista più bella.",
+        "Giardino Giusti: giardino rinascimentale all'italiana con cipressi secolari e belvedere sulla città, ideale per una pausa tranquilla."
+      ],
+      "itinerario": null,
+      "alloggio": null,
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Frecciarossa/Italo diretti: da 10 € (Italo) a circa 31 € a tratta di media, quindi circa 20-62 € A/R secondo quando si prenota.",
+          "min": 20,
+          "max": 62,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Arena",
+          "testo": "12 € intero; 9 € over 65 e gruppi, 3 € dai 18 ai 25 anni, gratis under 17. Gli orari cambiano nei giorni di spettacolo.",
+          "min": 12,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Casa di Giulietta",
+          "testo": "Il cortile è visibile gratis dall'ingresso; museo interno 12 € intero, cortile con prenotazione 5 €.",
+          "min": 0,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Torre dei Lamberti",
+          "testo": "6 € intero, 4,50 € ridotto; ascensore 1 € in più.",
+          "min": 4.5,
+          "max": 7,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Castelvecchio",
+          "testo": "9 € intero; 6 € over 65, 1 € tra 18 e 25 anni, gratis under 17; 1 € la prima domenica del mese da novembre a marzo.",
+          "min": 9,
+          "max": 9,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Giardino Giusti",
+          "testo": "12 € intero, 9 € ridotto, gratis under 10.",
+          "min": 9,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Dal piatto di pasta e fasoi o bigoli in osteria (circa 15-25 €) alla trattoria con antipasto, primo e vino (circa 40 €).",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Verona Card 24 ore",
+          "testo": "33 € (38 € per 48 ore) dal 1 settembre 2026, comprende Arena, Casa di Giulietta, Torre dei Lamberti con ascensore a parte, Castelvecchio e trasporti urbani; sconto al Giardino Giusti. Conviene solo se si fanno tutti i monumenti a tariffa intera.",
+          "min": 33,
+          "max": 33,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto propria A/R",
+          "testo": "Circa 474 km A/R: circa 61 € di carburante (0,129 €/km) più circa 35 € di pedaggi (17,70 € a tratta); parcheggio in centro a parte, senza fonte verificata.",
+          "min": 96,
+          "max": 96,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Treno, ingressi e pranzo sono a persona. L'auto, se scelta, è un costo della vettura da dividere per due (circa 48 € a testa) ed è mostrata solo come confronto.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il centro storico è in ZTL e i parcheggi sono a pagamento: da Firenze il treno evita il problema. Dalla stazione al centro si cammina circa 15 minuti."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Arena, Casa di Giulietta e Castelvecchio chiudono il lunedì (Arena da ottobre a maggio). Torre dei Lamberti: 10-18 nei feriali, 11-19 nel weekend. Giardino Giusti: 10-17 da ottobre a marzo."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Casa di Giulietta richiede l'orario prenotato sul sito con la Verona Card; per la Torre dei Lamberti la prenotazione è consigliata. Prenotare i treni in anticipo per le tariffe più basse."
+        }
+      ],
+      "note": "Per risparmiare tempo prenota il primo treno utile e inizia da Casa di Giulietta (è meno affollata prima delle 10), poi Arena, Piazza delle Erbe e pranzo. Tieni la Torre dei Lamberti per il tardo pomeriggio quando la luce è migliore. Il Giardino Giusti è una buona pausa lontana dalla folla turistica: se i piedi chiedono tregua, puoi saltare Castelvecchio. Se vuoi fare più musei, valuta la Verona Card solo se ne visiti almeno quattro.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/verona",
+        "https://calcolopercorso.it/it/distanza/Verona/Firenze",
+        "https://www.visitverona.it/veronacard",
+        "https://www.travel365.it/verona-cosa-vedere.htm",
+        "https://www.travel365.it/migliori-ristoranti-economici-verona.htm",
+        "https://www.scattidigusto.it/ristoranti/dove-mangiare-a-verona-spendendo-poco-osterie-trattorie/"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 45.4384,
+        "lon": 10.9916
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Tutto a piedi in piano; Arena e torre (con ascensore) piacciono a un bimbo di 4 anni, gratis sotto i 17 anni negli ingressi principali."
+      }
+    },
+    {
       "id": "viareggio-e-torre-del-lago-1g",
       "nome": "Viareggio e Torre del Lago Puccini",
       "sottotitolo": "Toscana, la Versilia Liberty sul mare e la casa-museo di Puccini sul lago di Massaciuccoli",
@@ -14458,6 +15006,285 @@
       }
     },
     {
+      "id": "cesena-bertinoro-sarsina-e-bagno-di-romagna-2g",
+      "nome": "Cesena, Bertinoro, Sarsina e Bagno di Romagna in due giorni",
+      "sottotitolo": "Emilia-Romagna, un anello tra biblioteca malatestiana, balcone sulla Romagna, borgo plautino e terme appenniniche",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria da Firenze: si sale verso il Passo della Calla/Bagno di Romagna e poi la E45 senza pedaggio fino a Cesena (circa 2h di guida), oppure A1 + A14 con pedaggio. Il treno serve solo Cesena (via Bologna), non Bertinoro, Sarsina e Bagno di Romagna: per l'anello l'auto è indispensabile. Per il ritorno si passa da Sarsina e Bagno di Romagna.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h-2h30 in auto fino a Cesena (stime Rome2rio: 144-156 km e 2h27-2h38 da località vicine a Firenze come Greve in Chianti ed Empoli; la E45 via Bagno di Romagna è la variante senza pedaggio).",
+      "durataViaggioMinuti": 140,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: clima mite per Rocca e borghi; le terme di Bagno di Romagna funzionano bene anche in inverno e a novembre i prezzi degli hotel scendono (media 134 € a notte secondo momondo). Luglio e agosto sono caldi nella piana di Cesena e affollati verso la costa.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 148,
+      "costoMax": 312,
+      "costoNota": "Stima a persona con due viaggiatori in auto: carburante calcolato a 0,129 €/km su 280-340 km di anello (chilometraggio stimato, non da un unico calcolatore); le terme variano da zero (solo passeggiata) a circa 45 € (offerta spa da 49 US$ convertita). Pasti: il solo dato verificato è 30 € a pasto in hotel termale, il resto è derivato.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Quattro tappe distanti tra loro 15-40 km: Cesena (Malatestiana e Rocca) richiede una mattina, Bertinoro un tramonto sul balcone e una cena, Sarsina un'ora abbondante tra museo e centro, Bagno di Romagna mezza giornata di terme. La Malatestiana si visita solo con visita guidata a orari fissi, quindi un giorno solo costringerebbe a saltare le terme o Sarsina. Con una notte tra Cesena e Bertinoro e il rientro per l'Appennino, i due giorni reggono senza correre.",
+      "cosaVedere": [
+        "Biblioteca Malatestiana di Cesena: la prima biblioteca civica d'Europa (XV secolo), con banchi e codici ancora al loro posto; si visita solo con visita guidata.",
+        "Rocca Malatestiana di Cesena: fortezza esagonale con sette torri sul colle Garampo, con vista sulla città e sulla pianura fino al mare nelle giornate limpide.",
+        "Bertinoro, il balcone di Romagna: borgo sul crinale con la Colonna dell'Ospitalità e panorama sulla pianura; ottimo per un aperitivo con Albana.",
+        "Sarsina, patria di Plauto: piccolo centro del Savio con il Museo Archeologico Nazionale, che raccoglie reperti romani e il mausoleo di Rufo, e la cattedrale romanica.",
+        "Bagno di Romagna: centro termale ai piedi dell'Appennino con le fonti di Sant'Agnese e piscine termali all'aperto (Euroterme/Terme Sant'Agnese), ideali per chiudere il viaggio."
+      ],
+      "itinerario": null,
+      "alloggio": "A Cesena i B&B stanno tra 60 e 105 € a notte per due (B&B Malatesta 60 €, Del Vicolo 70 €, Colle Gelso 105 €; bed-and-breakfast.it), simili a Bertinoro (60-110 €). Hotel a Cesena: media 112 € a notte, minimo 62 € (momondo). A Bagno di Romagna il minimo è 75 € e la media 164 €, con novembre a 134 € di media. Consiglio: dormire a Cesena o Bertinoro la prima notte e rientrare per Sarsina e Bagno di Romagna il secondo giorno.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante auto",
+          "testo": "Anello di 280-340 km (Firenze-Cesena-Bertinoro-Sarsina-Bagno di Romagna-Firenze) a 0,129 €/km: 36-44 €.",
+          "min": 36,
+          "max": 44,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggio",
+          "testo": "Parcheggi in centro a Cesena e nei borghi per lo più su strisce blu; all'hotel termale di Bagno di Romagna 6 € al giorno. Stima 0-12 € per la vettura.",
+          "min": 0,
+          "max": 12,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "60-105 € a notte in B&B/3 stelle per due tra Cesena e Bertinoro, divisi in due.",
+          "min": 31,
+          "max": 53,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo e cena: riferimento verificato 30 € a pasto in hotel termale; da 30 € (un pasto completo e uno leggero) a 60 € (due pasti completi) al giorno.",
+          "min": 30,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Biblioteca Malatestiana",
+          "testo": "8 € intero, 4-5 € ridotto; gratuita fino a 18 anni.",
+          "min": 4,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rocca Malatestiana",
+          "testo": "5 € intero, 4 € ridotto.",
+          "min": 4,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Terme di Bagno di Romagna",
+          "testo": "Da 0 € (solo passeggiata e fonti) a circa 45 € per l'ingresso alla spa Euroterme (offerta da 49 US$ convertita; prezzo giornaliero da verificare).",
+          "min": 0,
+          "max": 45,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante e parcheggio sono della vettura e si dividono tra i due viaggiatori; alloggio, pasti, ingressi e terme sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "I centri storici di Cesena e dei borghi hanno ZTL o zone pedonali: meglio parcheggiare fuori e salire a piedi alla Rocca e alla Malatestiana."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Malatestiana: da novembre a marzo aperta martedì-domenica 10-16 (ultima visita 15), chiusa il 25 dicembre e il 1 gennaio; Rocca: martedì-venerdì 9-16, sabato e domenica 10-20 (verificare)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La Malatestiana si visita solo con visita guidata: biglietto online su CoopCulture o email a prenotazioni@comune.cesena.fc.it. Le spa di Bagno di Romagna conviene prenotarle nei weekend."
+        }
+      ],
+      "note": "Il Museo Archeologico di Sarsina non ha un prezzo verificato in questa scheda: controllare orari e biglietto prima di partire. La strada E45 tra Bagno di Romagna e Sarsina è gratuita ma ha tratti lenti con cantieri: aggiungere margine. A Bertinoro la cena all'imbrunire sul balcone è il momento migliore, ma i locali sono pochi: prenotare.",
+      "fonti": [
+        "https://www.momondo.it/hotel/cesena",
+        "https://www.momondo.it/hotel/bagno-di-romagna",
+        "https://www.bed-and-breakfast.it/en/cesena",
+        "https://www.viaggi.conad.it/offerta/Hotel-Terme-Sant-agnese-Bagno-di-Romagna-w12-cr7-38813",
+        "https://www.coopculture.it/en/poi/biblioteca-malatestiana-antica/",
+        "https://www.museionline.info/emilia-romagna-musei-monumenti/rocca-malatestiana-di-cesena",
+        "https://www.civitatis.com/en/bagno-di-romagna/euroterme-spa-tickets/",
+        "https://www.rome2rio.com/s/Cesena/Greve-in-Chianti",
+        "https://www.rome2rio.com/s/Cesena/Empoli"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 44.139,
+        "lon": 12.243
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Rocca e terme esterne piacciono a un bimbo di 4 anni, ma la Malatestiana è solo con visita guidata e gli spostamenti in auto sono lunghi."
+      }
+    },
+    {
+      "id": "chianciano-chiusi-cetona-e-san-casciano-dei-bagni-2g",
+      "nome": "Chianciano Terme, Chiusi, Cetona e San Casciano dei Bagni in due giorni",
+      "sottotitolo": "Toscana meridionale e Valdichiana senese: terme, Etruschi e borghi tra Siena e l'Umbria",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria da Firenze: A1 direzione Roma fino all'uscita Chiusi-Chianciano Terme (circa 121 km, 1h15). L'auto serve davvero: San Casciano e Cetona sono a 15-25 minuti dal casello su strade provinciali, con pochi bus. In alternativa treno Firenze S.M.N.–Chiusi-Chianciano (circa 1h50), ma poi servirebbe un'auto a noleggio o i taxi.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h15 in auto (121 km, A1 con uscita Chiusi-Chianciano Terme); circa 1h30 porta a porta fino a Chianciano. In treno circa 1h50 fino a Chiusi.",
+      "durataViaggioMinuti": 90,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-novembre: clima mite per camminare a Chiusi e Cetona. In inverno le vasche libere di San Casciano sono al massimo del fascino (acqua a circa 40 °C), ma fa freddo uscendo dall'acqua. Luglio e agosto sono caldi e poco adatti alle terme.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 127,
+      "costoMax": 278,
+      "costoNota": "Vettura: 121 km x 2 + circa 60 km di spostamenti locali, carburante a 0,129 €/km, pedaggio A1 Firenze Sud-Chiusi 8,80 € a tratta; parcheggi 0-10 € stimati. Alloggio: una notte, camera doppia 60-110 € divisa per due. Pasti 30-65 € al giorno a persona (fasce medie da guide e portali di recensioni). Il biglietto del nuovo museo dei bronzi di San Casciano non è incluso: l'apertura è prevista entro fine 2026 e il prezzo non è ancora pubblicato.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Quattro poli distanti 10-25 minuti l'uno dall'altro: Chiusi (museo etrusco e sotterranei), Chianciano (terme), Cetona (borgo e Parco Archeologico) e San Casciano (vasche libere e bronzi etruschi). Con una notte si fanno due giornate piene ma senza fretta: il primo giorno Chiusi e le terme, il secondo San Casciano e Cetona. Con un solo giorno si sacrificherebbe o il bagno o i musei; con tre diventerebbe ripetitivo.",
+      "cosaVedere": [
+        "Museo Archeologico Nazionale di Chiusi: oltre 2.500 reperti etruschi, tra cippi, urne e vasi in bucchero; il biglietto include la Tomba della Pellegrina.",
+        "Labirinto di Porsenna e sotterranei di Chiusi: la città sotterranea di cunicoli e cisterne etrusche legata al mito di re Porsenna, da visitare con le visite guidate del museo civico.",
+        "Terme di Chianciano: Terme Sensoriali o piscine Theia per un pomeriggio di acqua termale; nei weekend Theia apre fino a tarda sera con i Bagni di Notte.",
+        "Bagno Grande a San Casciano dei Bagni: vasche di pietra libere e gratuite, aperte a ogni ora, con acqua a circa 40 °C, raggiungibili a piedi sotto il borgo.",
+        "San Casciano dei Bagni, centro storico: borgo di pietra legato al santuario etrusco-romano dei bronzi scoperti nel 2022, da cui nasce il nuovo museo dedicato agli Etruschi.",
+        "Cetona: borgo medievale ai piedi del Monte Cetona, con il Parco Archeologico Naturalistico di Belverde e il suo museo della preistoria, ideale per una passeggiata serale."
+      ],
+      "itinerario": null,
+      "alloggio": "Chianciano Terme: hotel 2 stelle intorno a 50 €, 3 stelle intorno a 83 €, 4 stelle intorno a 124 € a notte; un B&B in centro da circa 50 € a notte per due con colazione. Una notte per due costa quindi circa 60-110 € (30-55 € a persona). Dormire a Chianciano è comodo perché sta a metà strada tra Chiusi e San Casciano.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante e pedaggi)",
+          "testo": "Circa 300 km totali (A/R più giri locali) a 0,129 €/km, più 17,60 € di pedaggio A/R Firenze Sud-Chiusi-Chianciano, più parcheggi stimati 0-10 €.",
+          "min": 56,
+          "max": 66,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (1 notte)",
+          "testo": "Camera doppia 60-110 € a notte tra B&B da circa 50 € e hotel 3 stelle da circa 83 €; 30-55 € a persona.",
+          "min": 30,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo e cena a persona a Chianciano Terme: spesa media 12-30 € a pasto nelle trattorie e pizzerie del centro (Il Calimero 14-20 €, Tribeca 15-30 € con menù pranzo a 12,50 €, Hostaria Il Buco 18-30 €); un pasto completo con bevande 25-40 € secondo Sluurpy. Stimato 30-65 € al giorno a persona.",
+          "min": 30,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Museo Archeologico Nazionale di Chiusi",
+          "testo": "6 € intero, 2 € ridotto; gratuito la prima domenica del mese.",
+          "min": 6,
+          "max": 6,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Labirinto di Porsenna (Chiusi)",
+          "testo": "3 € solo labirinto, 5 € con il Museo della Cattedrale; aperto tutti i giorni 9:45-18:30 (confermare per telefono, 0578 226490).",
+          "min": 3,
+          "max": 5,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Terme di Chianciano",
+          "testo": "Terme Sensoriali 38 € feriali, 45 € weekend (3 ore); piscine Theia 45 € giornaliero. Il Bagno Grande di San Casciano è gratuito (0 €).",
+          "min": 0,
+          "max": 49,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Auto, pedaggi e parcheggi sono della vettura (divisi per due); alloggio, pasti, musei e terme sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il Bagno Grande è raggiungibile solo a piedi: si scende per una stradina dal parcheggio all'ingresso del borgo, poi circa 200 metri fino alle vasche."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Le piscine Theia chiudono il martedì; le Terme Sensoriali in molti periodi aprono solo nel weekend. Il museo di Chiusi riporta orari 9-20 ma va verificato prima di partire."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "La Tomba della Scimmia a Chiusi richiede prenotazione ed è aperta solo martedì, giovedì e sabato; per le terme meglio prenotare nei weekend (tel. 0578 68501)."
+        }
+      ],
+      "note": "Alle vasche libere di San Casciano porta ciabatte, telo e un sacchetto per i vestiti bagnati: non ci sono spogliatoi, e d'inverno l'ideale è andarci al tramonto. Il museo permanente dei bronzi di San Casciano (Palazzo dell'Arcipretura) è previsto entro fine 2026 ma senza data né prezzo: controlla se è già aperto prima di partire. Il biglietto da 5 € del Museo della Cattedrale di Chiusi include anche il Labirinto di Porsenna. Il casello Chiusi-Chianciano è comodo anche per Montepulciano, a pochi minuti, se avanza tempo.",
+      "fonti": [
+        "https://www.rome2rio.com/s/Chiusi/Tuscany",
+        "https://calcolopercorso.it/it/distanza/Firenze/Chiusi",
+        "https://www.momondo.it/hotel/chianciano-terme",
+        "https://www.bed-and-breakfast.it/en/budget-bb-chianciano-terme",
+        "https://www.museionline.info/toscana-musei-monumenti/museo-archeologico-nazionale-di-chiusi",
+        "https://siviaggia.it/idee-di-viaggio/terme-chianciano/558879/",
+        "https://www.ilturista.info/?p=31260",
+        "https://www.visittuscany.com/it/attrazioni/terme-libere-di-san-casciano-dei-bagni/",
+        "https://moveo.telepass.com/san-casciano-dei-bagni/",
+        "https://travel.thewom.it/italia/toscana/san-casciano-dei-bagni.html",
+        "https://www.voloscontato.it/ristoranti/chianciano-terme-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.sluurpy.it/chianciano-terme/gastronomia",
+        "https://www.museionline.info/toscana-musei-monumenti/labirinto-di-porsenna",
+        "https://www.initaly.it/en/articolo/san-casciano-dei-bagni-il-museo-permanente-dei-bronzi-in-arrivo-entro-16338"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 43.0,
+        "lon": 11.95
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Le piscine Theia hanno riduzioni per i bambini, ma le vasche libere sono senza servizi e le tombe etrusche non interessano a un bimbo di 4 anni."
+      }
+    },
+    {
       "id": "chiavenna-e-val-bregaglia-2g",
       "nome": "Chiavenna e Val Bregaglia: Palazzo Vertemate, le cascate dell'Acquafraggia, Soglio e Madesimo",
       "sottotitolo": "Lombardia e Canton Grigioni, la Valchiavenna dei crotti e dei palazzi cinquecenteschi fino al borgo svizzero di Soglio",
@@ -15753,6 +16580,139 @@
       }
     },
     {
+      "id": "costa-degli-etruschi-in-due-giorni-2g",
+      "nome": "Costa degli Etruschi in due giorni: Bolgheri, Castagneto Carducci, Populonia, Baratti e Suvereto",
+      "sottotitolo": "Toscana, Livorno e Val di Cornia: vigneti del Bolgheri DOC, borghi di collina e la sola città etrusca affacciata sul mare",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria: da Firenze FI-PI-LI gratuita fino a Pisa/Collesalvetti, poi SS1 Aurelia verso sud fino a Cecina e Bolgheri (circa 130 km, 1h50). Senza auto i borghi e le cantine sono poco collegati: l'auto serve per muoversi tra Bolgheri, Castagneto, Suvereto e Baratti.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 1h50 in auto da Firenze a Bolgheri (130 km); spostamenti interni di 15-30 minuti tra le tappe.",
+      "durataViaggioMinuti": 110,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: clima mite, vendemmia e colori dei vigneti. In luglio e agosto la costa è affollata e Baratti ha il parcheggio a pagamento; in inverno il parco archeologico apre solo nel fine settimana.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 158,
+      "costoMax": 322,
+      "costoNota": "Il totale comprende alloggio (1 notte), degustazione in cantina e 2 giorni di pasti (pranzo + cena, 40-80 € al giorno a persona, da spese medie delle guide e non da listini ufficiali). Il biglietto del Parco di Baratti e Populonia non ha un prezzo 2026 verificato (l'unico tariffario trovato è del 2018, 9-18 € a seconda del percorso) e non è incluso: da aggiungere. Alloggio: 1 notte, mostrato al giorno (metà del costo) perché l'app moltiplica per 2 giorni.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le quattro tappe stanno in un raggio di circa 40 km: Bolgheri e Castagneto Carducci distano pochi minuti uno dall'altro, Suvereto e Populonia/Baratti sono a 25-30 minuti. Il primo giorno basta per il viale dei cipressi, il borgo di Bolgheri, una cantina e il paese di Castagneto; il secondo per Suvereto, l'acropoli e la necropoli di Populonia e il golfo di Baratti. In un solo giorno si ridurrebbe tutto a soste di passaggio, in tre si finirebbe per ripetersi: due giorni con un pernottamento sul posto sono il ritmo giusto, senza fretta tra assaggi e passeggiate.",
+      "cosaVedere": [
+        "Viale dei Cipressi e borgo di Bolgheri: cinque chilometri di cipressi che portano alla porta del castello, con il centro minuscolo dove visse Carducci da bambino.",
+        "Cantine del Bolgheri DOC: visita e degustazione di 3-4 vini in circa un'ora e mezza, il modo più concreto per capire i Supertuscan della zona.",
+        "Castagneto Carducci: borgo medievale di vicoli in salita sopra la costa, con vista fino al mare e botteghe di vino e olio.",
+        "Suvereto: Pieve di San Giusto romanica (X-XII secolo) e Rocca Aldobrandesca con vista sui boschi; zona del cinghiale e dei rossi DOCG.",
+        "Acropoli di Populonia: resti di templi e strade romane sopra il primo insediamento etrusco, con panorama sul golfo di Baratti e sull'arcipelago toscano; visita di circa 1h30.",
+        "Necropoli di San Cerbone e golfo di Baratti: tombe etrusche a tumulo e le aree dove si lavorava il ferro dell'Elba, a un passo dalla spiaggia; visita di circa 1 ora."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte tra le due giornate, meglio a Castagneto Carducci/Bolgheri o a Suvereto. Fasce verificate (per camera doppia a notte, date indicative): da 55 € in agriturismo nell'entroterra (Montescudaio) a 90-100 € per B&B e agriturismi nei dintorni (Bibbona, Campiglia, San Vincenzo), 140-150 € a Donoratico e Marina di Castagneto; Agriturismo Podere Carducci a Castagneto da 72 a 180 € per due. Per il budget uso 70-150 € a camera, cioè circa 35-75 € a persona per la notte.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto: carburante",
+          "testo": "Circa 260-340 km tra andata e ritorno e spostamenti interni (130 km Firenze-Bolgheri); a 0,129 €/km fanno 34-44 €. I km interni sono una stima.",
+          "min": 34,
+          "max": 44,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi",
+          "testo": "Percorso gratuito FI-PI-LI + SS1 Aurelia: 0 €. Non verificato il pedaggio dell'alternativa autostradale A11/A12.",
+          "min": 0,
+          "max": 0,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggio Baratti",
+          "testo": "Parcheggio a pagamento dal 28 marzo al 4 ottobre 2026 (8-20): 2,90 €/h, 5,80 € per 2 ore, 16,70 € per 6 ore. Fuori periodo (come a novembre) non è a pagamento.",
+          "min": 0,
+          "max": 17,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "70-150 € a notte per camera doppia in B&B/agriturismo (circa 35-75 € a persona); una sola notte, quindi 18-38 € a persona al giorno su 2 giorni.",
+          "min": 18,
+          "max": 38,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Degustazione in cantina Bolgheri",
+          "testo": "Da 25 € (3 vini e visita) a 38 € (degustazione sensoriale) fino a 55 € (4 vini esclusivi), circa 1h30.",
+          "min": 25,
+          "max": 55,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti (pranzo + cena)",
+          "testo": "Spesa media a persona indicata dalle guide: pranzo 15-35 € (enoteche e trattorie come Le Carceri a Suvereto 15-20 €, Enoteca Tognoni a Bolgheri 20-25 €, La Cantinetta di Bolgheri 30-35 €), cena 25-45 € (Trattoria Aurelia 25-30 €, Osteria Magona 35-45 €; il menu degustazione del Macello a Bolgheri è 50 € con vino). Al giorno: 15+25 = 40 € come minimo, 35+45 = 80 € come massimo.",
+          "min": 40,
+          "max": 80,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "Carburante, pedaggi e parcheggio sono della vettura e vengono divisi per due; alloggio, pasti (pranzo e cena, 2 giorni) e degustazione sono a persona. L'ingresso al Parco di Baratti e Populonia non è incluso (prezzo 2026 non verificato).",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Parcheggio di Baratti a pagamento dal 28/03 al 04/10/2026 (8-20), 2,90 €/h; il parcheggio Populonia è privato a pagamento. Fuori da quel periodo non si paga."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Parco di Baratti e Populonia è di norma chiuso il lunedì e in alcuni periodi autunnali e invernali; secondo una fonte in bassa stagione apre solo sabato e domenica 10-17. Pianifica la visita al parco nel fine settimana e verifica gli orari."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "I biglietti del parco possono essere legati a un giorno e a un orario, non modificabili né rimborsabili; le cantine di Bolgheri richiedono in genere la prenotazione della degustazione. Prenotazioni: parchivaldicornia.it, tel. 0565 226445."
+        }
+      ],
+      "note": "Il sabato o la domenica sono i giorni più sicuri in bassa stagione, perché il parco archeologico apre solo nel fine settimana: pianifica Populonia per il secondo giorno e le cantine per il primo. A Baratti dopo la visita il golfo è il posto giusto per il polpo alla piombinese, piatto locale con pomodoro e cipolla servito su pane tostato. Sulla strada tra Suvereto e Baratti si passa dalla SR 398: guida con calma, è una strada di campagna e boschi.",
+      "fonti": [
+        "https://www.bed-and-breakfast.it/en/castagneto-carducci?prezzo=1",
+        "https://www.agriturismi.it/it/toscana/castagneto_carducci/agriturismo_podere_carducci.html",
+        "https://www.parchivaldicornia.it/en/info-and-services/mobility-and-car-parks/",
+        "https://www.parchivaldicornia.it/wp-content/uploads/2025/09/Sistema-2025-GB_web.pdf",
+        "https://www.visittuscany.com/shared/make/documenti/visita-dellacropoli-di-populonia-e-della-necropoli-di-san-cerbone_32Y.pdf",
+        "https://freedome.it/degustazione-vini/bolgheri/",
+        "https://daytrip.com/en/transfers/florence-it/bolgheri-it",
+        "https://italia.it/en/toscana/piombino/cultural-places/baratti-and-populonia-archaeological-park",
+        "https://www.voloscontato.it/ristoranti/bolgheri-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.voloscontato.it/ristoranti/castagneto-carducci-dove-mangiare-bene-spendendo-poco.php",
+        "https://www.voloscontato.it/ristoranti/suvereto-dove-mangiare-bene-spendendo-poco.php",
+        "https://gazzettadelgusto.it/dove-mangiare/il-macello-di-bolgheri-come-si-mangia-e-quanto-si-spende/?print=pdf"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 43.2214,
+        "lon": 10.5963
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Spiaggia di Baratti e acropoli con pannelli e mappa-gioco per bimbi piacciono, ma le cantine e il tanto guidare sono meno adatti a un bimbo di 4 anni."
+      }
+    },
+    {
       "id": "costa-dei-trabocchi-e-vasto-2g",
       "nome": "Costa dei Trabocchi e Vasto",
       "sottotitolo": "Abruzzo, la costa delle palafitte da pesca sull'Adriatico tra Ortona e Vasto, con abbazie, una ciclabile sul vecchio binario e un borgo affacciato sul golfo",
@@ -16439,6 +17399,155 @@
       "bambini": {
         "adatta": "si",
         "nota": "Spiagge di sabbia a Varigotti e Finale e distanze brevi; i sentieri panoramici sono da fare solo in parte con un bimbo di 4 anni."
+      }
+    },
+    {
+      "id": "foligno-montefalco-bevagna-e-trevi-2g",
+      "nome": "Foligno, Montefalco, Bevagna e Trevi in due giorni",
+      "sottotitolo": "Umbria, la valle del Sagrantino: città gotica, borghi sul vino e uliveti fino a Trevi",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Treno da Firenze S.M.N. a Foligno (Regionale o Intercity via Terontola/Perugia, con qualche corsa diretta e altre con un cambio), poi base a Foligno e spostamenti locali in bus o taxi verso Montefalco e Bevagna; Trevi è raggiungibile in treno sulla Foligno–Spoleto. L'auto propria (A1 fino a Valdichiana, raccordo Perugia–Bettolle, SS75) è l'alternativa più comoda per i borghi, ma i km e i pedaggi non sono stati verificati.",
+      "mezzoCategoria": "treno",
+      "durataViaggioTesto": "Da circa 1h58 (corsa più veloce) a 3h20 circa in treno secondo l'abbinamento di corse; più il tratto locale verso Montefalco/Bevagna.",
+      "durataViaggioMinuti": 200,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre per il clima e i borghi; a novembre-dicembre c'è Frantoi Aperti (olio nuovo), ma la cappella di Montefalco apre solo giovedì-domenica.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        1,
+        7,
+        8
+      ],
+      "costoMin": 151,
+      "costoMax": 260,
+      "costoNota": "Il massimo del treno (40 € A/R) è una stima prudente per Regionale/Intercity: da Omio il minimo è 10 € a tratta, mentre le combinazioni con Frecciarossa arrivano fino a circa 76 € a tratta. Bus/taxi locali non quantificati.",
+      "dipendenzaAuto": "auto-parziale",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Foligno, Montefalco, Bevagna e Trevi stanno in un raggio di pochi chilometri nella valle umbra. Ogni centro storico si gira in 1-2 ore a piedi: il primo giorno bastano Foligno (Palazzo Trinci) e Montefalco con il museo di San Francesco e una cantina; il secondo Bevagna al mattino e Trevi nel pomeriggio. Con una sola notte si evita la corsa tra i borghi e si lascia il tempo per una degustazione e una cena lenta.",
+      "cosaVedere": [
+        "Palazzo Trinci a Foligno: residenza tardogotica con la Loggia di Romolo e Remo di Gentile da Fabriano e la Sala delle Arti liberali e dei Pianeti, il ciclo più noto.",
+        "Complesso museale di San Francesco a Montefalco: la chiesa-museo con le storie di san Francesco affrescate da Benozzo Gozzoli.",
+        "Montefalco, la «ringhiera dell'Umbria»: Piazza del Comune, il belvedere e le mura sono gratuiti, con vista sulla valle fino ad Assisi.",
+        "Una cantina del Sagrantino tra Montefalco e Bevagna: visita e degustazione di cinque vini, tra cui il Sagrantino DOCG.",
+        "Bevagna: borgo medievale con la piazza Filippo Silvestri e il suo museo civico; ideale per una mattina senza fretta.",
+        "Trevi, borgo ad anfiteatro sulle colline coperte da uliveti: da novembre i frantoi aprono per la stagione dell'olio nuovo."
+      ],
+      "itinerario": null,
+      "alloggio": "Una notte a Montefalco, Bevagna o in agriturismo sulla collina. Fasce per due: B&B a Montefalco da 35 a 90 € a notte (elenco bed-and-breakfast.it, i più economici 35-60 €), agriturismo Tenuta Colverano 80-95 € in doppia con colazione. Fuori dal weekend e a novembre i prezzi sono verso il basso della fascia; in alta stagione e durante le feste del vino vanno prenotati con anticipo. Per chi arriva in treno, dormire a Foligno evita i trasferimenti serali.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno A/R",
+          "testo": "Da 10 € a tratta con prenotazione anticipata su Omio per Firenze-Foligno; stimati 20-40 € A/R a persona in Regionale/Intercity (le combinazioni con Frecciarossa arrivano a circa 76 € a tratta).",
+          "min": 20,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto propria (alternativa)",
+          "testo": "A1 fino a Valdichiana, raccordo Perugia-Bettolle e SS75: km, pedaggi e carburante non verificati con una fonte, quindi non quantificati; carburante di riferimento 0,129 €/km.",
+          "min": null,
+          "max": null,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (1 notte)",
+          "testo": "B&B a Montefalco 35-90 € a notte per due; agriturismo 80-95 € con colazione. Circa 25-48 € a persona.",
+          "min": 25,
+          "max": 48,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo",
+          "testo": "Circa 20-30 € a persona (media dichiarata dai locali di Montefalco: Il Postaccio 20 €, Mordecai ed Enoteca Federico II 30 €).",
+          "min": 20,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Cena",
+          "testo": "Circa 20-40 € a persona (da Il Postaccio 20 € a Il Coccorone 40 €).",
+          "min": 20,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Museo di San Francesco, Montefalco",
+          "testo": "8-10 € (10 € intero, 8 € ridotto; una guida indica 7 €).",
+          "min": 7,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Palazzo Trinci, Foligno",
+          "testo": "12 € intero, 9 € ridotto.",
+          "min": 9,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Visita cantina e degustazione di Sagrantino",
+          "testo": "Da 10 € a persona per visita e 5 vini, incluso il Sagrantino DOCG (tagliere +10 € in loco).",
+          "min": 10,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Con il treno tutte le voci sono a persona; l'auto, se scelta, è una voce di vettura da dividere per due e va aggiunta al posto del treno.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Montefalco e Bevagna non hanno stazione ferroviaria: da Foligno servono bus locali o taxi, con orari ridotti la sera e la domenica. Verificare le corse prima di partire."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Complesso di San Francesco a Montefalco, da ottobre a marzo, apre solo da giovedì a domenica, 10:30-17:00; da aprile a giugno mercoledì-lunedì, 10:30-18:00. Palazzo Trinci è chiuso il lunedì (martedì-domenica 10-13 e 15-19)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per i musei; la degustazione in cantina e l'alloggio vanno invece prenotati, soprattutto nei weekend."
+        }
+      ],
+      "note": "A novembre e dicembre c'è Frantoi Aperti: visite ai frantoi gratuite, con degustazioni a pagamento di olio nuovo su pane. Il museo di Montefalco apre il giovedì: pianificate il giorno di Montefalco su giovedì-domenica. Il tratto Foligno–Trevi si fa in pochi minuti di treno, ma verificate gli orari.",
+      "fonti": [
+        "https://www.omio.it/treni/firenze/foligno",
+        "https://www.museionline.info/musei/complesso-museale-di-san-francesco-montefalco",
+        "https://www.bed-and-breakfast.it/en/budget-bb-montefalco",
+        "https://www.agriturismi.it/it/umbria/montefalco/agriturismo_tenuta_colverano.html",
+        "https://museionline.info/tipologie-museo/palazzo-trinci",
+        "https://www.italia.it/it/umbria/foligno/luoghi-della-cultura/palazzo-trinci",
+        "https://freedome.it/attivita/visita-cantina-degustazione-vini-bevagna/",
+        "https://www.travel365.it/montefalco-cosa-vedere.htm"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 42.8933,
+        "lon": 12.6531
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Borghi piccoli e piacevoli da girare, ma i musei d'arte e le degustazioni dicono poco a un bimbo di 4 anni."
       }
     },
     {
@@ -23126,6 +24235,134 @@
       }
     },
     {
+      "id": "savona-albenga-e-alassio-2g",
+      "nome": "Savona, Albenga, Alassio e Laigueglia in due giorni",
+      "sottotitolo": "Liguria di Ponente, fortezza, borgo romano-medievale e due paesi di mare sulla Riviera delle Palme",
+      "durataGiorni": 2,
+      "mezzoConsigliato": "Auto propria: A11 Firenze–Pisa (FI-PI-LI gratuita), A12 fino a Genova e A10 fino a Savona (uscita Albisola, circa 280 km, 3h06). Da Savona ad Albenga si prosegue 40-45 km tra A10 e Aurelia. Il treno è possibile ma lento: nessun diretto Firenze–Albenga, di norma un cambio (Pisa o Genova). L'auto serve davvero per agganciare in libertà Savona, Albenga, Alassio e Laigueglia in due giorni, parcheggiando poi a piedi.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 3h50 in auto (circa 325 km fino ad Albenga); in treno da 4h23 a 5h con un cambio.",
+      "durataViaggioMinuti": 230,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: mare e clima gradevoli senza la calca di luglio e agosto, quando i prezzi degli alberghi ad Alassio salgono a circa 545 € a notte di media. Novembre è il mese più economico (circa 89 € a notte di media), ma qualche locale è chiuso e fa fresco.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 166,
+      "costoMax": 253,
+      "costoNota": "Auto con due persone a bordo: carburante a 0,129 €/km su circa 650 km complessivi (A/R più spostamenti locali), pedaggi 27,20 € a tratta fino a Savona, diviso per due. Il tratto A10 Savona–Albenga e i parcheggi non hanno tariffe verificate: i trasferimenti locali sono pensati sull'Aurelia, senza pedaggio.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Savona e Albenga distano circa 45 km e Alassio e Laigueglia stanno a 8 km da Albenga lungo l'Aurelia: in due giorni si fa tutto senza correre. Il primo giorno si ferma a Savona (fortezza del Priamar, centro storico, porto) e si arriva ad Albenga per la sera; il secondo si dedica al museo e al battistero, al centro medievale a pianta romana e poi a Laigueglia e al lungomare di Alassio. Sono cinque o sei visite vere, con soste lunghe a tavola e senza tappe obbligate, adatte a un weekend di fine stagione.",
+      "cosaVedere": [
+        "Fortezza del Priamar a Savona: grande cittadella cinquecentesca sul promontorio, con musei e una bella vista sul porto; in autunno apre dalle 9 alle 18:30 senza prenotazione.",
+        "Centro storico di Savona e Torre Leon Pancaldo: i portici di via Paleocapa e i vicoli intorno al porto vecchio, per una passeggiata e una focaccia al formaggio.",
+        "Albenga, centro storico: l'impianto romano è ancora leggibile, con le torri medievali di piazza dei Leoni e la cattedrale di San Michele, tutto percorribile a piedi in un paio d'ore.",
+        "Battistero paleocristiano e Museo Diocesano di Albenga: il battistero del V secolo con i mosaici originali è l'edificio più antico della Liguria di Ponente; il biglietto cumulativo costa 10 €.",
+        "Laigueglia: borgo marinaro con la chiesa di San Matteo, la cupola maiolicata e le case colorate sulla spiaggia, adatto a una sosta tranquilla.",
+        "Alassio e il Muretto: il lungomare con le piastrelle firmate dai personaggi famosi, la lunga spiaggia di sabbia e il budello, il vicolo pedonale dello shopping."
+      ],
+      "itinerario": null,
+      "alloggio": "Una sola notte, dormendo ad Albenga o ad Alassio. Nei portali consultati i B&B della zona (Albenga centro, Alassio, Spotorno) vanno da circa 45 a 100 € a notte per due persone; ad Alassio la media degli hotel a novembre è di circa 89 € a notte, mentre a luglio sale a 545 €. Per un weekend di bassa stagione conviene un B&B o un tre stelle ad Alassio a pochi minuti dal mare, oppure un B&B nel centro di Albenga, più tranquillo e con parcheggio più facile.",
+      "costiDettaglio": [
+        {
+          "voce": "Benzina (auto)",
+          "testo": "Circa 650 km tra A/R Firenze–Savona (circa 280 km a tratta) e spostamenti locali, a 0,129 €/km: circa 84 €.",
+          "min": 80,
+          "max": 88,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi autostradali",
+          "testo": "27,20 € per tratta da Firenze Ovest ad Albisola (Savona) per auto in classe A, quindi 54,40 € A/R; il tratto Savona–Albenga si può fare sull'Aurelia.",
+          "min": 54,
+          "max": 55,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R Firenze–Albenga",
+          "testo": "Alternativa: nessun diretto, un cambio, da 4h23 a oltre 5h. Una tratta parte da 29 € se prenotata presto e sulla stessa data il sito indica fino a 109 €: circa 58-218 € A/R a persona.",
+          "min": 58,
+          "max": 218,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "Una notte: B&B o hotel 3 stelle da circa 45 a 100 € a camera per due, ossia circa 23-50 € a persona.",
+          "min": 23,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pranzo e cena",
+          "testo": "Pranzo a menù turistico o in trattoria 15-25 €, pizzeria o cena in osteria ad Alassio 15-30 €: circa 35-60 € a persona al giorno.",
+          "min": 35,
+          "max": 60,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Museo Diocesano e Battistero di Albenga",
+          "testo": "Biglietto cumulativo 10 € intero, 8 € ridotto (under 18, studenti fino a 25 anni, over 70). Priamar e Pinacoteca di Savona: tariffe non verificate, quindi non incluse nel totale.",
+          "min": 8,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Alloggio, pasti e ingressi sono per persona; carburante e pedaggi sono della vettura e vengono divisi per due viaggiatori.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "I centri storici di Albenga, Alassio e Laigueglia sono in gran parte pedonali o a traffico limitato e d'estate i parcheggi sono pieni: meglio lasciare l'auto ai parcheggi periferici o al porto. Tariffe dei parcheggi non verificate."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "La fortezza del Priamar apre dalle 9 alle 18:30 dal 15 settembre all'11 giugno, ultimo ingresso al museo mezz'ora prima. Per gli orari invernali di Museo Diocesano e Battistero conviene controllare il sito del museo: la pagina consultata indica apertura quotidiana fino al 30 settembre."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Nessuna prenotazione obbligatoria per il Priamar; per il weekend, soprattutto in primavera ed estate, conviene prenotare alloggio e cena con anticipo."
+        }
+      ],
+      "note": "Un trucco per risparmiare: ad Alassio la focaccia e i menù fissi a pranzo (circa 15 €) costano meno che a Laigueglia fronte mare. Dormire ad Albenga evita i prezzi del lungomare di Alassio e lascia a 10 minuti di auto sia Alassio sia Laigueglia. Se si vuole l'Isola Gallinara, la barca parte da Albenga ma l'escursione di solito richiede una terza mezza giornata e il mare buono: non è inclusa nei costi perché non ho trovato tariffe verificate. Sulla via del ritorno, per spezzare il viaggio, vale una sosta a Genova o a Sarzana.",
+      "fonti": [
+        "https://calcolopercorso.it/it/distanza/Savona/Firenze",
+        "https://www.omio.it/treni/firenze/albenga-zw1ul",
+        "https://scoprialbenga.it/en/museum-ticket-office.htm",
+        "https://cultura.gov.it/luogo/fortezza-del-priamar",
+        "https://www.bed-and-breakfast.it/en/albenga?prezzo=1",
+        "https://www.momondo.it/hotel/alassio",
+        "https://www.voloscontato.it/ristoranti/alassio-dove-mangiare-bene-spendendo-poco.php"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 44.0495,
+        "lon": 8.2154
+      },
+      "bambini": {
+        "adatta": "si",
+        "nota": "Spiaggia di sabbia ad Alassio e Laigueglia, Priamar da esplorare a piedi; i tragitti in auto tra le tappe sono brevi."
+      }
+    },
+    {
       "id": "soave-valpolicella-e-lessinia-2g",
       "nome": "Soave, Valpolicella e la Lessinia",
       "sottotitolo": "Veneto, borghi murati, vigneti di Soave e Amarone e le valli dei Monti Lessini a due passi da Verona",
@@ -26334,6 +27571,164 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Ascoli e Offida vanno bene con un bimbo di 4 anni, ma il sentiero dell'Infernaccio (7-8 km, 300 m di dislivello) è indicato dai 6 anni e non per passeggini: a 4 anni si può fare solo il primo tratto."
+      }
+    },
+    {
+      "id": "barbagia-e-gennargentu-3g",
+      "nome": "Barbagia e Gennargentu in tre giorni: Nuoro, Orgosolo, Mamoiada, Fonni, Aritzo e il Trenino Verde",
+      "sottotitolo": "Sardegna interna, il cuore pastorale dell'isola tra murales, maschere antiche e montagne del Gennargentu",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair Pisa–Cagliari (circa 7 voli a settimana, 1h10), preceduto da treno Firenze–Pisa Centrale e Pisa Mover fino all'aeroporto; a Cagliari si ritira un'auto a noleggio (obbligatoria: i paesi della Barbagia non sono collegati in modo comodo dai mezzi pubblici) e si sale verso Aritzo, Fonni, Mamoiada, Orgosolo e Nuoro. Per il ritorno scegliere un volo serale da Cagliari. Alternativa non verificata nei prezzi: volo per Olbia (Volotea da Pisa e da Bologna), più vicino a Nuoro ma con meno frequenze.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 6h30 porta a porta fino ad Aritzo (stima: treno Firenze–Pisa e Pisa Mover, 2h di anticipo in aeroporto, volo di 1h10 con Ryanair, ritiro auto e circa 1h30 di strada); Cagliari–Nuoro circa 180 km, la stima delle distanze è nostra e non ha una fonte.",
+      "durataViaggioMinuti": 390,
+      "periodoMiglioreTesto": "Aprile–giugno e settembre–novembre: temperature miti in montagna, paesaggi verdi in primavera e, in autunno, i paesi della Barbagia aprono le corti e le cantine ai visitatori nel ciclo di eventi «Autunno in Barbagia» (verificare il calendario dei singoli paesi). Luglio e agosto sono caldi e affollati sulle strade del mare, e le corse del Trenino Verde sono più rade fuori stagione: in inverno a Fonni e sul Gennargentu può esserci neve e ghiaccio.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "mesiDaEvitare": [
+        7,
+        8
+      ],
+      "costoMin": 340,
+      "costoMax": 649,
+      "costoNota": "Totale a persona con 2 viaggiatori che condividono l'auto: treno e Pisa Mover, volo A/R, carburante (stima di 390–470 km × 0,129 €/km; i km non hanno una fonte esplicita), noleggio auto per 3 giorni dall'aeroporto di Cagliari (30–141 € per l'auto, medie dei comparatori e non una tariffa 2026 specifica; assicurazioni extra e cauzione escluse), 2 notti in B&B, pasti e ingresso al Museo delle Maschere di Mamoiada (9 €). NON comprende l'ingresso al Museo Etnografico Sardo di Nuoro e il biglietto del Trenino Verde, di cui non ho trovato la tariffa 2026: vanno aggiunti prima di prenotare.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Le tappe stanno tutte in un rettangolo di poche decine di chilometri attorno a Nuoro (Mamoiada, Orgosolo e Fonni sono a 15–25 minuti l'una dall'altra), con la sola eccezione di Aritzo, che si raggiunge il primo giorno sulla strada da Cagliari. Tre giorni permettono di dedicare una giornata piena a Mamoiada, Orgosolo e Fonni senza correre, mezza giornata ai musei di Nuoro e un pomeriggio sul Gennargentu e sul Trenino Verde. Con due giorni si perde Aritzo o il ritmo lento dei pranzi; con quattro si finisce per aggiungere il golfo di Orosei, che qui è volutamente escluso.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: Firenze–Pisa in treno, Pisa Mover, volo mattutino per Cagliari e ritiro dell'auto. Si sale verso il Gennargentu e si pranza ad Aritzo, paese di montagna famoso per i castagni, i noccioli e le antiche nevaiole dove si conservava la neve per portarla in pianura. Se la corsa del Trenino Verde sulla Mandas–Sorgono è in servizio quel giorno (le corse sono pochissime e vanno verificate sul sito ufficiale), il treno a scartamento ridotto è il modo migliore per vedere la Sardegna interna senza guidare. Pomeriggio verso nord, con una sosta a Fonni, il paese più alto della Sardegna, e arrivo a Nuoro per cena."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: giornata dedicata ai paesi. Mattina a Mamoiada: il Museo delle Maschere Mediterranee spiega Mamuthones e Issohadores, le maschere nere di legno e le sonagliere che sfilano per Sant'Antonio Abate a gennaio e a Carnevale. Si prosegue verso Orgosolo per i murales, nati negli anni Sessanta e Settanta come cronaca politica del paese e ancora oggi aggiornati, e per un pranzo da pastori con carne arrosto, formaggi e pane carasau; in alternativa si pranza in agriturismo. Rientro a Nuoro per cena, con tempo per una passeggiata nel centro."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: mattina a Nuoro, città di Grazia Deledda e di Salvatore Satta. Il Museo Etnografico Sardo (il Museo del Costume) raccoglie abiti, gioielli e oggetti delle diverse comunità dell'isola; per una vista aperta si sale sul Monte Ortobene, dove si trova la statua del Redentore. Dopo pranzo ritorno in auto verso Cagliari lungo la statale 131, con circa 2h15 da mettere in conto più la riconsegna dell'auto, e volo serale per Pisa; da lì il treno fino a Firenze."
+        }
+      ],
+      "alloggio": "Conviene dormire 2 notti a Nuoro, baricentrica rispetto a Mamoiada, Orgosolo e Fonni. Dai portali consultati: B&B e guesthouse a Nuoro 60–65 € a notte per due, B&B a Orgosolo 70 €, a Fonni 72 €, agriturismi attorno a Nuoro e Orgosolo 79–85 € a notte per due, fino a 96 € nelle zone più turistiche. Fascia usata nel calcolo: 60–100 € a notte per due, quindi 60–100 € a persona per 2 notti. Nei fine settimana d'autunno con le feste dei paesi e a Carnevale conviene prenotare con anticipo.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze–Pisa e Pisa Mover",
+          "testo": "30,40 € A/R a persona (parametro del documento) per arrivare in aeroporto. Alternativa in auto non inserita nel totale: circa 22 € di benzina più 12–18 € di parcheggio per 2 giorni.",
+          "min": 30.4,
+          "max": 30.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo A/R Pisa–Cagliari",
+          "testo": "Ryanair diretto, circa 7 voli a settimana, 1h10. Intervallo abituale 66–139 € A/R a persona, con novembre tra i mesi più economici e agosto e dicembre tra i più cari.",
+          "min": 66,
+          "max": 139,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante auto a noleggio",
+          "testo": "Stima di 390–470 km totali (Cagliari–Aritzo–Fonni–Nuoro, spostamenti locali, Nuoro–Cagliari) a 0,129 €/km, cioè circa 50–61 € per l'auto. La stima dei km non ha una fonte esplicita; la statale 131 non ha pedaggi.",
+          "min": 50,
+          "max": 61,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto",
+          "testo": "Fascia per 3 giorni con ritiro all'aeroporto di Cagliari Elmas, categoria economica/piccola: circa 30–141 € per l'auto, cioè 10–47 € al giorno. Il minimo è la media di novembre sul comparatore DiscoverCars (10 €/giorno; Momondo elenca offerte economy da 7 €/giorno); il massimo è la media di giugno (47 €/giorno); aprile 21, maggio 28, settembre 33 e ottobre 18 €/giorno stanno in mezzo. Sono medie approssimative dei comparatori, senza tariffa specifica per 3 giorni, e non comprendono assicurazioni extra, franchigia, cauzione o supplementi aeroporto. Divisi per 2 viaggiatori: 15–70 € a persona.",
+          "min": 30,
+          "max": 141,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti)",
+          "testo": "60–100 € a notte per due in B&B, guesthouse o agriturismo, quindi 60–100 € a persona per 2 notti.",
+          "min": 60,
+          "max": 100,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti (pranzo e cena)",
+          "testo": "Menu fisso in agriturismo 25–30 € a persona; in trattoria a Orgosolo 40–50 € a persona con vino, ma un pasto con mezzo litro di vino, acqua e caffè per tre è costato 68 €. Si calcolano 45–90 € al giorno per pranzo e cena.",
+          "min": 45,
+          "max": 90,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingresso Museo delle Maschere Mediterranee (Mamoiada)",
+          "testo": "9 € il biglietto intero, aperto tutti i giorni 10–18 (ridotto 7 € per gruppi e scuole), secondo il portale della cultura della Regione Sardegna.",
+          "min": 9,
+          "max": 9,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Etnografico Sardo di Nuoro e Trenino Verde (non inclusi)",
+          "testo": "Tariffe 2026 non verificate, quindi fuori dal totale: da controllare sui siti ufficiali del museo e di ARST/Trenino Verde. Il regolamento 2026 del Trenino Verde dice solo che i bambini fino a 4 anni non compiuti senza posto viaggiano gratis. Per orientarsi, nel 2025 le corse turistiche sul Trenino Verde costavano circa 40–59 € a persona (siviaggia.it), ma non è la tariffa 2026 della Mandas–Sorgono.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "A persona: treno e Pisa Mover, volo, alloggio (diviso fra due), pasti e ingresso al museo di Mamoiada. Della vettura, divisi per 2: carburante e noleggio.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Le strade tra Mamoiada, Orgosolo e Fonni sono strette e di montagna: la guida richiede più tempo di quanto dica la distanza. Nei centri storici di Orgosolo e Nuoro conviene parcheggiare fuori e proseguire a piedi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Trenino Verde ha poche corse a settimana e in molti periodi corse solo su prenotazione o per gruppi: verificare calendario e disponibilità sul sito ufficiale prima di organizzare il primo giorno intorno ad Aritzo. Anche i musei di Mamoiada e Nuoro hanno orari ridotti fuori stagione e possono chiudere il lunedì: da controllare caso per caso."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Prenotare auto e volo in anticipo; per pranzi o cene in agriturismo e con i pastori è meglio prenotare almeno un giorno prima, soprattutto in autunno e primavera. Il Trenino Verde richiede in genere il biglietto in anticipo."
+        }
+      ],
+      "note": "Il volo Pisa–Cagliari è il più comodo da Firenze perché la rotta è diretta; Olbia (Volotea da Pisa e da Bologna) è più vicina a Nuoro, ma con meno voli. Chi parte da Bologna può guardare Volotea per Olbia, con tariffe di sola andata da circa 51 €. Consiglio che si trova solo sapendo il posto: chiedere in agriturismo il menu del giorno invece di ordinare alla carta, perché il porceddu e i primi di pasta fatta in casa (malloreddus, culurgiones) escono quasi sempre in versione completa a un prezzo fisso. Evitare di riempire il primo giorno: Aritzo e il Trenino Verde sono pensati per chi ha tempo, non per una tappa a orologio. A Orgosolo i murales più interessanti sono in genere nelle vie laterali, non sulla strada principale.",
+      "fonti": [
+        "https://www.kayak.it/voli/Pisa-San-Giusto-PSA/Cagliari-Elmas-CAG",
+        "https://www.volotea.com/it/voli-diretti/da-bologna/a-olbia/ottobre",
+        "https://www.bed-and-breakfast.it/en/best-bb-hotels-nuoro",
+        "https://bed-and-breakfast.it/en/best-bb-hotels-mamoiada",
+        "https://www.agriturismi.it/it/fonni",
+        "https://piatti.menu/restaurants/orgosolo/sa-e-jana",
+        "https://www.agriturismo.it/en/farmhouse/sardinia/nuoro/IlMenhir-4020888/restaurant.html",
+        "https://www.treninoverde.com/wp-content/uploads/2026/09/Condizioni-di-viaggio-TVS_2026.pdf",
+        "https://www.discovercars.com/it/italy-sardinia/cagliari",
+        "https://www.momondo.it/noleggio-auto/cagliari-elmas-CAG-cap.ksp",
+        "https://www.sardegnacultura.it/en/articles/mamoiada-museo-delle-maschere-mediterranee",
+        "https://siviaggia.it/notizie/trenino-verde-sardegna/523582/"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 40.3213,
+        "lon": 9.3306
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni le strade di montagna e i molti spostamenti in auto pesano, ma il Trenino Verde (gratis solo fino a 4 anni non compiuti, quindi un bimbo di 4 anni paga ridotto), i murales e i pranzi all'aperto in agriturismo sono molto adatti."
       }
     },
     {
@@ -38567,6 +39962,185 @@
       }
     },
     {
+      "id": "parco-del-pollino-3g",
+      "nome": "Parco del Pollino in tre giorni: Castrovillari, Civita, Morano Calabro, Papasidero e le Gole del Raganello",
+      "sottotitolo": "Calabria, il Parco Nazionale più grande d'Italia: borghi arbëreshë, canyon e fiumi tra Castrovillari e la valle del Lao",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Volo diretto Ryanair da Pisa (in alternativa da Bologna) a Lamezia Terme, poi auto a noleggio: circa 1h30 di A2 gratuita fino all'uscita Frascineto-Castrovillari. Firenze–Pisa Aeroporto in treno + Pisa Mover. Le voci dei voli sono fasce indicative: le frequenze Pisa–Lamezia e Bologna–Lamezia in bassa stagione sono poche a settimana, quindi fissare prima il volo e poi il resto. Alternative: auto propria (circa 601 km di sola andata, A1 fino a Salerno e poi A2 gratuita) oppure bus Firenze–Castrovillari (8h15–11h25, da 19 €), entrambi molto lunghi per soli tre giorni.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 7 ore porta a porta (stima): treno Firenze–Pisa e Pisa Mover, volo di circa 1h30, ritiro auto e circa 1h30 di A2 fino a Castrovillari; in auto propria circa 601 km di sola andata.",
+      "durataViaggioMinuti": 420,
+      "periodoMiglioreTesto": "Maggio–giugno e settembre–ottobre: le attività sul fiume (rafting e gorge walking sul Lao da maggio a ottobre, canyoning nel Raganello dal 10 giugno al 10 settembre) sono operative, i borghi sono visitabili senza il caldo di luglio–agosto e i sentieri del Pollino sono liberi dalla neve. Da evitare i mesi pieni di luglio–agosto (affollamento nelle gole e prezzi alti) e gennaio–febbraio, quando le attività sul fiume sono ferme e in quota può nevicare.",
+      "mesi": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "costoMin": 307,
+      "costoMax": 568,
+      "costoNota": "Stima per due viaggiatori che condividono l'auto, con 2 notti di alloggio (la voce Alloggio è il totale delle 2 notti diviso 2, non è calcolata al giorno). Il raccordo Firenze–Pisa Aeroporto (treno + Pisa Mover, 30,40 € A/R a persona) è il parametro del documento di progetto. La fascia dei voli è indicativa: dai minimi di circa 32–34 € A/R trovati sui comparatori alla fascia tipica Bologna–Lamezia (74–179 €), senza bagaglio da stiva. Il noleggio ha fonte kayak.it (auto piccole in media 26 €/giorno, a novembre minimi di 5–13 €/giorno): il massimo è una stima per i mesi di punta. Non entrano nel totale l'ingresso al Museo Etnico Arbëreshë di Civita, l'ingresso alla Grotta del Romito e il prezzo di una escursione guidata a piedi nel Raganello: non ho trovato una tariffa verificata. La voce Attività copre un solo tra rafting sul Lao e canyoning nel Raganello. Il confronto con l'auto propria usa un pedaggio A1 Firenze–Salerno di circa 55 € a tratta, stima dichiarata non verificata su una fonte.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Il Pollino è enorme, ma i luoghi che valgono sono concentrati in una fascia di una quindicina di chilometri attorno a Castrovillari: Civita e le gole stanno a circa 6 km dall'uscita autostradale di Frascineto-Castrovillari, Morano Calabro è sulla stessa linea di valle. Solo Papasidero e il fiume Lao richiedono una giornata sul versante tirrenico dell'A2. In tre giorni si fanno quattro borghi o luoghi principali con un ritmo da due tappe per giorno, senza correre: un giorno per Morano e Castrovillari, uno per Civita, il Ponte del Diavolo e il Raganello con guida, uno per Papasidero e il Lao prima del volo di ritorno. In due giorni salterebbe il fiume; per le escursioni di quota nel Pollino servirebbero giorni in più.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: volo da Pisa a Lamezia Terme, ritiro dell'auto e A2 fino all'uscita Frascineto-Castrovillari (circa 1h30). Pranzo a Castrovillari in una trattoria del centro, poi passeggiata nel centro storico e nel castello aragonese. Nel tardo pomeriggio sali a Morano Calabro: il borgo è addossato alla collina sotto il castello e il colpo d'occhio dal basso è il motivo per cui vale la sosta. Cena a Morano, dove il costo medio indicato dai portali è circa 20 € a persona, e notte in agriturismo della zona."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: mattina a Civita (circa 6 km dall'uscita Frascineto-Castrovillari, parcheggio gratuito). Il borgo arbëreshë è noto come quello delle case «con il volto umano»; il Museo Etnico Arbëreshë racconta lingua, costumi e riti della comunità albanese. Al Ponte del Diavolo si arriva con oltre 600 gradini e, per le Gole del Raganello, la guida è obbligatoria dal 2018: il percorso lungo il torrente è stato chiuso per sicurezza, quindi scegli un'uscita guidata (a piedi con guida del Parco o canyoning, da 22,50 a 25 € dal 10 giugno al 10 settembre). Pranzo a Civita in una trattoria arbëreshë (25–40 € con bevande, 15–20 € per un pasto economico) e pomeriggio libero tra i vicoli."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: mattina a Papasidero sul fiume Lao, circa un'ora di strada dalla zona di Castrovillari lungo l'A2 (tempo da verificare con il navigatore). Qui puoi fare rafting o gorge walking da 20 € a persona (maggio–ottobre), oppure salire alla Grotta del Romito, sito paleolitico con un'incisione di toro, di cui non ho un prezzo di ingresso verificato. Pranzo veloce sul posto, poi A2 verso Lamezia Terme (circa 1h30–2h dalla zona): resta almeno 2h30 di margine prima del volo di rientro e restituisci l'auto in aeroporto."
+        }
+      ],
+      "alloggio": "Agriturismi della zona (Morano Calabro, Laino Borgo, Rotonda, Altomonte, Castrovillari) da 54 a 120 € a notte per due, quasi tutti tra 60 e 90 €. Per due notti: da 54 a 120 € a persona se si divide la stanza. Per muoversi con comodità conviene dormire a Morano Calabro o a Castrovillari, nel mezzo tra Civita e il casello A2 di Frascineto; Papasidero è comunque raggiungibile in circa un'ora. In alta stagione prenotare con anticipo gli agriturismi più piccoli.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo Pisa/Bologna–Lamezia A/R",
+          "testo": "Ryanair diretto, circa 1h30 di volo. Minimi A/R trovati su momondo: 32 € da Pisa e 34 € da Bologna; la fascia tipica Bologna–Lamezia è 74–179 €. Fascia indicativa 40–130 € a persona, senza bagaglio da stiva.",
+          "min": 40,
+          "max": 130,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Raccordo Firenze–Pisa Aeroporto A/R",
+          "testo": "Treno + Pisa Mover, 30,40 € A/R a persona (parametro del progetto).",
+          "min": 30.4,
+          "max": 30.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto 3 giorni",
+          "testo": "Auto piccola a Lamezia: media 26 €/giorno su kayak.it, minimi di 5–13 €/giorno a novembre. Stima 40–80 € per 3 giorni, esclusa assicurazione extra e deposito.",
+          "min": 40,
+          "max": 80,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante in loco",
+          "testo": "Circa 390 km totali (Lamezia–Castrovillari A/R sulla A2 gratuita, più spostamenti locali e Papasidero) a 0,129 €/km: 45–55 €.",
+          "min": 45,
+          "max": 55,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio 2 notti",
+          "testo": "Agriturismi 54–120 € a notte per due, quasi tutti 60–90 €. Qui il totale delle 2 notti diviso 2 persone: 54–120 € a persona.",
+          "min": 54,
+          "max": 120,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti (pranzo e cena)",
+          "testo": "Pranzo 15–25 € (pasto economico 15–20 €), cena 25–40 € con bevande (stima Sluurpy per Civita, Morano e Castrovillari; a Morano circa 20 € a persona). Totale 40–65 € al giorno a persona.",
+          "min": 40,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Attività guidata sul fiume",
+          "testo": "Una sola a scelta: rafting o gorge walking sul Lao a Papasidero da 20 € (maggio–ottobre) oppure canyoning nel Raganello 22,50–25 € (10 giugno–10 settembre).",
+          "min": 20,
+          "max": 25,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Etnico Arbëreshë, Civita",
+          "testo": "Prezzo di ingresso non trovato su una fonte verificata: non incluso nel totale.",
+          "confronto": false,
+          "perGiorno": false,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Grotta del Romito, Papasidero",
+          "testo": "Prezzo di ingresso non trovato su una fonte verificata: non incluso nel totale.",
+          "confronto": false,
+          "perGiorno": false,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Escursione guidata a piedi nel Raganello",
+          "testo": "Prezzo non trovato (operatori come Pollino Outdoor o guide del Parco): non incluso, sostituito nel totale dal canyoning da 22,50–25 €.",
+          "confronto": false,
+          "perGiorno": false,
+          "tipo": "persona"
+        },
+        {
+          "voce": "Alternativa: auto propria",
+          "testo": "601 km di sola andata (1.202 km A/R più circa 150 km locali): 1.352 km × 0,129 €/km = circa 174 €, più pedaggio A1 Firenze–Salerno stimato 55 € a tratta (A2 gratuita), circa 110 € A/R: totale 280–290 € per la vettura, senza alloggio, pasti o attività. Non entra nel totale.",
+          "min": 280,
+          "max": 290,
+          "tipo": "vettura",
+          "confronto": true,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Voli, raccordo Pisa, alloggio per persona, pasti e attività sono a persona. Noleggio auto e carburante sono della vettura e divisi per due.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "A Civita il parcheggio è gratuito; si arriva dall'uscita A2 Frascineto-Castrovillari più circa 6 km. Il percorso lungo il torrente Raganello è chiuso per sicurezza: oltre 600 gradini al Ponte del Diavolo."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il canyoning nel Raganello è proposto dal 10 giugno al 10 settembre e rafting/gorge walking sul Lao da maggio a ottobre: fuori stagione queste attività non sono disponibili."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Per le Gole del Raganello la guida è obbligatoria dal 2018: prenotare in anticipo con un operatore. Prenotare il volo con anticipo perché le frequenze Pisa–Lamezia e Bologna–Lamezia in bassa stagione sono poche a settimana."
+        }
+      ],
+      "note": "Fissa prima il volo, perché le giornate di volo diretto sono poche in inverno e primavera: da lì si costruiscono arrivo e rientro. Sono prezzi di pasti presi da stime di portali, non da menù. Un consiglio che si trova solo sul posto: Civita è un borgo in cui conviene arrivare presto al mattino, prima dei gruppi, e lasciare l'auto nel parcheggio gratuito invece di cercare posto nel centro. Papasidero e il Lao stanno sul versante tirrenico, quindi vanno messi come ultima mattina per uscire sulla A2 verso Lamezia senza rientrare verso Castrovillari. Il pranzo più economico è a Morano e nei bar di paese; la cena arbëreshë è il momento in cui spendere. L'abbinamento ideale con questa meta è un secondo weekend verso i sentieri di quota del Pollino, non coperti da questa scheda.",
+      "fonti": [
+        "https://www.agriturismi.it/it/castrovillari",
+        "https://manawa.com/en/book/23421",
+        "https://www.yumping.com/en/deals/canyoning/calabria-cosenza/canyoning-calabria-raganello-gorges--o8645",
+        "https://siviaggia.it/idee-di-viaggio/gole-del-raganello-calabria/392290/amp/",
+        "https://www.pianetamamma.it/il-bambino/trasporto-e-viaggi/il-borgo-con-le-case-che-hanno-il-volto-umano-gita-con-i-bambini-tra-canyon-e-leggende.html",
+        "https://www.italia.it/it/italia/cosa-fare/parco-nazionale-del-pollino-cultura-arbereshe-e-tradizioni",
+        "https://www.sluurpy.it/civita/ristorante",
+        "https://www.sluurpy.it/castrovillari/ristorante",
+        "https://www.sluurpy.it/morano-calabro/ristoranti",
+        "https://www.momondo.it/volo/pisa/lamezia-terme",
+        "https://www.momondo.it/volo/bologna/lamezia-terme",
+        "https://www.kayak.it/Autonoleggio-Aeroporto-di-Lamezia-Terme.SUF.cap.ksp"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 39.817,
+        "lon": 16.204
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "I borghi sono adatti a un bimbo di 4 anni, ma le Gole del Raganello (oltre 600 gradini, guida obbligatoria) e il canyoning no."
+      }
+    },
+    {
       "id": "parco-nazionale-d-abruzzo-3g",
       "nome": "Parco Nazionale d'Abruzzo: Pescasseroli, Scanno, Barrea, Civitella Alfedena e Opi",
       "sottotitolo": "Abruzzo, il parco dell'orso marsicano e del lupo: borghi di pietra, faggete, laghi e il lago a forma di cuore di Scanno",
@@ -42199,6 +43773,198 @@
       }
     },
     {
+      "id": "terni-marmore-narni-e-amelia-3g",
+      "nome": "Terni, la Cascata delle Marmore, Narni, Amelia e il Lago di Piediluco in tre giorni",
+      "sottotitolo": "Umbria meridionale, la cascata artificiale più alta d'Europa e tre borghi di pietra tra Nera e Tevere",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Auto propria: A1 da Firenze fino a Orte, poi raccordo e superstrada verso Terni, circa 224 km e 2h08 con 14,20 € di pedaggio a tratta. Con l'auto in loco si raggiungono senza fatica Marmore (7 km da Terni), Piediluco, Narni e Amelia, che coi mezzi pubblici richiedono molte coincidenze. In alternativa treno da Firenze S.M.N. a Terni (un InterCity diretto serale, altrimenti 1 cambio, circa 2h30), riportato come voce di confronto.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 2h08 in auto (224 km, A1 fino a Orte e poi verso Terni); in treno 2h30-3h con un cambio nelle corse più comuni.",
+      "durataViaggioMinuti": 130,
+      "periodoMiglioreTesto": "Aprile-giugno e settembre-ottobre: la Cascata ha l'acqua rilasciata ogni giorno e gli orari più lunghi, i borghi sono vivibili. Da novembre a marzo il getto d'acqua è concentrato nei fine settimana e a gennaio il parco è chiuso nei feriali; luglio e agosto sono caldi e affollati.",
+      "mesi": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        1,
+        7,
+        8
+      ],
+      "costoMin": 221,
+      "costoMax": 420,
+      "costoNota": "Il totale comprende i pasti (30-80 € a persona al giorno per 3 giorni, da guide e menu non datati con certezza al 2026). NON comprende i parcheggi in loco (Cascata, Narni) né il biglietto del Museo Archeologico di Amelia, per i quali non ho trovato tariffe 2026 verificate: restano voci di solo testo.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 3,
+      "percheDurata": "Le tappe stanno in un raggio di circa 25 km attorno a Terni: Marmore a 7 km, Piediluco a 17, Narni a 13, Amelia a 25. Questo permette di dedicare una giornata piena a ciascun polo senza correre. La Cascata, con sentieri da 10 a 40 minuti ciascuno, assorbe una mattina intera, Narni Sotterranea dura 75-90 minuti e va incastrata con la rocca e il centro, Amelia chiede una mezza giornata tra mura, cisterne e museo. In due giorni salterebbero Piediluco o Amelia; in quattro ci sarebbe tempo morto, perché i monumenti minori si visitano in poche ore.",
+      "cosaVedere": [
+        "Cascata delle Marmore: salto artificiale in tre balzi, voluto dai Romani nel 271 a.C. per bonificare la piana reatina, con sentieri da 10 a 40 minuti (Balcone degli Innamorati, Anello della Ninfa, Belvedere Pennarossa) e due ingressi, uno basso verso la Valnerina e uno alto dalla SS 79.",
+        "Lago di Piediluco: lago di origine glaciale con rive tranquille, canottaggio e un borgo di pescatori; ottimo per una passeggiata al tramonto lontano dal pubblico della cascata.",
+        "Narni Sotterranea: visita guidata di 75-90 minuti sotto un ex convento, con chiesa protoromanica affrescata, cisterna romana, sala dell'Inquisizione e la cella con i graffiti dei prigionieri.",
+        "Narni alta: Rocca Albornoz con la terrazza sulle valli del Nera e del Tevere, la Cattedrale di San Giovenale con il portico in pietra e il Museo di Palazzo Eroli; il Ponte di Augusto e le Gole del Nera si raggiungono a piedi dal sentiero.",
+        "Amelia: una delle città più antiche d'Italia, con le mura poligonali di grandi blocchi calcarei incastrati senza malta, e il Museo Civico Archeologico che conserva la statua bronzea di Germanico, unica a figura loricata in bronzo.",
+        "Cisterne romane di Amelia: dieci lunghe sale a volta del I secolo a.C. sotto Piazza Matteotti, che raccoglievano l'acqua piovana; visita guidata.",
+        "Terni: la città di San Valentino, con la basilica del santo e il centro ricostruito dopo i bombardamenti; utile soprattutto come base logistica per cena e pernottamento."
+      ],
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1 (venerdì): partenza da Firenze la mattina presto, A1 fino a Orte e poi Terni (circa 2h). Pranzo in città, poi pomeriggio sul Lago di Piediluco: passeggiata sulla riva, osservazione dei canottieri e cena nel borgo. Rientro a Terni o notte direttamente a Piediluco."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2 (sabato): mattina alla Cascata delle Marmore, entrando dal belvedere inferiore alle aperture per vedere il getto a piena portata; il sabato la visita con l'acqua è garantita anche in autunno-inverno. Pranzo a Marmore o a Terni. Pomeriggio a Narni (13 km): Narni Sotterranea, poi la rocca e il centro. In bassa stagione la visita sotterranea è fissata solo il sabato, quindi vale la pena far coincidere questo giorno con il sabato."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3 (domenica): trasferimento ad Amelia (circa 25 km da Terni). Giro delle mura poligonali, Duomo, Museo Archeologico e cisterne romane, che aprono la domenica dalle 10:30. Pranzo in un locale del centro, poi rientro a Firenze (circa 2h30 da Amelia via Orte e A1) in tarda serata."
+        }
+      ],
+      "alloggio": "Per due notti conviene Terni: nelle liste di B&B della zona (Terni, Narni e Amelia) i prezzi vanno da 30 a 80 € a notte per due, con media intorno a 69 € sui B&B con prezzo visibile; gli hotel 3 stelle con parcheggio gratuito, come Valentino, Michelangelo Palace e Garden, partono da circa 95-135 € a notte in camera doppia. Stima per persona: 55-100 € per due notti in B&B o 3 stelle. In alternativa un B&B a Narni (qualche offerta da 30 €) riduce gli spostamenti del giorno 2.",
+      "costiDettaglio": [
+        {
+          "voce": "Auto (carburante)",
+          "testo": "224 km per tratta, 448 km A/R più circa 120 km di spostamenti locali tra Terni, Marmore, Piediluco, Narni e Amelia: circa 568 km a 0,129 €/km, circa 73 €.",
+          "min": 73,
+          "max": 73,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Auto (pedaggi)",
+          "testo": "14,20 € a tratta per il percorso Firenze-Terni via A1 e Orte, circa 28,40 € A/R. Ho trovato il dato solo su un calcolatore di percorso, da verificare.",
+          "min": 28,
+          "max": 33,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Treno A/R (confronto)",
+          "testo": "Da circa 12-16 € a tratta nelle offerte più basse, circa 39 € di media; A/R da 32 a 78 € a persona. Un InterCity diretto serale (2h48) o più spesso un cambio, in tutto circa 2h30-3h. Senza auto, Amelia e Piediluco sono scomodi.",
+          "min": 32,
+          "max": 78,
+          "tipo": "persona",
+          "confronto": true,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti)",
+          "testo": "30-80 € a notte per due nei B&B della zona; 95-135 € per un hotel 3 stelle con parcheggio. Per persona, due notti: 55-100 €.",
+          "min": 55,
+          "max": 100,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cascata delle Marmore",
+          "testo": "12 € intero, 9 € ridotto (5-9 anni e over 65), gratis sotto i 5 anni; nei giorni senza rilascio d'acqua è esistito un biglietto invernale da 6 €. Tariffe da una guida del 2024.",
+          "min": 12,
+          "max": 12,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Narni Sotterranea",
+          "testo": "6 € intero nel sito in italiano, 8 € nella versione in inglese; 3-5 € bambini 6-14 anni; gratis sotto i 6 anni. Prenotazione consigliata.",
+          "min": 6,
+          "max": 8,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Cisterne romane di Amelia",
+          "testo": "7 € intero, 5 € ridotto, visita guidata.",
+          "min": 7,
+          "max": 7,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Museo Archeologico di Amelia",
+          "testo": "Prezzo non verificato: chiedere al botteghino o su ameliaturismo.it.",
+          "min": null,
+          "max": null,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo più cena a persona, al giorno: 30-80 €. Una guida alle trattorie di Terni indica circa 15-20 € a persona per un pasto economico e 25-40 € per un pasto medio con bevande; nel menu di una trattoria-pizzeria cittadina i primi costano 9-18 €, i secondi 16-25 €, le pizze 6-12 €, l'acqua 3 €. Le fonti non sono datate con certezza al 2026: i prezzi vanno intesi come indicativi.",
+          "min": 30,
+          "max": 80,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Parcheggi",
+          "testo": "Alla Cascata ci sono parcheggi a pagamento sia al belvedere inferiore (anche prenotabili, P1 Ex Viscosa e P2 Pasquale) sia al superiore, ma la tariffa 2026 non è pubblicata nelle pagine lette (una pagina del 2022 indicava 5-6 € più ingresso); a Narni il Parcheggio del Suffragio ha ascensori verso il centro. Importi non verificati, esclusi dal totale.",
+          "min": null,
+          "max": null,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Voci a persona: alloggio, pasti, ingressi, eventuale treno. Voci della vettura: carburante e pedaggi (circa 101-106 € in totale), divise per due viaggiatori nel totale a persona.",
+      "vincoli": [
+        {
+          "categoria": "chiusure",
+          "testo": "Cascata delle Marmore: l'acqua viene rilasciata solo in finestre orarie (centrale idroelettrica). Esempi 2024: ad agosto 10-19 e 21-22; a ottobre 12-13 e 15-16 tutti i giorni; a novembre e fino al 20 dicembre solo nel weekend e nei festivi, 12-13 e 15-16. Gli orari 2026 ufficiali non sono stati letti: verificare su cascatadellemarmore.info. Gennaio chiuso nei feriali."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Cisterne romane di Amelia: aprono solo sabato e domenica (ottobre-marzo sabato 15:00-18:00, domenica 10:30-18:00; aprile-settembre sabato 16:30-19:30, domenica 10:30-19:30), gruppi di almeno 10 su richiesta nei feriali. Narni Sotterranea: da ottobre a marzo solo sabato e festivi (11:00-16:00 ogni 30 minuti); da metà giugno a settembre anche nei feriali; la fonte italiana indica invece visite alle 12 e alle 16 dal lunedì al venerdì, quindi telefonare."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Narni Sotterranea consiglia di presentarsi 10 minuti prima; i gruppi sopra i 10 devono prenotare al +39 339 1041645. Per la Cascata conviene l'acquisto online nei weekend di punta; per le cisterne di Amelia telefonare al +39 0744 982249."
+        },
+        {
+          "categoria": "accessi",
+          "testo": "Le ZTL dei centri di Narni e di Amelia vanno rispettate: lasciare l'auto nei parcheggi periferici (a Narni il Parcheggio del Suffragio, coperto, con ascensori per il centro)."
+        }
+      ],
+      "note": "Il trucco è incastrare i tre giorni su venerdì, sabato e domenica: solo così le cisterne di Amelia, Narni Sotterranea in bassa stagione e il getto della Cascata in autunno-inverno sono tutti aperti. Alla Cascata, se sei a Marmore all'ora del rilascio, guarda il getto prima dal belvedere inferiore (frontale) e poi sali al Balcone degli Innamorati, dove arriva il vapore. A Narni cerca il Ponte di Augusto con il sentiero verso le Gole del Nera: è un'ora in più, ma è ciò che di solito si perde. Prima di partire controllare gli orari 2026 del sito ufficiale della Cascata, perché le finestre d'acqua cambiano mese per mese. Senza auto: treno fino a Terni, poi Narni in regionale e Marmore con il bus; il giro completo diventa però più lungo.",
+      "fonti": [
+        "https://www.bed-and-breakfast.it/en/terni?prezzo=1",
+        "https://www.booking.com/city/it/terni.html?aid=311303",
+        "https://www.viaggiando-italia.it/hai-gia-visitato-la-cascata-delle-marmore-orari-costo-e-info-utili-video/",
+        "https://ilviaggiatore-magazine.it/luoghi-viaggi/cascate-delle-marmore-visita-percorsi-informazioni/?print=pdf",
+        "https://in3giorni.com/faq/quali-sono-gli-orari-e-i-prezzi-per-visitare-narni-sotterranea",
+        "https://museionline.info/umbria-musei-monumenti/narni-sotterranea",
+        "https://www.bellaumbria.net/en/wp-json/wp/v2/posts/193951",
+        "https://travel.thewom.it/italia/umbria/narni-itinerario.html",
+        "https://www.museionline.info/umbria-musei-monumenti/cisterne-romane-di-amelia",
+        "https://www.quotidiano.net/itinerari/consigli-di-viaggio/amelia-tra-monti-e-sotterranei-in-una-delle-citta-piu-antiche-ditalia-aecfbd51",
+        "https://www.omio.it/treni/firenze/terni",
+        "https://www.unipolmove.it/calcola-pedaggio/Firenze/Terni.php",
+        "https://piatti.menu/restaurants/terni/cacio-e-pepe-18/menu",
+        "https://www.sluurpy.it/terni/trattoria",
+        "https://cascatadellemarmore.info/parcheggi-della-cascata/",
+        "https://cascatadellemarmore.info/bus-navetta-attivo/"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 42.5636,
+        "lon": 12.6427
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "La Cascata è facile con bimbi (sotto i 5 anni gratis) ma i sentieri hanno scalini; il tour di Narni Sotterranea dura 75-90 minuti e può stancare un bambino di 4 anni."
+      }
+    },
+    {
       "id": "ticino-in-tre-giorni-3g",
       "nome": "Ticino in tre giorni: Lugano, Locarno, Bellinzona e la Valle Verzasca",
       "sottotitolo": "Svizzera italiana, laghi, castelli UNESCO e una valle di acque smeraldo a poche ore da Milano",
@@ -43610,6 +45376,174 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Con un bimbo di 4 anni le passeggiate piane di Valnontey e la prima cascata di Lillaz (10 minuti) vanno bene, ma 5h47 di auto a tratta sono pesanti e a 3.466 m fa molto freddo; il pacchetto famiglia dello Skyway è tarato su bambini 8-17 anni, per i più piccoli verificare le condizioni."
+      }
+    },
+    {
+      "id": "valle-d-aosta-orientale-3g",
+      "nome": "Valle d'Aosta orientale: Gressoney, Champoluc, Cervinia, il Forte di Bard e il Castello di Fénis in tre giorni",
+      "sottotitolo": "Valle d'Aosta, tre valli del Monte Rosa e del Cervino più due grandi fortezze medievali, in un giro in auto a est di Aosta",
+      "durataGiorni": 3,
+      "mezzoConsigliato": "Auto propria: A1 fino a Bologna, poi A21 (Piacenza–Torino) e A5 fino all'uscita Pont-Saint-Martin (6 km dal Forte di Bard) o Verrès (9 km). Il treno richiede cambi e un bus finale (Torino Porta Susa e poi bus fino a Pont-Saint-Martin) e, una volta in valle, le tre vallate laterali (Lys, Ayas, Valtournenche) si girano male senza macchina.",
+      "mezzoCategoria": "auto",
+      "durataViaggioTesto": "Circa 4h15 in auto fino a Pont-Saint-Martin (circa 423 km secondo Rome2rio); da lì Champoluc o Gressoney sono altri tre quarti d'ora circa di strada di montagna.",
+      "durataViaggioMinuti": 253,
+      "periodoMiglioreTesto": "Giugno–settembre per gli impianti estivi (Cervinia–Plateau Rosà aperta dal 4 maggio al 6 settembre 2026) e gennaio–marzo per lo sci; da evitare aprile, ottobre e novembre, quando molti impianti e rifugi sono chiusi tra le due stagioni. Il Castello di Fénis chiude il lunedì, tranne a luglio-agosto e nei festivi.",
+      "mesi": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9
+      ],
+      "mesiDaEvitare": [
+        4,
+        10,
+        11
+      ],
+      "costoMin": 335,
+      "costoMax": 656,
+      "costoNota": "Costo a persona con 2 viaggiatori che dividono l'auto. Il pedaggio Firenze–Pont-Saint-Martin non ha una fonte verificata: è stimato come km × 0,129 €/km (846 km A/R = 109 €), lo stesso importo del carburante, quindi la voce auto è un'approssimazione. Carburante 0,129 €/km dai parametri del documento. Alloggio: 2 notti su 3 giorni, quindi la voce al giorno è i 2/3 della tariffa a notte. Impianti: 57 € (Cervinia–Plateau Rosà in estate) oppure 63–65 € (skipass giornaliero in inverno), una sola delle due.",
+      "dipendenzaAuto": "auto-propria-obbligatoria",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Le tre valli laterali (Lys, Ayas, Valtournenche) partono tutte dalla valle centrale e ognuna richiede una salita e una discesa in auto: con meno di tre giorni si sceglierebbe una sola. Con tre giorni si può dedicare una mezza giornata piena al Forte di Bard (musei e mostre, con scelta tra biglietto intero e All Forte), una a Gressoney e Champoluc, una giornata a Cervinia con la risalita al Plateau Rosà e ancora un'ora o due per il Castello di Fénis sulla via del ritorno. Il ritmo è pieno ma non di corsa: tre soste principali al giorno al massimo, con le distanze interne concentrate su un solo asse (Pont-Saint-Martin, Verrès, Châtillon). Il viaggio da Firenze, oltre quattro ore, rende poco sensato farlo in meno.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: partenza da Firenze la mattina presto, A1–A21–A5 fino a Pont-Saint-Martin e Forte di Bard (6 km dall'uscita). Il Forte è chiuso il lunedì; martedì-venerdì apre 10-18, sabato e domenica 10-19. Si lascia l'auto nei parcheggi 1-3, gratuiti, e si entra con il biglietto intero o con l'All Forte. Nel pomeriggio si risale la Valle del Lys verso Gressoney-Saint-Jean e Gressoney-La-Trinité, con le case walser in legno e pietra; cena e notte a Gressoney, dove si trovano B&B economici."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: si scende alla valle centrale e si risale la Val d'Ayas fino a Champoluc e Antagnod, dove stare la mattina tra le passeggiate sul paese e, se è stagione, la cabinovia Champoluc–Crest (e Crest–Ostafa). Nel pomeriggio si prosegue per Châtillon e la Valtournenche fino a Cervinia, dove si dorme. Passeggiata serale lungo la via centrale di Cervinia."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: salita in mattinata da Cervinia al Plateau Rosà (in estate 57 € A/R dal 4 maggio al 6 settembre; in inverno con lo skipass giornaliero, 63–65 €), con la vista ravvicinata sul Cervino. Si scende in auto verso la valle centrale e si sosta al Castello di Fénis (9-19, chiuso il lunedì salvo luglio-agosto e festivi), con le torri e il cortile affrescato. Ritorno a Firenze in serata: contare circa quattro ore e un quarto di guida da Pont-Saint-Martin, quindi partire da Fénis entro metà pomeriggio."
+        }
+      ],
+      "alloggio": "Fasce a notte per 2: B&B 65–160 € a Champoluc, Cervinia e Antagnod; hotel 3 stelle e B&B «da» 28,57–55 € a persona a notte (cioè circa 57–110 € per due). Per un giro itinerante conviene dormire due notti in due posti diversi: Gressoney o Champoluc la prima, Cervinia la seconda, prenotando con anticipo in alta stagione estiva e nelle settimane sciistiche.",
+      "costiDettaglio": [
+        {
+          "voce": "Carburante A/R",
+          "testo": "846 km A/R (423 km per tratta) × 0,129 €/km = circa 109 € di carburante, divisi in due.",
+          "min": 109,
+          "max": 109,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pedaggi A1–A21–A5 (stimati)",
+          "testo": "Pedaggio senza fonte verificata: stimato come km × 0,129 €/km, circa 109 € A/R. Verificare su Autostrade per l'Italia prima di partire.",
+          "min": 109,
+          "max": 109,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Parcheggio Forte di Bard",
+          "testo": "0–5 € al giorno; i parcheggi 1, 2 e 3 sono gratuiti, quelli più comodi fino a 5 €. A Cervinia e Champoluc non ho trovato tariffe verificate: assumere un parcheggio a pagamento vicino alle partenze degli impianti.",
+          "min": 0,
+          "max": 5,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (2 notti)",
+          "testo": "Hotel 3 stelle e B&B «da» 28,57–55 € a persona a notte; B&B 65–160 € a notte per due (circa 32,50–80 € a persona). Min/max sono al giorno (2/3 di notte × 3 giorni = 2 notti).",
+          "min": 19,
+          "max": 53,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti (pranzo e cena)",
+          "testo": "Circa 15–20 € in un locale economico, 25–40 € con bevande in una trattoria di fascia media, da 50 € in un ristorante di alto livello (stime di Sluurpy per Cervinia). Pranzo 15–40 €, cena 15–50 € a persona: 30–90 € al giorno.",
+          "min": 30,
+          "max": 90,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Forte di Bard",
+          "testo": "15 € il biglietto intero, 24 € con All Forte; gratuito fino a 18 anni.",
+          "min": 15,
+          "max": 24,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Castello di Fénis",
+          "testo": "10 € intero, 7 € ridotto.",
+          "min": 7,
+          "max": 10,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Altri castelli (facoltativi)",
+          "testo": "Castello di Issogne 10 €, Castello di Verrès 6 €: da aggiungere solo se si ha tempo, si trovano sulla stessa linea di Fénis.",
+          "min": 0,
+          "max": 16,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Impianti Cervinia–Plateau Rosà",
+          "testo": "57 € A/R in estate (4 maggio–6 settembre 2026); in inverno skipass giornaliero 63–65 €. Si paga una sola delle due formule. Altre risalite estive (solo testo): Stafal–Gabiet 11 €, Gabiet–Passo dei Salati 13 €, Salati–Indren 20 €; Champoluc–Crest 11 €, Crest–Ostafa 13 €.",
+          "min": 57,
+          "max": 65,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "Carburante, pedaggi stimati e parcheggio sono della vettura e si dividono per due; alloggio, pasti, ingressi e impianti sono a persona.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Forte di Bard: uscite A5 Pont-Saint-Martin (6 km) o Verrès (9 km); parcheggio da 0 a 5 € al giorno, i parcheggi 1-3 sono gratuiti. Le tre valli laterali sono strade di montagna: da novembre ad aprile mettere in conto neve e catene o pneumatici invernali."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Forte di Bard chiuso il lunedì; martedì-venerdì 10-18, sabato-domenica 10-19. Castello di Fénis 9-19, chiuso il lunedì salvo luglio-agosto e festivi. Cervinia–Plateau Rosà in estate solo dal 4 maggio al 6 settembre 2026."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Prenotare con anticipo l'alloggio a Cervinia e Champoluc nelle settimane di Natale, Carnevale e ad agosto. Forte di Bard e Fénis non richiedono prenotazione nei giorni feriali, ma verificare orari e giorni di chiusura sul sito prima di partire."
+        }
+      ],
+      "note": "L'ordine dei giorni conta: il Forte di Bard va messo al primo giorno perché è proprio all'ingresso della valle e chiude il lunedì, mentre il Castello di Fénis sta sulla via del ritorno e fa da cuscinetto prima delle quattro ore di guida. Per i pasti, in quota il rifugio vale più della trattoria di paese quando c'è il sole, ma i prezzi qui riportati sono stime di una guida e di un articolo del 2015 (menu turistico 15 €, menu completo 25 € in una trattoria valdostana) e vanno verificati. Se si è a Champoluc il lunedì, spostare Fénis al giorno 3 solo da luglio ad agosto.",
+      "fonti": [
+        "https://www.bed-and-breakfast.it/en/budget-bb-gressoney-la-trinite",
+        "https://www.yesalps.com/en/italy/aosta-valley/3-star-hotels.html",
+        "https://www.yesalps.com/en/italy/aosta-valley/monte-rosa-rooms-lodging.html",
+        "https://www.fortedibard.it/en/tickets-prices/",
+        "https://www.fortedibard.it/en/?p=5451",
+        "https://lovevda.it/Media/LovevdaResp/Allegati-PDF/Castelli%20ITA%20dal%201%C2%B0%20aprile%202026-1.pdf",
+        "https://www.lovevda.it/Media/LovevdaResp/Allegati-PDF/IMPIANTI%20RISALITA%20ESTATE%202026_EN.pdf",
+        "https://www.sportoutdoor24.it/viaggi/dove-sciare/cervinia-sci",
+        "https://www.sluurpy.it/breuil-cervinia/ristorante",
+        "https://www.scattidigusto.it/trattoria-omens-ottimo-rapporto-qualita-prezzo",
+        "https://www.rome2rio.com/it/s/Firenze/Pont-Saint-Martin-Italia"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 45.83,
+        "lon": 7.73
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Il Forte di Bard (gratuito fino a 18 anni) e le funivie piacciono a un bimbo di 4 anni, ma le quattro ore di auto di andata e di ritorno e la salita in quota al Plateau Rosà sono impegnative."
       }
     },
     {
@@ -57328,6 +59262,171 @@
       "bambini": {
         "adatta": "parziale",
         "nota": "Spiagge e saline piacciono, ma con un bimbo di 4 anni pesano le 15 ore di viaggio con scalo, i tre voli interni e gli aluguer affollati senza seggiolini; la salamoia di Pedra de Lume brucia negli occhi."
+      }
+    },
+    {
+      "id": "carelia-finlandese-e-savo-7g",
+      "nome": "Carelia finlandese e Savo: Lappeenranta, Imatra, Joensuu, il Parco di Koli, Kuopio e Varkaus",
+      "sottotitolo": "Finlandia orientale, giro in auto della Regione dei Laghi tra Saimaa, Pielinen e Kallavesi",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Tram T2 fino a Peretola e volo diretto Finnair Firenze–Helsinki (Embraer 190, stagionale: dal 2 aprile a fine ottobre il giovedì e la domenica, da giugno ad agosto anche martedì e venerdì). All'aeroporto di Helsinki-Vantaa si ritira un'auto a noleggio e si fa un anello Helsinki–Lappeenranta–Imatra–Joensuu–Koli–Kuopio–Varkaus–Helsinki, riconsegnandola dove la si è presa. Con le date dei voli, il giro di 7 giorni torna solo in giugno-agosto, da venerdì a giovedì.",
+      "mezzoCategoria": "misto",
+      "durataViaggioTesto": "Circa 8 ore porta a porta fino a Lappeenranta: tram T2, volo diretto di 3h10, ritiro dell'auto e 224 km (circa 2h30) da Helsinki. In Finlandia l'orologio è un'ora avanti rispetto all'Italia.",
+      "durataViaggioMinuti": 480,
+      "periodoMiglioreTesto": "Da giugno ad agosto: il volo diretto è più frequente (quattro a settimana), le rapide di Imatra si aprono ogni pomeriggio d'estate e Lappeenranta ha il suo parco di sculture di sabbia. Settembre resta possibile, ma i voli sono solo giovedì e domenica, quindi il viaggio diventa di 4 o 8 giorni. Da novembre a marzo non ci sono voli diretti, le giornate sono buie e le strade innevate.",
+      "mesi": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "mesiDaEvitare": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costoMin": 997,
+      "costoMax": 2017,
+      "costoNota": "Prezzi già in euro. Il chilometraggio è la somma delle tappe indicate dagli itinerari VisitKarelia/GoSaimaa (721 km verificati), più i tratti Joensuu–Koli, Koli–Kuopio e Mikkeli–Helsinki, stimati. Gli ingressi sono una fascia media dei musei finlandesi, non i prezzi verificati di ogni sito. Il noleggio pesa molto sulla forbice: la cifra bassa vale per un'utilitaria prenotata presto.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 2,
+      "percheDurata": "Le sei tappe sono distanti tra loro: tra Helsinki e Lappeenranta ci sono 224 km, tra Imatra e Joensuu, passando per Punkaharju, quasi 280, e Kuopio–Varkaus–Mikkeli ne fa 182. In tutto il giro supera i 1.100 km. Con un giorno di guida e uno di sosta si dedicano una giornata piena a Lappeenranta con Imatra, una al Parco di Koli e una a Kuopio, senza fare più di 3-4 ore d'auto al giorno salvo l'ultimo. In meno giorni si salterebbe Koli, che è il motivo del viaggio. In più giorni si aggiungerebbero Savonlinna e Nurmes, che però vanno oltre la meta.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1: volo diretto Firenze–Helsinki, ritiro dell'auto a Vantaa e 224 km (circa 2h30) fino a Lappeenranta. Si cena al porto sul lago Saimaa. In città si mangia la vety, il panino caldo con frittata e carne che è lo spuntino locale. Si dorme a Lappeenranta."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: al mattino la fortezza di Lappeenranta, il borgo militare del Settecento sopra il porto, dove servono un paio d'ore a piedi. D'estate c'è anche il parco di sculture di sabbia, con un tema nuovo ogni anno, e c'è una crociera di 90 minuti tra le isole. Per pranzo una deviazione a Lemi per la särä, l'agnello cotto lentamente su una tavola di legno (al Säräpirtti Kippurasarvi, su prenotazione). Poi si guidano 36 km fino a Imatra per lo spettacolo delle rapide di Imatrankoski: d'estate alle 18 si aprono le chiuse e per circa 15 minuti il fiume Vuoksi torna a scorrere impetuoso. Si dorme a Imatra."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: giornata di strada panoramica. Prima il parco di sculture di Parikkala, poi la cresta morenica di Punkaharju tra due laghi (92 km da Imatra). Si prosegue per Heinävesi, dove si visita il monastero ortodosso di Valamo, e si arriva a Joensuu (187 km da Punkaharju). In serata il quartiere artigiano di Taitokortteli, in case di legno. Si dorme a Joensuu."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: mattina al mercato di Joensuu, poi circa un'ora e mezza d'auto verso nord fino al Parco nazionale di Koli, a ingresso libero. Si sale all'Ukko-Koli per il panorama sul lago Pielinen e le sue isole, quello che ha fatto da modello al paesaggio nazionale finlandese. Nel pomeriggio il sentiero verso il Pirunkirkko (la Chiesa del Diavolo, una fenditura nella roccia) e le cascate. Cena al Kolin Satamatupa, sul porto (meglio prenotare). Si dorme a Koli."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: un'altra mattina a Koli. Si va all'altura di Ryläys, oppure d'estate si prende il traghetto per Vuonislahti e si visitano la chiesa e l'atelier di Eva Ryynänen a Paateri. Poi si scende in auto verso Kuopio. Al tramonto si sale alla torre di Puijo, la cui cima è a 224 m sul livello del mare, con il lago Kallavesi a 360°. Si dorme a Kuopio."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: a Kuopio il mercato coperto e la piazza del mercato, dove si assaggia il kalakukko savoiardo (pesce cotto dentro una pagnotta di segale). Se è il giorno giusto si fa la sauna a fumo di Jätkänkämppä a Rauhalahti. Poi si va a Varkaus per il Museo della Musica Meccanica, con organetti, pianole e automi funzionanti, e si prosegue per Mikkeli: da Kuopio sono 182 km. Da Mikkeli si scende a Helsinki. È la tappa più lunga del giro, con più di 5 ore di guida. Si dorme vicino all'aeroporto di Vantaa."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: riconsegna dell'auto e volo diretto Helsinki–Firenze. L'orario visto sui comparatori è alle 7:00, con arrivo a Peretola alle 9:10. Se il volo è nel pomeriggio, si recupera la mattina a Helsinki."
+        }
+      ],
+      "alloggio": "Hotel 3 stelle e camere doppie di fascia media: 75–140 € a notte per una doppia secondo le guide di budget 2026, fino a 95–170 € negli hotel economici in alta stagione (6 notti, quindi 225–510 € a persona in due). A Lappeenranta conviene dormire vicino al porto e alla fortezza. A Imatra la scelta più scenografica è l'area delle rapide, a Joensuu il centro vicino al mercato. A Koli ci sono il Break Sokos Hotel Koli in cima al colle o i cottage di Kolin Kylä. A Kuopio va bene il centro, per esempio lo Scandic Kuopio sul porto; per l'ultima notte si dorme a Vantaa. In estate prenotare presto Koli, che ha pochi posti letto.",
+      "costiDettaglio": [
+        {
+          "voce": "Volo diretto Firenze–Helsinki A/R",
+          "testo": "Finnair diretto, 3h10: tariffe A/R da 311 € (economy standard) a 552 € a persona secondo Kayak. Con scalo ad Amsterdam o Parigi si spende meno, ma si perde mezza giornata.",
+          "min": 311,
+          "max": 552,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Tram T2 per Peretola",
+          "testo": "Tram T2 Firenze–aeroporto, 3,40 € andata e ritorno.",
+          "min": 3.4,
+          "max": 3.4,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto (6 giorni)",
+          "testo": "Ritiro e riconsegna a Helsinki-Vantaa: da 45 € al giorno per un'utilitaria (270 €) fino a 130 € al giorno in alta stagione (780 €).",
+          "min": 270,
+          "max": 780,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Carburante",
+          "testo": "1.150–1.300 km × 6,5 l/100 km × 1,80 €/l, il prezzo indicativo della benzina in Finlandia: 135–152 € per l'auto.",
+          "min": 135,
+          "max": 152,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio (6 notti)",
+          "testo": "75–170 € a notte per una doppia, quindi 37,50–85 € a persona a notte, per 6 notti.",
+          "min": 225,
+          "max": 510,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Lounas (buffet del pranzo nei feriali) 12–18 €, cena in un ristorante semplice o di fascia media 18–40 € a persona.",
+          "min": 30,
+          "max": 58,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Ingressi",
+          "testo": "Il Parco di Koli e la fortezza di Lappeenranta all'aperto sono gratuiti. Per 3-4 ingressi (torre di Puijo, mostra del centro Ukko a Koli, un museo della fortezza, Museo della Musica Meccanica a Varkaus) si conta la fascia media dei musei finlandesi, 15–20 € l'uno.",
+          "min": 45,
+          "max": 80,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        }
+      ],
+      "ripartizione": "A persona: volo, tram, alloggio (metà della doppia), pasti e ingressi. Della vettura, da dividere per due: noleggio e carburante.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "Il volo diretto Finnair è solo stagionale: da aprile a fine ottobre 2026, e per il 2027 Finnair indica marzo–ottobre. Parte il giovedì e la domenica, da giugno ad agosto anche martedì e venerdì. Senza auto Koli e Varkaus sono molto scomodi: il treno arriva a Joensuu e Kuopio, ma non al parco."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Lo spettacolo delle rapide di Imatrankoski e il parco delle sculture di sabbia di Lappeenranta ci sono solo d'estate. Le rapide si aprono nel pomeriggio, alle 18, per circa 15 minuti. Fuori stagione restano solo il letto asciutto del fiume e la fortezza."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "Al Säräpirtti di Lemi la särä si mangia solo su prenotazione. Al Kolin Satamatupa e alla Teehouse di Wehmais conviene prenotare. Le visite guidate alla fortezza di Lappeenranta sono organizzate da Saimaa Travel. Il noleggio va bloccato insieme al volo, perché d'estate le tariffe salgono."
+        }
+      ],
+      "note": "Il giro è pensato da venerdì a giovedì in estate, l'unica combinazione di voli diretti che fa esattamente 7 giorni. Se il ritorno è alle 7:00 da Helsinki, l'ultima notte va presa a Vantaa. Per spezzare il sesto giorno si può dormire a Varkaus e partire all'alba, ma sono comunque circa 4 ore fino all'aeroporto. Nei giorni feriali conviene pranzare con il lounas: buffet completo con insalate, piatto caldo, pane e caffè a 12–18 €, molto più economico della cena. Koli si vede meglio al tramonto, quando la luce radente scende sul Pielinen. Chi vuole risparmiare un giorno di strada può tornare da Koli a Joensuu e prendere il treno diretto per Helsinki (circa 4h30), ma così salta Kuopio. Varkaus è la tappa più sacrificabile: il museo è curioso, ma se il tempo stringe si scende direttamente da Kuopio.",
+      "fonti": [
+        "https://italiavola.com/2026/04/02/finnair-oggi-opera-il-primo-volo-su-firenze/",
+        "https://www.finnair.com/it-it/destinazioni/europa/italia/firenze",
+        "https://www.kayak.it/voli/Helsinki-Vantaa-HEL/Firenze-Aeroporto-Peretola-FLR",
+        "https://www.visitkarelia.fi/en/lakeland-tours/car-tour-in-eastern-lakeland-finland",
+        "https://www.visitkarelia.fi/en/travel/lakeland-tours/culinary-and-culture/",
+        "https://gosaimaa.com/en/round-tour-top-attractions-in-lakeland/",
+        "https://www.visitfinland.com/en/articles/summer-route-through-arctic-lakeland-and-north-karelia/",
+        "https://www.visitfinland.com/en/articles/summer-route-through-south-saimaa-verla-and-the-finnish-coast/",
+        "https://www.tourlane.de/europa/finnland/reisekosten/",
+        "https://www.travelwithhello.com/blog/finland-travel-budget-guide",
+        "https://www.jetsetteralerts.com/cost-to-visit-finland/"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 62.601,
+        "lon": 29.763
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Più di 1.100 km d'auto pesano su un bimbo di 4 anni. Rapide, sabbia, laghi e sentieri brevi a Koli però gli piacciono, quindi conviene spezzare le tappe lunghe."
       }
     },
     {
@@ -81872,6 +83971,190 @@
       "bambini": {
         "adatta": "si",
         "nota": "Distanze brevi e cale riparate con acqua bassa vanno bene con un bimbo di 4 anni; meglio scegliere Cala Galdana o Son Bou, perché Macarella e Pregonda chiedono 20–30 minuti di cammino al sole."
+      }
+    },
+    {
+      "id": "moldavia-romena-e-bucovina-7g",
+      "nome": "Moldavia romena e Bucovina: Iași, Piatra Neamț, le gole del Bicaz, i monasteri di Voroneț, Sucevița e Moldovița e Suceava",
+      "sottotitolo": "Romania nord-orientale, un anello in auto da Iași tra i monasteri dipinti UNESCO della Bucovina, le cittadelle di Ștefan cel Mare e i Carpazi Orientali",
+      "durataGiorni": 7,
+      "mezzoConsigliato": "Treno Firenze–Bologna Centrale, Marconi Express fino all'aeroporto e volo diretto Wizz Air Bologna–Iași (unica compagnia sulla rotta, 2 voli a settimana, mercoledì e domenica, circa 2h15). A Iași si ritira un'auto a noleggio in aeroporto (a circa 5 km dal centro) e si fa l'anello Iași–Suceava–Gura Humorului–Târgu Neamț–Piatra Neamț–Bicaz–Iași. Con i giorni di volo la settimana tipo è da mercoledì a mercoledì (7 notti). Alternativa da verificare: dal 23 maggio 2026 Wizz Air vola anche Pisa–Iași, martedì e sabato.",
+      "mezzoCategoria": "volo",
+      "durataViaggioTesto": "Circa 5h45 porta a porta: 40 minuti di treno fino a Bologna, Marconi Express, 2 ore in aeroporto e 2h15 di volo fino a Iași, più il ritiro dell'auto. In Romania l'orologio va avanti di un'ora.",
+      "durataViaggioMinuti": 345,
+      "periodoMiglioreTesto": "Da maggio a ottobre: giornate lunghe, strade di montagna (passo Ciumârna, gole del Bicaz) senza neve, gli affreschi esterni si vedono con la luce giusta e le pensioni rurali sono tutte aperte. Settembre e inizio ottobre uniscono i colori dei faggi a prezzi più bassi del picco di luglio-agosto. Da dicembre a febbraio servono gomme invernali, le giornate sono corte e i voli costano di più (mediana A/R di febbraio 355 € secondo Kayak, contro i 93 € di marzo).",
+      "mesi": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "mesiDaEvitare": [
+        12,
+        1,
+        2
+      ],
+      "costoMin": 492,
+      "costoMax": 1120,
+      "costoNota": "Prezzi romeni convertiti al cambio BCE del 19/11/2026 (1 € = 5,3473 lei). Carburante calcolato su circa 850–1.050 km di percorso stimato, 6,5 l/100 km e benzina a 9,18 lei/l (≈1,72 €/l, media del 20/11/2026). Volo senza bagaglio da stiva.",
+      "dipendenzaAuto": "noleggio-obbligatorio",
+      "pertinenzaStimata": 3,
+      "percheDurata": "I monasteri dipinti sono sparsi su colline e valli a 20–60 km l'uno dall'altro, su strade statali lente: si vedono con calma due o tre al giorno, non di più. Da Iași a Suceava ci sono circa due ore e mezza di guida e altrettante da Gura Humorului a Piatra Neamț, quindi servono tre basi: Iași (2 notti), Gura Humorului (3 notti, al centro dei monasteri) e Piatra Neamț. Sette giorni bastano per Iași a piedi, tutti i grandi monasteri, le cittadelle di Suceava e Neamț e una giornata intera tra il lago di Bicaz, le gole e il Lacu Roșu, senza mai superare le 3 ore di guida al giorno.",
+      "cosaVedere": null,
+      "itinerario": [
+        {
+          "giorno": 1,
+          "testo": "Giorno 1 (mercoledì): treno all'alba per Bologna e volo Wizz Air per Iași; ritiro dell'auto in aeroporto e check-in in centro. Pomeriggio a piedi lungo il Bulevardul Ștefan cel Mare: la chiesa dei Trei Ierarhi, con la facciata in pietra scolpita fitta come un ricamo, la Mitropolia e il Palatul Culturii neogotico in fondo al viale. Cena in una berărie del centro con ciorbă e sarmale."
+        },
+        {
+          "giorno": 2,
+          "testo": "Giorno 2: Iași con calma. Mattina dentro il Palatul Culturii (quattro musei sotto un solo tetto), poi il monastero fortificato di Golia, a 10 minuti a piedi. Pomeriggio sulla collina di Copou: il parco con il tiglio di Eminescu, il palazzo dell'Università Cuza con la Sala dei Passi Perduti affrescata e, per chi legge romeno o ama le fiabe, la Bojdeuca di Creangă. Sera al Palas, il quartiere pedonale dietro il Palazzo."
+        },
+        {
+          "giorno": 3,
+          "testo": "Giorno 3: Iași → Suceava (circa 145 km, 2h30). Cetatea de Scaun, la reggia-fortezza di Ștefan cel Mare restaurata, e accanto il Muzeul Satului Bucovinean con le case di legno dei villaggi; poi il monastero di San Giovanni Nuovo, sede metropolitana della Bucovina. Nel tardo pomeriggio 36 km fino a Gura Humorului, base per tre notti in pensione."
+        },
+        {
+          "giorno": 4,
+          "testo": "Giorno 4: i monasteri vicini. Di mattina presto Voroneț, a 5 km, prima dei pullman: il Giudizio Universale sulla facciata ovest e il famoso blu di Voroneț. Poi Humor, con il portico aperto e l'Assedio di Costantinopoli, e Arbore, più piccolo e senza folla, dove si leggono gli affreschi da vicino. Rientro passando dal museo delle uova dipinte di Vama."
+        },
+        {
+          "giorno": 5,
+          "testo": "Giorno 5: il grande anello. Moldovița, dentro le mura di un recinto fortificato, poi il passo di Ciumârna tra i boschi fino a Sucevița, il più grande e il più verde dei monasteri dipinti, con la Scala delle Virtù sulla parete nord. Proseguimento per Putna, dove è sepolto Ștefan cel Mare, e ritorno via Marginea, il villaggio della ceramica nera, dove si vedono i vasai al tornio."
+        },
+        {
+          "giorno": 6,
+          "testo": "Giorno 6: Gura Humorului → Târgu Neamț → Piatra Neamț (circa 140 km). Cetatea Neamțului sulla collina, la casa-museo di Ion Creangă a Humulești e il monastero di Agapia, con gli affreschi interni del giovane Nicolae Grigorescu e il villaggio delle monache tutt'intorno. Arrivo a Piatra Neamț per la cena e una passeggiata nella piazza di Ștefan cel Mare con la torre campanaria del 1499."
+        },
+        {
+          "giorno": 7,
+          "testo": "Giorno 7: i Carpazi. Da Piatra Neamț si risale il lago artificiale di Izvorul Muntelui fino alla diga di Bicaz, poi la DN12C entra nelle gole del Bicaz, pareti di calcare a pochi metri dall'asfalto, fino al Lacu Roșu con i tronchi pietrificati che spuntano dall'acqua (giro in barca a remi). Rientro a Iași in serata (circa 130 km da Piatra Neamț) per l'ultima notte; la mattina dopo riconsegna dell'auto e volo per Bologna."
+        }
+      ],
+      "alloggio": "Fasce verificate: pensione rurale 25–40 € a notte per la doppia, spesso con cena casalinga inclusa; hotel 3 stelle 55–95 € (Romanian Friend, 2026); pensiuni 80–150 lei a persona con colazione (Best Travel Scout, aprile 2026). Su Booking le pensioni dell'area di Sucevița partono da circa 32–62 $ a notte per due, gli hotel di Suceava da 42–82 $. In pratica si spende 30–80 € a notte per due. Dove dormire: a Iași in centro, tra Copou e il Palas, per fare tutto a piedi; in Bucovina a Gura Humorului, a 5 km da Voroneț e a metà strada tra Humor e Moldovița, oppure in una pensione a Sucevița se si vuole il silenzio; a Piatra Neamț in centro, comodo per partire presto verso Bicaz. Molte pensioni bucovinene offrono la mezza pensione: conviene, perché la sera nei villaggi i ristoranti aperti sono pochi.",
+      "costiDettaglio": [
+        {
+          "voce": "Treno Firenze–Bologna A/R",
+          "testo": "20–50 € a persona tra Regionale e Frecce, secondo i parametri del documento.",
+          "min": 20,
+          "max": 50,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Marconi Express A/R",
+          "testo": "23,20 € a persona andata e ritorno tra Bologna Centrale e l'aeroporto.",
+          "min": 23.2,
+          "max": 23.2,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Volo Wizz Air Bologna–Iași A/R",
+          "testo": "Fascia tipica 96–255 € A/R su Kayak (media dei diretti 122 €; il mercoledì costa in media 102 €, la domenica 245 €). Solo bagaglio piccolo.",
+          "min": 96,
+          "max": 255,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Noleggio auto 7 giorni",
+          "testo": "Utilitaria da Iași: 12 €/giorno in bassa stagione, 22 €/giorno in primavera e autunno, 35 €/giorno a luglio-agosto; 175–280 € a settimana secondo un'altra guida 2026. Esclusa la riduzione della franchigia (SCDW 8–15 €/giorno).",
+          "min": 154,
+          "max": 280,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Rovinietă 10 giorni",
+          "testo": "30 lei (circa 5,61 €), vignetta elettronica obbligatoria sulle strade nazionali; da comprare online su portale ufficiale se il noleggiatore non la include.",
+          "min": 6,
+          "max": 6,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Benzina",
+          "testo": "Circa 850–1.050 km in tutto × 6,5 l/100 km × 1,72 €/l (9,18 lei/l, media nazionale del 20/11/2026): 95–117 €.",
+          "min": 95,
+          "max": 117,
+          "tipo": "vettura",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Ingressi ai monasteri",
+          "testo": "10–20 lei a monastero; con Voroneț, Humor, Arbore, Moldovița, Sucevița, Putna, Agapia e Neamț sono 80–160 lei (15–30 €). Le cittadelle e i musei di Iași si pagano a parte.",
+          "min": 15,
+          "max": 30,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": false
+        },
+        {
+          "voce": "Alloggio",
+          "testo": "30–80 € a notte per una doppia in pensione o hotel 3 stelle, cioè 15–40 € a persona.",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        },
+        {
+          "voce": "Pasti",
+          "testo": "Pranzo con menu del giorno 5–9 € o in ristorante popolare 8–14 €; cena di fascia media 14–26 €. In tutto 15–40 € al giorno a persona.",
+          "min": 15,
+          "max": 40,
+          "tipo": "persona",
+          "confronto": false,
+          "perGiorno": true
+        }
+      ],
+      "ripartizione": "A persona: treno, Marconi Express, volo, ingressi, alloggio (la doppia divisa per due) e pasti. Della vettura, da dividere per due: noleggio, rovinietă e benzina. Il parcheggio negli hotel e nelle pensioni di solito è compreso; nei centri di Iași e Suceava è a pagamento a ore, cifra non verificata.",
+      "vincoli": [
+        {
+          "categoria": "accessi",
+          "testo": "La rovinietă è obbligatoria su quasi tutto il percorso (strade DN): costa 30 lei per 10 giorni e senza si rischiano 456–1.320 lei di multa, rilevata anche dalle telecamere. Dal 1° novembre al 31 marzo servono gomme invernali; la DN12C delle gole del Bicaz è stretta, con rocce a sbalzo e soste brevi."
+        },
+        {
+          "categoria": "chiusure",
+          "testo": "Il Bologna–Iași vola solo mercoledì e domenica: la settimana va da mercoledì a mercoledì. I monasteri sono comunità attive: durante le funzioni (soprattutto domenica mattina) le chiese si visitano solo in silenzio, e servono spalle e gambe coperte (per le donne è gradita la gonna, spesso prestata all'ingresso)."
+        },
+        {
+          "categoria": "prenotazioni",
+          "testo": "L'auto va prenotata in anticipo con ritiro all'aeroporto di Iași, uno dei quattro scali romeni con un'offerta di noleggio ampia. Si lascia un deposito e la franchigia standard è di circa 800–1.500 €: conviene la copertura a franchigia zero, perché le strade di campagna hanno buche. Età minima 21 anni."
+        }
+      ],
+      "note": "Arrivate a Voroneț verso le 8:30: i pullman delle gite da Iași arrivano a metà mattina e il cortile si riempie. Gli affreschi esterni più leggibili sono quelli sui lati sud e ovest, quindi la luce migliore è nel pomeriggio a Sucevița e Moldovița, al mattino a Voroneț. Sul passo di Ciumârna, tra Moldovița e Sucevița, c'è una piazzola con una vista sui boschi che vale la sosta. Le pensioni della Bucovina servono spesso la cena con ciorbă, tocăniță e papanași: con la mezza pensione si evita di cercare un ristorante nei villaggi la sera. Per il Lacu Roșu partite presto da Piatra Neamț: le gole sono in ombra già dal primo pomeriggio. Rispetto alla scheda «Romania: Bucovina, Maramureș e Delta del Danubio», questa rinuncia a Maramureș e Delta per vedere con calma Iași, Neamț e il Bicaz senza tratte di 5–6 ore. Chi parte da Pisa può valutare il Pisa–Iași di Wizz Air (dal 23 maggio 2026, martedì e sabato), prezzi da verificare.",
+      "fonti": [
+        "https://www.kayak.it/voli/Bologna-Aeroporto-Guglielmo-Marconi-BLQ/Iasi-IAS",
+        "https://www.lanazione.it/pisa/cronaca/wizz-air-nuovo-collegamento-diretto-pisa-iasi-cx4x2dcm",
+        "https://www.booking.com/accommodation/region/ro/bucovina.html",
+        "https://www.booking.com/guest-house/city/ro/sucevita.html",
+        "https://www.romanianfriend.com/blog/romania-budget-travel-costs",
+        "https://besttravelscout.com/budget-travel/romania/",
+        "https://besttravelscout.com/car-rental/romania/",
+        "https://farguides.com/en/blog/presupuesto-rumania/",
+        "https://www.fuel-prices.eu/Romania/",
+        "https://autovig.eu/en/vignette-romania/",
+        "https://www.expedia.com/things-to-do/day-trip-from-iasi-to-the-unesco-painted-monasteries-in-bucovina.a2069948.activity-details",
+        "https://rolandia.eu/en/trips/six-days-self-drive-trip-from-iasi-to-bucovina-and-neamt-county"
+      ],
+      "aggiuntaIl": "2026-11-21",
+      "coordinate": {
+        "lat": 47.553,
+        "lon": 25.887
+      },
+      "bambini": {
+        "adatta": "parziale",
+        "nota": "Con un bimbo di 4 anni sono pesanti le 2–3 ore d'auto al giorno e le chiese da visitare in silenzio; piacciono il museo del villaggio di Suceava, le barche sul Lacu Roșu e i vasai di Marginea."
       }
     },
     {
